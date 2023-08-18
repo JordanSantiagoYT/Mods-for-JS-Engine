@@ -1,0 +1,303 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "dad",
+		"events": [],
+		"notes": [
+			{
+				"sectionBeats": 4,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						0,
+						2,
+						187.5
+					],
+					[
+						495.867768595041,
+						3,
+						123.96694214876
+					],
+					[
+						309.917355371901,
+						1,
+						0
+					],
+					[
+						805.785123966942,
+						2,
+						0
+					],
+					[
+						991.735537190083,
+						1,
+						0
+					],
+					[
+						1115.70247933884,
+						3,
+						0
+					],
+					[
+						1239.6694214876,
+						0,
+						0
+					],
+					[
+						1487.60330578512,
+						1,
+						0
+					],
+					[
+						1487.60330578512,
+						2,
+						123.96694214876
+					],
+					[
+						1735.53719008264,
+						3,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 573,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						2066.11570247934,
+						1,
+						0
+					],
+					[
+						2293.38842975207,
+						3,
+						123.96694214876
+					],
+					[
+						2603.30578512397,
+						0,
+						123.96694214876
+					],
+					[
+						2727.27272727273,
+						2,
+						0
+					],
+					[
+						2975.20661157025,
+						3,
+						0
+					],
+					[
+						3099.17355371901,
+						1,
+						0
+					],
+					[
+						3347.10743801653,
+						2,
+						123.96694214876
+					],
+					[
+						3533.05785123967,
+						3,
+						0
+					],
+					[
+						3719.00826446281,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						3966.94214876033,
+						0,
+						123.96694214876
+					],
+					[
+						4276.85950413223,
+						2,
+						247.933884297521
+					],
+					[
+						4400.82644628099,
+						0,
+						0
+					],
+					[
+						4648.76033057851,
+						3,
+						0
+					],
+					[
+						5144.62809917355,
+						0,
+						0
+					],
+					[
+						4834.71074380165,
+						1,
+						0
+					],
+					[
+						4896.69421487603,
+						2,
+						0
+					],
+					[
+						5268.59504132231,
+						2,
+						0
+					],
+					[
+						5392.56198347107,
+						1,
+						0
+					],
+					[
+						5516.52892561983,
+						3,
+						0
+					],
+					[
+						5578.51239669421,
+						2,
+						0
+					],
+					[
+						5702.47933884298,
+						0,
+						0
+					],
+					[
+						5888.42975206612,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						6136.36363636364,
+						3,
+						123.96694214876
+					],
+					[
+						6322.31404958678,
+						2,
+						0
+					],
+					[
+						6570.2479338843,
+						0,
+						123.96694214876
+					],
+					[
+						6570.2479338843,
+						1,
+						123.96694214876
+					],
+					[
+						7004.13223140496,
+						2,
+						0
+					],
+					[
+						7004.13223140496,
+						3,
+						0
+					],
+					[
+						7004.13223140496,
+						1,
+						0
+					],
+					[
+						7004.13223140496,
+						0,
+						0
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 400,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 400
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 400,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 400
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 400,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"gfVersion": "gf",
+		"player3": null,
+		"splashSkin": "noteSplashes",
+		"song": "A dead body!",
+		"stage": "stage",
+		"validScore": true,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"speed": 4.6,
+		"bpm": 121
+	}
+}

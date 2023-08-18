@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				31
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ashes Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ashes Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ashes Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ashes Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ashes Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				93
+			],
+			"anim": "Death",
+			"fps": 24,
+			"name": "Ashes Death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/player",
+	"position": [
+		-90,
+		380
+	],
+	"healthicon": "player",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		80,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

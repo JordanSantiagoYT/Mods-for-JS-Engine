@@ -1,0 +1,5 @@
+note types only use first 4 colors on xml
+so im using multiple xmls and changing the name to match properly
+
+if you add a note type with a different sprite for all 9 colors, you gotta do the same thing unfortunately
+most will be fine though

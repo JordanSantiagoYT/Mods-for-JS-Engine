@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="friday night funkin vs the boss assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="The Boss Sing note DOWN0000" x="0" y="0" width="487" height="677" frameX="-1" frameY="-34" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0001" x="0" y="0" width="487" height="677" frameX="-1" frameY="-34" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0002" x="487" y="0" width="491" height="706" frameX="0" frameY="-5" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0003" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0004" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0005" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0006" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0007" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0008" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0009" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0010" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0011" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0012" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0013" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0014" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0015" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0016" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0017" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note DOWN0018" x="978" y="0" width="487" height="711" frameX="0" frameY="0" frameWidth="491" frameHeight="711"/>
+	<SubTexture name="The Boss Sing note LEFT0000" x="1465" y="0" width="502" height="757" frameX="0" frameY="-2" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0001" x="1465" y="0" width="502" height="757" frameX="0" frameY="-2" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0002" x="1967" y="0" width="473" height="759" frameX="-40" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0003" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0004" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0005" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0006" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0007" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0008" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0009" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0010" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0011" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0012" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0013" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0014" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0015" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0016" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0017" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note LEFT0018" x="2440" y="0" width="471" height="759" frameX="-47" frameY="0" frameWidth="518" frameHeight="759"/>
+	<SubTexture name="The Boss Sing note RIGHT0000" x="2911" y="0" width="447" height="715" frameX="-2" frameY="-3" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0001" x="2911" y="0" width="447" height="715" frameX="-2" frameY="-3" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0002" x="3358" y="0" width="454" height="718" frameX="-5" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0003" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0004" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0005" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0006" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0007" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0008" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0009" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0010" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0011" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0012" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0013" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0014" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0015" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0016" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0017" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note RIGHT0018" x="0" y="759" width="456" height="718" frameX="0" frameY="0" frameWidth="459" frameHeight="718"/>
+	<SubTexture name="The Boss Sing note UP0000" x="456" y="759" width="427" height="791" frameX="-8" frameY="-8" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0001" x="456" y="759" width="427" height="791" frameX="-8" frameY="-8" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0002" x="883" y="759" width="419" height="799" frameX="-12" frameY="0" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0003" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0004" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0005" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0006" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0007" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0008" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0009" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0010" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0011" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0012" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0013" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0014" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0015" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0016" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0017" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss Sing note UP0018" x="1302" y="759" width="431" height="786" frameX="0" frameY="-13" frameWidth="435" frameHeight="799"/>
+	<SubTexture name="The Boss idle dance0000" x="1733" y="759" width="472" height="756" frameX="0" frameY="-30" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0001" x="2205" y="759" width="452" height="766" frameX="-13" frameY="-20" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0002" x="2657" y="759" width="447" height="775" frameX="-11" frameY="-11" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0003" x="3104" y="759" width="445" height="777" frameX="-13" frameY="-9" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0004" x="3549" y="759" width="443" height="779" frameX="-15" frameY="-7" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0005" x="0" y="1558" width="442" height="781" frameX="-15" frameY="-5" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0006" x="442" y="1558" width="442" height="784" frameX="-15" frameY="-2" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0007" x="884" y="1558" width="441" height="785" frameX="-15" frameY="-1" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0008" x="1325" y="1558" width="441" height="786" frameX="-15" frameY="0" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0009" x="1766" y="1558" width="440" height="786" frameX="-15" frameY="0" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0010" x="2206" y="1558" width="440" height="786" frameX="-15" frameY="0" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0011" x="2206" y="1558" width="440" height="786" frameX="-15" frameY="0" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0012" x="2206" y="1558" width="440" height="786" frameX="-15" frameY="0" frameWidth="472" frameHeight="786"/>
+	<SubTexture name="The Boss idle dance0013" x="2206" y="1558" width="440" height="786" frameX="-15" frameY="0" frameWidth="472" frameHeight="786"/>
+</TextureAtlas>

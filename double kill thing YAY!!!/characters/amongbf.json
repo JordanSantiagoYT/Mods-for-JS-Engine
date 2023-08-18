@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-14,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				2,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-44,
+				125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-37,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-19,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "mleft"
+		},
+		{
+			"offsets": [
+				0,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "mdown"
+		},
+		{
+			"offsets": [
+				-45,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "mup"
+		},
+		{
+			"offsets": [
+				-35,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "mright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				105
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dead start",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				161
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				99
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "dead loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				110
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "v",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amongboy",
+	"position": [
+		0,
+		520
+	],
+	"healthicon": "bfcrew",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		70,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

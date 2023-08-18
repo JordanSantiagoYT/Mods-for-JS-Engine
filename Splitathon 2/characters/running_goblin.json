@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-353
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				101,
+				-325
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-188,
+				-330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-188,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-120,
+				-410
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/running_goblin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "running_goblin",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

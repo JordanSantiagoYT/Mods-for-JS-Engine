@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				78
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bob_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				79
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bob_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bob_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bob_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				76
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bob_RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob_asset",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bob",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

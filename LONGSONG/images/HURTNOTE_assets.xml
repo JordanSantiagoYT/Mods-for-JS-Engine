@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HURTNOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="blue0000" x="112" y="4" width="157" height="154"/>
+	
+	<SubTexture name="green hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="green0000" x="434" y="4" width="157" height="154"/>
+
+	<SubTexture name="purple0000" x="4" y="164" width="154" height="157"/>
+	<SubTexture name="purple hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="purple hold piece0000" x="58" y="4" width="50" height="44"/>
+
+	<SubTexture name="red hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="red0000" x="162" y="164" width="154" height="157"/>
+	
+	<SubTexture name="white0000" x="481" y="164" width="152" height="153"/>
+	<SubTexture name="white hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="white hold piece0000" x="58" y="4" width="50" height="44"/>
+
+	<SubTexture name="orange0000" x="481" y="164" width="152" height="153"/>
+	<SubTexture name="orange hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="orange hold piece0000" x="58" y="4" width="50" height="44"/>
+
+	<SubTexture name="violet hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="violet hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="violet0000" x="112" y="4" width="157" height="154"/>
+	
+	<SubTexture name="darkred hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="darkred hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="darkred0000" x="434" y="4" width="157" height="154"/>
+
+	<SubTexture name="yellow0000" x="4" y="164" width="154" height="157"/>
+	<SubTexture name="yellow hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="yellow hold piece0000" x="58" y="4" width="50" height="44"/>
+
+	<SubTexture name="dark hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="dark hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="dark0000" x="162" y="164" width="154" height="157"/>
+
+	<SubTexture name="turq0000" x="320" y="164" width="157" height="152"/>
+		<SubTexture name="turq hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="turq hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="lightred0000" x="595" y="4" width="154" height="156"/>
+		<SubTexture name="lightred hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="lightred hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="pink0000" x="753" y="4" width="154" height="156"/>
+		<SubTexture name="pink hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="pink hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="emerald0000" x="273" y="4" width="157" height="152"/>
+		<SubTexture name="emerald hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="emerald hold piece0000" x="58" y="4" width="50" height="44"/>
+
+	<SubTexture name="darkpurple0000" x="320" y="164" width="157" height="152"/>
+		<SubTexture name="darkpurple hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="darkpurple hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="cobalt0000" x="595" y="4" width="154" height="156"/>
+		<SubTexture name="cobalt hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="cobalt hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="lime0000" x="753" y="4" width="154" height="156"/>
+		<SubTexture name="lime hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="lime hold piece0000" x="58" y="4" width="50" height="44"/>
+	<SubTexture name="darkorange0000" x="273" y="4" width="157" height="152"/>
+		<SubTexture name="darkorange hold end0000" x="4" y="4" width="50" height="64"/>
+	<SubTexture name="darkorange hold piece0000" x="58" y="4" width="50" height="44"/>
+</TextureAtlas>

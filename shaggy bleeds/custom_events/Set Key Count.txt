@@ -1,0 +1,2 @@
+Set the number of keys you want in the song (the actual event does nothing)
+Value 1: Number of keys (1-18)

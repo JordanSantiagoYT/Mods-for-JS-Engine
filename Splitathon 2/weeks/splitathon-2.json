@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Splitathon 2",
+			"daveandbambi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "weekbox",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"spooky",
+		"spooky",
+		"spooky"
+	],
+	"storyName": "splittytitty 2",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

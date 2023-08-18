@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-283
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-255
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-288
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-248
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jorsawsee",
+	"position": [
+		-130,
+		-10
+	],
+	"healthicon": "jorsawsee",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		127,
+		231
+	],
+	"camera_position": [
+		-130,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

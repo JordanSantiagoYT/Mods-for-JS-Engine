@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OppositonExpunged.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OppoExpungedDown0000" x="20" y="20" width="754" height="481" frameX="-17" frameY="-29" frameWidth="771" frameHeight="515"/>
+	<SubTexture name="OppoExpungedDown0001" x="824" y="20" width="738" height="515" frameX="0" frameY="0" frameWidth="771" frameHeight="515"/>
+	<SubTexture name="OppoExpungedIdle0000" x="1612" y="20" width="772" height="744" frameX="0" frameY="0" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0001" x="1612" y="20" width="772" height="744" frameX="0" frameY="0" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0002" x="2434" y="20" width="636" height="611" frameX="-99" frameY="-104" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0003" x="2434" y="20" width="636" height="611" frameX="-99" frameY="-104" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0004" x="3120" y="20" width="547" height="560" frameX="-146" frameY="-165" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0005" x="3120" y="20" width="547" height="560" frameX="-146" frameY="-165" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0006" x="20" y="814" width="576" height="566" frameX="-184" frameY="-156" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0007" x="20" y="814" width="576" height="566" frameX="-184" frameY="-156" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0008" x="646" y="814" width="579" height="569" frameX="-219" frameY="-142" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0009" x="646" y="814" width="579" height="569" frameX="-219" frameY="-142" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0010" x="646" y="814" width="579" height="569" frameX="-219" frameY="-142" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0011" x="646" y="814" width="579" height="569" frameX="-219" frameY="-142" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0012" x="646" y="814" width="579" height="569" frameX="-219" frameY="-142" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedIdle0013" x="646" y="814" width="579" height="569" frameX="-219" frameY="-142" frameWidth="798" frameHeight="744"/>
+	<SubTexture name="OppoExpungedLeft0000" x="1275" y="814" width="623" height="745" frameX="0" frameY="0" frameWidth="649" frameHeight="745"/>
+	<SubTexture name="OppoExpungedLeft0001" x="1948" y="814" width="637" height="693" frameX="-12" frameY="-50" frameWidth="649" frameHeight="745"/>
+	<SubTexture name="OppoExpungedRight0000" x="2635" y="814" width="836" height="542" frameX="-29" frameY="0" frameWidth="865" frameHeight="542"/>
+	<SubTexture name="OppoExpungedRight0001" x="20" y="1609" width="864" height="539" frameX="0" frameY="0" frameWidth="865" frameHeight="542"/>
+	<SubTexture name="OppoExpungedUp0000" x="934" y="1609" width="637" height="644" frameX="0" frameY="0" frameWidth="637" frameHeight="650"/>
+	<SubTexture name="OppoExpungedUp0001" x="1621" y="1609" width="630" height="639" frameX="-5" frameY="-11" frameWidth="637" frameHeight="650"/>
+</TextureAtlas>

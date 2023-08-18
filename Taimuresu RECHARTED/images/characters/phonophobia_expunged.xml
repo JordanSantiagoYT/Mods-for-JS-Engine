@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phonophobia_expunged.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="748" y="692" width="583" height="577"/>
+	<SubTexture name="Right0000" x="1614" y="0" width="832" height="548" frameX="0" frameY="-20" frameWidth="910" frameHeight="588"/>
+	<SubTexture name="Right0001" x="2370" y="627" width="546" height="588" frameX="-364" frameY="0" frameWidth="910" frameHeight="588"/>
+	<SubTexture name="down0000" x="1944" y="1121" width="361" height="604" frameX="-106" frameY="0" frameWidth="614" frameHeight="604"/>
+	<SubTexture name="down0001" x="748" y="1269" width="551" height="521" frameX="0" frameY="-59" frameWidth="614" frameHeight="604"/>
+	<SubTexture name="down0002" x="1331" y="1121" width="613" height="520" frameX="-1" frameY="-64" frameWidth="614" frameHeight="604"/>
+	<SubTexture name="left0000" x="1614" y="548" width="756" height="573" frameX="-196" frameY="-144" frameWidth="952" frameHeight="717"/>
+	<SubTexture name="left0001" x="839" y="0" width="775" height="692" frameX="-133" frameY="0" frameWidth="952" frameHeight="717"/>
+	<SubTexture name="left0002" x="0" y="0" width="839" height="654" frameX="0" frameY="-39" frameWidth="952" frameHeight="717"/>
+	<SubTexture name="up0000" x="3147" y="0" width="522" height="634" frameX="-113" frameY="-35" frameWidth="748" frameHeight="669"/>
+	<SubTexture name="up0001" x="2446" y="0" width="701" height="627" frameX="-24" frameY="-21" frameWidth="748" frameHeight="669"/>
+	<SubTexture name="up0002" x="0" y="654" width="748" height="665" frameX="0" frameY="0" frameWidth="748" frameHeight="669"/>
+</TextureAtlas>

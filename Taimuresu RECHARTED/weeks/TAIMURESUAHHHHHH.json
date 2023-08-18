@@ -1,0 +1,30 @@
+{
+	"storyName": "The Tri-Dimension",
+	"hideFreeplay": false,
+	"weekBackground": "expungeds",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Taimuresu",
+			"OppoExpunged",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Tri-Dimension"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Fish Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Fish Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Fish Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Fish Right Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Fish Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fishyAssets",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "fishy",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		135,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Menu GetReady",
+	"idle_anim": "M RShaggy Idle",
+	"position": [
+		0,
+		20
+	],
+	"scale": 1,
+	"image": "rshaggy"
+}

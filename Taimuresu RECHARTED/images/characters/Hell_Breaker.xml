@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hell_Breaker.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hade Down0000" x="20" y="20" width="770" height="527"/>
+	<SubTexture name="Hade Down0001" x="840" y="20" width="721" height="509" frameX="-35" frameY="-9" frameWidth="770" frameHeight="527"/>
+	<SubTexture name="Hade Idle0000" x="1611" y="20" width="600" height="601" frameX="-34" frameY="-45" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0001" x="2261" y="20" width="603" height="721" frameX="-37" frameY="-19" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0002" x="2914" y="20" width="615" height="699" frameX="-45" frameY="-17" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0003" x="20" y="791" width="628" height="707" frameX="0" frameY="0" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0004" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0005" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0006" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0007" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0008" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0009" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0010" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0011" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0012" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Idle0013" x="698" y="791" width="625" height="708" frameX="-18" frameY="-2" frameWidth="660" frameHeight="740"/>
+	<SubTexture name="Hade Left0000" x="1373" y="791" width="753" height="723" frameX="0" frameY="0" frameWidth="788" frameHeight="723"/>
+	<SubTexture name="Hade Left0001" x="2176" y="791" width="779" height="687" frameX="-9" frameY="-19" frameWidth="788" frameHeight="723"/>
+	<SubTexture name="Hade Right0000" x="3005" y="791" width="726" height="583" frameX="-29" frameY="0" frameWidth="755" frameHeight="583"/>
+	<SubTexture name="Hade Right0001" x="20" y="1564" width="749" height="580" frameX="0" frameY="-2" frameWidth="755" frameHeight="583"/>
+	<SubTexture name="Hade Up0000" x="819" y="1564" width="465" height="626" frameX="-56" frameY="0" frameWidth="562" frameHeight="631"/>
+	<SubTexture name="Hade Up0001" x="1334" y="1564" width="562" height="609" frameX="0" frameY="-22" frameWidth="562" frameHeight="631"/>
+</TextureAtlas>

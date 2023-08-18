@@ -1,0 +1,8 @@
+value 1: text
+
+value 2: color and size (MUST be sperated by a comma)
+ex:
+Value 1: Hi!
+Value 2: ff0000, 24
+output will be a red Hi!
+Keep Value 2 empty for white text and 40 size

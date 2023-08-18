@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				380,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "slash",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "impostor attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_w",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				395,
+				-86
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_w",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				341,
+				-29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_w",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				380,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_w",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				374,
+				-44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_w",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitedk",
+	"position": [
+		400,
+		280
+	],
+	"healthicon": "white",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		210,
+		248
+	],
+	"camera_position": [
+		-460,
+		60
+	],
+	"sing_duration": 5,
+	"scale": 1.1
+}

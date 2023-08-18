@@ -1,0 +1,47 @@
+You will need to chart on a different engine because the chart editor cannot be changed with lua,
+any existing extra key charts should work.
+
+Place the "Set Key Count" event anywhere in the song, type the key count you want and load the song.
+
+You can change your controls inside the script if you scroll down and find the "maniaData" array
+(might update this later with a rebind menu since it technically saves)
+
+Mania changes are also included but work slightly differently (for charting) and
+don't require you to set the highest key count first, so it doesn't matter what the starting key count is.
+
+also you can add more keys if you want just by adding more to the "maniaData" array
+dont really recommend since key amounts that high arent really fun to play but you can just use for joke stuff ig
+
+Currently does not support pixel notes (may add in future)
+
+
+Adding Noteskins/notetypes:
+you can just add these normally unlike the original lua extra keys
+
+the xml format is slightly different but similar to regular psych
+you can edit existing xmls quickly by using find and replace in something like visual studio code (Ctrl+F)
+
+Changes:
+
+Regular psych	|   Extra Keys
+pruple end hold -> purple hold end (fix stupid thing)
+left confirm -> purple confirm (change direction to color)
+left press -> purple press
+down confirm -> blue confirm
+down press -> blue press
+up confirm -> green confirm
+up press -> green press
+right confirm -> red confirm
+right press -> red press
+
+
+Note Colors:
+
+(1-10K)
+regular 4K set - purple, blue, green, red
+other 4k set - yellow, violet, darkred, dark
+space notes - white, orange
+
+(11K+)
+Sharp 4k set - pink, turq, emerald, lightred
+other Sharp 4k set - lime, darkpurple, darkorange, cobalt

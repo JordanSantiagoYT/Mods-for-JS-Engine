@@ -1,0 +1,5 @@
+Value 1: Start of Cinematic 
+	 Mark this Value with 1 to begin the event
+
+Value 2: End of Cinematic
+	 Mark this Value with 2 to end the event

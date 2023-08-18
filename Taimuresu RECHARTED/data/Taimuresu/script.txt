@@ -1,0 +1,4 @@
+function opponentNoteHit()
+      triggerEvent('Screen Shake', '0.1, 0.01', '0.1, 0.01');
+	 triggerEvent('Add Camera Zoom', '0.00175', '0.0035');
+  end

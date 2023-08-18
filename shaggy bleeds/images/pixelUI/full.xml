@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="arrowLEFT0000" x="0" y="0" width="17" height="17" /> <!--bruh fucking xml for pixel notes-->
+<SubTexture name="arrowDOWN0000" x="17" y="0" width="17" height="17" />
+<SubTexture name="arrowUP0000" x="34" y="0" width="17" height="17" />
+<SubTexture name="arrowRIGHT0000" x="51" y="0" width="17" height="17" />
+<SubTexture name="arrowSPACE0000" x="68" y="0" width="17" height="17" />
+
+<SubTexture name="blue confirm0000" x="17" y="51" width="17" height="17" />
+<SubTexture name="blue confirm0001" x="17" y="68" width="17" height="17" />
+<SubTexture name="blue press0000" x="17" y="17" width="17" height="17" />
+<SubTexture name="blue press0001" x="17" y="34" width="17" height="17" />
+
+<SubTexture name="dark confirm0000" x="136" y="51" width="17" height="17" />
+<SubTexture name="dark confirm0001" x="136" y="68" width="17" height="17" />
+<SubTexture name="dark press0000" x="136" y="17" width="17" height="17" />
+<SubTexture name="dark press0001" x="136" y="34" width="17" height="17" />
+
+<SubTexture name="darkred confirm0000" x="119" y="51" width="17" height="17" />
+<SubTexture name="darkred confirm0001" x="119" y="68" width="17" height="17" />
+<SubTexture name="darkred press0000" x="119" y="17" width="17" height="17" />
+<SubTexture name="darkred press0001" x="119" y="34" width="17" height="17" />
+
+<SubTexture name="green confirm0000" x="34" y="51" width="17" height="17" />
+<SubTexture name="green confirm0001" x="34" y="68" width="17" height="17" />
+<SubTexture name="green press0000" x="34" y="17" width="17" height="17" />
+<SubTexture name="green press0001" x="34" y="34" width="17" height="17" />
+
+<SubTexture name="purple confirm0000" x="0" y="51" width="17" height="17" />
+<SubTexture name="purple confirm0001" x="0" y="68" width="17" height="17" />
+<SubTexture name="purple press0000" x="0" y="17" width="17" height="17" />
+<SubTexture name="purple press0001" x="0" y="34" width="17" height="17" />
+
+<SubTexture name="red confirm0000" x="51" y="51" width="17" height="17" />
+<SubTexture name="red confirm0001" x="51" y="68" width="17" height="17" />
+<SubTexture name="red press0000" x="51" y="17" width="17" height="17" />
+<SubTexture name="red press0001" x="51" y="34" width="17" height="17" />
+
+<SubTexture name="violet confirm0000" x="102" y="51" width="17" height="17" />
+<SubTexture name="violet confirm0001" x="102" y="68" width="17" height="17" />
+<SubTexture name="violet press0000" x="102" y="17" width="17" height="17" />
+<SubTexture name="violet press0001" x="102" y="34" width="17" height="17" />
+
+<SubTexture name="white confirm0000" x="68" y="51" width="17" height="17" />
+<SubTexture name="white confirm0001" x="68" y="68" width="17" height="17" />
+<SubTexture name="white press0000" x="68" y="17" width="17" height="17" />
+<SubTexture name="white press0001" x="68" y="34" width="17" height="17" />
+
+<SubTexture name="yellow confirm0000" x="85" y="51" width="17" height="17" />
+<SubTexture name="yellow confirm0001" x="85" y="68" width="17" height="17" />
+<SubTexture name="yellow press0000" x="85" y="17" width="17" height="17" />
+<SubTexture name="yellow press0001" x="85" y="34" width="17" height="17" />
+</TextureAtlas>
