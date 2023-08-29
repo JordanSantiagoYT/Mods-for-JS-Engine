@@ -1,4 +1,4 @@
-All charts in this mod are AT LEAST 5mb or higher, and may be impossible to load. Also includes the LARGEST FNF chart ever made.
+All charts in "Jordan's Large FNF Charts" are AT LEAST 5mb or higher OR have over 100K notes, and may be impossible to load. Also includes the LARGEST FNF chart ever made. 
 
 You can either edit files or add entirely new ones here.
 
