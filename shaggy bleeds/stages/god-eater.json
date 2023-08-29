@@ -1,9 +1,3 @@
-{
-	"directory": "",
-	"defaultZoom": 0.65,
-	"isPixelStage": false,
-
-	"boyfriend": [1400, 200],
-	"girlfriend": [470, 130],
-	"opponent": [-100, 100]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f605a4d973ccafe882906bd52975fcae79aa9c2b6dd6151870e3aa908e6a5625
+size 155

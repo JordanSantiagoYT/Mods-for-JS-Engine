@@ -1,31 +1,3 @@
-{
-	"storyName": "The Tri-Dimension",
-	"hideFreeplay": false,
-	"difficulties": "Normal",
-	"weekBackground": "hespissed",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"songs": [
-		[
-			"Bleeding",
-			"pshaggy",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
-	"hideStoryMode": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"weekName": "Tri-Dimension"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dee6d4302172f1ed74977b9a0e64bc35b89a1b20195b5a0589671297679220b2
+size 400

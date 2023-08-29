@@ -1,32 +1,3 @@
-{
-	"songs": [
-		[
-			"double-kill",
-			"whiteblack",
-			[
-				80,
-				80,
-				80
-			]
-		]
-	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "hard",
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"storyName": "Your New Week",
-	"weekName": "Custom Week",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": true,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb1cba9f349fc68dbd68d8a49b38c6386e43b7bb03a91b9393288783c7be0dbd
+size 429

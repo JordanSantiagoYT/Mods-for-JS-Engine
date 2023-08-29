@@ -1,36 +1,3 @@
-{
-	"song": {
-		"events": [
-			[
-				0,
-				[
-					[
-						"Hud Fade",
-						"0.001",
-						"0"
-					]
-				]
-			],
-			[
-				15000,
-				[
-					[
-						"Hud Fade",
-						"0.29",
-						"1"
-					]
-				]
-			],
-			[
-				160928.571428571,
-				[
-					[
-						"Hud Fade",
-						"3",
-						"0"
-					]
-				]
-			]
-		]
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb9eab10a5ddbf6abaae3ad799b0e7448a8f5d4999ab7dac619ea92c0bcc2886
+size 309

@@ -1,31 +1,3 @@
-{
-	"songs": [
-
-		[
-			"Wireframe",
-			"decdave",
-			[
-				193,
-				0,
-				0
-			]			
-		]
-	],
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"storyName": "susframe",
-	"weekName": "Susframe!!",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": true,
-	"weekBefore": "week7",
-	"startUnlocked": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff75a644ad1636ed2761bf22cb0d27be22ce05ef165eeaa3c0ccaefea5a9adfd
+size 362

@@ -1,10 +1,3 @@
-{
-	"confirm_anim": "Menu GetReady",
-	"idle_anim": "M WBShaggy Idle",
-	"position": [
-		0,
-		60
-	],
-	"scale": 0.85,
-	"image": "wbshaggy"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae6895e381d4286c1ecde5dc01a9b45d907cd7747a5ce23cacb1cd2b4ee69ef
+size 145

@@ -1,16 +1,3 @@
-{
-	"song": {
-		"events": [
-			[
-				0,
-				[
-					[
-						"Hide HUD",
-						"1",
-						""
-					]
-				]
-			]
-		]
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:003849dc189ed6903af126b5bbbe3c343adc01c75177c21feaa898777151fef1
+size 116

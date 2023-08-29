@@ -1,7 +1,3 @@
-{
-	"name": "Junior's Funny Mod Ports",
-	"description": "This is where I add all my mod ports lol",
-	"restart": false,
-	"runsGlobally": false,
-	"color": [170, 0, 255]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:eae1dd7a5bb15e1a1e71952338d1f376a96566a16ad87b1de21d2dc891d18fcf
+size 168

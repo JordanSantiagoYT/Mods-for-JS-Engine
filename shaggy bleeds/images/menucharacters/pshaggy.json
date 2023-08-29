@@ -1,10 +1,3 @@
-{
-	"confirm_anim": "Menu GetReady",
-	"idle_anim": "M PShaggy Idle",
-	"position": [
-		-10,
-		30
-	],
-	"scale": 1,
-	"image": "pshaggy"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a75b02afe06494616845abae9e528d67a45c557b148afbc369621bdfa9a37a58
+size 142
