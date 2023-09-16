@@ -4,6 +4,7 @@ characterTag = 'gfplay' -- Set this to what the sprite should be named.
 noteNames = {
     'GF Note', -- Change this to whatever your note is named in path "custom_notetypes".
     'ALL BFs Note', -- Change this to whatever your note is named in path "custom_notetypes".
+    'Half 2 BFs Note', -- Change this to whatever your note is named in path "custom_notetypes".
 }
 
 isDanceIdle = true -- If false, character sprite will use animation 'danceLeft' and 'danceRight'
@@ -284,12 +285,12 @@ function onCountdownStarted()
 end
 
 function opponentNoteHit(membersIndex, noteData, noteType, isSustainNote) 
-    if noteType == noteNames[1] then
+    if noteType == noteNames[name] or noteType == noteNames[2] or noteType == noteNames[3] then
         animSuffix = ''
         playAnim(characterName, singAnimations[noteData + 1] .. animSuffix, true);
         holdTimer = 0
 
-    elseif noteType == noteNames[1] and not isDanceIdle then
+    elseif noteType == noteNames[name] and not isDanceIdle then
         --playAnim(characterName, animNames[noteData + 2], true); -- uhhh is this needed?
         animSuffix = ''
 
@@ -308,12 +309,12 @@ function opponentNoteHit(membersIndex, noteData, noteType, isSustainNote)
         end
     end
 
-    if noteType == noteNames[2] then
+    if noteType == noteNames[28923] then
         animSuffix = '-alt'
         playAnim(characterName, singAnimations[noteData + 1] .. animSuffix, true);
         holdTimer = 0
     
-    elseif noteType == noteNames[2] and not isDanceIdle then
+    elseif noteType == noteNames[22323] and not isDanceIdle then
         animSuffix = '-alt'
         if getProperty(characterName .. '.animation.curAnim.name') == singAnimations[1] .. animSuffix then
             danced = true
@@ -340,12 +341,16 @@ function opponentNoteHit(membersIndex, noteData, noteType, isSustainNote)
 end
 
 function goodNoteHit(membersIndex, noteData, noteType, isSustainNote) 
-    if noteType == noteNames[1] then
+
+    for names = 1, #noteNames do
+    if noteType == noteNames[names] then
         animSuffix = ''
         playAnim(characterName, singAnimations[noteData + 1] .. animSuffix, true);
         holdTimer = 0
+    end
+    end
 
-    elseif noteType == noteNames[1] and not isDanceIdle then
+    if noteType == noteNames[1] and not isDanceIdle then
         --playAnim(characterName, animNames[noteData + 2], true); -- uhhh is this needed?
         animSuffix = ''
 
@@ -364,12 +369,12 @@ function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
         end
     end
 
-    if noteType == noteNames[2] then
+    if noteType == noteNames[21212] then
         animSuffix = '-alt'
         playAnim(characterName, singAnimations[noteData + 1] .. animSuffix, true);
         holdTimer = 0
     
-    elseif noteType == noteNames[2] and not isDanceIdle then
+    elseif noteType == noteNames[2121] and not isDanceIdle then
         animSuffix = '-alt'
         if getProperty(characterName .. '.animation.curAnim.name') == singAnimations[1] .. animSuffix then
             danced = true

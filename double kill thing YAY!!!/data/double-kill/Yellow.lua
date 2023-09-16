@@ -4,12 +4,12 @@ characterTag = 'yellowcrewmate' -- Set this to what the sprite should be named.
 noteNames = {
     'Yellow Note', -- Change this to whatever your note is named in path "custom_notetypes".
     'ALL BFs Note', -- Change this to whatever your note is named in path "custom_notetypes".
-    'Yellow Note ALT', -- Change this to whatever your note is named in path "custom_notetypes". (ALT)
+    'Half 2 BFs Note', -- Change this to whatever your note is named in path "custom_notetypes".
 }
 
 isDanceIdle = true -- If false, character sprite will use animation 'danceLeft' and 'danceRight'
 flipX = true -- If true, flips character.
-objectOrder = 9 -- Normally, values over 7 go over GF (7), Dad (8) and BF (9). (Default: 9)
+objectOrder = 12 -- Normally, values over 7 go over GF (7), Dad (8) and BF (9). (Default: 9)
 haveMissAnimations = false -- If true, it will add the miss animations for the character sprite to use.
 singAnimationLength = 4 -- How many steps until it goes back to idle.
 danceEveryNumBeats = 2 -- Sets which per beat will the character dance on.
@@ -335,12 +335,14 @@ function opponentNoteHit(membersIndex, noteData, noteType, isSustainNote)
 end
 
 function goodNoteHit(membersIndex, noteData, noteType, isSustainNote) 
-    if noteType == noteNames[1] then
+    for names = 1, #noteNames do
+    if noteType == noteNames[names] then
         animSuffix = ''
         playAnim(characterName, singAnimations[noteData + 1] .. animSuffix, true);
         holdTimer = 0
-
-    elseif noteType == noteNames[1] and not isDanceIdle then
+    end
+    end
+    if noteType == noteNames[1] and not isDanceIdle then
         --playAnim(characterName, animNames[noteData + 2], true); -- uhhh is this needed?
         animSuffix = ''
 

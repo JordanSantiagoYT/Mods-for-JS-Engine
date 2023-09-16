@@ -4,6 +4,7 @@ characterTag = 'gametoons' -- Set this to what the sprite should be named.
 noteNames = {
     'Player Note', -- Change this to whatever your note is named in path "custom_notetypes".
     'ALL BFs Note', -- Change this to whatever your note is named in path "custom_notetypes".
+    'Half 1 BFs Note', -- Change this to whatever your note is named in path "custom_notetypes".
 }
 
 isDanceIdle = true -- If false, character sprite will use animation 'danceLeft' and 'danceRight'
@@ -340,12 +341,14 @@ function opponentNoteHit(membersIndex, noteData, noteType, isSustainNote)
 end
 
 function goodNoteHit(membersIndex, noteData, noteType, isSustainNote) 
-    if noteType == noteNames[1] then
+    for names = 1, #noteNames do
+    if noteType == noteNames[names] then
         animSuffix = ''
         playAnim(characterName, singAnimations[noteData + 1] .. animSuffix, true);
         holdTimer = 0
-
-    elseif noteType == noteNames[1] and not isDanceIdle then
+    end
+    end
+    if noteType == noteNames[1] and not isDanceIdle then
         --playAnim(characterName, animNames[noteData + 2], true); -- uhhh is this needed?
         animSuffix = ''
 
