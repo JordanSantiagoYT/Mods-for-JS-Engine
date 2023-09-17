@@ -5,10 +5,10 @@ function onEvent(eventName, value1, value2)
     end
 end
 function StartGeneralVideo(VideoName,Time)
-    addHaxeLibrary('VideoHandler','vlc')
+    addHaxeLibrary('MP4Handler','vlc')
     runHaxeCode([[
         var filepath:String = Paths.video("]]..VideoName..[[");
-        var video:VideoHandler = new VideoHandler();
+        var video:MP4Handler = new MP4Handler();
         video.playVideo(filepath);
         setVar('ActualVideo',video);
         video.time=]]..Time..[[;
