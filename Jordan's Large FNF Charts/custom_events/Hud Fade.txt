@@ -1,2 +1,0 @@
-Value 1: How long it takes to fade.
-Value 2: Alpha to fade to.

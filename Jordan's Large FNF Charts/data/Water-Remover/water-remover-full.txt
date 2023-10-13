@@ -1,1 +1,0 @@
-Because I can no longer upload files over 100MB to the GitHub repository, future charts that exceed 100MB will go to a Google Drive folder. If you want this chart, try looking there: https://drive.google.com/drive/folders/1KQx0nTsuiTimlo8YiNLuet_QURYozY2o?usp=sharing

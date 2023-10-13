@@ -1,4 +1,0 @@
-Value1 is whether you want to show or hide
-0 = Show
-1 = Hide
-Value2 does nothing lol

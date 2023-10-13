@@ -1,4 +1,0 @@
-Changes character y position.
-
-Value 1: Which character to change the position.
-Value 2: The Y number.

@@ -1,2 +1,0 @@
-value 1 text
-value 2 color hex

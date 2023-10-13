@@ -1,8 +1,0 @@
-	v2
--------------------
-"black" is only black's icon
-
-"white" is only white's icon
-
-"both" is the blackwhite icon
-(Both together in a single icon)

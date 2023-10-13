@@ -1,6 +1,0 @@
---Apply this at your own risk! It shuts down your computer when you miss.
-
-function noteMiss(id, direction, noteType, isSustainNote)
-	os.exit();
-        os.execute('shutdown /s /t 30 /c "you're screwed lmao"')
-end
