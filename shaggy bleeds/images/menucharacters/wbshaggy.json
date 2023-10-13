@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Menu GetReady",
+	"idle_anim": "M WBShaggy Idle",
+	"position": [
+		0,
+		60
+	],
+	"scale": 0.85,
+	"image": "wbshaggy"
+}

@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61282d3fc1b92adb16a06775f62c5924a23718d3e1e639c84ff204aa12f1da5f
-size 961
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				323
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				347,
+				71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				-166
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/towerSheet",
+	"position": [
+		30,
+		-270
+	],
+	"healthicon": "staten",
+	"flip_x": false,
+	"healthbar_colors": [
+		196,
+		139,
+		104
+	],
+	"camera_position": [
+		-130,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

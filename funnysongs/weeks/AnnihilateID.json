@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"Annihilation OLD 1",
+			"bf",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Annihilation OLD 2",
+			"bf",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Annihilation OLD 3",
+			"bf",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Annihilation OLD 4",
+			"bf",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Annihilation OLD 5",
+			"bf",
+			[
+				12,
+				181,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}

@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f1804d5abd408099554f83386248a4e1d0881667e1e1b82cc8b0d55bd8f99bb
-size 1054
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				119
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "The Boss Sing note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-238,
+				74
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "The Boss Sing note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-187,
+				163
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "The Boss Sing note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-336,
+				79
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "The Boss Sing note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				145
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "The Boss idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bossman",
+	"position": [
+		-200,
+		80
+	],
+	"healthicon": "boss",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		35,
+		61
+	],
+	"camera_position": [
+		180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

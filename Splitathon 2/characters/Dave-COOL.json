@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e097628dcb128ca9d621f04374addc750d44bd80d7b969dda25f7521bc09eae
-size 963
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thecoolerdave",
+	"position": [
+		110,
+		120
+	],
+	"healthicon": "dave-cool",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		95,
+		255
+	],
+	"camera_position": [
+		50,
+		25
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

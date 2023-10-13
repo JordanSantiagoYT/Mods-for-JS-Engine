@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Fuck You",
+			"bf",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"nullifier",
+			"bf",
+			[
+				12,
+				181,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Real",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}

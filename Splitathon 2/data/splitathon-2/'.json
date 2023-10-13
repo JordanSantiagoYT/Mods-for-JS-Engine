@@ -1,3 +1,246 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74ac7d9bf0ef7043eab6a4c5c18d1d19173194b601d4e0e9a715cb08ec2f229a
-size 2647
+{
+	"song": {
+		"events": [
+			[
+				38400,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"26"
+					]
+				]
+			],
+			[
+				223649.388385091,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0"
+					]
+				]
+			],
+			[
+				223723.645810834,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"24"
+					]
+				]
+			],
+			[
+				283706.496909865,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				283709.214301169,
+				[
+					[
+						"Change Character",
+						"1",
+						"bambi-splitathon"
+					]
+				]
+			],
+			[
+				457782.792896489,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"2.78"
+					]
+				]
+			],
+			[
+				480733.879853011,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				480739.31463562,
+				[
+					[
+						"Change Character",
+						"1",
+						"tristan"
+					]
+				]
+			],
+			[
+				547521.923331272,
+				[
+					[
+						"Change Character",
+						"1",
+						"tristan"
+					]
+				]
+			],
+			[
+				565511.053766054,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				565514.698251005,
+				[
+					[
+						"Change Character",
+						"1",
+						"bambi-splitathon"
+					]
+				]
+			],
+			[
+				580907.792896489,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				580913.227679098,
+				[
+					[
+						"Change Character",
+						"1",
+						"tristan"
+					]
+				]
+			],
+			[
+				612739.31463562,
+				[
+					[
+						"Change Scroll Speed",
+						"1.7",
+						"2"
+					]
+				]
+			],
+			[
+				614299.097244316,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				614304.532026924,
+				[
+					[
+						"Change Character",
+						"1",
+						"bob"
+					]
+				]
+			],
+			[
+				647695.83637475,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				680043.662461707,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				697782.79289649,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"1"
+					]
+				]
+			],
+			[
+				714478.445070403,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				723634.856353772,
+				[
+					[
+						"Change Character",
+						"1",
+						"tower"
+					]
+				]
+			],
+			[
+				984152.281626131,
+				[
+					[
+						"Change Character",
+						"1",
+						"bob"
+					]
+				]
+			],
+			[
+				1034487.84393616,
+				[
+					[
+						"Change Character",
+						"1",
+						"tower"
+					]
+				]
+			],
+			[
+				1121344.9867933,
+				[
+					[
+						"Change Character",
+						"1",
+						"ron"
+					]
+				]
+			]
+		]
+	}
+}

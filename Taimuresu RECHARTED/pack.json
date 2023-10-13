@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7cd4a090b6e6fdc61aec518ade1afbe43aaf16baadc135c5b9ab47cdc1a7b138
-size 140
+{
+	"name": "Taimuresu",
+	"description": "the impossible fnf song ever",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

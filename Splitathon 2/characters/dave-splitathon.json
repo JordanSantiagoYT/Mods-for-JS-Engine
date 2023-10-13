@@ -1,3 +1,111 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f88d0725176ae52452f09727e49d1f7441624626feadabc2df3d01cba8c003c6
-size 1386
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-182
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-181
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-194
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-171
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-186
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-182
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "waiting0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-182
+			],
+			"anim": "mad",
+			"fps": 24,
+			"name": "bruh0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-182
+			],
+			"anim": "happy",
+			"fps": 24,
+			"name": "happy0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Splitathon_Dave",
+	"position": [
+		150,
+		0
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		95,
+		255
+	],
+	"camera_position": [
+		0,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

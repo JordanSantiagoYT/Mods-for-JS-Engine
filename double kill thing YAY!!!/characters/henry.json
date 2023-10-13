@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Henry Idle"
+		},
+		{
+			"offsets": [
+				27,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Henry Down"
+		},
+		{
+			"offsets": [
+				-21,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Henry Up"
+		},
+		{
+			"offsets": [
+				-4,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shock",
+			"indices": [],
+			"name": "henry shock omg"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				30
+			],
+			"anim": "armed",
+			"fps": 24,
+			"name": "Henry React Arm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				47,
+				-65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Henry Right"
+		},
+		{
+			"offsets": [
+				-16,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Henry Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HENRY_ASSS",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "henry",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		215,
+		216
+	],
+	"camera_position": [
+		-60,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

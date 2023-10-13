@@ -1,0 +1,9 @@
+{
+	"directory": "bambbg",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [1350, 235],
+	"girlfriend": [900, 255],
+	"opponent": [750, 240]
+}

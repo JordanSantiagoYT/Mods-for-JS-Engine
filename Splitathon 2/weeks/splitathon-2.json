@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8dc7eaa152f00cc40200417498cc4cf5c304891bf494f4067034bed527b8b34d
-size 421
+{
+	"songs": [
+		[
+			"Splitathon 2",
+			"daveandbambi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "weekbox",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"spooky",
+		"spooky",
+		"spooky"
+	],
+	"storyName": "splittytitty 2",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
