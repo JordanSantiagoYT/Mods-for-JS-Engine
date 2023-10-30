@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				2000,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
