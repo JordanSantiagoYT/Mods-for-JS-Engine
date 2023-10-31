@@ -6,6 +6,6 @@
 
 	"boyfriend": [-300, -200],
 	"girlfriend": [-300, -200],
-	"opponent": [-500, -200],
+	"opponent": [-1200, -200],
 	"hide_girlfriend": false
 }
