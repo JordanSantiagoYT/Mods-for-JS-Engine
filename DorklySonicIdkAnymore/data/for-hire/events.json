@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "GreenHill",
+		"player1": "bf",
+		"player2": "dorklysonic",
+		"player3": null,
+		"events": [
+			[
+				1751.82481751825,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				29781.0218978102,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				43795.6204379562,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				57810.2189781022,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"4",
+						"0.5"
+					]
+				]
+			],
+			[
+				99854.0145985402,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 137,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "For-Hire"
+	}
+}

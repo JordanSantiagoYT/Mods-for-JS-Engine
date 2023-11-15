@@ -1,0 +1,4 @@
+CREDITS
+Pancho::pancho::Animator, Charter, Composer::https://twitter.com/panchonatorr::0xFFde107a
+Link to Sonic Sprites::nothing::shoutouts to Tales499::https://www.deviantart.com/tales499/art/Sonic-for-Hire-Sonic-the-Hedgehog-Sprites-V-1-2-619024926::0xFFde107a
+Link to BG Sprites::nothing::shoutouts to spriters resource::https://www.spriters-resource.com/genesis_32x_scd/sonicth1/::0xFFde107a
