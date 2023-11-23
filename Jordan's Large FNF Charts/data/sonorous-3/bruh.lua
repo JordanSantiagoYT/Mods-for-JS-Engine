@@ -1,3 +1,3 @@
-function onSongStart()
-	setProperty('npsMultSpeed', 4)
+function onCreatePost()
+	setProperty('npsSpeedMult', 4)
 end
