@@ -286,6 +286,7 @@ function onCreatePost()
     addHaxeLibrary('StrumNote')
     addHaxeLibrary('Std')
     addHaxeLibrary('FlxMath', 'flixel.math')
+addHaxeLibrary('CallStack', 'haxe')
 
     reparseChart()
     updateNotes()
@@ -335,12 +336,13 @@ function reparseChart()
         }
 
 
-        for (section in PlayState.SONG.notes) //reload dat shit
+        try {
+	for (section in PlayState.SONG.notes) //reload dat shit
 		{
 			for (songNotes in section.sectionNotes)
 			{
 				var daStrumTime = songNotes[0];
-                if (daStrumTime >= Conductor.songPosition) //only load notes after current song pos (not needed i just had this set up for something else before, shouldnt break anything)
+                if (daStrumTime >= Conductor.songPosition) 
                 {
                     
                     for (mchange in maniaChangeMap)
@@ -360,11 +362,7 @@ function reparseChart()
                         gottaHitNote = !section.mustHitSection;
                     }
     
-                    var oldNote = null;
-                    if (game.unspawnNotes.length > 0)
-                        oldNote = game.unspawnNotes[Std.int(game.unspawnNotes.length - 1)];
-                    else
-                        oldNote = null;
+                    var oldNote = game.unspawnNotes.length > 0 ? game.unspawnNotes[Std.int(game.unspawnNotes.length - 1)] : null; 
     
                     var swagNote = new Note(daStrumTime, daNoteData, oldNote);
                     swagNote.mustPress = gottaHitNote;
@@ -409,6 +407,9 @@ function reparseChart()
                 }
 			}
 		}
+} catch (e:Dynamic) {
+    trace("Error in reparseChart: " + e);
+}
 
 		game.unspawnNotes.sort(game.sortByShit);
     ]])
@@ -499,7 +500,7 @@ function updateNotes()
 end
 
 --need to disable default notesplashes
-local noteSplashesEnabled = false
+local noteSplashesEnabled = true
 function disableSplashes()
     noteSplashesEnabled = getPropertyFromClass('ClientPrefs', 'noteSplashes')
     setPropertyFromClass('ClientPrefs', 'noteSplashes', false)
@@ -511,7 +512,7 @@ end
 
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 
-    if getPropertyFromGroup('notes', id, 'rating') == 'sick' and getPropertyFromGroup('notes', id, 'noteSplashEnabled') then 
+    if getPropertyFromGroup('notes', id, 'rating') == 'sick' and not getPropertyFromGroup('notes', id, 'noteSplashDisabled') then 
         --debugPrint('sploosh')
         local colorData = splashColors[maniaData[keyCount][ARROW_COLOR][noteData+1]]
         local arrowWidth = maniaData[keyCount][ARROW_SCALE]*160
@@ -619,6 +620,10 @@ local keysPressed = {false,false,false,false,false,false,false,false,false,false
 
 --need to check if holding sustains because psych dumb and still uses shitty controls.hx
 function onUpdatePost(elapsed)
+
+        runHaxeCode([[
+		game.spawnTime = game.spawnTime / ARROW_SCALE;
+	]])
 
     local noteCount = getProperty('notes.length')
     for i = 0,noteCount-1 do 
