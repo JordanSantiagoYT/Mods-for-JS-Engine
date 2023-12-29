@@ -140,6 +140,7 @@
 		10
 	],
 	"healthicon": "voiidmatt",
+	"iconAmount": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		80,

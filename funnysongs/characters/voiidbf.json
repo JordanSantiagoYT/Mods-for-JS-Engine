@@ -206,6 +206,7 @@
 		350
 	],
 	"healthicon": "voiidbf",
+	"iconAmount": 3,
 	"flip_x": true,
 	"healthbar_colors": [
 		255,
