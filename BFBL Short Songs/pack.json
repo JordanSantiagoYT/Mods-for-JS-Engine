@@ -1,0 +1,6 @@
+{
+	"name": "Short BFBL Songs",
+	"description": "bfbl songs that are rejected for being shorter than 1 minute. the songs are in freeplay",
+	"restart":false,
+	"color": [216, 186, 36]
+}
