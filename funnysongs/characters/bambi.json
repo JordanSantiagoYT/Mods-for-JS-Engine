@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-140,
 				-440
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "bambi idle"
+			"fps": 24,
+			"name": "bambi idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-71,
 				-439
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "bambi left"
+			"fps": 24,
+			"name": "bambi left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-154,
 				-435
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "bambi right"
+			"fps": 24,
+			"name": "bambi right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-124,
 				-474
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "bambi down"
+			"fps": 24,
+			"name": "bambi down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-88,
 				-409
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "bambi up"
+			"fps": 24,
+			"name": "bambi up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/bambi",
 	"position": [
-		0,
-		0
+		-70,
+		-100
 	],
 	"healthicon": "bambi",
 	"flip_x": false,
@@ -74,5 +74,6 @@
 		460
 	],
 	"sing_duration": 4,
+	"noteskin": null,
 	"scale": 1
 }
