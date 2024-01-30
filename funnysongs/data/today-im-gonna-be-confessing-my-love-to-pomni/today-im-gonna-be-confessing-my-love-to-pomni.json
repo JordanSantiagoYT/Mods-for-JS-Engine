@@ -1,0 +1,197 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "gf",
+		"notes": [
+			{
+				"sectionBeats": 4,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						0,
+						1,
+						0
+					],
+					[
+						150,
+						3,
+						150
+					],
+					[
+						525,
+						0,
+						0
+					],
+					[
+						525,
+						2,
+						150
+					],
+					[
+						825,
+						1,
+						0
+					],
+					[
+						900,
+						3,
+						0
+					],
+					[
+						1050,
+						0,
+						0
+					],
+					[
+						1275,
+						1,
+						0
+					],
+					[
+						1575,
+						2,
+						0
+					],
+					[
+						1875,
+						0,
+						0
+					],
+					[
+						2100,
+						3,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 573,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						2400,
+						2,
+						0
+					],
+					[
+						2700,
+						1,
+						0
+					],
+					[
+						3000,
+						3,
+						0
+					],
+					[
+						3000,
+						2,
+						0
+					],
+					[
+						3375,
+						0,
+						150
+					],
+					[
+						3675,
+						1,
+						0
+					],
+					[
+						3900,
+						3,
+						0
+					],
+					[
+						3975,
+						2,
+						0
+					],
+					[
+						4200,
+						0,
+						0
+					],
+					[
+						4425,
+						3,
+						0
+					],
+					[
+						4725,
+						1,
+						0
+					]
+				],
+				"bpm": 100,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						4875,
+						0,
+						0
+					],
+					[
+						4950,
+						2,
+						0
+					],
+					[
+						5250,
+						1,
+						0
+					],
+					[
+						5250,
+						3,
+						150
+					],
+					[
+						5550,
+						2,
+						0
+					],
+					[
+						5550,
+						0,
+						150
+					]
+				],
+				"bpm": 100,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"player3": null,
+		"event7Value": null,
+		"splashSkin": "noteSplashes",
+		"song": "today-im-gonna-be-confessing-my-love-to-pomni",
+		"validScore": true,
+		"arrowSkin": "",
+		"songCreditIcon": "",
+		"speed": 2.7,
+		"gfVersion": "gf",
+		"events": [],
+		"songCreditBarPath": "",
+		"windowName": "",
+		"needsVoices": true,
+		"stage": "stage",
+		"songCredit": "",
+		"bpm": 100
+	}
+}
