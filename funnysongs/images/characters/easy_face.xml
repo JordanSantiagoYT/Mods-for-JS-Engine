@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="easy_face.png"><SubTexture name="easy_face idle dance0000" x="1753" y="2332" width="938" height="702" frameX="-1386" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0001" x="1753" y="2332" width="938" height="702" frameX="-1386" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0002" x="0" y="1629" width="945" height="703" frameX="-1378" frameY="-738" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0003" x="0" y="1629" width="945" height="703" frameX="-1378" frameY="-738" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0004" x="945" y="1629" width="957" height="703" frameX="-1371" frameY="-738" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0005" x="945" y="1629" width="957" height="703" frameX="-1371" frameY="-738" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0006" x="0" y="3035" width="948" height="701" frameX="-1363" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0007" x="0" y="3035" width="948" height="701" frameX="-1363" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0008" x="948" y="3035" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face idle dance0009" x="948" y="3035" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face right note0000" x="1563" y="0" width="733" height="813" frameX="-1377" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face right note0001" x="1563" y="0" width="733" height="813" frameX="-1377" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face right note0002" x="796" y="0" width="767" height="819" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face right note0003" x="796" y="0" width="767" height="819" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face right note0004" x="0" y="0" width="796" height="820" frameX="-1338" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face up note0000" x="3223" y="0" width="939" height="702" frameX="-1352" frameY="-709" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face up note0001" x="3223" y="0" width="939" height="702" frameX="-1352" frameY="-709" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face up note0002" x="1902" y="1629" width="934" height="703" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face up note0003" x="1902" y="1629" width="934" height="703" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face up note0004" x="3223" y="702" width="927" height="702" frameX="-1362" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face down note0000" x="918" y="820" width="912" height="807" frameX="-1361" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face down note0001" x="918" y="820" width="912" height="807" frameX="-1361" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face down note0002" x="0" y="820" width="918" height="809" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face down note0003" x="0" y="820" width="918" height="809" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face down note0004" x="2296" y="0" width="927" height="802" frameX="-1349" frameY="-710" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face left note0000" x="2296" y="802" width="887" height="703" frameX="-1321" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face left note0001" x="2296" y="802" width="887" height="703" frameX="-1321" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face left note0002" x="0" y="2332" width="874" height="703" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face left note0003" x="0" y="2332" width="874" height="703" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face left note0004" x="874" y="2332" width="879" height="703" frameX="-1373" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face hard0000" x="948" y="3035" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face hard0001" x="948" y="3035" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face hard0002" x="1892" y="3035" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face hard0003" x="1892" y="3035" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face hard0004" x="2836" y="3035" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face hard0005" x="2836" y="3035" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face hard0006" x="4162" y="0" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face hard0007" x="4162" y="0" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_face scaredidle0000" x="4162" y="0" width="944" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>
