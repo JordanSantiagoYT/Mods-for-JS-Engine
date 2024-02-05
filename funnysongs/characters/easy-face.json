@@ -1,98 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				1470,
 				1105
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "easy_face idle dance"
+			"fps": 24,
+			"name": "easy_face idle dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1550,
 				1105
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "easy_face left note"
+			"fps": 24,
+			"name": "easy_face left note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1470,
 				1025
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "easy_face down note"
+			"fps": 24,
+			"name": "easy_face down note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1470,
 				1185
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "easy_face up note"
+			"fps": 24,
+			"name": "easy_face up note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1390,
 				1105
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "easy_face right note"
+			"fps": 24,
+			"name": "easy_face right note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1470,
 				1105
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "easy_face hey"
+			"fps": 24,
+			"name": "easy_face hey",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1470,
 				1105
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "sad",
-			"indices": [],
-			"name": "easy_face hard"
+			"fps": 24,
+			"name": "easy_face hard",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1470,
 				1105
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle-scared",
-			"indices": [],
-			"name": "easy_face scaredidle"
+			"fps": 24,
+			"name": "easy_face scaredidle",
+			"indices": []
 		}
+	],
+	"losing_colors": [
+		255,
+		14,
+		16
 	],
 	"no_antialiasing": false,
 	"image": "characters/easy_face",
 	"position": [
-		0,
+		100,
 		350
 	],
 	"healthicon": "easy",
@@ -103,9 +108,15 @@
 		255
 	],
 	"camera_position": [
-		-560,
-		-400
+		-540,
+		-550
 	],
 	"sing_duration": 4,
-	"scale": 0.8
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		244,
+		114
+	],
+	"scale": 0.5
 }
