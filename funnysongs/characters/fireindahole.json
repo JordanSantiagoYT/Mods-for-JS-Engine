@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-64,
 				289
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right",
+			"anim": "singRIGHT",
 			"indices": [
 				0,
 				1,
@@ -26,17 +25,17 @@
 				13,
 				14,
 				15
-			]
+			],
+			"name": "right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-18,
 				250
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "down",
+			"anim": "singDOWN",
 			"indices": [
 				0,
 				1,
@@ -54,17 +53,17 @@
 				13,
 				14,
 				15
-			]
+			],
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				10,
 				279
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left",
+			"anim": "singLEFT",
 			"indices": [
 				0,
 				1,
@@ -82,17 +81,17 @@
 				13,
 				14,
 				15
-			]
+			],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-32,
 				294
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "up",
+			"anim": "singUP",
 			"indices": [
 				0,
 				1,
@@ -110,30 +109,36 @@
 				13,
 				14,
 				15
-			]
+			],
+			"name": "up"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-30,
 				250
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				173,
 				321
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "alt",
-			"indices": [],
-			"name": "alt"
+			"fps": 24,
+			"name": "alt",
+			"indices": []
 		}
+	],
+	"losing_colors": [
+		187,
+		0,
+		0
 	],
 	"no_antialiasing": false,
 	"image": "characters/ExtremeDemon",
@@ -154,5 +159,10 @@
 	],
 	"sing_duration": 6.1,
 	"noteskin": null,
+	"winning_colors": [
+		1,
+		255,
+		69
+	],
 	"scale": 0.8
 }

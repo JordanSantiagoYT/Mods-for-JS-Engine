@@ -97,8 +97,8 @@
 	"no_antialiasing": false,
 	"image": "characters/easy_face",
 	"position": [
-		100,
-		350
+		30,
+		370
 	],
 	"healthicon": "easy",
 	"flip_x": false,
@@ -108,8 +108,8 @@
 		255
 	],
 	"camera_position": [
-		-540,
-		-550
+		-620,
+		-480
 	],
 	"sing_duration": 4,
 	"noteskin": null,
