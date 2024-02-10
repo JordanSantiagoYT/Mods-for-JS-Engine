@@ -10,7 +10,11 @@ function onEvent(name, value1, value2)
         addLuaText(lyricNumber)
         setTextSize(lyricNumber, 40)
         setTextString(lyricNumber, value1)
-        setTextColor(lyricNumber, 255,255,255)
+		if value2 == '' then
+		    --do nothing lol
+		else
+		setTextColor('lyricNumber', (value2))
+		end
         doTweenY(lyricNumber, lyricNumber, 500, 0.5, 'QuadOut')
         doTweenY(lyricNumber2, lyricNumber2, 450, 0.5, 'QuadOut')
         doTweenY(lyricNumber3, lyricNumber3, 400, 0.5, 'QuadOut')
