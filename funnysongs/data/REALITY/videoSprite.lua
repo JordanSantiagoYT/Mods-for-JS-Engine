@@ -19,6 +19,7 @@ function onCreate()
     setProperty('gfGroup.visible', false);
     	scaleObject('videoSprite', 3, 3);
 	setObjectOrder('videoSprite', 1);
+        setScrollFactor('videoSprite', 0, 0);
 	setObjectCamera('videoSprite', 'camGame');
 	-- makes the video sprite
 

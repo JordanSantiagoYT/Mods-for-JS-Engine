@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jax.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jax down0000" x="0" y="0" width="1510" height="1163" frameX="0" frameY="-12" frameWidth="1510" frameHeight="1176"/>
+	<SubTexture name="jax down0001" x="0" y="0" width="1510" height="1163" frameX="0" frameY="-12" frameWidth="1510" frameHeight="1176"/>
+	<SubTexture name="jax down0002" x="1510" y="0" width="1478" height="1176" frameX="-13" frameY="0" frameWidth="1510" frameHeight="1176"/>
+	<SubTexture name="jax idle0000" x="2988" y="0" width="1764" height="1757" frameX="-85" frameY="-20" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0001" x="2988" y="0" width="1764" height="1757" frameX="-85" frameY="-20" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0002" x="4752" y="0" width="1640" height="1773" frameX="-125" frameY="-4" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0003" x="4752" y="0" width="1640" height="1773" frameX="-125" frameY="-4" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0004" x="6392" y="0" width="1609" height="1777" frameX="-137" frameY="0" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0005" x="6392" y="0" width="1609" height="1777" frameX="-137" frameY="0" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0006" x="6392" y="0" width="1609" height="1777" frameX="-137" frameY="0" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0007" x="0" y="1777" width="1798" height="1757" frameX="0" frameY="-20" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0008" x="0" y="1777" width="1798" height="1757" frameX="0" frameY="-20" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0009" x="1798" y="1777" width="1649" height="1773" frameX="-108" frameY="-4" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0010" x="1798" y="1777" width="1649" height="1773" frameX="-108" frameY="-4" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0011" x="6392" y="0" width="1609" height="1777" frameX="-137" frameY="0" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0012" x="6392" y="0" width="1609" height="1777" frameX="-137" frameY="0" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax idle0013" x="6392" y="0" width="1609" height="1777" frameX="-137" frameY="0" frameWidth="1849" frameHeight="1777"/>
+	<SubTexture name="jax left0000" x="3447" y="1777" width="1832" height="1985" frameX="0" frameY="-5" frameWidth="1832" frameHeight="1990"/>
+	<SubTexture name="jax left0001" x="3447" y="1777" width="1832" height="1985" frameX="0" frameY="-5" frameWidth="1832" frameHeight="1990"/>
+	<SubTexture name="jax left0002" x="5279" y="1777" width="1760" height="1990" frameX="-71" frameY="0" frameWidth="1832" frameHeight="1990"/>
+	<SubTexture name="jax right0000" x="0" y="3767" width="1240" height="1754" frameX="-20" frameY="0" frameWidth="1260" frameHeight="1754"/>
+	<SubTexture name="jax right0001" x="0" y="3767" width="1240" height="1754" frameX="-20" frameY="0" frameWidth="1260" frameHeight="1754"/>
+	<SubTexture name="jax right0002" x="1240" y="3767" width="1196" height="1754" frameX="-4" frameY="0" frameWidth="1260" frameHeight="1754"/>
+	<SubTexture name="jax right0003" x="1240" y="3767" width="1196" height="1754" frameX="-4" frameY="0" frameWidth="1260" frameHeight="1754"/>
+	<SubTexture name="jax right0004" x="2436" y="3767" width="1183" height="1754" frameX="0" frameY="0" frameWidth="1260" frameHeight="1754"/>
+	<SubTexture name="jax up0000" x="3619" y="3767" width="682" height="2199" frameX="-16" frameY="0" frameWidth="715" frameHeight="2199"/>
+	<SubTexture name="jax up0001" x="3619" y="3767" width="682" height="2199" frameX="-16" frameY="0" frameWidth="715" frameHeight="2199"/>
+	<SubTexture name="jax up0002" x="4301" y="3767" width="715" height="2183" frameX="0" frameY="-16" frameWidth="715" frameHeight="2199"/>
+</TextureAtlas>
