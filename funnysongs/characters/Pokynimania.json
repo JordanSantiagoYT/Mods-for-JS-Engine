@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": false,
+			"name": "pokynimania idle"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pokynimania left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pokynimania down"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pokynimania up"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pokynimania right"
+		}
+	],
+	"losing_colors": [
+		0,
+		0,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/pokynimania",
+	"position": [
+		-410,
+		-80
+	],
+	"healthicon": "poky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		110,
+		250
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		0,
+		0,
+		255
+	],
+	"scale": 0.7
+}

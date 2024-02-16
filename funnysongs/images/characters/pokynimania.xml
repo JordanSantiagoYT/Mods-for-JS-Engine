@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pokynimania.png">
+<SubTexture name="pokynimania idle0000" x="432" y="556" width="500" height="500" frameX="-409" frameY="-359" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania idle0001" x="1818" y="0" width="562" height="469" frameX="-409" frameY="-391" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania idle0002" x="1413" y="1556" width="616" height="424" frameX="-409" frameY="-436" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania idle0003" x="1818" y="915" width="516" height="426" frameX="-394" frameY="-434" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania left0000" x="598" y="1059" width="484" height="484" frameX="-412" frameY="-362" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania left0001" x="769" y="1556" width="644" height="444" frameX="-252" frameY="-403" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania left0002" x="2380" y="0" width="726" height="400" frameX="-170" frameY="-447" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania down0000" x="1318" y="0" width="500" height="500" frameX="-409" frameY="-356" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania down0001" x="1818" y="469" width="503" height="446" frameX="-406" frameY="-411" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania down0002" x="2380" y="400" width="512" height="397" frameX="-408" frameY="-460" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania down0003" x="2380" y="797" width="532" height="337" frameX="-409" frameY="-521" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania up0000" x="0" y="556" width="432" height="503" frameX="-410" frameY="-355" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania up0001" x="879" y="0" width="439" height="515" frameX="-398" frameY="-342" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania up0002" x="439" y="0" width="440" height="537" frameX="-410" frameY="-320" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania up0003" x="0" y="0" width="439" height="556" frameX="-412" frameY="-301" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania right0000" x="1318" y="500" width="500" height="500" frameX="-412" frameY="-355" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania right0001" x="0" y="1059" width="598" height="497" frameX="-412" frameY="-359" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania right0002" x="1082" y="1059" width="674" height="484" frameX="-412" frameY="-372" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="pokynimania right0003" x="0" y="1556" width="769" height="451" frameX="-412" frameY="-405" frameWidth="1600" frameHeight="1200" />
+</TextureAtlas>
