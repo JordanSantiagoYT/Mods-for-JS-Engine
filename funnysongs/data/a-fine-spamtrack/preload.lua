@@ -1,0 +1,11 @@
+function onCreate()
+    precacheImage('sky')
+    precacheImage('orangey hills')
+    precacheImage('cornbag')
+    precacheImage('gm_flatgrass')
+    precacheImage('funfarmhouse')
+    precacheImage('grass lands')
+    precacheImage('Cornys')
+    precacheImage('crazy fences')
+    precacheImage('Sign')
+end
