@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Nil-Remake",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Rechart",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}
