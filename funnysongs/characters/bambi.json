@@ -54,26 +54,86 @@
 			"fps": 24,
 			"name": "bambi up",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-357
+			],
+			"anim": "phoneSmash",
+			"fps": 24,
+			"name": "bambi phone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				-433
+			],
+			"anim": "browut",
+			"fps": 24,
+			"name": "bambi look",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-112,
+				-437
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "bambi alt left"
+		},
+		{
+			"offsets": [
+				-119,
+				-429
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "bambi alt right"
 		}
+	],
+	"losing_colors": [
+		37,
+		191,
+		55
 	],
 	"no_antialiasing": false,
 	"image": "characters/bambi",
+	"shake_duration": 0,
 	"position": [
 		-70,
 		-100
 	],
+	"health_drain": false,
+	"shake_intensity": 0,
 	"healthicon": "bambi",
+	"shake_screen": false,
+	"drain_floor": 0,
 	"flip_x": false,
 	"healthbar_colors": [
 		37,
 		191,
 		55
 	],
+	"drain_amount": 0,
 	"camera_position": [
 		80,
 		460
 	],
 	"sing_duration": 4,
 	"noteskin": null,
+	"winning_colors": [
+		37,
+		191,
+		55
+	],
 	"scale": 1
 }
