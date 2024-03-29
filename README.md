@@ -8,3 +8,5 @@ To download the charts, you have to download all of them at once because of how 
 2. Press "Download ZIP"
 3. Unzip the files
 4. Drag and drop them into your JS Engine's mods folder!
+
+PS: This is 2.2GB zipped, 3.6GB unzipped, 5.8GB total.
