@@ -1,3 +1,0 @@
-jumpscare the player with a white light
-
-Value 1: speed

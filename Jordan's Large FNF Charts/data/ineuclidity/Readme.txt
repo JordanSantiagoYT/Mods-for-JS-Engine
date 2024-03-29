@@ -1,1 +1,0 @@
-Hey there! Since GitHub doesn't allow files bigger than 100MB, and Git LFS caused some of the week JSONs to break, the songs will instead be stored in https://drive.google.com/drive/folders/1KQx0nTsuiTimlo8YiNLuet_QURYozY2o.

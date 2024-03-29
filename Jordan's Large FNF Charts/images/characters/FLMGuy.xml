@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="FLMGuy.png">
-<SubTexture name="FLMGuy down0000" x="1399" y="696" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
-<SubTexture name="FLMGuy idle0000" x="599" y="0" width="800" height="800" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
-<SubTexture name="FLMGuy left0000" x="0" y="0" width="599" height="1221" frameX="0" frameY="0" frameWidth="599" frameHeight="1221" />
-<SubTexture name="FLMGuy right0000" x="1759" y="696" width="234" height="193" frameX="-11" frameY="-32" frameWidth="256" frameHeight="256" />
-<SubTexture name="FLMGuy up0000" x="1399" y="0" width="612" height="696" frameX="-68" frameY="-4" frameWidth="720" frameHeight="720" />
-</TextureAtlas>
