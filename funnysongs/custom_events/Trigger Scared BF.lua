@@ -3,6 +3,7 @@ function onCreate()
     addCharacterToList('bfMildScared', 'boyfriend')
     addCharacterToList('bfVeryScared', 'boyfriend')
     addCharacterToList('bfTraumatized', 'boyfriend')
+    addCharacterToList('bf', 'boyfriend')
 end
 function onEvent(name,value1,value2)
     if name == "Trigger Scared BF" then
@@ -18,6 +19,9 @@ function onEvent(name,value1,value2)
 	end
 	if value1 == 3 then
 		triggerEvent('Change Character', 0, 'bfTraumatized')
+	end
+	if value1 == 4 then
+		triggerEvent('Change Character', 0, 'bf')
 	end
     end
 end

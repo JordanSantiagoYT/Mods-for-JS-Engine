@@ -6,3 +6,4 @@ Value 1 tells the gamewhich one to use.
 1 - bfMildScared
 2 - bfVeryScared
 3 - bfTraumatized
+4 - Change back to BF
