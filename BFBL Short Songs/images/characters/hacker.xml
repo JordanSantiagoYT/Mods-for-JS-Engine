@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hacker.png">
+<SubTexture name="hacker idle0000" x="0" y="0" width="442" height="252" frameX="-94" frameY="-140" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker idle0001" x="442" y="0" width="406" height="263" frameX="-94" frameY="-129" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker idle0002" x="848" y="0" width="466" height="270" frameX="-94" frameY="-124" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker idle0003" x="1314" y="0" width="382" height="268" frameX="-94" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker idle0004" x="0" y="270" width="426" height="273" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker idle0005" x="426" y="270" width="426" height="273" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker idle0006" x="852" y="270" width="426" height="273" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker left0000" x="1278" y="270" width="345" height="336" frameX="-10" frameY="-47" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker left0001" x="0" y="606" width="340" height="323" frameX="-58" frameY="-60" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker left0002" x="340" y="606" width="390" height="291" frameX="-76" frameY="-92" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker left0003" x="730" y="606" width="420" height="264" frameX="-84" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker left0004" x="1150" y="606" width="426" height="275" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker left0005" x="0" y="929" width="426" height="275" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker down0000" x="426" y="929" width="515" height="224" frameX="-45" frameY="-258" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker down0001" x="941" y="929" width="473" height="221" frameX="-71" frameY="-179" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker down0002" x="1414" y="929" width="459" height="260" frameX="-83" frameY="-140" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker down0003" x="0" y="1204" width="441" height="269" frameX="-89" frameY="-125" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker down0004" x="441" y="1204" width="426" height="274" frameX="-94" frameY="-118" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker down0005" x="867" y="1204" width="428" height="273" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker up0000" x="1295" y="1204" width="348" height="379" frameX="-124" frameY="-4" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker up0001" x="0" y="1583" width="365" height="328" frameX="-109" frameY="-55" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker up0002" x="365" y="1583" width="377" height="302" frameX="-103" frameY="-81" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker up0003" x="742" y="1583" width="370" height="288" frameX="-98" frameY="-95" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker up0004" x="1112" y="1583" width="372" height="264" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker up0005" x="0" y="1911" width="372" height="264" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker right0000" x="372" y="1911" width="497" height="331" frameX="-153" frameY="-78" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker right0001" x="869" y="1911" width="462" height="301" frameX="-122" frameY="-95" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker right0002" x="1331" y="1911" width="428" height="282" frameX="-106" frameY="-105" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker right0003" x="0" y="2242" width="408" height="273" frameX="-100" frameY="-110" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker right0004" x="408" y="2242" width="390" height="265" frameX="-94" frameY="-118" frameWidth="640" frameHeight="480" />
+<SubTexture name="hacker right0005" x="798" y="2242" width="390" height="264" frameX="-94" frameY="-119" frameWidth="640" frameHeight="480" />
+</TextureAtlas>

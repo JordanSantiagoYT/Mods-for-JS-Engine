@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hacker idle"
+		},
+		{
+			"offsets": [
+				-110,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hacker left"
+		},
+		{
+			"offsets": [
+				-109,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hacker down"
+		},
+		{
+			"offsets": [
+				-110,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hacker up"
+		},
+		{
+			"offsets": [
+				-107,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hacker right"
+		}
+	],
+	"losing_colors": [
+		221,
+		122,
+		28
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/hacker",
+	"shake_duration": 0,
+	"position": [
+		-150,
+		0
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "hacker",
+	"shake_screen": false,
+	"drain_floor": 0.05,
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		122,
+		28
+	],
+	"drain_amount": 0.025,
+	"camera_position": [
+		-80,
+		220
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		221,
+		122,
+		28
+	],
+	"scale": 1.2
+}
