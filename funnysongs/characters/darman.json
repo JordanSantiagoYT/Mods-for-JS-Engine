@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-290,
+				57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"losing_colors": [
+		255,
+		145,
+		6
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/darman",
+	"shake_duration": 0,
+	"position": [
+		-350,
+		-80
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "dharman",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		7,
+		7,
+		7
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		70,
+		120
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		7,
+		7,
+		7
+	],
+	"scale": 0.75
+}
