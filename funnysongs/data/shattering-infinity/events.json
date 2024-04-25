@@ -1,0 +1,16 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Note Multiplier",
+						"30.46875",
+						""
+					]
+				]
+			]
+		]
+	}
+}
