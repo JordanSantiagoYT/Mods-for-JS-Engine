@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-330
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "a_bambi idle"
+		},
+		{
+			"offsets": [
+				-78,
+				-164
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "a_bambi up"
+		},
+		{
+			"offsets": [
+				23,
+				-338
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "a_bambi left"
+		},
+		{
+			"offsets": [
+				35,
+				-362
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "a_bambi down"
+		},
+		{
+			"offsets": [
+				-41,
+				-275
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "a_bambi right"
+		}
+	],
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/redBambiLmao",
+	"shake_duration": 0.05,
+	"position": [
+		-90,
+		10
+	],
+	"health_drain": true,
+	"shake_intensity": 0.01,
+	"healthicon": "angryRedBambi",
+	"shake_screen": true,
+	"drain_floor": 0.05,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"drain_amount": 0.03,
+	"camera_position": [
+		-30,
+		330
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		0
+	],
+	"scale": 1
+}
