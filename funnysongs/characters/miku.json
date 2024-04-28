@@ -1,0 +1,162 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Miku idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Miku Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Miku Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss Miku Sing Note DOWN MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				51
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss Miku Sing Note UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				7
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "miku hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-84
+			],
+			"anim": "ew",
+			"fps": 24,
+			"name": "ew miku",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Miku Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-82,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Miku Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				26,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "miss Miku Sing Note LEFT MISS"
+		},
+		{
+			"offsets": [
+				-75,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "miss Miku Sing Note RIGHT MISS"
+		}
+	],
+	"losing_colors": [
+		50,
+		205,
+		184
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/ev_miku_assets",
+	"shake_duration": 0,
+	"position": [
+		0,
+		0
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "miku",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		205,
+		184
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-60,
+		-40
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		50,
+		205,
+		184
+	],
+	"scale": 1
+}

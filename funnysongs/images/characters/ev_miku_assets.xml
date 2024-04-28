@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ev_miku_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Miku Sing Note DOWN0000" x="0" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0001" x="0" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0002" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0003" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0004" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0005" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0006" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0007" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0008" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0009" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0010" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0011" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0012" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0013" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0014" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0015" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="Miku Sing Note DOWN0016" x="481" y="0" width="481" height="756" frameX="0" frameY="0" frameWidth="500" frameHeight="975"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0000" x="962" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0001" x="962" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0002" x="1456" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0003" x="1456" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0004" x="1950" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0005" x="1950" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0006" x="2444" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0007" x="2444" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0008" x="1950" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0009" x="1950" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0010" x="2444" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0011" x="2444" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0012" x="1950" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0013" x="1950" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0014" x="2444" y="0" width="494" height="756"/>
+	<SubTexture name="miss Miku Sing Note DOWN MISS0015" x="2444" y="0" width="494" height="756"/>
+	<SubTexture name="Miku Sing Note LEFT0000" x="2938" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0001" x="2938" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0002" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0003" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0004" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0005" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0006" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0007" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0008" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0009" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0010" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0011" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0012" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0013" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="Miku Sing Note LEFT0014" x="3398" y="0" width="460" height="755"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0000" x="3858" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0001" x="3858" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0002" x="4321" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0003" x="4321" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0004" x="4784" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0005" x="4784" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0006" x="5247" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0007" x="5247" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0008" x="4784" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0009" x="4784" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0010" x="5247" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0011" x="5247" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0012" x="4784" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0013" x="4784" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0014" x="5247" y="0" width="463" height="757"/>
+	<SubTexture name="miss Miku Sing Note LEFT MISS0015" x="5247" y="0" width="463" height="757"/>
+	<SubTexture name="Miku Sing Note RIGHT0000" x="0" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0001" x="0" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0002" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0003" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0004" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0005" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0006" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0007" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0008" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0009" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0010" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0011" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0012" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0013" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0014" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="Miku Sing Note RIGHT0015" x="455" y="757" width="455" height="756"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0000" x="910" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0001" x="910" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0002" x="1380" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0003" x="1380" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0004" x="1850" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0005" x="1850" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0006" x="2320" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0007" x="2320" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0008" x="1850" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0009" x="1850" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0010" x="2320" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0011" x="2320" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0012" x="1850" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0013" x="1850" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0014" x="2320" y="757" width="470" height="757"/>
+	<SubTexture name="miss Miku Sing Note RIGHT MISS0015" x="2320" y="757" width="470" height="757"/>
+	<SubTexture name="Miku Sing Note UP0000" x="2790" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0001" x="2790" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0002" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0003" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0004" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0005" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0006" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0007" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0008" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0009" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0010" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0011" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0012" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0013" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0014" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="Miku Sing Note UP0015" x="3244" y="757" width="454" height="805"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0000" x="3698" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0001" x="3698" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0002" x="4169" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0003" x="4169" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0004" x="4640" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0005" x="4640" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0006" x="5111" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0007" x="5111" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0008" x="4640" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0009" x="4640" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0010" x="5111" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0011" x="5111" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0012" x="4640" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0013" x="4640" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0014" x="5111" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0015" x="5111" y="757" width="471" height="807"/>
+	<SubTexture name="miss Miku Sing Note UP MISS0016" x="4640" y="757" width="471" height="807"/>
+	<SubTexture name="Miku idle dance0000" x="0" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0001" x="0" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0002" x="470" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0003" x="470" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0004" x="940" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0005" x="940" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0006" x="1410" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0007" x="1410" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0008" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0009" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0010" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0011" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0012" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0013" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0014" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0015" x="2350" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0016" x="2350" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0017" x="2820" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0018" x="2820" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0019" x="3290" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0020" x="3290" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0021" x="3760" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0022" x="3760" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0023" x="3760" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0024" x="3760" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0025" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0026" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0027" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0028" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0029" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0030" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="Miku idle dance0031" x="1880" y="1564" width="470" height="754"/>
+	<SubTexture name="deathConfirm0000" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0001" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0002" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0003" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0004" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0005" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0006" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0007" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0008" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0009" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0010" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0011" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0012" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0013" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0014" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0015" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0016" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0017" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0018" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0019" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0020" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0021" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0022" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0023" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0024" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0025" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0026" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0027" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0028" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0029" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0030" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0031" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0032" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathConfirm0033" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0000" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0001" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0002" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0003" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0004" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0005" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0006" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0007" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0008" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0009" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0010" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0011" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0012" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0013" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0014" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0015" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0016" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0017" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0018" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0019" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0020" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0021" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0022" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0023" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0024" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0025" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0026" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0027" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0028" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0029" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0030" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0031" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0032" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="deathLoop0033" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="ew miku0000" x="4230" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0001" x="4230" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0002" x="4738" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0003" x="4738" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0004" x="5246" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0005" x="5246" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0006" x="0" y="2318" width="508" height="669"/>
+	<SubTexture name="ew miku0007" x="0" y="2318" width="508" height="669"/>
+	<SubTexture name="ew miku0008" x="5246" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0009" x="5246" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0010" x="0" y="2318" width="508" height="669"/>
+	<SubTexture name="ew miku0011" x="0" y="2318" width="508" height="669"/>
+	<SubTexture name="ew miku0012" x="5246" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0013" x="5246" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0014" x="0" y="2318" width="508" height="669"/>
+	<SubTexture name="ew miku0015" x="0" y="2318" width="508" height="669"/>
+	<SubTexture name="ew miku0016" x="5246" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0017" x="5246" y="1564" width="508" height="669"/>
+	<SubTexture name="ew miku0018" x="0" y="2318" width="508" height="669"/>
+	<SubTexture name="ew miku0019" x="0" y="2318" width="508" height="669"/>
+	<SubTexture name="firstDeath0000" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0001" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0002" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0003" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0004" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0005" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0006" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0007" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0008" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0009" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0010" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0011" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0012" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0013" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0014" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0015" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0016" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0017" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0018" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0019" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0020" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0021" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0022" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0023" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0024" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0025" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0026" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0027" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0028" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0029" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0030" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0031" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0032" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0033" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0034" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0035" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0036" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0037" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0038" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0039" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0040" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0041" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0042" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0043" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0044" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0045" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0046" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0047" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0048" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0049" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0050" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0051" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0052" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0053" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0054" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0055" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0056" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="firstDeath0057" x="508" y="2318" width="200" height="200"/>
+	<SubTexture name="miku hey0000" x="708" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0001" x="708" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0002" x="1219" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0003" x="1219" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0004" x="1730" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0005" x="1730" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0006" x="2241" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0007" x="2241" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0008" x="1730" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0009" x="1730" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0010" x="2241" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0011" x="2241" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0012" x="1730" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0013" x="1730" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0014" x="2241" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0015" x="2241" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0016" x="1730" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0017" x="1730" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0018" x="2241" y="2318" width="511" height="761"/>
+	<SubTexture name="miku hey0019" x="2241" y="2318" width="511" height="761"/>
+</TextureAtlas>
