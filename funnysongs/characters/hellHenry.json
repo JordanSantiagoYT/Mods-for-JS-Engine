@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Henry Idle"
+		},
+		{
+			"offsets": [
+				149,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Henry Left"
+		},
+		{
+			"offsets": [
+				137,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Henry Down"
+		},
+		{
+			"offsets": [
+				19,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Henry Up"
+		},
+		{
+			"offsets": [
+				14,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Henry Right"
+		},
+		{
+			"offsets": [
+				-4,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shock",
+			"indices": [],
+			"name": "henry shock omg"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				30
+			],
+			"anim": "armed",
+			"fps": 24,
+			"name": "Henry React Arm",
+			"indices": []
+		}
+	],
+	"losing_colors": [
+		0,
+		0,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/hellHenryAssets",
+	"shake_duration": 0.02,
+	"position": [
+		0,
+		50
+	],
+	"health_drain": true,
+	"shake_intensity": 0.0125,
+	"healthicon": "hellHenry",
+	"shake_screen": true,
+	"drain_floor": 0.1,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"drain_amount": 0.025,
+	"camera_position": [
+		-60,
+		110
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		255
+	],
+	"scale": 1
+}
