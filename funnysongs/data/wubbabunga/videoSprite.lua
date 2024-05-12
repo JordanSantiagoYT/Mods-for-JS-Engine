@@ -16,7 +16,7 @@ function onCreate()
 
 	makeLuaSprite('videoSprite','',-100,0)
 	addLuaSprite('videoSprite')
-    setProperty('gfGroup.visible', false);
+    	setProperty('gfGroup.visible', false);
 	-- makes the video sprite
 
 	addHaxeLibrary('MP4Handler','vlc')

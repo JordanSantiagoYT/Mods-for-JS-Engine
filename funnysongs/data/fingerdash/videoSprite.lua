@@ -1,23 +1,9 @@
---bbpanzu
---[[
-
-you could call it like
-
-addLuaScript('videoSprite')
-
-and it'll pop up right then and there
-
-
-
-
-]]
-
 function onCreate()
 
 	makeLuaSprite('videoSprite','',0)
 	addLuaSprite('videoSprite')
 	setObjectCamera("videoSprite", 'camHUD');
-    setProperty('gfGroup.visible', false);
+    	setProperty('gfGroup.visible', false);
 	-- makes the video sprite
 
 	addHaxeLibrary('MP4Handler','vlc')
