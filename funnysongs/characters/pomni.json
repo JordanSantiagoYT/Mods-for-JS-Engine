@@ -1,79 +1,96 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				403,
 				551
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "pom idle"
+			"fps": 24,
+			"name": "pom idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				471,
 				647
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "pom up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "pom up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				340,
 				550
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "pom right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pom right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				534,
 				577
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "pom left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pom left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				313,
 				370
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "pom down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pom down"
 		}
 	],
+	"losing_colors": [
+		226,
+		49,
+		72
+	],
+	"isPlayer": false,
 	"no_antialiasing": true,
 	"image": "characters/pomni",
+	"shake_duration": 0,
 	"position": [
 		110,
 		490
 	],
+	"health_drain": false,
+	"shake_intensity": 0,
 	"healthicon": "pomni",
+	"shake_screen": false,
+	"drain_floor": 0,
 	"flip_x": false,
 	"healthbar_colors": [
 		226,
 		49,
 		72
 	],
+	"drain_amount": 0,
 	"camera_position": [
 		-130,
-		-140
+		-180
 	],
 	"sing_duration": 4,
 	"noteskin": null,
+	"winning_colors": [
+		226,
+		49,
+		72
+	],
 	"scale": 0.400000000000005
 }
