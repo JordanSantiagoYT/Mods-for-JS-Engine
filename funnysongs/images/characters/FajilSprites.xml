@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fajil.png">
+<SubTexture name="fajil idle0000" x="0" y="0" width="870" height="662" frameX="-95" frameY="-170" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>
