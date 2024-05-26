@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Jellybean.png" width="3768" height="1164">
+  <SubTexture name="JellyDownSing0001" x="0" y="0"  width="500" height="304" frameX="-400" frameY="-403" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyDownSing0002" x="500" y="0"  width="420" height="382" frameX="-434" frameY="-325" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyDownSing0003" x="920" y="0"  width="407" height="395" frameX="-440" frameY="-311" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyIdleDance0001" x="1327" y="0"  width="514" height="448" frameX="-393" frameY="-250" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyLeftSing0003" x="1841" y="0"  width="465" height="464" frameX="-152" frameY="-105" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyIdleDance0002" x="2306" y="0"  width="486" height="472" frameX="-407" frameY="-226" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyIdleDance0003" x="2792" y="0"  width="478" height="478" frameX="-411" frameY="-220" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyLeftSing0002" x="3270" y="0"  width="498" height="490" frameX="-110" frameY="-114" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyLeftSing0001" x="0" y="382"  width="562" height="498" frameX="-40" frameY="-129" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyRightSing0003" x="562" y="395"  width="513" height="512" frameX="-508" frameY="-63" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyRightSing0002" x="1075" y="448"  width="559" height="548" frameX="-515" frameY="-71" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyRightSing0001" x="1634" y="464"  width="598" height="554" frameX="-534" frameY="-82" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyUpSing0003" x="2232" y="472"  width="489" height="627" frameX="-393" frameY="-79" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyUpSing0002" x="2721" y="478"  width="435" height="647" frameX="-420" frameY="-59" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="JellyUpSing0001" x="3156" y="490"  width="361" height="674" frameX="-457" frameY="-32" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
