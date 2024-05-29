@@ -1,0 +1,266 @@
+{
+	"song": {
+		"events": [
+			[
+				19104.4776119403,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				56716.4179104479,
+				[
+					[
+						"Camera Bopping",
+						"96",
+						"1"
+					]
+				]
+			],
+			[
+				57313.432835821,
+				[
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					],
+					[
+						"Set Bot Energy Speeds",
+						"1.2",
+						"0.8"
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				66865.6716417912,
+				[
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					],
+					[
+						"Set Bot Energy Speeds",
+						"1.2",
+						"0.8"
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				94925.3731343286,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.7"
+					]
+				]
+			],
+			[
+				95522.3880597017,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					],
+					[
+						"Set Bot Energy Speeds",
+						"0.6",
+						"1"
+					]
+				]
+			],
+			[
+				114029.850746269,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				114626.865671642,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				132537.313432836,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				133134.328358209,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					],
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				133731.343283582,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				171343.28358209,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				171940.298507463,
+				[
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					],
+					[
+						"Set Bot Energy Speeds",
+						"1.2",
+						"0.8"
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				209850.746268657,
+				[
+					[
+						"Change Scroll Speed",
+						"16",
+						"0.7"
+					]
+				]
+			],
+			[
+				210149.253731344,
+				[
+					[
+						"Set Bot Energy Speeds",
+						"0.6",
+						"1.2"
+					],
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				219701.492537314,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				228656.716417911,
+				[
+					[
+						"Change Scroll Speed",
+						"64",
+						"0.7"
+					]
+				]
+			],
+			[
+				229253.731343284,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				248358.208955225,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Disable Bot Energy",
+						"",
+						""
+					],
+					[
+						"Disable Camera Bop",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}
