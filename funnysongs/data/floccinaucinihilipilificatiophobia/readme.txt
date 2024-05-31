@@ -1,0 +1,2 @@
+There's actually an unnerfed version of this chart, however upon attempting to run it I've decided it's too strong for the engine to handle.
+If you want to try to render it anyway, here's the link to the unnerfed chart: https://drive.google.com/file/d/1G6XRTz1Pc_LFXo6coDndumYVyZq-S3U0/view?usp=drive_link
