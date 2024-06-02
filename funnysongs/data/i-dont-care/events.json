@@ -1,0 +1,526 @@
+{
+	"song": {
+		"events": [
+			[
+				88275.8620689653,
+				[
+					[
+						"Change Note Multiplier",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				117471.264367816,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				117701.149425287,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				131494.252873563,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				132413.793103448,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				133103.448275862,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				133333.333333333,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				134022.988505747,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				134252.873563218,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				134482.758620689,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				134712.643678161,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				134942.528735632,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				135172.413793103,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				135862.068965517,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						""
+					]
+				]
+			],
+			[
+				136091.954022988,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				137011.494252873,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						""
+					]
+				]
+			],
+			[
+				137931.034482758,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				138850.574712643,
+				[
+					[
+						"Change Note Multiplier",
+						"128",
+						""
+					]
+				]
+			],
+			[
+				139770.114942529,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				140459.770114942,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				140689.655172414,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				141379.310344827,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				141609.195402299,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				141839.08045977,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				142068.965517241,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				142298.850574712,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				142528.735632184,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				143218.390804598,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						""
+					]
+				]
+			],
+			[
+				143448.275862069,
+				[
+					[
+						"Change Note Multiplier",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				144367.816091954,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						""
+					]
+				]
+			],
+			[
+				145287.356321839,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				146206.896551724,
+				[
+					[
+						"Change Note Multiplier",
+						"128",
+						""
+					]
+				]
+			],
+			[
+				147126.436781609,
+				[
+					[
+						"Change Note Multiplier",
+						"256",
+						""
+					]
+				]
+			],
+			[
+				160919.540229885,
+				[
+					[
+						"Change Note Multiplier",
+						"512",
+						""
+					]
+				]
+			],
+			[
+				161379.310344828,
+				[
+					[
+						"Change Note Multiplier",
+						"768",
+						""
+					]
+				]
+			],
+			[
+				161839.080459771,
+				[
+					[
+						"Change Note Multiplier",
+						"256",
+						""
+					]
+				]
+			],
+			[
+				175632.183908047,
+				[
+					[
+						"Change Note Multiplier",
+						"512",
+						""
+					]
+				]
+			],
+			[
+				176091.954022989,
+				[
+					[
+						"Change Note Multiplier",
+						"768",
+						""
+					]
+				]
+			],
+			[
+				176551.724137932,
+				[
+					[
+						"Change Note Multiplier",
+						"2048",
+						""
+					]
+				]
+			],
+			[
+				185517.241379311,
+				[
+					[
+						"Change Note Multiplier",
+						"3072",
+						""
+					]
+				]
+			],
+			[
+				185747.126436783,
+				[
+					[
+						"Change Note Multiplier",
+						"2048",
+						""
+					]
+				]
+			],
+			[
+				187126.43678161,
+				[
+					[
+						"Change Note Multiplier",
+						"3072",
+						""
+					]
+				]
+			],
+			[
+				187586.206896553,
+				[
+					[
+						"Change Note Multiplier",
+						"2048",
+						""
+					]
+				]
+			],
+			[
+				189195.402298852,
+				[
+					[
+						"Change Note Multiplier",
+						"3072",
+						""
+					]
+				]
+			],
+			[
+				189425.287356323,
+				[
+					[
+						"Change Note Multiplier",
+						"2048",
+						""
+					]
+				]
+			],
+			[
+				190344.827586208,
+				[
+					[
+						"Change Note Multiplier",
+						"3072",
+						""
+					]
+				]
+			],
+			[
+				191264.367816093,
+				[
+					[
+						"Change Note Multiplier",
+						"8192",
+						""
+					]
+				]
+			],
+			[
+				204137.931034484,
+				[
+					[
+						"Change Note Multiplier",
+						"4096",
+						""
+					]
+				]
+			],
+			[
+				205057.471264369,
+				[
+					[
+						"Change Note Multiplier",
+						"16384",
+						""
+					]
+				]
+			],
+			[
+				205977.011494254,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				235402.298850577,
+				[
+					[
+						"Change Note Multiplier",
+						"131072",
+						""
+					]
+				]
+			],
+			[
+				235862.06896552,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}
