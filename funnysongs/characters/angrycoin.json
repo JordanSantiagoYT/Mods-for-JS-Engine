@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-164
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-171
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-134
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-161
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "angryIdle",
+			"indices": []
+		}
+	],
+	"losing_colors": [
+		255,
+		102,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": true,
+	"image": "characters/ANGRY_COIN",
+	"shake_duration": 0,
+	"position": [
+		0,
+		80
+	],
+	"health_drain": true,
+	"shake_intensity": 0,
+	"healthicon": "coin",
+	"shake_screen": false,
+	"drain_floor": 0.1,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		162,
+		0
+	],
+	"drain_amount": 0.075,
+	"camera_position": [
+		60,
+		260
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		222,
+		0
+	],
+	"scale": 0.9
+}
