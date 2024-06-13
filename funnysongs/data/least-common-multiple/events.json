@@ -1,0 +1,151 @@
+{
+	"song": {
+		"events": [
+			[
+				46545.4545454546,
+				[
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69454.5454545455,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.4"
+					]
+				]
+			],
+			[
+				69818.1818181819,
+				[
+					[
+						"Change Note Multiplier",
+						"64",
+						""
+					]
+				]
+			],
+			[
+				81454.5454545455,
+				[
+					[
+						"Change Note Multiplier",
+						"128",
+						""
+					]
+				]
+			],
+			[
+				93090.9090909091,
+				[
+					[
+						"Change Note Multiplier",
+						"64",
+						""
+					]
+				]
+			],
+			[
+				104727.272727273,
+				[
+					[
+						"Change Note Multiplier",
+						"256",
+						""
+					]
+				]
+			],
+			[
+				116363.636363636,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				162545.454545455,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.4"
+					]
+				]
+			],
+			[
+				162909.090909091,
+				[
+					[
+						"Change Note Multiplier",
+						"128",
+						""
+					]
+				]
+			],
+			[
+				174545.454545455,
+				[
+					[
+						"Change Note Multiplier",
+						"256",
+						""
+					]
+				]
+			],
+			[
+				186181.818181818,
+				[
+					[
+						"Change Note Multiplier",
+						"256",
+						""
+					]
+				]
+			],
+			[
+				197818.181818182,
+				[
+					[
+						"Change Note Multiplier",
+						"1024",
+						""
+					]
+				]
+			],
+			[
+				209454.545454545,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Disable Bot Energy",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}
