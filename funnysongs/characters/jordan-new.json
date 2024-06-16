@@ -1,0 +1,184 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jordan new idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jordan new left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jordan new down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jordan new up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jordan new right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "jordan new left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "jordan new down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "jordan new up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "jordan new right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-4
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "jordan new hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "jordan new dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-6
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "jordan new attack",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-14,
+				-5
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "jordan new scared",
+			"indices": []
+		}
+	],
+	"losing_colors": [
+		162,
+		158,
+		159
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/jordanNew",
+	"shake_duration": 0,
+	"position": [
+		-60,
+		130
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "jordan-new",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		13,
+		12,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-10,
+		-60
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		13,
+		12,
+		10
+	],
+	"scale": 1.3
+}
