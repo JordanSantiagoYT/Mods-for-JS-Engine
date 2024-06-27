@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mulpan.png">
+<SubTexture name="mulpan idle0000" x="0" y="0" width="266" height="208" frameX="-168" frameY="-146" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan idle0001" x="266" y="0" width="270" height="216" frameX="-164" frameY="-138" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan idle0002" x="536" y="0" width="272" height="220" frameX="-162" frameY="-134" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan idle0003" x="808" y="0" width="272" height="222" frameX="-162" frameY="-132" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan idle0004" x="0" y="222" width="272" height="224" frameX="-162" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan idle0005" x="272" y="222" width="272" height="224" frameX="-162" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan left0000" x="544" y="222" width="424" height="224" frameX="-10" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan left0001" x="968" y="222" width="354" height="224" frameX="-80" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan left0002" x="0" y="446" width="310" height="224" frameX="-124" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan left0003" x="310" y="446" width="292" height="224" frameX="-142" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan left0004" x="602" y="446" width="272" height="224" frameX="-162" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan left0005" x="874" y="446" width="272" height="224" frameX="-162" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan down0000" x="0" y="670" width="263" height="255" frameX="-171" frameY="-224" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan down0001" x="263" y="670" width="272" height="191" frameX="-162" frameY="-180" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan down0002" x="535" y="670" width="264" height="196" frameX="-170" frameY="-160" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan down0003" x="799" y="670" width="266" height="210" frameX="-168" frameY="-144" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan down0004" x="0" y="925" width="272" height="224" frameX="-162" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan down0005" x="272" y="925" width="272" height="224" frameX="-162" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan up0000" x="544" y="925" width="266" height="348" frameX="-168" frameY="-6" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan up0001" x="810" y="925" width="266" height="248" frameX="-168" frameY="-106" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan up0002" x="0" y="1273" width="270" height="238" frameX="-164" frameY="-116" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan up0003" x="270" y="1273" width="270" height="232" frameX="-164" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan up0004" x="540" y="1273" width="272" height="224" frameX="-162" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan right0000" x="812" y="1273" width="364" height="264" frameX="-192" frameY="-112" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan right0001" x="0" y="1537" width="248" height="248" frameX="-200" frameY="-120" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan right0002" x="248" y="1537" width="232" height="232" frameX="-208" frameY="-128" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan right0003" x="480" y="1537" width="246" height="226" frameX="-190" frameY="-130" frameWidth="640" frameHeight="480" />
+<SubTexture name="mulpan right0004" x="726" y="1537" width="272" height="224" frameX="-162" frameY="-130" frameWidth="640" frameHeight="480" />
+</TextureAtlas>
