@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jsWave.png">
+<SubTexture name="jsWave idle0000" x="0" y="0" width="318" height="254" frameX="-180" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave idle0001" x="318" y="0" width="302" height="260" frameX="-200" frameY="-218" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave idle0002" x="620" y="0" width="288" height="278" frameX="-208" frameY="-206" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave idle0003" x="908" y="0" width="279" height="284" frameX="-213" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave idle0004" x="1187" y="0" width="272" height="288" frameX="-220" frameY="-198" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave idle0005" x="0" y="288" width="272" height="288" frameX="-220" frameY="-198" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave left0000" x="272" y="288" width="318" height="258" frameX="-96" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave left0001" x="590" y="288" width="318" height="258" frameX="-136" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave left0002" x="908" y="288" width="318" height="258" frameX="-156" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave left0003" x="1226" y="288" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave left0004" x="0" y="576" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave left0005" x="318" y="576" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave down0000" x="636" y="576" width="258" height="318" frameX="-202" frameY="-316" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave down0001" x="894" y="576" width="288" height="274" frameX="-202" frameY="-244" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave down0002" x="1182" y="576" width="318" height="248" frameX="-180" frameY="-218" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave down0003" x="0" y="894" width="319" height="258" frameX="-176" frameY="-210" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave down0004" x="319" y="894" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave down0005" x="637" y="894" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave up0000" x="955" y="894" width="258" height="318" frameX="-190" frameY="-16" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave up0001" x="1213" y="894" width="274" height="288" frameX="-212" frameY="-122" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave up0002" x="0" y="1212" width="306" height="254" frameX="-192" frameY="-188" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave up0003" x="306" y="1212" width="316" height="248" frameX="-182" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave up0004" x="622" y="1212" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave up0005" x="940" y="1212" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave right0000" x="1258" y="1212" width="308" height="248" frameX="-340" frameY="-232" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave right0001" x="0" y="1470" width="318" height="250" frameX="-256" frameY="-220" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave right0002" x="318" y="1470" width="318" height="256" frameX="-216" frameY="-210" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave right0003" x="636" y="1470" width="318" height="256" frameX="-194" frameY="-206" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave right0004" x="954" y="1470" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+<SubTexture name="jsWave right0005" x="1272" y="1470" width="318" height="258" frameX="-176" frameY="-202" frameWidth="640" frameHeight="640" />
+</TextureAtlas>
