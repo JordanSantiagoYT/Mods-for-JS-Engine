@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eklipze.png">
+<SubTexture name="idle0000" x="0" y="0" width="550" height="530" frameX="-369" frameY="-261" frameWidth="1044" frameHeight="893" />
+<SubTexture name="idle0001" x="550" y="0" width="534" height="562" frameX="-356" frameY="-221" frameWidth="1044" frameHeight="893" />
+<SubTexture name="idle0002" x="1084" y="0" width="545" height="595" frameX="-335" frameY="-181" frameWidth="1044" frameHeight="893" />
+<SubTexture name="idle0003" x="0" y="595" width="548" height="612" frameX="-273" frameY="-159" frameWidth="1044" frameHeight="893" />
+<SubTexture name="right0000" x="548" y="595" width="536" height="621" frameX="-343" frameY="-163" frameWidth="1044" frameHeight="893" />
+<SubTexture name="right0001" x="1084" y="595" width="528" height="578" frameX="-347" frameY="-201" frameWidth="1044" frameHeight="893" />
+<SubTexture name="up0000" x="0" y="1216" width="535" height="628" frameX="-343" frameY="-141" frameWidth="1044" frameHeight="893" />
+<SubTexture name="up0001" x="535" y="1216" width="545" height="628" frameX="-310" frameY="-153" frameWidth="1044" frameHeight="893" />
+<SubTexture name="down0000" x="1080" y="1216" width="586" height="496" frameX="-341" frameY="-292" frameWidth="1044" frameHeight="893" />
+<SubTexture name="down0001" x="0" y="1844" width="557" height="549" frameX="-363" frameY="-255" frameWidth="1044" frameHeight="893" />
+<SubTexture name="left0000" x="557" y="1844" width="625" height="607" frameX="-126" frameY="-185" frameWidth="1044" frameHeight="893" />
+<SubTexture name="left0001" x="1182" y="1844" width="606" height="594" frameX="-136" frameY="-192" frameWidth="1044" frameHeight="893" />
+</TextureAtlas>
