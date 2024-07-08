@@ -1,0 +1,196 @@
+{
+	"song": {
+		"events": [
+			[
+				60960,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.46"
+					]
+				]
+			],
+			[
+				76320,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.46"
+					]
+				]
+			],
+			[
+				92160,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"Change Scroll Speed",
+						"20",
+						"0.46"
+					]
+				]
+			],
+			[
+				145920,
+				[
+					[
+						"lyrics",
+						"that's it.",
+						""
+					]
+				]
+			],
+			[
+				146700,
+				[
+					[
+						"lyrics",
+						"that's it.",
+						""
+					]
+				]
+			],
+			[
+				147180,
+				[
+					[
+						"lyrics",
+						"I'm gonna show you my dick.",
+						""
+					]
+				]
+			],
+			[
+				148320,
+				[
+					[
+						"lyrics",
+						"I'm gonna show you my dick!",
+						""
+					]
+				]
+			],
+			[
+				149880,
+				[
+					[
+						"lyrics",
+						"Stop..",
+						""
+					]
+				]
+			],
+			[
+				150720,
+				[
+					[
+						"lyrics",
+						"STOP",
+						""
+					]
+				]
+			],
+			[
+				151560,
+				[
+					[
+						"lyrics",
+						"STOP FU",
+						""
+					]
+				]
+			],
+			[
+				151920,
+				[
+					[
+						"lyrics",
+						"STOP FUCKING",
+						""
+					]
+				]
+			],
+			[
+				152400,
+				[
+					[
+						"lyrics",
+						"STOP FUCKING BULLY ",
+						""
+					]
+				]
+			],
+			[
+				152730,
+				[
+					[
+						"lyrics",
+						"STOP FUCKING BULLY ME!!!!!!!!!!!!!",
+						""
+					]
+				]
+			],
+			[
+				153360,
+				[
+					[
+						"Change Scroll Speed",
+						"50",
+						"0.46"
+					]
+				]
+			],
+			[
+				153599.53125,
+				[
+					[
+						"Change Note Multiplier",
+						"384",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				184320,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				184440,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}
