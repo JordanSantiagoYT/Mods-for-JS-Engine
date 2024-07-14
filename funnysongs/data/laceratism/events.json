@@ -1,0 +1,1396 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				1920,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				6240,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				6480,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				6720,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				7680,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				7920,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				8160,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				9120,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				9840,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				11520,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				13440,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				13680,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.2"
+					]
+				]
+			],
+			[
+				13920,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				15360,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16080,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				17280,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				21120,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22080,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				22920,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				23040,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				23760,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				24240,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				24480,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				24960,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				28080,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				29280,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				29760,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				30600,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				30720,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				31440,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				31920,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				32160,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				32640,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33360,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33960,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34080,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				34320,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34560,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				34920,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35280,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35760,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				35880,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36240,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36480,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				36600,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				36720,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				36840,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37680,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38160,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				38760,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38880,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				39120,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39360,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				39600,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.2"
+					]
+				]
+			],
+			[
+				39720,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39840,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				40080,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40320,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				40680,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41040,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41640,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42720,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42900,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.34"
+					]
+				]
+			],
+			[
+				42960,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43680,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43920,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44160,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				44280,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				44520,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				44640,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				44760,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				44880,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				45480,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45840,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46560,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				46740,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.34"
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"0.7",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				49200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49560,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51120,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51480,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51840,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				53040,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53760,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				54120,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				54360,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				54720,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				54960,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55320,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55680,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				56880,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57240,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59160,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59520,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				60480,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60720,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61080,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61680,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				61800,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				62640,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63360,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1.2"
+					]
+				]
+			],
+			[
+				70440,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74760,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				77640,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				77760,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				78720,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				92160,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				94080,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			]
+		]
+	}
+}
