@@ -1,0 +1,361 @@
+{
+	"song": {
+		"events": [
+			[
+				14117.6470588235,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				28235.2941176471,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				56029.4117647059,
+				[
+					[
+						"Change Scroll Speed",
+						"5",
+						"0.3"
+					]
+				]
+			],
+			[
+				84705.8823529412,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				86911.7647058823,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.3"
+					]
+				]
+			],
+			[
+				88235.294117647,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90441.1764705882,
+				[
+					[
+						"Change Scroll Speed",
+						"10",
+						"0.3"
+					]
+				]
+			],
+			[
+				91764.7058823529,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93970.5882352941,
+				[
+					[
+						"Change Scroll Speed",
+						"5",
+						"0.3"
+					]
+				]
+			],
+			[
+				95294.1176470588,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Change Scroll Speed",
+						"10",
+						"0.3"
+					]
+				]
+			],
+			[
+				98823.5294117647,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				101029.411764706,
+				[
+					[
+						"Change Scroll Speed",
+						"5",
+						"0.3"
+					]
+				]
+			],
+			[
+				102352.941176471,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				104558.823529412,
+				[
+					[
+						"Change Scroll Speed",
+						"10",
+						"0.3"
+					]
+				]
+			],
+			[
+				105882.352941176,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				108088.235294118,
+				[
+					[
+						"Change Scroll Speed",
+						"5",
+						"0.3"
+					]
+				]
+			],
+			[
+				109411.764705882,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				111617.647058823,
+				[
+					[
+						"Change Scroll Speed",
+						"10",
+						"0.3"
+					]
+				]
+			],
+			[
+				112941.176470588,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				116029.411764706,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.3"
+					]
+				]
+			],
+			[
+				116470.588235294,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						""
+					]
+				]
+			],
+			[
+				118235.294117647,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				123088.235294118,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.3"
+					]
+				]
+			],
+			[
+				123529.411764706,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						""
+					]
+				]
+			],
+			[
+				127058.823529412,
+				[
+					[
+						"Change Note Multiplier",
+						"128",
+						""
+					],
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				140735.294117647,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.3"
+					]
+				]
+			],
+			[
+				141176.470588235,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				154852.941176471,
+				[
+					[
+						"Change Scroll Speed",
+						"10",
+						"0.3"
+					]
+				]
+			],
+			[
+				169411.764705882,
+				[
+					[
+						"Change Note Multiplier",
+						"192",
+						""
+					]
+				]
+			],
+			[
+				197647.05882353,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Disable Camera Bop",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}
