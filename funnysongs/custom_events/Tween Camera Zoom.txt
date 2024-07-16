@@ -1,0 +1,7 @@
+Cool Camera Zoom Tween
+
+Value 1: Cam zoom
+
+Value 2: Duration
+
+Value 3 (split in value 2): Tween

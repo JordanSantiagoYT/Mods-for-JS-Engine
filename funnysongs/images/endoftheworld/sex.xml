@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sex.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="original (1)_gif0000" x="0" y="0" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0001" x="540" y="0" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0002" x="1080" y="0" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0003" x="1620" y="0" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0004" x="2160" y="0" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0005" x="2700" y="0" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0006" x="3240" y="0" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0007" x="0" y="540" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0008" x="540" y="540" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0009" x="1080" y="540" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0010" x="1620" y="540" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0011" x="2160" y="540" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0012" x="2700" y="540" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0013" x="3240" y="540" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0014" x="0" y="1080" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0015" x="540" y="1080" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0016" x="1080" y="1080" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0017" x="1620" y="1080" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0018" x="2160" y="1080" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0019" x="2700" y="1080" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0020" x="3240" y="1080" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0021" x="0" y="1620" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0022" x="540" y="1620" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0023" x="1080" y="1620" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0024" x="1620" y="1620" width="540" height="540"/>
+	<SubTexture name="original (1)_gif0025" x="2160" y="1620" width="540" height="540"/>
+</TextureAtlas>

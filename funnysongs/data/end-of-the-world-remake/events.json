@@ -1,0 +1,561 @@
+{
+	"song": {
+		"events": [
+			[
+				29825.2427184466,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				33553.3980582524,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				59650.4854368932,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.3",
+						"0.2, expoOut"
+					],
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				59883.495145631,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.7, expoin"
+					]
+				]
+			],
+			[
+				60582.5242718446,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"0.6, expoout"
+					]
+				]
+			],
+			[
+				88543.6893203883,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.4",
+						"0.6, expoout"
+					]
+				]
+			],
+			[
+				89009.708737864,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"0.5, expoin"
+					]
+				]
+			],
+			[
+				89242.7184466018,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.2"
+					]
+				]
+			],
+			[
+				89475.7281553397,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"0.3, expoout"
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				104388.349514563,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				118368.932038835,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.5",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				118834.951456311,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"0.5, expoin"
+					]
+				]
+			],
+			[
+				119300.970873786,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"0.4, expoOut"
+					],
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				148194.174757282,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				148893.203883495,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.6",
+						"0.2, expoIn"
+					]
+				]
+			],
+			[
+				150873.786407767,
+				[
+					[
+						"Camera Bopping",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				150990.291262136,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"2, expoOut"
+					],
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				178485.436893204,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"2.2, quadinout"
+					]
+				]
+			],
+			[
+				180815.533980583,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"1, expoOut"
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				206912.621359224,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				209825.242718447,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				210058.252427185,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				210116.50485437,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				210640.77669903,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				211572.815533981,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.5",
+						"0.95, expoIn"
+					]
+				]
+			],
+			[
+				212504.854368933,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"1.8, expoOut"
+					],
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				219961.165048545,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"6, quadInOut"
+					]
+				]
+			],
+			[
+				226485.436893205,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.4",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				226951.456310681,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"0.5, expoIn"
+					]
+				]
+			],
+			[
+				227184.466019419,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.2"
+					]
+				]
+			],
+			[
+				227417.475728156,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"1, expoout"
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					],
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				242330.09708738,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				255378.6407767,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				255495.145631069,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				255728.155339807,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				255961.165048545,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				256194.174757283,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				256252.427184467,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				257242.718446603,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				286135.922330099,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"0.5",
+						"0.5, expoout"
+					]
+				]
+			],
+			[
+				286601.941747575,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.5, expoIn"
+					]
+				]
+			],
+			[
+				286951.456310681,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				287067.96116505,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"0.001"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-dead"
+					],
+					[
+						"Play Animation",
+						"firstDeath",
+						"bf"
+					]
+				]
+			],
+			[
+				289514.563106798,
+				[
+					[
+						"Play Animation",
+						"deathLoop",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
