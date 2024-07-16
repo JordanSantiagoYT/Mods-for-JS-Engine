@@ -91,7 +91,4 @@ function onStepHit()
         clearEffects('game')
 	setProperty('camHUD.visible', false)
     end
-    if curStep == 4992 then
-	doTweenAlpha('BYEEE', 'black', 1, 4, 'linear')
-    end
 end

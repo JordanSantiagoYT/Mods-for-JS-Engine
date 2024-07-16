@@ -31,4 +31,7 @@ function onStepHit()
 	if curStep == 4912 then
 		doTweenAlpha('trollLol', 'flash', 0, 0.4, 'linear')
 	end
+	if curStep == 4992 then
+		doTweenAlpha('BYEEE', 'flash', 1, 4, 'linear')
+	end
 end
