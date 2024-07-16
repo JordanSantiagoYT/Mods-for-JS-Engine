@@ -495,11 +495,6 @@
 				286135.922330099,
 				[
 					[
-						"Trigger Scared BF",
-						"1",
-						""
-					],
-					[
 						"Tween Camera Zoom",
 						"0.5",
 						"0.5, expoout"
@@ -513,16 +508,6 @@
 						"Tween Camera Zoom",
 						"1.1",
 						"0.5, expoIn"
-					]
-				]
-			],
-			[
-				286951.456310681,
-				[
-					[
-						"Trigger Scared BF",
-						"2",
-						""
 					]
 				]
 			],
