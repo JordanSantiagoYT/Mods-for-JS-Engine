@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-99,
+				-27
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-65,
+				-50
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-101,
+				-23
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-130,
+				-43
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bomburemb",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "bombu",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		135
+	],
+	"camera_position": [
+		210,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
