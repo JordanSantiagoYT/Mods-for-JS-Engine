@@ -66,8 +66,8 @@
 	"image": "characters/jsWave",
 	"shake_duration": 0,
 	"position": [
-		-150,
-		0
+		-100,
+		-170
 	],
 	"health_drain": false,
 	"shake_intensity": 0,
@@ -82,7 +82,7 @@
 	],
 	"drain_amount": 0.025,
 	"camera_position": [
-		80,
+		130,
 		120
 	],
 	"sing_duration": 6.1,
