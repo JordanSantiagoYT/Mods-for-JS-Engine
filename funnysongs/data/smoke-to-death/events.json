@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				18978.978978979,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.2"
+					]
+				]
+			],
+			[
+				34594.5945945946,
+				[
+					[
+						"Change Note Multiplier",
+						"6.9",
+						""
+					]
+				]
+			],
+			[
+				49969.9699699697,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}
