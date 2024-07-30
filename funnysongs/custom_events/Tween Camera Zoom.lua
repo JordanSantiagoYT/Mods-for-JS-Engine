@@ -1,5 +1,4 @@
 function onEvent(name,value1,value2)
-	luaDebugMode = true;
     if name == "Tween Camera Zoom" then
 	val1 = tonumber(value1);
 	val2Split = stringSplit(value2, ',');
