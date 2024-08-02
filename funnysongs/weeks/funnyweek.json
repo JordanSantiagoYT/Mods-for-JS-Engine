@@ -2197,6 +2197,24 @@
 			]
 		],
 		[
+			"Ultrasound",
+			"DATA_ERROR",
+			[
+				10,
+				10,
+				10
+			]
+		],
+		[
+			"Beta Blokbrine",
+			"nothing",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
 			"Death",
 			"mom",
 			[

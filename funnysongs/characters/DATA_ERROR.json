@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DATA_ERROR DATA_ERROR-Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DATA_ERROR DATA_ERROR-Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DATA_ERROR DATA_ERROR-Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DATA_ERROR DATA_ERROR-Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DATA_ERROR DATA_ERROR-Idle",
+			"indices": []
+		}
+	],
+	"losing_colors": [
+		0,
+		0,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/DATA_ERROR",
+	"shake_duration": 0,
+	"position": [
+		-150,
+		260
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "icon-DATA_ERROR",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-70,
+		40
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		255
+	],
+	"scale": 1
+}
