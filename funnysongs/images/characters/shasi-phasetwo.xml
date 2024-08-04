@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shasi-phasetwo.png">
+<SubTexture name="shasi idle0000" x="0" y="0" width="591" height="302" frameX="-6" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi idle0001" x="591" y="0" width="486" height="302" frameX="-164" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi idle0002" x="1077" y="0" width="459" height="302" frameX="-46" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi idle0003" x="1536" y="0" width="459" height="302" frameX="-146" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi idle0004" x="0" y="302" width="459" height="302" frameX="-96" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi idle0005" x="459" y="302" width="459" height="302" frameX="-96" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi left0000" x="918" y="302" width="424" height="305" frameX="-4" frameY="-97" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi left0001" x="1342" y="302" width="423" height="307" frameX="-64" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi left0002" x="0" y="609" width="423" height="304" frameX="-94" frameY="-100" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi left0003" x="423" y="609" width="423" height="306" frameX="-111" frameY="-100" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi left0004" x="846" y="609" width="424" height="308" frameX="-132" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi left0005" x="1270" y="609" width="424" height="308" frameX="-132" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi down0000" x="0" y="917" width="415" height="207" frameX="-113" frameY="-281" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi down0001" x="415" y="917" width="415" height="261" frameX="-113" frameY="-183" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi down0002" x="830" y="917" width="415" height="271" frameX="-113" frameY="-142" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi down0003" x="1245" y="917" width="415" height="288" frameX="-113" frameY="-110" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi down0004" x="0" y="1205" width="415" height="287" frameX="-113" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi down0005" x="415" y="1205" width="415" height="287" frameX="-113" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi up0000" x="830" y="1205" width="424" height="297" frameX="-113" frameY="-4" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi up0001" x="1254" y="1205" width="424" height="246" frameX="-113" frameY="-55" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi up0002" x="0" y="1502" width="424" height="219" frameX="-113" frameY="-82" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi up0003" x="424" y="1502" width="424" height="212" frameX="-112" frameY="-89" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi up0004" x="848" y="1502" width="424" height="205" frameX="-113" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi up0005" x="1272" y="1502" width="424" height="205" frameX="-113" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi right0000" x="0" y="1721" width="421" height="292" frameX="-221" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi right0001" x="421" y="1721" width="410" height="298" frameX="-185" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi right0002" x="831" y="1721" width="430" height="298" frameX="-136" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi right0003" x="1261" y="1721" width="442" height="298" frameX="-116" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi right0004" x="0" y="2019" width="450" height="297" frameX="-99" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="shasi right0005" x="450" y="2019" width="450" height="297" frameX="-99" frameY="-96" frameWidth="640" frameHeight="480" />
+</TextureAtlas>

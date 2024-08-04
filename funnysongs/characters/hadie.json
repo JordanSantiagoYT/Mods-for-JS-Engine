@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				340,
+				140
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				340,
+				140
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				340,
+				140
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				340,
+				140
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				340,
+				140
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hadie",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "hadie",
+	"noteskin": "NOTE_assets_3D red",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		0,
+		0
+	],
+	"camera_position": [
+		-1040,
+		-690
+	],
+	"sing_duration": 1,
+	"scale": 1.85
+}
