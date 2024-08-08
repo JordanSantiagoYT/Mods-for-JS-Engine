@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DanAnger_Idle"
+		},
+		{
+			"offsets": [
+				-59,
+				197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DanAnger_Up"
+		},
+		{
+			"offsets": [
+				161,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DanAnger_Left"
+		},
+		{
+			"offsets": [
+				-83,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DanAnger_Right"
+		},
+		{
+			"offsets": [
+				-45,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DanAnger_Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/inexcuseable_Dan",
+	"position": [
+		-5,
+		350
+	],
+	"healthicon": "dan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-60,
+		77
+	],
+	"noteskin": "NOTE_dan_assets",
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

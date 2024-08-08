@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blood.png">
+<SubTexture name="blood idle0000" x="0" y="0" width="847" height="641" frameX="-3" frameY="-23" frameWidth="904" frameHeight="676" />
+</TextureAtlas>
