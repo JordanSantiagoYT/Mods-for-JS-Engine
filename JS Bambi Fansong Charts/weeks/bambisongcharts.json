@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Deaerated",
+			"tsk",
+			[
+				120,
+				120,
+				120
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shaderless defeat bf scared fixed.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance afraid0000" x="0" y="0" width="420" height="401" frameX="0" frameY="-18" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0001" x="425" y="0" width="420" height="401" frameX="0" frameY="-18" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0002" x="850" y="0" width="418" height="405" frameX="-3" frameY="-14" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0003" x="1273" y="0" width="418" height="405" frameX="-3" frameY="-14" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0004" x="1696" y="0" width="411" height="413" frameX="-7" frameY="-6" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0005" x="2112" y="0" width="411" height="413" frameX="-7" frameY="-6" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0006" x="2528" y="0" width="414" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0007" x="2947" y="0" width="414" height="419" frameX="-4" frameY="-1" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0008" x="3366" y="0" width="414" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0009" x="0" y="424" width="413" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="BF idle dance afraid0010" x="418" y="424" width="413" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="420"/>
+	<SubTexture name="down fear0000" x="836" y="424" width="373" height="375" frameX="0" frameY="-6" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0001" x="836" y="424" width="373" height="375" frameX="0" frameY="-6" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0002" x="1214" y="424" width="363" height="381" frameX="-6" frameY="-1" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0003" x="1214" y="424" width="363" height="381" frameX="-6" frameY="-1" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0004" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0005" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0006" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0007" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0008" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0009" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0010" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0011" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="down fear0012" x="1582" y="424" width="360" height="382" frameX="-9" frameY="0" frameWidth="373" frameHeight="382"/>
+	<SubTexture name="left fear0000" x="1947" y="424" width="465" height="418" frameX="-5" frameY="0" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0001" x="1947" y="424" width="465" height="418" frameX="-5" frameY="0" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0002" x="2417" y="424" width="448" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0003" x="2417" y="424" width="448" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0004" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0005" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0006" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0007" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0008" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0009" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0010" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0011" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0012" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0013" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0014" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0015" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0016" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0017" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0018" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0019" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0020" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0021" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0022" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0023" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="left fear0024" x="2870" y="424" width="446" height="416" frameX="0" frameY="-4" frameWidth="470" frameHeight="420"/>
+	<SubTexture name="right fear0000" x="3321" y="424" width="387" height="396" frameX="0" frameY="-8" frameWidth="387" frameHeight="405"/>
+	<SubTexture name="right fear0001" x="3321" y="424" width="387" height="396" frameX="0" frameY="-8" frameWidth="387" frameHeight="405"/>
+	<SubTexture name="right fear0002" x="3713" y="424" width="380" height="404" frameX="0" frameY="-1" frameWidth="387" frameHeight="405"/>
+	<SubTexture name="right fear0003" x="3713" y="424" width="380" height="404" frameX="0" frameY="-1" frameWidth="387" frameHeight="405"/>
+	<SubTexture name="right fear0004" x="0" y="847" width="377" height="405" frameX="0" frameY="0" frameWidth="387" frameHeight="405"/>
+	<SubTexture name="right fear0005" x="0" y="847" width="377" height="405" frameX="0" frameY="0" frameWidth="387" frameHeight="405"/>
+	<SubTexture name="up fear0000" x="382" y="847" width="405" height="493" frameX="-8" frameY="0" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0001" x="382" y="847" width="405" height="493" frameX="-8" frameY="0" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0002" x="792" y="847" width="415" height="481" frameX="-1" frameY="-12" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0003" x="792" y="847" width="415" height="481" frameX="-1" frameY="-12" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0004" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0005" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0006" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0007" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0008" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0009" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0010" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0011" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+	<SubTexture name="up fear0012" x="1212" y="847" width="416" height="480" frameX="0" frameY="-13" frameWidth="416" frameHeight="493"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tsk.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="1796" y="1494" width="898" height="747"/>
+	<SubTexture name="down00000" x="2694" y="1494" width="898" height="747"/>
+	<SubTexture name="down10000" x="0" y="2241" width="898" height="747"/>
+	<SubTexture name="idle0000" x="0" y="0" width="898" height="747"/>
+	<SubTexture name="idle00000" x="898" y="0" width="898" height="747"/>
+	<SubTexture name="idle10000" x="1796" y="0" width="898" height="747"/>
+	<SubTexture name="idle20000" x="2694" y="0" width="898" height="747"/>
+	<SubTexture name="left0000" x="898" y="2241" width="898" height="747"/>
+	<SubTexture name="left00000" x="1796" y="2241" width="898" height="747"/>
+	<SubTexture name="left10000" x="2694" y="2241" width="898" height="747"/>
+	<SubTexture name="right0000" x="0" y="747" width="898" height="747"/>
+	<SubTexture name="right00000" x="898" y="747" width="898" height="747"/>
+	<SubTexture name="right10000" x="1796" y="747" width="898" height="747"/>
+	<SubTexture name="up0000" x="2694" y="747" width="898" height="747"/>
+	<SubTexture name="up00000" x="0" y="1494" width="898" height="747"/>
+	<SubTexture name="up10000" x="898" y="1494" width="898" height="747"/>
+</TextureAtlas>
