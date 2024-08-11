@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="borderpatrol.png">
+<SubTexture name="borderpatrol idle0000" x="1264" y="0" width="591" height="630" frameX="-300" frameY="-70" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol idle0001" x="670" y="683" width="478" height="612" frameX="-371" frameY="-62" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol idle0002" x="1148" y="683" width="398" height="608" frameX="-410" frameY="-75" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol idle0003" x="0" y="683" width="361" height="618" frameX="-453" frameY="-23" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol left0000" x="2170" y="0" width="648" height="526" frameX="-343" frameY="-106" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol left0001" x="1481" y="1301" width="583" height="528" frameX="-389" frameY="-104" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol left0002" x="0" y="1301" width="505" height="569" frameX="-433" frameY="-106" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol down0000" x="505" y="1301" width="317" height="563" frameX="-519" frameY="-142" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol down0001" x="1855" y="0" width="315" height="604" frameX="-517" frameY="-101" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol down0002" x="361" y="683" width="309" height="617" frameX="-523" frameY="-88" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol up0000" x="750" y="0" width="514" height="653" frameX="-359" frameY="-21" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol up0001" x="0" y="0" width="413" height="683" frameX="-410" frameY="-2" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol up0002" x="413" y="0" width="337" height="659" frameX="-488" frameY="-20" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol right0000" x="0" y="1870" width="779" height="525" frameX="-401" frameY="-109" frameWidth="1336" frameHeight="732" />
+<SubTexture name="borderpatrol right0001" x="822" y="1301" width="659" height="549" frameX="-445" frameY="-107" frameWidth="1336" frameHeight="732" />
+</TextureAtlas>

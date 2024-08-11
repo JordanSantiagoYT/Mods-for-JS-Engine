@@ -8,6 +8,15 @@
 				120,
 				120
 			]
+		],
+		[
+			"Outside the Barrier",
+			"face",
+			[
+				100,
+				100,
+				100
+			]
 		]
 	],
 	"hideFreeplay": false,

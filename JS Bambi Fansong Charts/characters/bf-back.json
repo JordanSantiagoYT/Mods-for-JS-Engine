@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "le idle"
+		},
+		{
+			"offsets": [
+				-16,
+				-18
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "le left"
+		},
+		{
+			"offsets": [
+				-10,
+				-40
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "le down"
+		},
+		{
+			"offsets": [
+				-27,
+				-22
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "le up"
+		},
+		{
+			"offsets": [
+				-2,
+				-3
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "le right"
+		},
+		{
+			"offsets": [
+				-16,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "le left"
+		},
+		{
+			"offsets": [
+				-10,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "le down"
+		},
+		{
+			"offsets": [
+				-27,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "le up"
+		},
+		{
+			"offsets": [
+				-2,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "le right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFBACK",
+	"position": [
+		-150,
+		220
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-160,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
