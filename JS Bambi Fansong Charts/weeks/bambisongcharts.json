@@ -17,6 +17,15 @@
 				100,
 				100
 			]
+		],
+		[
+			"Phonetic",
+			"phoneticBambi",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,
