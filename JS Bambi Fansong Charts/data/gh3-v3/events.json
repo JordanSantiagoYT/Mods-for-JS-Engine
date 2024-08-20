@@ -1,0 +1,931 @@
+{
+	"song": {
+		"events": [
+			[
+				30720,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1.5"
+					]
+				]
+			],
+			[
+				36240,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				36480,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				38160,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				40320,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				44160,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				45120,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				53700,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				59520,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				60480,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.93, expoIn"
+					]
+				]
+			],
+			[
+				60960,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.4"
+					]
+				]
+			],
+			[
+				61425,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				61440,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"2, expoOut"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				68640,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				69120,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				76320,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				78240,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				78720,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				79680,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				80160,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				80640,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				82560,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				83040,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				83520,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				84480,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				85920,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				87360,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				87840,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				89280,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				90240,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				90720,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Change Note Multiplier",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				91680,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						""
+					]
+				]
+			],
+			[
+				92160,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				97680,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				97920,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				101760,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				106560,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				107520,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				109440,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				114240,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				115140,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				119040,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				120960,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				121920,
+				[
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.93, expoIn"
+					]
+				]
+			],
+			[
+				122160,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.4"
+					]
+				]
+			],
+			[
+				122640,
+				[
+					[
+						"Change Note Multiplier",
+						"48",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.03",
+						"0.2, 0.006"
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				122865,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				122880,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"3, expoOut"
+					]
+				]
+			],
+			[
+				128640,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				131040,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				136320,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				137280,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				138660,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				142080,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				143760,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				147840,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				151680,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				152640,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				183840,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0.4"
+					]
+				]
+			],
+			[
+				184320,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2.5"
+					],
+					[
+						"Change Note Multiplier",
+						"16",
+						""
+					]
+				]
+			],
+			[
+				199680,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				215040,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2.5"
+					],
+					[
+						"Change Note Multiplier",
+						"16",
+						""
+					]
+				]
+			],
+			[
+				230400,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2.5"
+					],
+					[
+						"Change Note Multiplier",
+						"16",
+						""
+					]
+				]
+			],
+			[
+				245760,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					],
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				261105,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				276000,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.4"
+					]
+				]
+			],
+			[
+				276465,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				276480,
+				[
+					[
+						"Change Note Multiplier",
+						"96",
+						""
+					]
+				]
+			],
+			[
+				276620,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

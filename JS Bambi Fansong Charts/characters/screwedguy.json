@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-466
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "a_bambi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				-457
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "a_bambi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-488
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "a_bambi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-129,
+				-421
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "a_bambi up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-147,
+				-460
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "a_bambi idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-72,
+				-376
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "phone",
+			"loop": false,
+			"name": "a_bambi phone"
+		},
+		{
+			"offsets": [
+				9,
+				-441
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "throw",
+			"loop": false,
+			"name": "a_bambi throw"
+		}
+	],
+	"losing_colors": [
+		0,
+		185,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/Angry_Bambi",
+	"shake_duration": 0,
+	"position": [
+		-70,
+		-100
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "screwed",
+	"shake_screen": false,
+	"drain_floor": 0.1,
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		0
+	],
+	"drain_amount": 0.01,
+	"camera_position": [
+		120,
+		520
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		0,
+		185,
+		0
+	],
+	"scale": 1
+}
