@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scoliosis-eye.png"><SubTexture name="idle0000" x="0" y="0" width="3469" height="3469" frameX="0" frameY="0" frameWidth="3469" frameHeight="3469" />
+</TextureAtlas>

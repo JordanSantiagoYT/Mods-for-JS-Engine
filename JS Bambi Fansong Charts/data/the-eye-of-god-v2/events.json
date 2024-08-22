@@ -1,0 +1,181 @@
+{
+	"song": {
+		"events": [
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ommeta-expunged"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				127680,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				143040,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				223680,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				254400,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				269760,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"scpomana"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				270720,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				286320,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.23"
+					]
+				]
+			],
+			[
+				301920,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				317040,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.23"
+					]
+				]
+			],
+			[
+				317280,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				332400,
+				[
+					[
+						"Change Scroll Speed",
+						"16",
+						"0.23"
+					]
+				]
+			],
+			[
+				363360,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				371040,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				378720,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.23"
+					]
+				]
+			]
+		]
+	}
+}

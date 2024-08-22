@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sco.png"><SubTexture name="sco idle0000" x="0" y="0" width="353" height="306" frameX="0" frameY="0" frameWidth="353" frameHeight="306" />
+</TextureAtlas>

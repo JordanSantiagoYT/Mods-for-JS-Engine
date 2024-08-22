@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-308
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-89,
+				-308
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-89,
+				-308
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-89,
+				-308
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-89,
+				-308
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		255,
+		255
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/goofy-ah-eye",
+	"shake_duration": 0,
+	"position": [
+		-1500,
+		-660
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "goofy",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-740,
+		-800
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		255
+	],
+	"scale": 6.80000000000001
+}

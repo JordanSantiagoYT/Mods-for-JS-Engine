@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sco idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sco idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sco idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sco idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sco idle"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		60,
+		0,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/sco",
+	"shake_duration": 0,
+	"position": [
+		-980,
+		-520
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "distortedbambi",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-1020,
+		-550
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		60,
+		0,
+		0
+	],
+	"scale": 8.5
+}
