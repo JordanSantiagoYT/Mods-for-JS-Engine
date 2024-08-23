@@ -1,0 +1,101 @@
+{
+	"song": {
+		"events": [
+			[
+				43243.2432432432,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"expunged_anger"
+					]
+				]
+			],
+			[
+				131891.891891892,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				170810.810810811,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"expunged_piss"
+					]
+				]
+			],
+			[
+				205405.405405405,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.4, expoOut"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				205945.945945946,
+				[
+					[
+						"Change Character",
+						"bf",
+						"expunged_defeat"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				222837.837837838,
+				[
+					[
+						"Play Animation",
+						"ded",
+						"bf"
+					]
+				]
+			],
+			[
+				223243.243243243,
+				[
+					[
+						"Play Animation",
+						"ded-loop",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
