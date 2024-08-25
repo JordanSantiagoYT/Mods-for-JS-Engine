@@ -1,0 +1,431 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				7440,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				8640,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				10320,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				12480,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				14160,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				15360,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22800,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				25680,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				27840,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				29520,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				30480,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.23"
+					]
+				]
+			],
+			[
+				80640,
+				[
+					[
+						"Change Note Multiplier",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				84480,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				88320,
+				[
+					[
+						"Change Note Multiplier",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				92160,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102480,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				104640,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106320,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				107520,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				114960,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				116160,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				117840,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				121680,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				122640,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.2"
+					]
+				]
+			],
+			[
+				122880,
+				[
+					[
+						"Change Note Multiplier",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				138240,
+				[
+					[
+						"Change Note Multiplier",
+						"12",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"0.5"
+					],
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				168720,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				169920,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				171600,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				173760,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				175440,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				177600,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				179280,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			],
+			[
+				181440,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				183120,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.23"
+					]
+				]
+			]
+		]
+	}
+}

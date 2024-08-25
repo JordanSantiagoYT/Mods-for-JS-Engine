@@ -11,7 +11,7 @@ function onEvent(n,v1,v2)
 	      setProperty('flashBang.scale.y',2)
 	      setProperty('flashBang.alpha',0)
 		setProperty('flashBang.alpha',1)
-		setObjectCamera('flashBang', 'camHUD')
+		setObjectCamera('flashBang', 'camOther')
 		doTweenAlpha('flashingBye','flashBang',0,v1,'linear')
 	end
 
