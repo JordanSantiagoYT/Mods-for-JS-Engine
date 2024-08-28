@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				57600,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				109800,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				110381.25,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				114600,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.6"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Note Multiplier",
+						"6 ",
+						""
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					],
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
