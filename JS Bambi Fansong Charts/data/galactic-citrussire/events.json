@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"3, expoInOut"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

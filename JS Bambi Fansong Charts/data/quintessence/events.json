@@ -1,0 +1,126 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				16815.2866242038,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				17579.6178343949,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				17961.7834394904,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				18343.949044586,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"1.5, expoOut"
+					],
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				24458.5987261147,
+				[
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30573.2484076433,
+				[
+					[
+						"Disable Bot Energy",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36687.898089172,
+				[
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42802.5477707006,
+				[
+					[
+						"Disable Bot Energy",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67261.1464968153,
+				[
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91719.74522293,
+				[
+					[
+						"Disable Bot Energy",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
