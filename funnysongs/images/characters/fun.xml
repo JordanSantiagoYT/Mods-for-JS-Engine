@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fun.png">
+<SubTexture name="fun down0000" x="791" y="0" width="389" height="540" frameX="-99" frameY="-42" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun down0001" x="1892" y="0" width="395" height="444" frameX="-101" frameY="-36" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun down0002" x="1892" y="444" width="386" height="386" frameX="-109" frameY="-33" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun idle0000" x="301" y="0" width="490" height="568" frameX="-71" frameY="-2" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun idle0001" x="322" y="580" width="335" height="517" frameX="-147" frameY="-40" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun idle0002" x="657" y="580" width="342" height="497" frameX="-143" frameY="-44" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun idle0003" x="1518" y="493" width="356" height="482" frameX="-141" frameY="-52" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun idle0004" x="0" y="1120" width="356" height="482" frameX="-138" frameY="-52" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun left0000" x="0" y="1602" width="435" height="442" frameX="-24" frameY="-110" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun left0001" x="356" y="1120" width="409" height="471" frameX="-54" frameY="-80" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun left0002" x="1518" y="0" width="374" height="493" frameX="-93" frameY="-56" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun right0000" x="435" y="1602" width="559" height="394" frameX="-42" frameY="-124" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun right0001" x="1191" y="1120" width="501" height="448" frameX="-35" frameY="-67" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun right0002" x="765" y="1120" width="426" height="456" frameX="-28" frameY="-52" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun up0000" x="0" y="0" width="301" height="580" frameX="-137" frameY="-24" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun up0001" x="0" y="580" width="322" height="540" frameX="-140" frameY="-59" frameWidth="629" frameHeight="629" />
+<SubTexture name="fun up0002" x="1180" y="0" width="338" height="495" frameX="-127" frameY="-102" frameWidth="629" frameHeight="629" />
+</TextureAtlas>
