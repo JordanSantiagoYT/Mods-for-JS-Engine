@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exothernamics-guy.png">
+<SubTexture name="idle0000" x="0" y="0" width="465" height="420" frameX="-93" frameY="-62" frameWidth="640" frameHeight="480" />
+<SubTexture name="idle0001" x="465" y="0" width="465" height="430" frameX="-93" frameY="-42" frameWidth="640" frameHeight="480" />
+<SubTexture name="idle0002" x="930" y="0" width="465" height="435" frameX="-93" frameY="-32" frameWidth="640" frameHeight="480" />
+<SubTexture name="idle0003" x="1395" y="0" width="465" height="436" frameX="-92" frameY="-28" frameWidth="640" frameHeight="480" />
+<SubTexture name="idle0004" x="1860" y="0" width="465" height="440" frameX="-93" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="idle0005" x="0" y="440" width="465" height="440" frameX="-93" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="left0000" x="465" y="440" width="479" height="439" frameX="-4" frameY="-20" frameWidth="640" frameHeight="480" />
+<SubTexture name="left0001" x="944" y="440" width="462" height="438" frameX="-50" frameY="-24" frameWidth="640" frameHeight="480" />
+<SubTexture name="left0002" x="1406" y="440" width="464" height="440" frameX="-72" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="left0003" x="1870" y="440" width="464" height="438" frameX="-82" frameY="-24" frameWidth="640" frameHeight="480" />
+<SubTexture name="left0004" x="0" y="880" width="464" height="438" frameX="-94" frameY="-24" frameWidth="640" frameHeight="480" />
+<SubTexture name="left0005" x="464" y="880" width="464" height="440" frameX="-94" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="down0000" x="928" y="880" width="466" height="452" frameX="-116" frameY="-36" frameWidth="640" frameHeight="480" />
+<SubTexture name="down0001" x="1394" y="880" width="464" height="430" frameX="-104" frameY="-32" frameWidth="640" frameHeight="480" />
+<SubTexture name="down0002" x="1858" y="880" width="464" height="436" frameX="-98" frameY="-26" frameWidth="640" frameHeight="480" />
+<SubTexture name="down0003" x="0" y="1332" width="462" height="438" frameX="-96" frameY="-24" frameWidth="640" frameHeight="480" />
+<SubTexture name="down0004" x="462" y="1332" width="464" height="440" frameX="-94" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="down0005" x="926" y="1332" width="464" height="440" frameX="-94" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="up0000" x="1390" y="1332" width="460" height="450" frameX="-100" frameY="-6" frameWidth="640" frameHeight="480" />
+<SubTexture name="up0001" x="1850" y="1332" width="460" height="442" frameX="-98" frameY="-18" frameWidth="640" frameHeight="480" />
+<SubTexture name="up0002" x="0" y="1782" width="464" height="438" frameX="-94" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="up0003" x="464" y="1782" width="464" height="440" frameX="-94" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="up0004" x="928" y="1782" width="464" height="440" frameX="-94" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="up0005" x="1392" y="1782" width="464" height="440" frameX="-94" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="right0000" x="1856" y="1782" width="464" height="437" frameX="-148" frameY="-23" frameWidth="640" frameHeight="480" />
+<SubTexture name="right0001" x="0" y="2222" width="464" height="436" frameX="-120" frameY="-24" frameWidth="640" frameHeight="480" />
+<SubTexture name="right0002" x="464" y="2222" width="464" height="440" frameX="-106" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="right0003" x="928" y="2222" width="464" height="440" frameX="-100" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="right0004" x="1392" y="2222" width="466" height="440" frameX="-92" frameY="-22" frameWidth="640" frameHeight="480" />
+<SubTexture name="right0005" x="1858" y="2222" width="464" height="440" frameX="-94" frameY="-22" frameWidth="640" frameHeight="480" />
+</TextureAtlas>

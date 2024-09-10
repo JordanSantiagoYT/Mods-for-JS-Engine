@@ -1,3 +1,8 @@
-jumpscare the player with a white light
+jumpscares the player with a flash!
 
-Value 1: speed
+Value 1: duration of the flash
+
+Value 2: Color of the flash (default is white)
+
+Value 3: Camera to apply to
+(camGame, camHUD, camOther, default is cam

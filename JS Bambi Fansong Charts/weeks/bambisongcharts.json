@@ -206,6 +206,51 @@
 				122,
 				122
 			]
+		],
+		[
+			"Opposition",
+			"oppoexpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Exothernamics",
+			"exothernamicsguy",
+			[
+				178,
+				0,
+				255
+			]
+		],
+		[
+			"Opposition ShiftyTM",
+			"oppoexpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Bambis Mind Out",
+			"nahhepissedLMAOO",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Dissimulation",
+			"face",
+			[
+				255,
+				255,
+				255
+			]
 		]
 	],
 	"hideFreeplay": false,
