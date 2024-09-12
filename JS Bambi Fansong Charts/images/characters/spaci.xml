@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spaci.png"><SubTexture name="dance down0000" x="0" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance down0001" x="0" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance down0002" x="960" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance idle0000" x="0" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance idle0001" x="0" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance idle0002" x="960" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance idle0003" x="1920" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance idle0004" x="0" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance left0000" x="1920" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance left0001" x="1920" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance left0002" x="0" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance right0000" x="960" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance right0001" x="1920" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance right0002" x="1920" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance up0000" x="0" y="2160" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance up0001" x="960" y="2160" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="dance up0002" x="1920" y="2160" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+</TextureAtlas>

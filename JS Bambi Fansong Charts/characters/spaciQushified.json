@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dance idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dance left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-65
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dance down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dance up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-53
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/spaci",
+	"position": [
+		-220,
+		-50
+	],
+	"healthicon": "spaci",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		100,
+		100
+	],
+	"camera_position": [
+		-10,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

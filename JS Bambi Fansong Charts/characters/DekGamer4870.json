@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				17
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Cute0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				-2,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-20,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		0,
+		80,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/DekGooner4870",
+	"shake_duration": 0,
+	"position": [
+		0,
+		350
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "Dek",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		80,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		20,
+		-20
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		0,
+		80,
+		0
+	],
+	"scale": 1.2
+}
