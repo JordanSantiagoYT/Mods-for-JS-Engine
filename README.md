@@ -11,4 +11,4 @@ To download the charts, you have to download all of them at once because of how 
 
 If you want to use any of these charts, you have permission to HOWEVER you MUST give me credit.
 
-PS: This is 2.2GB zipped, 3.6GB unzipped, 5.8GB total.
+PS: This is over 5GB worth of content.
