@@ -1,0 +1,806 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.01"
+					]
+				]
+			],
+			[
+				75,
+				[
+					[
+						"Disable Camera Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.5",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"1, expoOut"
+					],
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				113850,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				151200,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.5",
+						"2, expoOut"
+					]
+				]
+			],
+			[
+				152400,
+				[
+					[
+						"Tween Camera Zoom",
+						"2.5",
+						"1.1, expoIn"
+					]
+				]
+			],
+			[
+				153000,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.6"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.4",
+						"2, expoOut"
+					],
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"lyrics",
+						"Ne",
+						""
+					]
+				]
+			],
+			[
+				172950,
+				[
+					[
+						"lyrics",
+						"Never",
+						""
+					]
+				]
+			],
+			[
+				173100,
+				[
+					[
+						"lyrics",
+						"Never gon",
+						""
+					]
+				]
+			],
+			[
+				173250,
+				[
+					[
+						"lyrics",
+						"Never gonna",
+						""
+					]
+				]
+			],
+			[
+				173400,
+				[
+					[
+						"lyrics",
+						"Never gonna give",
+						""
+					]
+				]
+			],
+			[
+				173850,
+				[
+					[
+						"lyrics",
+						"Never gonna give you",
+						""
+					]
+				]
+			],
+			[
+				174300,
+				[
+					[
+						"lyrics",
+						"Never gonna give you up",
+						""
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"lyrics",
+						"Ne",
+						""
+					]
+				]
+			],
+			[
+				175350,
+				[
+					[
+						"lyrics",
+						"Never",
+						""
+					]
+				]
+			],
+			[
+				175500,
+				[
+					[
+						"lyrics",
+						"Never gon",
+						""
+					]
+				]
+			],
+			[
+				175650,
+				[
+					[
+						"lyrics",
+						"Never gonna",
+						""
+					]
+				]
+			],
+			[
+				175800,
+				[
+					[
+						"lyrics",
+						"Never gonna let",
+						""
+					]
+				]
+			],
+			[
+				176250,
+				[
+					[
+						"lyrics",
+						"Never gonna let you",
+						""
+					]
+				]
+			],
+			[
+				176700,
+				[
+					[
+						"lyrics",
+						"Never gonna let you down",
+						""
+					]
+				]
+			],
+			[
+				177600,
+				[
+					[
+						"lyrics",
+						"Ne",
+						""
+					]
+				]
+			],
+			[
+				177750,
+				[
+					[
+						"lyrics",
+						"Never",
+						""
+					]
+				]
+			],
+			[
+				177900,
+				[
+					[
+						"lyrics",
+						"Never gon",
+						""
+					]
+				]
+			],
+			[
+				178050,
+				[
+					[
+						"lyrics",
+						"Never gonna",
+						""
+					]
+				]
+			],
+			[
+				178200,
+				[
+					[
+						"lyrics",
+						"Never gonna run",
+						""
+					]
+				]
+			],
+			[
+				178650,
+				[
+					[
+						"lyrics",
+						"Never gonna run a",
+						""
+					]
+				]
+			],
+			[
+				179100,
+				[
+					[
+						"lyrics",
+						"Never gonna run around",
+						""
+					]
+				]
+			],
+			[
+				179700,
+				[
+					[
+						"lyrics",
+						"Never gonna run around and",
+						""
+					]
+				]
+			],
+			[
+				180300,
+				[
+					[
+						"lyrics",
+						"Never gonna run around and de",
+						""
+					]
+				]
+			],
+			[
+				180600,
+				[
+					[
+						"lyrics",
+						"Never gonna run around and desert",
+						""
+					]
+				]
+			],
+			[
+				181200,
+				[
+					[
+						"lyrics",
+						"Never gonna run around and desert you",
+						""
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"lyrics",
+						"Ne",
+						""
+					]
+				]
+			],
+			[
+				182550,
+				[
+					[
+						"lyrics",
+						"Never",
+						""
+					]
+				]
+			],
+			[
+				182700,
+				[
+					[
+						"lyrics",
+						"Never gon",
+						""
+					]
+				]
+			],
+			[
+				182850,
+				[
+					[
+						"lyrics",
+						"Never gonna",
+						""
+					]
+				]
+			],
+			[
+				183000,
+				[
+					[
+						"lyrics",
+						"Never gonna make",
+						""
+					]
+				]
+			],
+			[
+				183450,
+				[
+					[
+						"lyrics",
+						"Never gonna make you",
+						""
+					]
+				]
+			],
+			[
+				183900,
+				[
+					[
+						"lyrics",
+						"Never gonna make you cry",
+						""
+					]
+				]
+			],
+			[
+				184800,
+				[
+					[
+						"lyrics",
+						"Ne",
+						""
+					]
+				]
+			],
+			[
+				184950,
+				[
+					[
+						"lyrics",
+						"Never",
+						""
+					]
+				]
+			],
+			[
+				185100,
+				[
+					[
+						"lyrics",
+						"Never gon",
+						""
+					]
+				]
+			],
+			[
+				185250,
+				[
+					[
+						"lyrics",
+						"Never gonna",
+						""
+					]
+				]
+			],
+			[
+				185400,
+				[
+					[
+						"lyrics",
+						"Never gonna say",
+						""
+					]
+				]
+			],
+			[
+				185850,
+				[
+					[
+						"lyrics",
+						"Never gonna say good",
+						""
+					]
+				]
+			],
+			[
+				186300,
+				[
+					[
+						"lyrics",
+						"Never gonna say goodbye",
+						""
+					]
+				]
+			],
+			[
+				187200,
+				[
+					[
+						"lyrics",
+						"Ne",
+						""
+					]
+				]
+			],
+			[
+				187350,
+				[
+					[
+						"lyrics",
+						"Never",
+						""
+					]
+				]
+			],
+			[
+				187500,
+				[
+					[
+						"lyrics",
+						"Never gon",
+						""
+					]
+				]
+			],
+			[
+				187650,
+				[
+					[
+						"lyrics",
+						"Never gonna",
+						""
+					]
+				]
+			],
+			[
+				187800,
+				[
+					[
+						"lyrics",
+						"Never gonna tell",
+						""
+					]
+				]
+			],
+			[
+				188250,
+				[
+					[
+						"lyrics",
+						"Never gonna tell a",
+						""
+					]
+				]
+			],
+			[
+				188700,
+				[
+					[
+						"lyrics",
+						"Never gonna tell a lie",
+						""
+					]
+				]
+			],
+			[
+				189900,
+				[
+					[
+						"lyrics",
+						"Never gonna tell a lie and",
+						""
+					]
+				]
+			],
+			[
+				190200,
+				[
+					[
+						"lyrics",
+						"Never gonna tell a lie and hurt",
+						""
+					]
+				]
+			],
+			[
+				190800,
+				[
+					[
+						"lyrics",
+						"Never gonna tell a lie and hurt you",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				230400,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"2, expoOut"
+					],
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				249600,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				268200,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				268800,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"2, expoOut"
+					]
+				]
+			],
+			[
+				306000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				306300,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.15",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				306600,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				306900,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.45",
+						"0.3, expoOut"
+					],
+					[
+						"Change Scroll Speed",
+						"32",
+						"0.3"
+					]
+				]
+			],
+			[
+				307200,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"2, expoOut"
+					],
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				316800,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				384000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"2, expoOut"
+					],
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"5",
+						""
+					]
+				]
+			]
+		]
+	}
+}

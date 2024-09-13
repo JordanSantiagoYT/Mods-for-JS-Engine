@@ -1,9 +1,10 @@
 Changes BF's character to a scared variant.
 
-Value 1 tells the gamewhich one to use.
+Value 1 tells the game which one to use.
 
 0 or nothing - bfScared
 1 - bfMildScared
 2 - bfVeryScared
 3 - bfTraumatized
 4 - Change back to BF
+5 - PTSDfriend
