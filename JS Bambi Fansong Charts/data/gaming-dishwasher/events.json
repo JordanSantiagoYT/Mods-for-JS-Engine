@@ -1,0 +1,161 @@
+{
+	"song": {
+		"events": [
+			[
+				21333.3333333333,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				95333.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-shredder"
+					],
+					[
+						"Play Animation",
+						"takeOut",
+						"dad"
+					],
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				117333.333333333,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				118666.666666667,
+				[
+					[
+						"Play Animation",
+						"takeOutReverse",
+						"dad"
+					]
+				]
+			],
+			[
+				119000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119666.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119750,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119833.333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119916.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				141333.333333333,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				-440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shredder idle"
+		},
+		{
+			"offsets": [
+				-100,
+				-434
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shredder left"
+		},
+		{
+			"offsets": [
+				-206,
+				-441
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shredder right"
+		},
+		{
+			"offsets": [
+				-124,
+				-472
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shredder down"
+		},
+		{
+			"offsets": [
+				-101,
+				-422
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "takeOut",
+			"indices": [],
+			"name": "shredder take out"
+		},
+		{
+			"offsets": [
+				-101,
+				-422
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "takeOutReverse",
+			"indices": [29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0],
+			"name": "shredder take out"
+		},
+		{
+			"offsets": [
+				-107,
+				-404
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "shredder forward"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		37,
+		191,
+		55
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi_shredder",
+	"shake_duration": 0,
+	"position": [
+		-70,
+		-100
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bambi",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		191,
+		55
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		80,
+		460
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		37,
+		191,
+		55
+	],
+	"scale": 1
+}
