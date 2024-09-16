@@ -296,6 +296,15 @@
 				181,
 				0
 			]
+		],
+		[
+			"Predecessor",
+			"pavement",
+			[
+				183,
+				216,
+				85
+			]
 		]
 	],
 	"hideFreeplay": false,

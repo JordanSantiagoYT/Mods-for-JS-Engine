@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				2944.78527607362,
+				[
+					[
+						"Credits Popup",
+						"Predecessor",
+						"Cynda (Stage by nael2xd)"
+					],
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				14723.9263803681,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				73619.6319018404,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				108957.055214724,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
