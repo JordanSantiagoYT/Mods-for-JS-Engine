@@ -38,7 +38,6 @@ function onUpdate(elapsed)
 	if curBeat >= 256 and curBeat < 513 or curBeat >= 1024 and curBeat <= 1537 or curBeat >= 1792 and curBeat <= 2049 then
     		clearEffects('camHUD')
     		clearEffects('camGame')
-		addedBloomEffect = false
 		if curBeat >= 1792 and curBeat <= 2048 then
 			addBloomEffect('camhud', 0.3)
         		addBloomEffect('camgame', 0.3)

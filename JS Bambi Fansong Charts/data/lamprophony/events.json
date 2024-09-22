@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				15750,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				16500,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				23250,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				27750,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				28500,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				35250,
+				[
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			]
+		]
+	}
+}

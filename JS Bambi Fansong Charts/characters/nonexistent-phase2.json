@@ -1,0 +1,120 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				217
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-75,
+				20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-45,
+				270
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-190,
+				234
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				15,
+				100
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"sarvente_floating": true,
+	"no_antialiasing": false,
+	"death_props": {
+		"endSfx": "gameOverEnd",
+		"bpm": 100,
+		"loopSfx": "gameOver",
+		"character": "bf-dead",
+		"startSfx": "fnf_loss_sfx"
+	},
+	"image": "characters/nonexistent_phase2",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "nonexistenttrue",
+	"trail_data": {
+		"length": 4,
+		"delay": 24,
+		"alpha": 0.3,
+		"diff": 0.069,
+		"enabled": true
+	},
+	"float_speed": 1,
+	"health_drain": true,
+	"selector_offsets": [
+		0,
+		0
+	],
+	"shake_screen": true,
+	"orbit": false,
+	"player": false,
+	"drain_floor": 0.1,
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{
+			"green": 40,
+			"red": 40,
+			"blue": 40
+		},
+		{
+			"green": 30,
+			"red": 30,
+			"blue": 30
+		},
+		{
+			"green": 20,
+			"red": 20,
+			"blue": 20
+		}
+	],
+	"drain_amount": 0.01,
+	"camera_position": [
+		-750,
+		-800
+	],
+	"float_magnitude": 0.6,
+	"sing_duration": 7.49999999999999,
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 2
+}
