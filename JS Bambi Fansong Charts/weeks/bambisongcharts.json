@@ -341,6 +341,24 @@
 				181,
 				0
 			]
+		],
+		[
+			"Creaking",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Transcendant",
+			"oppoexpunged",
+			[
+				255,
+				255,
+				255
+			]
 		]
 	],
 	"hideFreeplay": false,
