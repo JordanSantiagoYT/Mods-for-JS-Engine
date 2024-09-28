@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-266
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spongebob left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-275
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spongebob down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				182,
+				-105
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spongebob up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-266
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spongebob right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-254
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spongebob idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-254
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "spongebob idle",
+			"indices": [
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47
+			]
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		247,
+		211,
+		63
+	],
+	"no_antialiasing": false,
+	"image": "characters/classic-spongebob",
+	"shake_duration": 0,
+	"position": [
+		-80,
+		-120
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "classic-spongebob",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		247,
+		211,
+		63
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-80,
+		460
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		247,
+		211,
+		63
+	],
+	"scale": 0.5
+}
