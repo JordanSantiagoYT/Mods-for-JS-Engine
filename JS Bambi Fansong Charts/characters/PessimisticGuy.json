@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"losing_colors": [
+		105,
+		0,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/PessimisticGuy",
+	"shake_duration": 0.2,
+	"position": [
+		-850,
+		-300
+	],
+	"health_drain": true,
+	"shake_intensity": 0.0025,
+	"healthicon": "pessimisticguy",
+	"shake_screen": true,
+	"drain_floor": 0.3,
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		0,
+		0
+	],
+	"drain_amount": 0.025,
+	"camera_position": [
+		-490,
+		-630
+	],
+	"sing_duration": 5.99999999999999,
+	"noteskin": null,
+	"winning_colors": [
+		105,
+		0,
+		0
+	],
+	"scale": 1.7
+}
