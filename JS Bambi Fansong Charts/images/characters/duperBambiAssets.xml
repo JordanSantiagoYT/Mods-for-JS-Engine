@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="duperBambiAssets.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="duperBambiBreak0000" x="0" y="0" width="494" height="372" pivotX="249.55" pivotY="127.65"/>
+	<SubTexture name="duperBambiBreak0001" x="0" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiBreak0002" x="494" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiBreak0003" x="494" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiBreak0004" x="988" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiBreak0005" x="988" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiBreak0006" x="1482" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiBreak0007" x="1482" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiBreak0008" x="1976" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiBreak0009" x="1976" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiDown0000" x="2470" y="0" width="493" height="373" pivotX="249.55" pivotY="127.65"/>
+	<SubTexture name="duperBambiDown0001" x="2470" y="0" width="493" height="373"/>
+	<SubTexture name="duperBambiDown0002" x="2963" y="0" width="493" height="373"/>
+	<SubTexture name="duperBambiDown0003" x="2963" y="0" width="493" height="373"/>
+	<SubTexture name="duperBambiDown0004" x="3456" y="0" width="493" height="373"/>
+	<SubTexture name="duperBambiDown0005" x="3456" y="0" width="493" height="373"/>
+	<SubTexture name="duperBambiIdle0000" x="3949" y="0" width="494" height="372" pivotX="249.55" pivotY="127.65"/>
+	<SubTexture name="duperBambiIdle0001" x="3949" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0002" x="4443" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0003" x="4443" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0004" x="4937" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0005" x="4937" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0006" x="5431" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0007" x="5431" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0008" x="5925" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0009" x="5925" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0010" x="6419" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiIdle0011" x="6419" y="0" width="494" height="372"/>
+	<SubTexture name="duperBambiLeft0000" x="6913" y="0" width="493" height="372" pivotX="249.55" pivotY="127.65"/>
+	<SubTexture name="duperBambiLeft0001" x="6913" y="0" width="493" height="372"/>
+	<SubTexture name="duperBambiLeft0002" x="7406" y="0" width="493" height="372"/>
+	<SubTexture name="duperBambiLeft0003" x="7406" y="0" width="493" height="372"/>
+	<SubTexture name="duperBambiLeft0004" x="0" y="373" width="493" height="372"/>
+	<SubTexture name="duperBambiLeft0005" x="0" y="373" width="493" height="372"/>
+	<SubTexture name="duperBambiRight0000" x="493" y="373" width="494" height="372" pivotX="249.55" pivotY="127.65"/>
+	<SubTexture name="duperBambiRight0001" x="493" y="373" width="494" height="372"/>
+	<SubTexture name="duperBambiRight0002" x="987" y="373" width="494" height="372"/>
+	<SubTexture name="duperBambiRight0003" x="987" y="373" width="494" height="372"/>
+	<SubTexture name="duperBambiRight0004" x="1481" y="373" width="494" height="372"/>
+	<SubTexture name="duperBambiRight0005" x="1481" y="373" width="494" height="372"/>
+	<SubTexture name="duperBambiUp0000" x="1975" y="373" width="493" height="373" pivotX="249.55" pivotY="127.65"/>
+	<SubTexture name="duperBambiUp0001" x="1975" y="373" width="493" height="373"/>
+	<SubTexture name="duperBambiUp0002" x="2468" y="373" width="493" height="373"/>
+	<SubTexture name="duperBambiUp0003" x="2468" y="373" width="493" height="373"/>
+	<SubTexture name="duperBambiUp0004" x="2961" y="373" width="493" height="373"/>
+	<SubTexture name="duperBambiUp0005" x="2961" y="373" width="493" height="373"/>
+</TextureAtlas>

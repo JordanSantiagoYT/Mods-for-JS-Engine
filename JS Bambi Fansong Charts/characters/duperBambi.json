@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "duperBambiIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singUP",
+			"loop": false,
+			"name": "duperBambiUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "duperBambiDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "duperBambiLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "duperBambiRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "phoneSmash",
+			"loop": false,
+			"name": "duperBambiBreak"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duperBambiAssets",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "screwed",
+	"flip_x": false,
+	"healthbar_colors": [
+		25,
+		193,
+		45
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
