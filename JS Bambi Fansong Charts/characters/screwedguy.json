@@ -62,7 +62,7 @@
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "phone",
+			"anim": "phoneSmash",
 			"loop": false,
 			"name": "a_bambi phone"
 		},

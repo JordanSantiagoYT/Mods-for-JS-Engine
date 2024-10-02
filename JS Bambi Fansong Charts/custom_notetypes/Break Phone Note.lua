@@ -1,7 +1,8 @@
 function opponentNoteHit(id, noteData, noteType, isSustainNote)
     if noteType == 'Break Phone Note' then
 	setProperty('dad.holdTimer', 0)
-	characterPlayAnim('dad', 'phone', true);
+	characterPlayAnim('dad', 'phoneSmash', true);
+	setProperty('dad.specialAnim', true)
     end
 end
 function onCreatePost()
