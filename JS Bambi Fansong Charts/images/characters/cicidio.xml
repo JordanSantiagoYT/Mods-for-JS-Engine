@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cicidio.png">
+<SubTexture name="cicidio idle0000" x="362" y="437" width="225" height="134" frameX="-140" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio up0000" x="672" y="0" width="220" height="134" frameX="-132" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio up0001" x="0" y="575" width="238" height="134" frameX="-120" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio up0002" x="238" y="575" width="250" height="134" frameX="-116" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio up0003" x="0" y="0" width="263" height="149" frameX="-121" frameY="-182" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio up0004" x="263" y="0" width="263" height="149" frameX="-121" frameY="-182" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio up0005" x="0" y="149" width="263" height="149" frameX="-121" frameY="-182" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio up0006" x="0" y="149" width="263" height="149" frameX="-121" frameY="-182" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio up0007" x="0" y="149" width="263" height="149" frameX="-121" frameY="-182" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0000" x="672" y="134" width="154" height="134" frameX="-155" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0001" x="672" y="268" width="150" height="134" frameX="-160" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0002" x="672" y="402" width="144" height="134" frameX="-166" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0003" x="488" y="575" width="137" height="134" frameX="-173" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0004" x="625" y="575" width="137" height="134" frameX="-173" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0005" x="0" y="709" width="138" height="134" frameX="-172" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0006" x="138" y="709" width="138" height="134" frameX="-172" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0007" x="276" y="709" width="138" height="134" frameX="-172" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio left0008" x="414" y="709" width="138" height="134" frameX="-172" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio down0000" x="552" y="709" width="259" height="134" frameX="-120" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio down0001" x="892" y="0" width="256" height="134" frameX="-122" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio down0002" x="892" y="134" width="252" height="134" frameX="-125" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio down0003" x="892" y="268" width="247" height="134" frameX="-129" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio down0004" x="892" y="402" width="245" height="134" frameX="-130" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio down0005" x="892" y="536" width="245" height="134" frameX="-130" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio down0006" x="892" y="670" width="245" height="134" frameX="-130" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0000" x="0" y="843" width="249" height="134" frameX="-191" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0001" x="249" y="843" width="232" height="134" frameX="-191" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0002" x="164" y="437" width="198" height="136" frameX="-191" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0003" x="0" y="437" width="164" height="138" frameX="-191" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0004" x="263" y="149" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0005" x="0" y="298" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0006" x="146" y="298" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0007" x="292" y="298" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0008" x="526" y="0" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0009" x="526" y="139" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0010" x="526" y="139" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0011" x="526" y="278" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+<SubTexture name="cicidio right0012" x="526" y="278" width="146" height="139" frameX="-192" frameY="-197" frameWidth="540" frameHeight="360" />
+</TextureAtlas>

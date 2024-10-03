@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cicidio idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cicidio left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cicidio down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cicidio up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cicidio right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"no_antialiasing": true,
+	"image": "characters/cicidio",
+	"shake_duration": 0,
+	"position": [
+		60,
+		290
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "cicidio",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-260,
+		50
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		0
+	],
+	"scale": 1.7
+}
