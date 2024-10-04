@@ -43,7 +43,6 @@ function onUpdate(elapsed)
         		addBloomEffect('camgame', 0.3)
 		end
 	end
-	
 end
 function onUpdatePost(elapsed)
 	if curBeat >= 256 and curBeat < 512 or curBeat >= 1792 and curBeat <= 2048 then
