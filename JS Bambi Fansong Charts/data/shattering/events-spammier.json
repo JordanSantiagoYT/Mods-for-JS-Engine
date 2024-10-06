@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"1.5"
+					],
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				14693.8775510204,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15673.4693877551,
+				[
+					[
+						"Credits Popup",
+						"Shattering (Spammier)",
+						"Serde, Jordan Santiago"
+					]
+				]
+			],
+			[
+				46530.6122448979,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				77877.5510204082,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0.49"
+					]
+				]
+			],
+			[
+				94040.8163265308,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				124897.959183674,
+				[
+					[
+						"Change Scroll Speed",
+						"12",
+						"0.49"
+					]
+				]
+			],
+			[
+				156734.693877551,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.49"
+					]
+				]
+			]
+		]
+	}
+}
