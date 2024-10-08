@@ -6,7 +6,7 @@
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JordanSantiagoYT/Mods-for-JS-Engine">
 </p>
 
-This page is for mods i've created that are for JS Engine but can also work with other psych engine versions?? (An exception can be made for "Jordan's Large FNF Charts")
+This page is for mods i've created that are for JS Engine but can also work with other psych engine versions??
 
 To download the charts, you have to download all of them at once because of how frequently updated they are!
 
