@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-87
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				68
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				4,
+				5
+			]
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		223,
+		237,
+		34
+	],
+	"no_antialiasing": true,
+	"image": "characters/marcelloNice",
+	"shake_duration": 0,
+	"position": [
+		50,
+		100
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "marcelloNice",
+	"shake_screen": false,
+	"drain_floor": 0.1,
+	"flip_x": false,
+	"healthbar_colors": [
+		223,
+		237,
+		34
+	],
+	"drain_amount": 0.01,
+	"camera_position": [
+		-150,
+		80
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		223,
+		237,
+		34
+	],
+	"scale": 0.9
+}

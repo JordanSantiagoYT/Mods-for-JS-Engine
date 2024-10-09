@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				240,
+				60
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				266,
+				59
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				60
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				274,
+				170
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				236,
+				62
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		255,
+		0
+	],
+	"no_antialiasing": true,
+	"image": "characters/garrett",
+	"shake_duration": 0,
+	"position": [
+		10,
+		200
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "garrett",
+	"shake_screen": false,
+	"drain_floor": 0.1,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"drain_amount": 0.01,
+	"camera_position": [
+		-150,
+		50
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		0
+	],
+	"scale": 0.8
+}

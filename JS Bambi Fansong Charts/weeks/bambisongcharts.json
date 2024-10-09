@@ -477,6 +477,24 @@
 				0,
 				255
 			]
+		],
+		[
+			"Scrapped Garrett Song",
+			"garrett",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Nice First Section Teaser",
+			"marcelloNice",
+			[
+				255,
+				255,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,
