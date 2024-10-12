@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				780,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hade Left"
+		},
+		{
+			"offsets": [
+				40,
+				-740
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Hade Down"
+		},
+		{
+			"offsets": [
+				-50,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hade Up"
+		},
+		{
+			"offsets": [
+				-400,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Hade Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hade Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		119,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hell_Breaker",
+	"shake_duration": 0.02,
+	"position": [
+		-200,
+		-410
+	],
+	"health_drain": true,
+	"shake_intensity": 0.009,
+	"healthicon": "hellbreaker",
+	"shake_screen": true,
+	"drain_floor": 0.03,
+	"flip_x": false,
+	"healthbar_colors": [
+		119,
+		0,
+		0
+	],
+	"drain_amount": 0.025,
+	"camera_position": [
+		-450,
+		-200
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		119,
+		0,
+		0
+	],
+	"scale": 2
+}
