@@ -513,6 +513,24 @@
 				0,
 				0
 			]
+		],
+		[
+			"Animosity",
+			"cheap",
+			[
+				30,
+				0,
+				0
+			]
+		],
+		[
+			"Moribund 3",
+			"charliePhaso2",
+			[
+				100,
+				0,
+				100
+			]
 		]
 	],
 	"hideFreeplay": false,

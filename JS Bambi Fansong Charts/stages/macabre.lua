@@ -6,7 +6,6 @@ function onCreate()
 
 	initLuaShader("macabre")
 	setSpriteShader("macabre", "macabre")
-
 end
 
 function onUpdate(elapsed)
