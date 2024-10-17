@@ -1,6 +1,10 @@
 # Mods-for-JS-Engine
 
 <p align="center">
+  <a href="https://github.com/JordanSantiagoYT/FNF-JS-Engine"><img src="https://raw.githubusercontent.com/JordanSantiagoYT/FNF-JS-Engine/refs/heads/main/assets/exclude/images/jslol.png" alt="JSengine" width="150"></a>
+</p>
+
+<p align="center">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JordanSantiagoYT/Mods-for-JS-Engine">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/JordanSantiagoYT/Mods-for-JS-Engine">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JordanSantiagoYT/Mods-for-JS-Engine">
