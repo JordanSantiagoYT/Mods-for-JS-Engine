@@ -531,6 +531,24 @@
 				0,
 				100
 			]
+		],
+		[
+			"Rewind",
+			"angermarelo",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Smug Douchebag",
+			"didicio",
+			[
+				255,
+				135,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

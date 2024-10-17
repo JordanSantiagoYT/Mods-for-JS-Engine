@@ -1,0 +1,356 @@
+{
+	"song": {
+		"events": [
+			[
+				416.666666666667,
+				[
+					[
+						"lyrics",
+						"hello guys",
+						""
+					]
+				]
+			],
+			[
+				1000,
+				[
+					[
+						"lyrics",
+						"hello guys, its me",
+						""
+					]
+				]
+			],
+			[
+				1416.66666666667,
+				[
+					[
+						"lyrics",
+						"hello guys, its me Didicio",
+						""
+					]
+				]
+			],
+			[
+				2000,
+				[
+					[
+						"lyrics",
+						"and today we're going to be rap battling Boyfriend from friay night funkin'",
+						""
+					]
+				]
+			],
+			[
+				5291.66666666667,
+				[
+					[
+						"lyrics",
+						"it's gonna be the best experience",
+						""
+					]
+				]
+			],
+			[
+				7083.33333333333,
+				[
+					[
+						"lyrics",
+						"i know it!",
+						""
+					]
+				]
+			],
+			[
+				8166.66666666667,
+				[
+					[
+						"lyrics",
+						"hehehe!",
+						""
+					]
+				]
+			],
+			[
+				9166.66666666667,
+				[
+					[
+						"lyrics",
+						"OH MY GOD",
+						""
+					]
+				]
+			],
+			[
+				9833.33333333333,
+				[
+					[
+						"lyrics",
+						"OH MY GOD IS THAT A",
+						""
+					]
+				]
+			],
+			[
+				10583.3333333333,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				10666.6666666667,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34166.6666666667,
+				[
+					[
+						"Screen Shake",
+						"1, 0.03",
+						"1, 0.02"
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				34666.6666666667,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				37333.3333333333,
+				[
+					[
+						"Trigger Scared BF",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				38333.3333333333,
+				[
+					[
+						"Screen Shake",
+						"1, 0.03",
+						"1, 0.02"
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				40666.6666666667,
+				[
+					[
+						"Trigger Scared BF",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				41666.6666666667,
+				[
+					[
+						"Screen Shake",
+						"0.34, 0.03",
+						"0.34, 0.02"
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				41972.2222222222,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Screen Shake",
+						"0.66, 0.03",
+						"0.66, 0.02"
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Trigger Scared BF",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				53250,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				63833.3333333334,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				92000,
+				[
+					[
+						"Trigger Scared BF",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				92333.3333333333,
+				[
+					[
+						"Screen Shake",
+						"2.33, 0.04",
+						"2.33, 0.03"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"lyrics",
+						"hey, what was that for?",
+						""
+					]
+				]
+			],
+			[
+				98666.6666666666,
+				[
+					[
+						"lyrics",
+						"that's what you get for interrupting me, dimwit.",
+						""
+					]
+				]
+			],
+			[
+				101291.666666667,
+				[
+					[
+						"Trigger Scared BF",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				101333.333333333,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				149333.333333333,
+				[
+					[
+						"Enable Bot Energy",
+						"",
+						""
+					],
+					[
+						"Set Bot Energy Speeds",
+						"1.3",
+						"0.8"
+					]
+				]
+			],
+			[
+				170500,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				181333.333333334,
+				[
+					[
+						"Disable Bot Energy",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Popup",
+						"Error! JS Engine 1.35.0 (engine skipped a heartbeat)",
+						"A fatal error has occurred and the Engine cannot play this song further.\n\nPress OK to exit."
+					]
+				]
+			]
+		]
+	}
+}
