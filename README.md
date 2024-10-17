@@ -17,4 +17,4 @@ To download the charts, you have to download all of them at once because of how 
 
 If you want to use any of these charts, you have permission to HOWEVER you MUST give me credit.
 
-PS: This is over 5GB worth of content.
+**If you have an issue with JS Engine, please report it at JordanSantiagoYT/FNF-PsychEngine-NoBotplayLag/issues and not here!!**
