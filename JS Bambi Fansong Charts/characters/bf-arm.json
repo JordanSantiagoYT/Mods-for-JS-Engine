@@ -1,0 +1,141 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				192,
+				23
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				318,
+				-96
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left arm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down arm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				118
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up arm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				107
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right arm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				-111
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss arm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				31
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss arm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				100
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss arm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				99
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss arm",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		49,
+		176,
+		209
+	],
+	"isPlayer": true,
+	"no_antialiasing": false,
+	"image": "characters/bf_arm_new",
+	"shake_duration": 0,
+	"position": [
+		0,
+		0
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bf",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		49,
+		176,
+		209
+	],
+	"scale": 0.7
+}
