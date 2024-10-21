@@ -14,6 +14,9 @@ function onSongStart()
 end
 
 function onStepHit()
+	if curStep == 512 or curStep == 2688 or curStep == 4736 then
+		cameraFlash('camOther', 'ffffff', 0.7)
+	end
 	if curStep == 4992 then
 		doTweenAlpha('okBye', 'flash', 1, 2, 'linear')
 	end
