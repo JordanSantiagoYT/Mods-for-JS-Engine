@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "qixitouqi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-240
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "qixitouqi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "qixitouqi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "qixitouqi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "qixitouqi right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		203,
+		103
+	],
+	"no_antialiasing": false,
+	"image": "characters/qixitouqi",
+	"shake_duration": 0,
+	"position": [
+		-70,
+		-170
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "qxtq",
+	"shake_screen": false,
+	"drain_floor": 0.05,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		203,
+		103
+	],
+	"drain_amount": 0.025,
+	"camera_position": [
+		-30,
+		280
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		203,
+		103
+	],
+	"scale": 1.5
+}

@@ -1,6 +1,6 @@
 function onEvent(n,v1,v2)
 	if n == 'Flash Camera' then
-		val2Split = stringSplit(val2, ',');
+		val2Split = stringSplit(v2, ',');
 		camera = val2Split[1];
 		if camera == nil then
 			camera = 'camOther';
@@ -9,6 +9,6 @@ function onEvent(n,v1,v2)
 		if color == nil then
 			color = 'ffffff';
 		end
-		cameraFlash(camera, color, val1)
+		cameraFlash(camera, color, v1)
 	end
 end

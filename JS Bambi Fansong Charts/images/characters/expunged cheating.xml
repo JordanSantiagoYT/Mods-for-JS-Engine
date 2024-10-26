@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CheatingExpunged.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Down Right0000" x="516" y="678" width="524" height="625" frameX="-371" frameY="-131" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Right0001" x="1158" y="684" width="496" height="632" frameX="-368" frameY="-124" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Right0002" x="1666" y="0" width="461" height="646" frameX="-375" frameY="-114" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Right0003" x="2564" y="0" width="438" height="644" frameX="-375" frameY="-116" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Up0000" x="2564" y="644" width="382" height="734" frameX="-318" frameY="-10" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Up0001" x="3002" y="658" width="382" height="723" frameX="-317" frameY="-21" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Up0002" x="2127" y="657" width="398" height="714" frameX="-303" frameY="-50" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Up0003" x="1666" y="646" width="413" height="701" frameX="-294" frameY="-63" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Left0000" x="0" y="0" width="588" height="678" frameX="-12" frameY="-97" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Left0001" x="588" y="0" width="570" height="675" frameX="-30" frameY="-100" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Left0002" x="0" y="678" width="516" height="681" frameX="-112" frameY="-109" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Left0003" x="1158" y="0" width="508" height="684" frameX="-124" frameY="-106" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Down0000" x="507" y="1359" width="514" height="560" frameX="-311" frameY="-286" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Down0001" x="0" y="1359" width="507" height="574" frameX="-318" frameY="-270" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Down0002" x="0" y="1933" width="465" height="603" frameX="-330" frameY="-210" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Down0003" x="0" y="2536" width="438" height="613" frameX="-349" frameY="-204" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Idle0000" x="465" y="1933" width="449" height="602" frameX="-272" frameY="-147" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Idle0001" x="438" y="2536" width="436" height="612" frameX="-280" frameY="-137" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Idle0002" x="2127" y="0" width="437" height="657" frameX="-276" frameY="-125" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Idle0003" x="3002" y="0" width="421" height="658" frameX="-273" frameY="-114" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Idle0004" x="3002" y="1381" width="414" height="652" frameX="-272" frameY="-108" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Idle0005" x="3423" y="0" width="407" height="650" frameX="-277" frameY="-98" frameWidth="901" frameHeight="857"/>
+	<SubTexture name="Down Idle0006" x="3423" y="650" width="401" height="652" frameX="-277" frameY="-96" frameWidth="901" frameHeight="857"/>
+</TextureAtlas>

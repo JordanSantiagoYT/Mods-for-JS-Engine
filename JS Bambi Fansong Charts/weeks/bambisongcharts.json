@@ -584,6 +584,51 @@
 				100,
 				100
 			]
+		],
+		[
+			"Solar",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Mac Mo Gi Tao",
+			"caine",
+			[
+				200,
+				18,
+				0
+			]
+		],
+		[
+			"Absolute Zero",
+			"dave",
+			[
+				12,
+				11,
+				240
+			]
+		],
+		[
+			"Seven",
+			"expunged-cheating",
+			[
+				0,
+				130,
+				0
+			]
+		],
+		[
+			"Interger Overflow",
+			"trueNaN",
+			[
+				0,
+				0,
+				80
+			]
 		]
 	],
 	"hideFreeplay": false,

@@ -1,5 +1,3 @@
-renderingMode = false
-fpsDivide = 1;
 function onCreatePost()
 	makeLuaSprite('flash', '', 0, 0);
 	makeGraphic('flash', 1280, 720, '000000')
@@ -20,14 +18,6 @@ function onCreatePost()
   	setObjectCamera('whiteBG', 'camGame')
 	setObjectOrder('whiteBG', '9')
 	setProperty('camGame.alpha', 0)
-	
-	--This part determines whether Rendering Mode is being used, and sets the FPS divisor accordingly. This is used to make the Bloom decay consistent across different framerates.
-	renderingMode = getPropertyFromClass('ClientPrefs', 'ffmpegMode')
-	if renderingMode then
-		fpsDivide = getPropertyFromClass('ClientPrefs', 'targetFPS') / 60
-	else
-		fpsDivide = getPropertyFromClass('ClientPrefs', 'framerate') / 60
-	end
 end
 
 function onSongStart()
@@ -81,7 +71,7 @@ function onUpdate(elapsed)
 	if curBeat >= 128 and curBeat < 376 or curBeat >= 384 and curBeat < 637 then
     		clearEffects('camHUD')
     		clearEffects('camGame')
-    		bloomAmt = bloomAmt * 0.9 / fpsDivide
+    		bloomAmt = bloomAmt * math.pow(0.9, elapsed * 60)
    		addBloomEffect('camGame', bloomAmt)
     		addBloomEffect('camHUD', bloomAmt)
 	end
