@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="True Form NaN.png">
+<SubTexture name="idle0000" x="0" y="0" width="1203" height="1258" frameX="-39" frameY="-40" frameWidth="1325" frameHeight="1361" />
+</TextureAtlas>

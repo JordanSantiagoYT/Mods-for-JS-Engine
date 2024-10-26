@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="qixitouqi.png">
+<SubTexture name="qixitouqi idle0000" x="0" y="0" width="289" height="272" frameX="-183" frameY="-218" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi idle0001" x="289" y="0" width="289" height="310" frameX="-183" frameY="-180" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi idle0002" x="578" y="0" width="289" height="338" frameX="-183" frameY="-152" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi idle0003" x="867" y="0" width="289" height="354" frameX="-183" frameY="-136" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi idle0004" x="1156" y="0" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi idle0005" x="1445" y="0" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi left0000" x="0" y="368" width="324" height="352" frameX="-20" frameY="-128" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi left0001" x="324" y="368" width="268" height="368" frameX="-128" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi left0002" x="592" y="368" width="244" height="376" frameX="-178" frameY="-114" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi left0003" x="836" y="368" width="275" height="372" frameX="-173" frameY="-118" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi left0004" x="1111" y="368" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi left0005" x="1400" y="368" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi down0000" x="0" y="744" width="370" height="290" frameX="-142" frameY="-160" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi down0001" x="370" y="744" width="334" height="374" frameX="-172" frameY="-112" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi down0002" x="704" y="744" width="375" height="314" frameX="-144" frameY="-154" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi down0003" x="1079" y="744" width="281" height="356" frameX="-196" frameY="-134" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi down0004" x="1360" y="744" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi down0005" x="1649" y="744" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi up0000" x="0" y="1118" width="289" height="486" frameX="-183" frameY="-4" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi up0001" x="289" y="1118" width="289" height="422" frameX="-183" frameY="-68" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi up0002" x="578" y="1118" width="289" height="394" frameX="-183" frameY="-96" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi up0003" x="867" y="1118" width="289" height="380" frameX="-183" frameY="-110" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi up0004" x="1156" y="1118" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi up0005" x="1445" y="1118" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi right0000" x="0" y="1604" width="334" height="375" frameX="-228" frameY="-114" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi right0001" x="334" y="1604" width="314" height="378" frameX="-204" frameY="-112" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi right0002" x="648" y="1604" width="302" height="374" frameX="-194" frameY="-116" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi right0003" x="950" y="1604" width="294" height="370" frameX="-183" frameY="-120" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi right0004" x="1244" y="1604" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+<SubTexture name="qixitouqi right0005" x="1533" y="1604" width="289" height="368" frameX="-183" frameY="-122" frameWidth="640" frameHeight="480" />
+</TextureAtlas>
