@@ -27,7 +27,6 @@ function onCreate()
 	addHaxeLibrary('Event','openfl.events')
 	--add needed haxe libraries for video and openfl events
 
-
 end
 
 function onSongStart()
