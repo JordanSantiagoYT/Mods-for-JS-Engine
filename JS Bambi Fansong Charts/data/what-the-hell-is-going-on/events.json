@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				45773.4939759036,
+				[
+					[
+						"Change Note Multiplier",
+						"1.928938912e297",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"100",
+						"0.77"
+					]
+				]
+			],
+			[
+				46173.4939759036,
+				[
+					[
+						"Camera Bopping",
+						"128",
+						"1"
+					]
+				]
+			],
+			[
+				140614.310302432,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

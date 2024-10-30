@@ -638,6 +638,15 @@
 				0,
 				80
 			]
+		],
+		[
+			"WHAT THE HELL IS GOING ON",
+			"face",
+			[
+				100,
+				100,
+				100
+			]
 		]
 	],
 	"hideFreeplay": false,
