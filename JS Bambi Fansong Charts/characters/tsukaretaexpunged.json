@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				520,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tsukareta_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				429,
+				35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tsukareta_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tsukareta_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-119
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tsukareta_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				252,
+				105
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tsukareta_Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TsukaretaExpunged",
+	"position": [
+		90,
+		70
+	],
+	"healthicon": "tsukaretaexp",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		95,
+		95
+	],
+	"camera_position": [
+		-360,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}
