@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				520,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "le idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				781,
+				27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "le left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				263,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "le right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				578,
+				-79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "le down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				488,
+				140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "le up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		255,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/theoremake",
+	"shake_duration": 0,
+	"position": [
+		90,
+		70
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "thebi",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		111
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-800,
+		-500
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		0,
+		0,
+		111
+	],
+	"scale": 1.8
+}

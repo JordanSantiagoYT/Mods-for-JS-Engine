@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+	<!-- by granderutai lol lol -->
+<TextureAtlas imagePath="vulgiggle.png"><SubTexture name="idle0000" x="0" y="0" width="1024" height="1343" frameX="-218" frameY="-42" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0001" x="1024" y="0" width="1042" height="1323" frameX="-211" frameY="-51" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0002" x="2066" y="0" width="990" height="1222" frameX="-255" frameY="-116" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0003" x="3966" y="1127" width="1021" height="1112" frameX="-276" frameY="-189" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0004" x="3966" y="2239" width="985" height="1104" frameX="-334" frameY="-190" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0000" x="1878" y="3674" width="1038" height="994" frameX="-338" frameY="-259" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0001" x="886" y="3674" width="992" height="1035" frameX="-335" frameY="-225" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0002" x="0" y="3674" width="886" height="1079" frameX="-335" frameY="-191" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0000" x="3056" y="1159" width="885" height="1156" frameX="-213" frameY="-212" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0001" x="948" y="2523" width="937" height="1146" frameX="-233" frameY="-195" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0002" x="0" y="2523" width="948" height="1151" frameX="-267" frameY="-188" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0000" x="3966" y="0" width="1225" height="1127" frameX="-224" frameY="-299" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0001" x="1055" y="1343" width="1143" height="1171" frameX="-160" frameY="-240" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0002" x="0" y="1343" width="1055" height="1180" frameX="-142" frameY="-216" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0000" x="3056" y="0" width="910" height="1159" frameX="-354" frameY="-211" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0001" x="1885" y="2523" width="966" height="1144" frameX="-337" frameY="-232" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0002" x="2851" y="2523" width="971" height="1131" frameX="-337" frameY="-246" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

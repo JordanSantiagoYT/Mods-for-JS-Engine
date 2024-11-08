@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				520,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		0,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bangerpunged",
+	"shake_duration": 0,
+	"position": [
+		90,
+		-160
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "Banger",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		15,
+		12
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-900,
+		-500
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		15,
+		15,
+		12
+	],
+	"scale": 1.8
+}

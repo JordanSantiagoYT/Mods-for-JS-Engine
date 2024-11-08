@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				356,
+				-236
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				425,
+				-248
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				-226
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				-229
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				351,
+				-179
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"no_antialiasing": true,
+	"image": "characters/ScoliosisEye",
+	"shake_duration": 0,
+	"position": [
+		90,
+		-160
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "Scoliosis",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-530,
+		-10
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		0
+	],
+	"scale": 1.8
+}

@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				520,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				781,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				263,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				578,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				488,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		170,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scopomania-A",
+	"shake_duration": 0,
+	"position": [
+		90,
+		-160
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "Scopo",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-840,
+		-320
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		85,
+		0,
+		0
+	],
+	"scale": 1.8
+}

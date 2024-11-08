@@ -1,0 +1,211 @@
+{
+	"song": {
+		"events": [
+			[
+				130723.404255319,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ommetaGuy"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				248170.212765958,
+				[
+					[
+						"Change Scroll Speed",
+						"1.6",
+						"1"
+					]
+				]
+			],
+			[
+				249191.489361703,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"bangerGuy"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				279911.489361703,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"1"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Disable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				287591.489361703,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				294791.489361703,
+				[
+					[
+						"Change Scroll Speed",
+						"1.7",
+						"0.47"
+					]
+				]
+			],
+			[
+				295271.489361703,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				325991.489361703,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				341351.489361703,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				348071.489361703,
+				[
+					[
+						"Change Scroll Speed",
+						"2.4",
+						"0.8"
+					]
+				]
+			],
+			[
+				349031.489361703,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"unboundGuy"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				406993.753512646,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				414125.828984344,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"2"
+					]
+				]
+			],
+			[
+				414239.036531514,
+				[
+					[
+						"Change Character",
+						"dad",
+						"scoliosisGuy"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"256",
+						""
+					]
+				]
+			]
+		]
+	}
+}

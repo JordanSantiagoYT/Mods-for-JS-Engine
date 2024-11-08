@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				486,
+				-114
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				548,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				419,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				565,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				495,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"no_antialiasing": true,
+	"image": "characters/Unboundhusk",
+	"shake_duration": 0,
+	"position": [
+		90,
+		-160
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "unboundhusk",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-940,
+		-390
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		0
+	],
+	"scale": 2
+}
