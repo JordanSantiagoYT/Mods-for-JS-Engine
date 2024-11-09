@@ -692,6 +692,15 @@
 				0,
 				0
 			]
+		],
+		[
+			"New Weapon",
+			"buddy",
+			[
+				50,
+				0,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

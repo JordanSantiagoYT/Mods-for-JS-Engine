@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Buddy idle"
+		},
+		{
+			"offsets": [
+				-110,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Buddy left"
+		},
+		{
+			"offsets": [
+				-109,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Buddy down"
+		},
+		{
+			"offsets": [
+				-110,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Buddy up"
+		},
+		{
+			"offsets": [
+				-107,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Buddy right"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		207,
+		140,
+		57
+	],
+	"no_antialiasing": false,
+	"image": "characters/Buddy",
+	"shake_duration": 0,
+	"position": [
+		-100,
+		-120
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "buddy",
+	"shake_screen": false,
+	"drain_floor": 0.05,
+	"flip_x": false,
+	"healthbar_colors": [
+		207,
+		140,
+		57
+	],
+	"drain_amount": 0.025,
+	"camera_position": [
+		-60,
+		250
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		207,
+		140,
+		57
+	],
+	"scale": 1.5
+}
