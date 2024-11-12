@@ -710,6 +710,24 @@
 				0,
 				111
 			]
+		],
+		[
+			"Insensibility",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Culmination Reimagined",
+			"zenith",
+			[
+				255,
+				0,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,
