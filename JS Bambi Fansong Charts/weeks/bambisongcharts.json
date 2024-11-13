@@ -728,6 +728,15 @@
 				0,
 				0
 			]
+		],
+		[
+			"Anulled",
+			"expunged-unfairness",
+			[
+				255,
+				0,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

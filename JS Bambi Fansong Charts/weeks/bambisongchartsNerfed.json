@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Anulled",
+			"expunged-unfairness",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Nerfed",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Songs but nerfed to actually be playable",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}
