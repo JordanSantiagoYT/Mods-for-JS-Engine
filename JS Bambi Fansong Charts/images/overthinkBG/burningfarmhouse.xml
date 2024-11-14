@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="burningfarmhouse.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the Haha0000" x="0" y="0" width="2114" height="769" frameX="0" frameY="-72" frameWidth="2114" frameHeight="841"/>
+	<SubTexture name="the Haha0001" x="0" y="0" width="2114" height="769" frameX="0" frameY="-72" frameWidth="2114" frameHeight="841"/>
+	<SubTexture name="the Haha0002" x="0" y="769" width="2114" height="797" frameX="0" frameY="-44" frameWidth="2114" frameHeight="841"/>
+	<SubTexture name="the Haha0003" x="0" y="769" width="2114" height="797" frameX="0" frameY="-44" frameWidth="2114" frameHeight="841"/>
+	<SubTexture name="the Haha0004" x="0" y="1566" width="2114" height="820" frameX="0" frameY="-21" frameWidth="2114" frameHeight="841"/>
+	<SubTexture name="the Haha0005" x="0" y="1566" width="2114" height="820" frameX="0" frameY="-21" frameWidth="2114" frameHeight="841"/>
+	<SubTexture name="the Haha0006" x="0" y="2386" width="2114" height="841"/>
+</TextureAtlas>

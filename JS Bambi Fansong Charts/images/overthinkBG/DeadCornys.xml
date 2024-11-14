@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DeadCornys.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swaying corn0000" x="0" y="0" width="390" height="291" frameX="0" frameY="0" frameWidth="420" frameHeight="291"/>
+	<SubTexture name="swaying corn0001" x="0" y="0" width="390" height="291" frameX="0" frameY="0" frameWidth="420" frameHeight="291"/>
+	<SubTexture name="swaying corn0002" x="390" y="0" width="394" height="291" frameX="-4" frameY="0" frameWidth="420" frameHeight="291"/>
+	<SubTexture name="swaying corn0003" x="390" y="0" width="394" height="291" frameX="-4" frameY="0" frameWidth="420" frameHeight="291"/>
+	<SubTexture name="swaying corn0004" x="0" y="291" width="405" height="291" frameX="-15" frameY="0" frameWidth="420" frameHeight="291"/>
+	<SubTexture name="swaying corn0005" x="0" y="291" width="405" height="291" frameX="-15" frameY="0" frameWidth="420" frameHeight="291"/>
+</TextureAtlas>
