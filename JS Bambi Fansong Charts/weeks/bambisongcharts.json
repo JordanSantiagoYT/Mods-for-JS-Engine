@@ -746,6 +746,33 @@
 				175,
 				0
 			]
+		],
+		[
+			"The Netherworld",
+			"hellbreaker",
+			[
+				40,
+				0,
+				0
+			]
+		],
+		[
+			"Zu-Nuth",
+			"zu",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Shameless",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

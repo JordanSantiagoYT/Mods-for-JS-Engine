@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				100
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 1,
+			"anim": "idle",
+			"name": "idle",
+			"indices": [
+				1,
+				2
+			]
+		}
+	],
+	"vocals_file": "bf",
+	"losing_colors": [
+		255,
+		255,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/zunuth",
+	"shake_duration": 0,
+	"position": [
+		-220,
+		-40
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "zu",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-8910,
+		-6120
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		255
+	],
+	"scale": 10
+}
