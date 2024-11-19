@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				237
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "inmbis idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				340
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "inmbis left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				375
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "inmbis right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				292
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "inmbis down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				393
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "inmbis up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/inmbis",
+	"position": [
+		-160,
+		230
+	],
+	"healthicon": "inmbis",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		75,
+		75
+	],
+	"camera_position": [
+		-380,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

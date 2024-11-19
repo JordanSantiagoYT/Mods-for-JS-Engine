@@ -1,0 +1,346 @@
+{
+	"song": {
+		"events": [
+			[
+				19538.4615384615,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				98461.5384615386,
+				[
+					[
+						"Change Character",
+						"dad",
+						"multicorn"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					]
+				]
+			],
+			[
+				147538.461538462,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				187000,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				206615.384615384,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				226461.538461538,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					],
+					[
+						"Change Character",
+						"dad",
+						"oppositionbambi"
+					]
+				]
+			],
+			[
+				245999.999999999,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				265769.23076923,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				302615.384615384,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				305153.846153846,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				324846.153846154,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				334769.230769231,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dan"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					]
+				]
+			],
+			[
+				413384.615384617,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				443076.923076925,
+				[
+					[
+						"Change Character",
+						"dad",
+						"inmbis"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					]
+				]
+			],
+			[
+				452846.153846156,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				482384.615384618,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				497076.923076926,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				502000.000000003,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				541538.461538465,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					],
+					[
+						"Change Character",
+						"dad",
+						"screwedguy"
+					]
+				]
+			],
+			[
+				546461.538461542,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					],
+					[
+						"Change Character",
+						"dad",
+						"multicorn"
+					]
+				]
+			],
+			[
+				547846.153846157,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.45"
+					]
+				]
+			],
+			[
+				548923.07692308,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				550307.692307696,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.45"
+					]
+				]
+			],
+			[
+				551384.615384619,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					],
+					[
+						"Change Character",
+						"dad",
+						"oppositionbambi"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				556307.692307696,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dan"
+					]
+				]
+			],
+			[
+				561230.769230773,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					],
+					[
+						"Change Character",
+						"dad",
+						"inmbis"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				590692.307692311,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

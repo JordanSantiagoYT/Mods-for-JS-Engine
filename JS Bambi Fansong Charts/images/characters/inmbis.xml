@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="inmbis.png"><SubTexture name="inmbis down0000" x="577" y="0" width="748" height="867" frameX="-181" frameY="-113" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis down0001" x="0" y="954" width="608" height="759" frameX="-250" frameY="-183" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis down0002" x="0" y="2390" width="523" height="649" frameX="-272" frameY="-207" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis idle0000" x="1738" y="724" width="363" height="681" frameX="-236" frameY="-55" frameWidth="862" frameHeight="792" />
+<SubTexture name="inmbis idle0001" x="1738" y="0" width="578" height="724" frameX="-38" frameY="-14" frameWidth="862" frameHeight="792" />
+<SubTexture name="inmbis idle0002" x="608" y="954" width="419" height="728" frameX="-135" frameY="-31" frameWidth="862" frameHeight="792" />
+<SubTexture name="inmbis idle0003" x="1738" y="724" width="363" height="681" frameX="-236" frameY="-55" frameWidth="862" frameHeight="792" />
+<SubTexture name="inmbis left0000" x="0" y="1713" width="914" height="677" frameX="-15" frameY="-132" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis left0001" x="1982" y="1713" width="757" height="650" frameX="-110" frameY="-164" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis left0002" x="1418" y="1713" width="564" height="661" frameX="-219" frameY="-160" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis right0000" x="2316" y="0" width="826" height="703" frameX="-124" frameY="-121" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis right0001" x="2316" y="703" width="633" height="687" frameX="-245" frameY="-130" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis right0002" x="914" y="1713" width="504" height="668" frameX="-312" frameY="-165" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis up0000" x="0" y="0" width="577" height="954" frameX="-312" frameY="-30" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis up0001" x="1325" y="0" width="413" height="791" frameX="-334" frameY="-137" frameWidth="1058" frameHeight="990" />
+<SubTexture name="inmbis up0002" x="1027" y="954" width="268" height="725" frameX="-372" frameY="-126" frameWidth="1058" frameHeight="990" />
+</TextureAtlas>

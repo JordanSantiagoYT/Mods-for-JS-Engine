@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thebambi.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="422" height="417"/>
+	<SubTexture name="Down0001" x="0" y="0" width="422" height="417"/>
+	<SubTexture name="Down0002" x="422" y="0" width="422" height="417"/>
+	<SubTexture name="Idle0000" x="844" y="0" width="413" height="523"/>
+	<SubTexture name="Idle0001" x="1257" y="0" width="413" height="523"/>
+	<SubTexture name="Idle0002" x="1257" y="0" width="413" height="523"/>
+	<SubTexture name="Idle0003" x="0" y="523" width="413" height="523"/>
+	<SubTexture name="Idle0004" x="0" y="523" width="413" height="523"/>
+	<SubTexture name="Idle0005" x="413" y="523" width="413" height="523"/>
+	<SubTexture name="Idle0006" x="413" y="523" width="413" height="523"/>
+	<SubTexture name="Idle0007" x="826" y="523" width="413" height="523"/>
+	<SubTexture name="Left0000" x="1239" y="523" width="462" height="533"/>
+	<SubTexture name="Left0001" x="1239" y="523" width="462" height="533"/>
+	<SubTexture name="Left0002" x="0" y="1056" width="462" height="533"/>
+	<SubTexture name="Right0000" x="462" y="1056" width="430" height="504"/>
+	<SubTexture name="Right0001" x="462" y="1056" width="430" height="504"/>
+	<SubTexture name="Right0002" x="892" y="1056" width="430" height="504"/>
+	<SubTexture name="Up0000" x="1322" y="1056" width="405" height="566"/>
+	<SubTexture name="Up0001" x="1322" y="1056" width="405" height="566"/>
+</TextureAtlas>
