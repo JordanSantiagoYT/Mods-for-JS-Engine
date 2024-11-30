@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dylanp4.png">
+<SubTexture name="Dylanp4 idle0000" x="0" y="1057" width="1074" height="1007" frameX="-1054" frameY="-380" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 idle0001" x="1074" y="1057" width="1047" height="1000" frameX="-997" frameY="-387" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 idle0002" x="2121" y="1057" width="1051" height="1007" frameX="-1056" frameY="-379" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 idle0003" x="0" y="1057" width="1074" height="1007" frameX="-1054" frameY="-380" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 left0000" x="0" y="2064" width="1040" height="975" frameX="-875" frameY="-307" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 left0001" x="1040" y="2064" width="1045" height="968" frameX="-787" frameY="-298" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 left0002" x="0" y="2064" width="1040" height="975" frameX="-875" frameY="-307" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 left0003" x="2085" y="2064" width="1043" height="979" frameX="-913" frameY="-312" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 right0000" x="0" y="3043" width="1151" height="882" frameX="-1324" frameY="-352" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 right0001" x="1151" y="3043" width="1150" height="890" frameX="-1417" frameY="-366" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 right0002" x="0" y="3043" width="1151" height="882" frameX="-1324" frameY="-352" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 right0003" x="2301" y="3043" width="1146" height="901" frameX="-1232" frameY="-339" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 up0000" x="0" y="3944" width="1179" height="1057" frameX="-1084" frameY="-281" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 up0001" x="1179" y="3944" width="1313" height="1125" frameX="-1015" frameY="-224" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 up0002" x="0" y="3944" width="1179" height="1057" frameX="-1084" frameY="-281" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 up0003" x="2492" y="3944" width="1031" height="976" frameX="-1162" frameY="-383" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 down0000" x="1052" y="0" width="1039" height="1051" frameX="-1078" frameY="-426" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 down0001" x="0" y="0" width="1052" height="1057" frameX="-1073" frameY="-462" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 down0002" x="1052" y="0" width="1039" height="1051" frameX="-1078" frameY="-426" frameWidth="3000" frameHeight="1733" />
+<SubTexture name="Dylanp4 down0003" x="2091" y="0" width="1029" height="1026" frameX="-1075" frameY="-418" frameWidth="3000" frameHeight="1733" />
+</TextureAtlas>

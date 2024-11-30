@@ -1,5 +1,5 @@
-boomspeed = 4
-bam = 1
+boomspeed = 0
+bam = 0
 function onEvent(n,v1,v2)
 
 if n == "Cam Boom Speed" then
@@ -12,7 +12,7 @@ end
 end
 function onBeatHit()
 
-	if curBeat % boomspeed == 0 then
+	if boomspeed > 1 and curBeat % boomspeed == 0 then
 		triggerEvent("Add Camera Zoom",0.015*bam,0.03*bam)
 	end
 

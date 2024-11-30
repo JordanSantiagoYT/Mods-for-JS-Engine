@@ -1,105 +1,106 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-140,
 				-440
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "bambi idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-71,
 				-439
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambi left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-154,
 				-435
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bambi right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-124,
 				-474
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambi down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-88,
 				-409
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "bambi up",
-			"indices": []
+			"indices": [],
+			"name": "bambi up"
 		},
 		{
-			"loop": false,
-			"offsets": [
-				-44,
-				-357
-			],
-			"anim": "phone",
-			"fps": 24,
-			"name": "bambi phone",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				-138,
 				-433
 			],
-			"anim": "browut",
+			"loop": false,
 			"fps": 24,
-			"name": "bambi look",
-			"indices": []
+			"anim": "browut",
+			"indices": [],
+			"name": "bambi look"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-112,
 				-437
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT-alt",
-			"loop": false,
-			"name": "bambi alt left"
+			"fps": 24,
+			"name": "bambi alt left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-119,
 				-429
 			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "bambi alt right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				-357
+			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHT-alt",
+			"anim": "phoneSmash",
 			"loop": false,
-			"name": "bambi alt right"
+			"name": "bambi phone"
 		}
 	],
+	"vocals_file": "",
 	"losing_colors": [
 		37,
 		191,
