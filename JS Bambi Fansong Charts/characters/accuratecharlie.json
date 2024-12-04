@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-5,
+				10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				5,
+				20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				20,
+				10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		0,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/accuratecharlie",
+	"shake_duration": 0,
+	"position": [
+		-600,
+		-350
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "icon-accuratecharlie",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		300,
+		350
+	],
+	"sing_duration": 6,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		255
+	],
+	"scale": 0.7
+}

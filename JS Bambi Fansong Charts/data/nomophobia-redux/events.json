@@ -1,0 +1,2368 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				11906.25,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				14250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				18375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.3, expoOut"
+					]
+				],
+				null,
+				""
+			],
+			[
+				18750,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				19125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				19312.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				19500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				20250,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				20625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				20812.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				21750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				22125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				23250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				25125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				25500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				26250,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				26625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				26812.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				29625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				29812.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				30750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				31125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				31312.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				31500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				32250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				32625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				32812.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.9, expoOut"
+					]
+				]
+			],
+			[
+				34453.125,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				34875,
+				[
+					[
+						"lyrics",
+						"Fu",
+						""
+					]
+				]
+			],
+			[
+				35062.5,
+				[
+					[
+						"lyrics",
+						"Fucking",
+						""
+					]
+				]
+			],
+			[
+				35250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.3, expoOut"
+					],
+					[
+						"lyrics",
+						"Fucking i",
+						""
+					]
+				]
+			],
+			[
+				35390.625,
+				[
+					[
+						"lyrics",
+						"Fucking idi",
+						""
+					]
+				]
+			],
+			[
+				35531.25,
+				[
+					[
+						"lyrics",
+						"Fucking idiot.",
+						""
+					]
+				]
+			],
+			[
+				35953.125,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				35976.5625,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Camera Twist",
+						"2",
+						"2"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					],
+					[
+						"Rainbow Eyesore",
+						"1280",
+						"1"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				36375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				36750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				37125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				37500,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				37875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				38250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				38625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				39750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				40875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				41250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				41625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				42375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				42750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				43125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				43500,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				43875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				44250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				44625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				45375,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				45750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				46125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				46500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				46875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				47250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				47625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				48375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				48750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				49125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				49500,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				49875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				50250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				50625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				51750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				52875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				53250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				53625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				54375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				54750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				55125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				55500,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				55875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				56250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				56625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				57375,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				57750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				58125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				58406.25,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					],
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				58500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				59250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				59625,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				59906.25,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				62250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				66375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				66750,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				67125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				67312.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				68250,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				68625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				68812.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				69750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				70125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				70500,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				71250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				73125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				74250,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				74625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				74812.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				77625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				77812.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.1, expoOut"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				78750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				79125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				79312.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				79500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				79875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				80062.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				80250,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				80437.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				80625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				80812.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.12, expoOut"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.9, expoOut"
+					]
+				]
+			],
+			[
+				82312.5,
+				[
+					[
+						"lyrics",
+						"I'M",
+						""
+					]
+				]
+			],
+			[
+				82453.125,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.7, expoOut"
+					],
+					[
+						"lyrics",
+						"I'M GO",
+						""
+					]
+				]
+			],
+			[
+				82593.75,
+				[
+					[
+						"lyrics",
+						"I'M GONNA",
+						""
+					]
+				]
+			],
+			[
+				82687.5,
+				[
+					[
+						"lyrics",
+						"I'M GONNA- GO",
+						""
+					]
+				]
+			],
+			[
+				82781.25,
+				[
+					[
+						"lyrics",
+						"I'M GONNA- GONNA",
+						""
+					]
+				]
+			],
+			[
+				82875,
+				[
+					[
+						"lyrics",
+						"MASH",
+						""
+					]
+				]
+			],
+			[
+				83062.5,
+				[
+					[
+						"lyrics",
+						"MASH MY",
+						""
+					]
+				]
+			],
+			[
+				83250,
+				[
+					[
+						"lyrics",
+						"MASH MY FU",
+						""
+					]
+				]
+			],
+			[
+				83437.5,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING",
+						""
+					]
+				]
+			],
+			[
+				83625,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING PHO",
+						""
+					]
+				]
+			],
+			[
+				83671.875,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING PHOO",
+						""
+					]
+				]
+			],
+			[
+				83718.75,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING PHOOO",
+						""
+					]
+				]
+			],
+			[
+				83765.625,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING PHOOOO",
+						""
+					]
+				]
+			],
+			[
+				83812.5,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING PHOOOOO",
+						""
+					]
+				]
+			],
+			[
+				83859.375,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING PHOOOOOO",
+						""
+					]
+				]
+			],
+			[
+				83906.25,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING PHOOOOOOO",
+						""
+					]
+				]
+			],
+			[
+				83953.125,
+				[
+					[
+						"lyrics",
+						"MASH MY FUCKING PHOOOOOOOO",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Rainbow Eyesore",
+						"2304",
+						"1"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					],
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				84750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				85125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				85875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				86250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				86625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				87000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				87750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				88500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				88875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				89250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				89625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				90375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				90750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				91125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				91500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				91875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				92250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				92625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				93375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				93750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				93937.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				94125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				94312.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				94500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				94875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				95250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				95625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				96375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				96750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				97125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				97875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				98250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				98625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				99750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				100875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				101250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				101625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				102375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				102750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				103125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				103875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				104250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				104625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				104906.25,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				105375,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				105750,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				105937.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				106125,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				106312.5,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				106875,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				107156.25,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				107250,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				107625,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"2, expoOut"
+					]
+				]
+			],
+			[
+				128812.5,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					],
+					[
+						"Screen Shake",
+						"0.4, 0.02",
+						"0.4, 0.03"
+					]
+				]
+			],
+			[
+				130031.25,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF, camOther"
+					]
+				]
+			]
+		]
+	}
+}
