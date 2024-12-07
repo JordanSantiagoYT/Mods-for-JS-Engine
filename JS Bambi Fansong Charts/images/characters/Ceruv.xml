@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ceruv.png">
+<SubTexture name="Ceruv idle0000" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0001" x="322" y="0" width="544" height="573" frameX="-550" frameY="-8" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0002" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0003" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0004" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0005" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0006" x="0" y="1117" width="834" height="497" frameX="-444" frameY="-99" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0007" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0008" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0009" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0010" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0011" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0012" x="0" y="1117" width="834" height="497" frameX="-444" frameY="-99" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0013" x="322" y="0" width="544" height="573" frameX="-550" frameY="-8" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0014" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0015" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv idle0016" x="543" y="595" width="284" height="507" frameX="-567" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv singUP0000" x="0" y="0" width="322" height="595" frameX="-572" frameY="-6" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv singRIGHT0000" x="866" y="0" width="469" height="556" frameX="-697" frameY="-12" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv singLEFT0000" x="1335" y="0" width="716" height="507" frameX="-213" frameY="-71" frameWidth="1416" frameHeight="625" />
+<SubTexture name="Ceruv singDOWN0000" x="0" y="595" width="543" height="522" frameX="-363" frameY="-41" frameWidth="1416" frameHeight="625" />
+</TextureAtlas>
