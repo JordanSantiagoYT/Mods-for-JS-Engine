@@ -2,7 +2,7 @@
 
 function onCreate()
 
-	makeLuaSprite('theBg','overthinkBG/CloudySky',-680,-130)
+	makeLuaSprite('theBg','overthinkBG/CloudySky',-680,-430)
 	addLuaSprite('theBg',false)
 	setLuaSpriteScrollFactor('theBg', 0.1, 0.1)
 
