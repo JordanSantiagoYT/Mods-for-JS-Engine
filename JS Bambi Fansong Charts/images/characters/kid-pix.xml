@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kid-pix.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="708" width="628" height="473" frameX="-477" frameY="-365" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="idle0001" x="628" y="708" width="628" height="425" frameX="-478" frameY="-414" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="idle0002" x="1256" y="708" width="628" height="377" frameX="-478" frameY="-462" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="idle0003" x="630" y="1181" width="628" height="321" frameX="-478" frameY="-518" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="idle0004" x="0" y="1181" width="630" height="358" frameX="-478" frameY="-481" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="left0000" x="1891" y="0" width="460" height="476" frameX="-476" frameY="-365" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="left0001" x="1891" y="476" width="409" height="481" frameX="-476" frameY="-365" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="left0002" x="0" y="1539" width="389" height="475" frameX="-476" frameY="-364" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="left0003" x="718" y="1539" width="324" height="475" frameX="-475" frameY="-364" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="down0000" x="1258" y="1181" width="628" height="263" frameX="-477" frameY="-576" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="down0001" x="1042" y="1539" width="630" height="225" frameX="-477" frameY="-614" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="down0002" x="1672" y="1539" width="633" height="196" frameX="-477" frameY="-644" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="down0003" x="1042" y="1764" width="631" height="166" frameX="-476" frameY="-674" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="up0000" x="1261" y="0" width="630" height="591" frameX="-477" frameY="-247" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="up0001" x="631" y="0" width="630" height="642" frameX="-477" frameY="-196" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="up0002" x="0" y="0" width="631" height="708" frameX="-475" frameY="-130" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="right0000" x="1891" y="957" width="395" height="478" frameX="-711" frameY="-360" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="right0001" x="389" y="1539" width="329" height="475" frameX="-777" frameY="-364" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="right0002" x="2351" y="0" width="266" height="475" frameX="-841" frameY="-364" frameWidth="1600" frameHeight="1200"/>
+	<SubTexture name="right0003" x="2351" y="475" width="191" height="475" frameX="-916" frameY="-364" frameWidth="1600" frameHeight="1200"/>
+</TextureAtlas>

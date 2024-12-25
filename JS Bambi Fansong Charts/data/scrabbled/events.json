@@ -1,0 +1,371 @@
+{
+	"song": {
+		"events": [
+			[
+				12211.5384615385,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					],
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12596.1538461538,
+				[
+					[
+						"lyrics",
+						"I",
+						""
+					]
+				]
+			],
+			[
+				12788.4615384615,
+				[
+					[
+						"lyrics",
+						"I make",
+						""
+					]
+				]
+			],
+			[
+				12884.6153846154,
+				[
+					[
+						"lyrics",
+						"I make a",
+						""
+					]
+				]
+			],
+			[
+				13076.9230769231,
+				[
+					[
+						"lyrics",
+						"I make a lot of",
+						""
+					]
+				]
+			],
+			[
+				13461.5384615385,
+				[
+					[
+						"lyrics",
+						"I make a lot of videos",
+						""
+					]
+				]
+			],
+			[
+				13846.1538461538,
+				[
+					[
+						"lyrics",
+						"I make a lot of videos about",
+						""
+					]
+				]
+			],
+			[
+				14134.6153846154,
+				[
+					[
+						"lyrics",
+						"Nigel Richards",
+						""
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"lyrics",
+						"Nigel Richards' incredible",
+						""
+					]
+				]
+			],
+			[
+				15769.2307692308,
+				[
+					[
+						"lyrics",
+						"Nigel Richards' incredible feats",
+						""
+					]
+				]
+			],
+			[
+				15961.5384615385,
+				[
+					[
+						"lyrics",
+						"Nigel Richards' incredible feats of",
+						""
+					]
+				]
+			],
+			[
+				16250,
+				[
+					[
+						"lyrics",
+						"Nigel Richards' incredible feats of Scrabble brilliance",
+						""
+					]
+				]
+			],
+			[
+				17115.3846153846,
+				[
+					[
+						"lyrics",
+						"Nigel Richards' incredible feats of Scrabble brilliance on this",
+						""
+					]
+				]
+			],
+			[
+				17500,
+				[
+					[
+						"lyrics",
+						"Nigel Richards' incredible feats of Scrabble brilliance on this channel.",
+						""
+					]
+				]
+			],
+			[
+				18076.9230769231,
+				[
+					[
+						"lyrics",
+						"And in the game you're about to see...",
+						""
+					]
+				]
+			],
+			[
+				19519.2307692308,
+				[
+					[
+						"lyrics",
+						"He makes his usual compliment of Next Level strategic plays.",
+						""
+					]
+				]
+			],
+			[
+				23461.5384615385,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40961.5384615385,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.56"
+					]
+				]
+			],
+			[
+				43076.9230769231,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				47115.3846153846,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.56"
+					]
+				]
+			],
+			[
+				49230.7692307692,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				53269.2307692308,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.56"
+					]
+				]
+			],
+			[
+				55384.6153846154,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				59423.0769230769,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.56"
+					]
+				]
+			],
+			[
+				61538.4615384615,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				61538.4615384616,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				98461.5384615385,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102500,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.56"
+					]
+				]
+			],
+			[
+				104615.384615385,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				108653.846153846,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.56"
+					]
+				]
+			],
+			[
+				110769.230769231,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				114807.692307692,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.56"
+					]
+				]
+			],
+			[
+				116923.076923077,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				120961.538461538,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.56"
+					]
+				]
+			],
+			[
+				123076.923076923,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				147596.153846154,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

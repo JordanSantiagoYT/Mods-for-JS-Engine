@@ -899,6 +899,33 @@
 				10,
 				10
 			]
+		],
+		[
+			"Scrabbled",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Drag",
+			"face",
+			[
+				122,
+				122,
+				122
+			]
+		],
+		[
+			"Polygonized Stinko Remix",
+			"dave3d",
+			[
+				103,
+				35,
+				32
+			]
 		]
 	],
 	"hideFreeplay": false,

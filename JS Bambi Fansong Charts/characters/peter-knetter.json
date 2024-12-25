@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		249,
+		175,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/peter-knetter",
+	"shake_duration": 0,
+	"position": [
+		-460,
+		-110
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "face",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-160,
+		220
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		249,
+		175,
+		255
+	],
+	"scale": 0.8
+}

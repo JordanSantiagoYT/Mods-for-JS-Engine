@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-2
+			],
+			"loop": false,
+			"anim": "sad",
+			"fps": 24,
+			"name": "sad gf instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle gf instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle gf instance 1",
+			"indices": [
+				13
+			]
+		},
+		{
+			"offsets": [
+				-2,
+				-17
+			],
+			"loop": true,
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF FEAR",
+			"indices": []
+		}
+	],
+	"vocals_file": "gf",
+	"losing_colors": [
+		165,
+		0,
+		77
+	],
+	"no_antialiasing": false,
+	"image": "characters/3d_gf",
+	"shake_duration": 0,
+	"position": [
+		-30,
+		-130
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "gf",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		165,
+		0,
+		77
+	],
+	"scale": 1
+}

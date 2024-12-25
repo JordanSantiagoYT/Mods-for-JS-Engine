@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="3d_gf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle gf instance 10000" x="0" y="0" width="812" height="819" frameX="0" frameY="-21" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10001" x="816" y="0" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10002" x="1604" y="0" width="776" height="839" frameX="-18" frameY="0" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10003" x="2384" y="0" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10004" x="3172" y="0" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10005" x="3172" y="0" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10006" x="0" y="843" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10007" x="0" y="843" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10008" x="0" y="843" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10009" x="0" y="843" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10010" x="0" y="843" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10011" x="0" y="843" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10012" x="0" y="843" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="idle gf instance 10013" x="0" y="843" width="784" height="835" frameX="-14" frameY="-4" frameWidth="812" frameHeight="840"/>
+	<SubTexture name="sad gf instance 10000" x="788" y="843" width="801" height="845"/>
+	<SubTexture name="sad gf instance 10001" x="1593" y="843" width="776" height="831" frameX="-13" frameY="-14" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10002" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10003" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10004" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10005" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10006" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10007" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10008" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10009" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10010" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10011" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10012" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+	<SubTexture name="sad gf instance 10013" x="2373" y="843" width="783" height="834" frameX="-9" frameY="-11" frameWidth="801" frameHeight="845"/>
+</TextureAtlas>
