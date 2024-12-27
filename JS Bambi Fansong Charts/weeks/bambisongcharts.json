@@ -604,6 +604,24 @@
 			]
 		],
 		[
+			"Eclipse Hellbreaker Part",
+			"hellbreaker",
+			[
+				40,
+				0,
+				0
+			]
+		],
+		[
+			"Eclipse Estonian Part",
+			"estonian",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
 			"Retinoblastoma",
 			"distortedbambi",
 			[
@@ -933,15 +951,6 @@
 			[
 				12,
 				181,
-				0
-			]
-		],
-		[
-			"Eclipse Estonian Part",
-			"estonian",
-			[
-				0,
-				0,
 				0
 			]
 		]
