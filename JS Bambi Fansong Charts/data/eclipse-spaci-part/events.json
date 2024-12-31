@@ -1,0 +1,206 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				95550,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.46"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Screen Shake",
+						"19.2, 0.01",
+						"19.2, 0.005"
+					],
+					[
+						"Camera Bopping",
+						"128",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					],
+					[
+						"Screen Shake",
+						"19.2, 0.005",
+						"19.2, 0.002"
+					],
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					],
+					[
+						"Camera Bopping",
+						"32",
+						"1"
+					],
+					[
+						"Trigger Scared BF",
+						"4",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				172350,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.46"
+					]
+				]
+			],
+			[
+				172762.5,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					],
+					[
+						"Screen Shake",
+						"38.4, 0.01",
+						"38.4, 0.005"
+					],
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				210750,
+				[
+					[
+						"Change Scroll Speed",
+						"32",
+						"0.46"
+					]
+				]
+			],
+			[
+				211200,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					],
+					[
+						"Screen Shake",
+						"19.2, 0.02",
+						"19.2, 0.01"
+					],
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					],
+					[
+						"Trigger Scared BF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				230400,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				231600,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			]
+		]
+	}
+}

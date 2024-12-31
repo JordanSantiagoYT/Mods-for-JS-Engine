@@ -622,6 +622,24 @@
 			]
 		],
 		[
+			"Eclipse Spaci Part",
+			"spaci1",
+			[
+				80,
+				80,
+				80
+			]
+		],
+		[
+			"Eclipse Redacted Part",
+			"redaction",
+			[
+				10,
+				10,
+				10
+			]
+		],
+		[
 			"Retinoblastoma",
 			"distortedbambi",
 			[
@@ -952,6 +970,15 @@
 				12,
 				181,
 				0
+			]
+		],
+		[
+			"Neptunian",
+			"face",
+			[
+				0,
+				0,
+				200
 			]
 		]
 	],
