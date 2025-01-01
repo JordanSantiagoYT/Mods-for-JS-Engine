@@ -980,6 +980,15 @@
 				0,
 				200
 			]
+		],
+		[
+			"White Abyss",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,
