@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "threestripesidle0"
+		},
+		{
+			"offsets": [
+				634,
+				-2
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "threestripesleft0"
+		},
+		{
+			"offsets": [
+				5,
+				-264
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "threestripesdown0"
+		},
+		{
+			"offsets": [
+				7,
+				66
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "threestripesup0"
+		},
+		{
+			"offsets": [
+				-68,
+				-27
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "threestripesright0"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		255,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/stripes",
+	"shake_duration": 0,
+	"position": [
+		-430,
+		-100
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "face",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		-300
+	],
+	"sing_duration": 8,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		255
+	],
+	"scale": 3
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stripes3d.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="threestripesidle00005" x="728" y="331" width="123" height="341" frameX="2" frameY="2" frameWidth="119" frameHeight="337"/>
+	<SubTexture name="threestripesidle00004" x="1005" y="0" width="125" height="301" frameX="2" frameY="2" frameWidth="121" frameHeight="297"/>
+	<SubTexture name="threestripesidle00003" x="1005" y="301" width="125" height="294" frameX="2" frameY="2" frameWidth="121" frameHeight="290"/>
+	<SubTexture name="threestripesidle00002" x="1005" y="0" width="125" height="301" frameX="2" frameY="2" frameWidth="121" frameHeight="297"/>
+	<SubTexture name="threestripesidle00001" x="728" y="331" width="123" height="341" frameX="2" frameY="2" frameWidth="119" frameHeight="337"/>
+	<SubTexture name="threestripesidle00000" x="588" y="341" width="123" height="356" frameX="2" frameY="2" frameWidth="119" frameHeight="352"/>
+	<SubTexture name="threestripesup00001" x="588" y="0" width="140" height="341" frameX="2" frameY="2" frameWidth="136" frameHeight="337"/>
+	<SubTexture name="threestripesup00000" x="728" y="0" width="132" height="331" frameX="2" frameY="2" frameWidth="128" frameHeight="327"/>
+	<SubTexture name="threestripesdown00001" x="860" y="287" width="145" height="270" frameX="2" frameY="2" frameWidth="141" frameHeight="266"/>
+	<SubTexture name="threestripesdown00000" x="860" y="0" width="145" height="287" frameX="2" frameY="2" frameWidth="141" frameHeight="283"/>
+	<SubTexture name="threestripesright00001" x="333" y="0" width="255" height="290" frameX="2" frameY="2" frameWidth="251" frameHeight="286"/>
+	<SubTexture name="threestripesright00000" x="333" y="290" width="227" height="299" frameX="2" frameY="2" frameWidth="223" frameHeight="295"/>
+	<SubTexture name="threestripesleft00001" x="0" y="0" width="333" height="371" frameX="2" frameY="2" frameWidth="329" frameHeight="367"/>
+	<SubTexture name="threestripesleft00000" x="0" y="371" width="308" height="381" frameX="2" frameY="2" frameWidth="304" frameHeight="377"/>
+</TextureAtlas>

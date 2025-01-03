@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="diamondswag.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="diamond down0000" x="0" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0001" x="306" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0002" x="612" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0003" x="918" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0004" x="1224" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0005" x="918" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0006" x="1224" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0007" x="918" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0008" x="1224" y="0" width="306" height="617"/>
+	<SubTexture name="diamond down0009" x="918" y="0" width="306" height="617"/>
+	<SubTexture name="diamond idle0000" x="1530" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0001" x="1731" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0002" x="1932" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0003" x="2133" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0004" x="2334" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0005" x="2535" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0006" x="2736" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0007" x="2937" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0008" x="3138" y="0" width="201" height="669"/>
+	<SubTexture name="diamond idle0009" x="3339" y="0" width="201" height="669"/>
+	<SubTexture name="diamond left0000" x="3540" y="0" width="519" height="712"/>
+	<SubTexture name="diamond left0001" x="0" y="712" width="519" height="712"/>
+	<SubTexture name="diamond left0002" x="519" y="712" width="519" height="712"/>
+	<SubTexture name="diamond left0003" x="1038" y="712" width="519" height="712"/>
+	<SubTexture name="diamond left0004" x="1557" y="712" width="519" height="712"/>
+	<SubTexture name="diamond left0005" x="2076" y="712" width="519" height="712"/>
+	<SubTexture name="diamond left0006" x="1557" y="712" width="519" height="712"/>
+	<SubTexture name="diamond left0007" x="2076" y="712" width="519" height="712"/>
+	<SubTexture name="diamond left0008" x="1557" y="712" width="519" height="712"/>
+	<SubTexture name="diamond left0009" x="2076" y="712" width="519" height="712"/>
+	<SubTexture name="diamond right0000" x="2595" y="712" width="573" height="695"/>
+	<SubTexture name="diamond right0001" x="3168" y="712" width="573" height="695"/>
+	<SubTexture name="diamond right0002" x="0" y="1424" width="573" height="695"/>
+	<SubTexture name="diamond right0003" x="573" y="1424" width="573" height="695"/>
+	<SubTexture name="diamond right0004" x="1146" y="1424" width="573" height="695"/>
+	<SubTexture name="diamond right0005" x="1719" y="1424" width="573" height="695"/>
+	<SubTexture name="diamond right0006" x="1146" y="1424" width="573" height="695"/>
+	<SubTexture name="diamond right0007" x="1719" y="1424" width="573" height="695"/>
+	<SubTexture name="diamond right0008" x="1146" y="1424" width="573" height="695"/>
+	<SubTexture name="diamond right0009" x="1719" y="1424" width="573" height="695"/>
+	<SubTexture name="diamond up0000" x="2292" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0001" x="2621" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0002" x="2950" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0003" x="3279" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0004" x="3608" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0005" x="3279" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0006" x="3608" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0007" x="3279" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0008" x="3608" y="1424" width="329" height="822"/>
+	<SubTexture name="diamond up0009" x="3279" y="1424" width="329" height="822"/>
+</TextureAtlas>

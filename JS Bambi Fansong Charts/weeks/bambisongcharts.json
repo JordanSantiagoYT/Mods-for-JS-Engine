@@ -998,6 +998,24 @@
 				0,
 				0
 			]
+		],
+		[
+			"Adamophobia",
+			"diamond",
+			[
+				129,
+				180,
+				227
+			]
+		],
+		[
+			"Stripesbreaker",
+			"face",
+			[
+				100,
+				100,
+				100
+			]
 		]
 	],
 	"hideFreeplay": false,
