@@ -1,0 +1,211 @@
+{
+	"song": {
+		"events": [
+			[
+				38300,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"2"
+					]
+				]
+			],
+			[
+				44700,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				49500,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"2"
+					]
+				]
+			],
+			[
+				51100,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"4"
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.4"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mattangry"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					],
+					[
+						"lyrics",
+						"hi my name is matt from wii sports mod friday night funkin",
+						""
+					]
+				]
+			],
+			[
+				76900,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"lyrics",
+						"GRRRRR I AM SO MAD I SPAM NOWDSFGNJOGJHNMHVKOMNJKMLGHJKJLMNJKHVJLMGMMBMHIKUYGHJMUIOFIMNOUYT",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"lyrics",
+						"holy gyatt matt calm your nutz down",
+						""
+					]
+				]
+			],
+			[
+				81400,
+				[
+					[
+						"lyrics",
+						"im boyfriend fnf and i can cool rap :)",
+						""
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"lyrics",
+						"AAASFGGSVFBJFJMLBFJLMBGHDJMFNBJMGNFHJLMDMLSFMLNDHJLMJDFNLMNBHJLMFJBFLMNPH",
+						""
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nothing"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.4"
+					]
+				]
+			],
+			[
+				102300,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"4"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.4"
+					],
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				147100,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"4"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

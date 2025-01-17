@@ -1016,6 +1016,33 @@
 				100,
 				100
 			]
+		],
+		[
+			"Legitimate",
+			"timelaserz",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"AUR Anarchy",
+			"face",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Bambi Bass",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

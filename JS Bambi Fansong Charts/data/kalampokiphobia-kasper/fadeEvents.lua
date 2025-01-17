@@ -7,16 +7,6 @@ function onCreatePost()
 	setProperty('flash.scale.y', 2)
 	setProperty('flash.alpha', 1)
 	setObjectCamera('flash', 'camOther')
-
-    	makeLuaSprite("temporaryShader")
-    	makeGraphic("temporaryShader", screenWidth, screenHeight)
-
-	initLuaShader("ChromaLens")
-    
-    	setSpriteShader("temporaryShader", "ChromaLens")
-
-    	addHaxeLibrary("ShaderFilter", "openfl.filters")
-	setShaderFloat("temporaryShader", "strength", 0.003)
 end
 
 function onSongStart()

@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				21
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				13
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		215,
+		40,
+		40
+	],
+	"no_antialiasing": false,
+	"image": "characters/timelaserz",
+	"shake_duration": 0,
+	"position": [
+		-500,
+		-230
+	],
+	"health_drain": true,
+	"shake_intensity": 0,
+	"healthicon": "timelaserz",
+	"shake_screen": false,
+	"drain_floor": 0.03,
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		40,
+		40
+	],
+	"drain_amount": 0.01,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 8,
+	"noteskin": null,
+	"winning_colors": [
+		215,
+		40,
+		40
+	],
+	"scale": 1.2
+}
