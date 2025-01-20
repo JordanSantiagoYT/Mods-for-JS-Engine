@@ -27,7 +27,7 @@ function onStepHit()
 		doTweenY('creditTween', 'Credits', -360, 1.1, 'expoIn')
 		doTweenAlpha('ytWatermarkIn', 'ytWatermark', 0.5, 1.1, 'linear')
 	end
-	if curStep == 3584 then
+	if curStep == 1536 then
 		cameraFlash('camOther', 'FFFFFF', 0.8)
 		setProperty('flash.alpha', 1)
 	end
