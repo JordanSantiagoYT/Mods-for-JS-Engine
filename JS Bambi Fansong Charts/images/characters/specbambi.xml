@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="specbambi.png">
+<SubTexture name="specbambi idle0000" x="2007" y="4284" width="2090" height="1308" frameX="-96" frameY="-194" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi idle0001" x="2078" y="1484" width="2176" height="1379" frameX="-58" frameY="-123" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi idle0002" x="2147" y="0" width="2149" height="1464" frameX="-81" frameY="-38" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi idle0003" x="0" y="0" width="2147" height="1484" frameX="-83" frameY="-18" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi idle0004" x="2147" y="0" width="2149" height="1464" frameX="-81" frameY="-38" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi idle0005" x="2078" y="1484" width="2176" height="1379" frameX="-58" frameY="-123" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi idle0006" x="2007" y="4284" width="2090" height="1308" frameX="-96" frameY="-194" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi down0000" x="6084" y="2609" width="2071" height="1295" frameX="-99" frameY="-194" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi down0001" x="6084" y="3904" width="2050" height="1275" frameX="-117" frameY="-177" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi down0002" x="8169" y="2377" width="2061" height="1102" frameX="-107" frameY="-363" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi down0003" x="8169" y="1264" width="2051" height="1113" frameX="-115" frameY="-386" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi down0004" x="8169" y="2377" width="2061" height="1102" frameX="-107" frameY="-363" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi down0005" x="6084" y="3904" width="2050" height="1275" frameX="-117" frameY="-177" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi down0006" x="6084" y="2609" width="2071" height="1295" frameX="-99" frameY="-194" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi left0000" x="6084" y="0" width="2085" height="1308" frameX="-98" frameY="-194" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi left0001" x="2136" y="5616" width="2136" height="1295" frameX="-98" frameY="-207" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi left0002" x="0" y="5616" width="2136" height="1308" frameX="-98" frameY="-194" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi left0003" x="2136" y="5616" width="2136" height="1295" frameX="-98" frameY="-207" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi left0004" x="6084" y="0" width="2085" height="1308" frameX="-98" frameY="-194" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi up0000" x="6084" y="1308" width="2082" height="1301" frameX="-92" frameY="-201" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi up0001" x="4272" y="5616" width="2087" height="1293" frameX="-89" frameY="-209" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi up0002" x="0" y="1484" width="2078" height="1428" frameX="-92" frameY="-55" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi up0003" x="8169" y="0" width="2078" height="1264" frameX="-84" frameY="-238" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi up0004" x="0" y="1484" width="2078" height="1428" frameX="-92" frameY="-55" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi up0005" x="4272" y="5616" width="2087" height="1293" frameX="-89" frameY="-209" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi up0006" x="6084" y="1308" width="2082" height="1301" frameX="-92" frameY="-201" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi right0000" x="0" y="4284" width="2007" height="1332" frameX="0" frameY="-170" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi right0001" x="4296" y="0" width="1788" height="1336" frameX="-82" frameY="-166" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi right0002" x="0" y="2912" width="1870" height="1372" frameX="0" frameY="-130" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi right0003" x="1870" y="2912" width="1870" height="1372" frameX="0" frameY="-130" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi right0004" x="0" y="2912" width="1870" height="1372" frameX="0" frameY="-130" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi right0005" x="4296" y="0" width="1788" height="1336" frameX="-82" frameY="-166" frameWidth="2234" frameHeight="1502" />
+<SubTexture name="specbambi right0006" x="0" y="4284" width="2007" height="1332" frameX="0" frameY="-170" frameWidth="2234" frameHeight="1502" />
+</TextureAtlas>

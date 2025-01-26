@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"lyrics",
+						"A bullshit entity named \"Competitive piss drinker,\" has arrived in our town.",
+						""
+					]
+				]
+			],
+			[
+				17062.5,
+				[
+					[
+						"lyrics",
+						"Because of Competitive piss drinker there has been 420.1337 deaths in the fucking mongolian empire.",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}

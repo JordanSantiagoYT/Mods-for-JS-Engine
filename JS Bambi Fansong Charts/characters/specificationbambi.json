@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "specbambi idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "specbambi down"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "specbambi up"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "specbambi right"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "specbambi left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/specbambi",
+	"position": [
+		-1210,
+		-1360
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-4430,
+		-2210
+	],
+	"sing_duration": 6.1,
+	"scale": 5.00000000000002,
+	"_editor_isPlayer": false
+}
