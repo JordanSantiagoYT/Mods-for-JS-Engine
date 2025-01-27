@@ -1070,6 +1070,15 @@
 				0,
 				0
 			]
+		],
+		[
+			"Gateway",
+			"gatewayConbiG",
+			[
+				255,
+				0,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

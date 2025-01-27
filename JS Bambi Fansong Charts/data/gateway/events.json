@@ -1,0 +1,231 @@
+{
+	"song": {
+		"events": [
+			[
+				128000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayJeremy"
+					]
+				]
+			],
+			[
+				267636.363636365,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayNeptune"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfBackNull"
+					]
+				]
+			],
+			[
+				454150.649350644,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayTrueTime"
+					]
+				]
+			],
+			[
+				612268.296409473,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayConbiG"
+					]
+				]
+			],
+			[
+				736503.590527125,
+				[
+					[
+						"Change Character",
+						"dad",
+						"utye"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfnew"
+					]
+				]
+			],
+			[
+				742150.649350655,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayJeremy"
+					]
+				]
+			],
+			[
+				747797.708174185,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayNeptune"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfBackNull"
+					]
+				]
+			],
+			[
+				753444.766997714,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayTrueTime"
+					]
+				]
+			],
+			[
+				759091.825821244,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayConbiG"
+					]
+				]
+			],
+			[
+				781680.061115362,
+				[
+					[
+						"Change Character",
+						"dad",
+						"utye"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfnew"
+					]
+				]
+			],
+			[
+				782385.943468304,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayJeremy"
+					]
+				]
+			],
+			[
+				783091.825821245,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfBackNull"
+					],
+					[
+						"Change Character",
+						"dad",
+						"gatewayNeptune"
+					]
+				]
+			],
+			[
+				783797.708174186,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayTrueTime"
+					]
+				]
+			],
+			[
+				784503.590527127,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayConbiG"
+					]
+				]
+			],
+			[
+				785209.472880068,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayTrueTime"
+					]
+				]
+			],
+			[
+				785915.35523301,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayNeptune"
+					]
+				]
+			],
+			[
+				786268.29640948,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayJeremy"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfnew"
+					]
+				]
+			],
+			[
+				786621.237585951,
+				[
+					[
+						"Change Character",
+						"dad",
+						"utye"
+					]
+				]
+			],
+			[
+				787327.119938892,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gatewayConbiG"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfBackNull"
+					]
+				]
+			]
+		]
+	}
+}
