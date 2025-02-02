@@ -5,7 +5,7 @@ function onCreatePost()
 	setLuaSpriteScrollFactor('flash', 0, 0)
 	setProperty('flash.scale.x', 2)
 	setProperty('flash.scale.y', 2)
-	setProperty('flash.alpha', 0)
+	setProperty('flash.alpha', 1)
 	setObjectCamera('flash', 'camOther')
 
 	makeLuaText('Credits', "Gateway\n\nSong by TimeLaserz\n\nChart by Jordan Santiago\n\nUTE Sprites by oriiien‬\n\nTrue Time by tannerwolters5462\n\nAll other assets by TimeLaserz", 1250, 0, 720)

@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 20,
-			"name": "Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				30
+				15,
+				112
 			],
+			"loop": false,
+			"fps": 15,
 			"anim": "singUP",
-			"fps": 15,
-			"name": "Up",
-			"indices": []
+			"indices": [],
+			"name": "Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-50,
-				71
+				-172,
+				60
 			],
+			"loop": false,
+			"fps": 15,
 			"anim": "singRIGHT",
-			"fps": 15,
-			"name": "Right",
-			"indices": []
+			"indices": [],
+			"name": "Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				60,
-				70
+				153,
+				42
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 15,
-			"name": "Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-40
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 15,
-			"name": "Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
 		}
 	],
 	"vocals_file": "",
@@ -66,8 +66,8 @@
 	"image": "characters/expunged unfairness",
 	"shake_duration": 0,
 	"position": [
-		-190,
-		-130
+		-240,
+		-120
 	],
 	"health_drain": false,
 	"shake_intensity": 0,

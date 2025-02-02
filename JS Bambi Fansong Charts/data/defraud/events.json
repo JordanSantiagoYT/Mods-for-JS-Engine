@@ -1,0 +1,181 @@
+{
+	"song": {
+		"events": [
+			[
+				15750,
+				[
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"2"
+					]
+				]
+			],
+			[
+				15875,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Windows Notification",
+						"Uh oh",
+						"he is coming..."
+					]
+				]
+			],
+			[
+				31875,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"0.2"
+					]
+				]
+			],
+			[
+				39875,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				47875,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				79875,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"0.8"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"expunged-unfairness-flip"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-flip"
+					]
+				]
+			],
+			[
+				95875,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				103875,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				111750,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"expunged-cheating"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"expunged-unfairness-flip"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-flip"
+					]
+				]
+			],
+			[
+				175875,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				179750,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				195750,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

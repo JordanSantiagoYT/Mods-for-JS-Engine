@@ -1079,6 +1079,33 @@
 				0,
 				0
 			]
+		],
+		[
+			"Garden Stealer Time",
+			"angryHortas",
+			[
+				94,
+				67,
+				255
+			]
+		],
+		[
+			"Macrocosm Remake",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Defraud",
+			"expunged-cheating",
+			[
+				0,
+				130,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,
