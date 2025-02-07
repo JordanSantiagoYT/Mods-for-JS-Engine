@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aLiteralHand.png">
+<SubTexture name="aLiteralHand idle0000" x="244" y="244" width="119" height="178" frameX="-53" frameY="-23" frameWidth="225" frameHeight="225" />
+<SubTexture name="aLiteralHand right0000" x="356" y="0" width="246" height="214" frameX="-28" frameY="-29" frameWidth="290" frameHeight="270" />
+<SubTexture name="aLiteralHand left0000" x="0" y="244" width="244" height="211" frameX="-17" frameY="-24" frameWidth="278" frameHeight="245" />
+<SubTexture name="aLiteralHand down0000" x="0" y="0" width="174" height="244" frameX="-24" frameY="-26" frameWidth="214" frameHeight="272" />
+<SubTexture name="aLiteralHand up0000" x="174" y="0" width="182" height="240" frameX="-26" frameY="-18" frameWidth="235" frameHeight="277" />
+</TextureAtlas>
