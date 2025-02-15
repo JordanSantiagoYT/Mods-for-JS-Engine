@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "osakalt idle"
+		},
+		{
+			"offsets": [
+				36,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "osakalt left"
+		},
+		{
+			"offsets": [
+				68,
+				-42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "osakalt down"
+		},
+		{
+			"offsets": [
+				16,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "osakalt up"
+		},
+		{
+			"offsets": [
+				-5,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "osakalt right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/osakalt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "osaka",
+	"flip_x": false,
+	"healthbar_colors": [
+		228,
+		164,
+		196
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

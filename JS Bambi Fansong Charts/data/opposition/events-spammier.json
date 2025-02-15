@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				47750,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.25"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Rainbow Eyesore",
+						"2560",
+						"2"
+					]
+				]
+			],
+			[
+				63875,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.125"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

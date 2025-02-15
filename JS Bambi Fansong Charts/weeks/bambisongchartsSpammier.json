@@ -17,6 +17,24 @@
 				181,
 				0
 			]
+		],
+		[
+			"Opposition",
+			"oppoexpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Thearchy",
+			"ThearExpunged",
+			[
+				255,
+				255,
+				255
+			]
 		]
 	],
 	"hideFreeplay": false,

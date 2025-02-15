@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="osakalt.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="osakalt down0000" x="10" y="10" width="293" height="656" pivotX="80.25" pivotY="-47.4" frameX="0" frameY="-8" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0001" x="313" y="10" width="293" height="656" frameX="0" frameY="-8" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0002" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0003" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0004" x="903" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0005" x="1190" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0006" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0007" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0008" x="903" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0009" x="1190" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0010" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0011" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0012" x="903" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0013" x="1190" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0014" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0015" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0016" x="903" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0017" x="1190" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0018" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0019" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0020" x="903" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0021" x="1190" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0022" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt down0023" x="616" y="10" width="277" height="664" frameX="-10" frameY="0" frameWidth="293" frameHeight="664"/>
+	<SubTexture name="osakalt idle0000" x="1477" y="10" width="199" height="707" pivotX="0" pivotY="0"/>
+	<SubTexture name="osakalt idle0001" x="1686" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0002" x="1895" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0003" x="1895" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0004" x="2104" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0005" x="2313" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0006" x="2522" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0007" x="2522" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0008" x="2731" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0009" x="2940" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0010" x="3149" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0011" x="3149" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0012" x="2731" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0013" x="2940" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0014" x="3149" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0015" x="3149" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0016" x="2731" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0017" x="2940" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0018" x="3149" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0019" x="3149" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0020" x="2731" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0021" x="2940" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0022" x="3149" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt idle0023" x="3149" y="10" width="199" height="707"/>
+	<SubTexture name="osakalt left0000" x="3358" y="10" width="252" height="675" pivotX="19.05" pivotY="-28.6" frameX="0" frameY="-6" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0001" x="3620" y="10" width="252" height="675" frameX="0" frameY="-6" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0002" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0003" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0004" x="264" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0005" x="518" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0006" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0007" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0008" x="264" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0009" x="518" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0010" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0011" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0012" x="264" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0013" x="518" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0014" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0015" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0016" x="264" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0017" x="518" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0018" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0019" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0020" x="264" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0021" x="518" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0022" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt left0023" x="10" y="727" width="244" height="681" frameX="-6" frameY="0" frameWidth="252" frameHeight="681"/>
+	<SubTexture name="osakalt right0000" x="772" y="727" width="257" height="694" pivotX="-6" pivotY="-12.85" frameX="0" frameY="-1" frameWidth="261" frameHeight="695"/>
+	<SubTexture name="osakalt right0001" x="1039" y="727" width="257" height="694" frameX="0" frameY="-1" frameWidth="261" frameHeight="695"/>
+	<SubTexture name="osakalt right0002" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0003" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0004" x="1577" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0005" x="1848" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0006" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0007" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0008" x="1577" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0009" x="1848" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0010" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0011" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0012" x="1577" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0013" x="1848" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0014" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0015" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0016" x="1577" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0017" x="1848" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0018" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0019" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0020" x="1577" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0021" x="1848" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0022" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt right0023" x="1306" y="727" width="261" height="695"/>
+	<SubTexture name="osakalt up0000" x="2119" y="727" width="212" height="721" pivotX="15.25" pivotY="11.1" frameX="0" frameY="0" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0001" x="2341" y="727" width="212" height="721" frameX="0" frameY="0" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0002" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0003" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0004" x="2788" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0005" x="3013" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0006" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0007" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0008" x="2788" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0009" x="3013" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0010" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0011" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0012" x="2788" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0013" x="3013" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0014" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0015" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0016" x="2788" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0017" x="3013" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0018" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0019" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0020" x="2788" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0021" x="3013" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0022" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+	<SubTexture name="osakalt up0023" x="2563" y="727" width="215" height="716" frameX="0" frameY="-5" frameWidth="215" frameHeight="721"/>
+</TextureAtlas>

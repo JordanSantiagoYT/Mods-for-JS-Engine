@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/opposition",
+	"shake_duration": 0,
+	"position": [
+		-130,
+		280
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "OppoExpunged",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		13,
+		13,
+		13
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-450,
+		-180
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		13,
+		13,
+		13
+	],
+	"scale": 1.7
+}

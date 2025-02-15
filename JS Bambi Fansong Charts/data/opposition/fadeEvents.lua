@@ -14,7 +14,10 @@ function onSongStart()
 end
 
 function onStepHit()
-	if curStep == 832 then
+	if curStep == 832 and not difficultyName == 'Spammier' then
+		doTweenAlpha('okBye', 'flash', 1, 14, 'linear')
+	end
+	if curStep == 3328 and difficultyName == 'Spammier' then
 		doTweenAlpha('okBye', 'flash', 1, 14, 'linear')
 	end
 end
