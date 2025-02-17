@@ -1,0 +1,5 @@
+v1: sub (leave blank if loading from txt)
+v2: size, typespeed, showtime
+
+recommended v2: 36, 0.02
+				size ^	 	^ typespeed
