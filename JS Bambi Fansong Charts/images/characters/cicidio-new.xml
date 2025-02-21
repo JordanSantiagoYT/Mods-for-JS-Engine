@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cicido.png">
+<SubTexture name="cicido danceLeft0000" x="619" y="1554" width="641" height="321" frameX="-232" frameY="-480" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido danceLeft0001" x="0" y="1554" width="619" height="325" frameX="-244" frameY="-476" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido danceLeft0002" x="0" y="1208" width="499" height="346" frameX="-309" frameY="-456" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido danceLeft0003" x="0" y="858" width="469" height="350" frameX="-326" frameY="-452" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido danceRight0000" x="1062" y="858" width="397" height="321" frameX="-371" frameY="-480" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido danceRight0001" x="505" y="488" width="392" height="325" frameX="-373" frameY="-476" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido danceRight0002" x="499" y="1208" width="436" height="346" frameX="-343" frameY="-456" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido danceRight0003" x="0" y="858" width="469" height="350" frameX="-326" frameY="-452" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido left0000" x="1972" y="0" width="595" height="300" frameX="-159" frameY="-479" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido left0001" x="1260" y="1554" width="591" height="308" frameX="-168" frameY="-475" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido left0002" x="935" y="1208" width="594" height="342" frameX="-214" frameY="-456" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido left0003" x="469" y="858" width="593" height="350" frameX="-225" frameY="-452" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido down0000" x="1972" y="1126" width="577" height="235" frameX="-280" frameY="-568" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido down0001" x="1972" y="881" width="566" height="245" frameX="-286" frameY="-559" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido down0002" x="1972" y="595" width="499" height="286" frameX="-322" frameY="-517" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido down0003" x="1972" y="300" width="483" height="295" frameX="-331" frameY="-508" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido up0000" x="0" y="0" width="462" height="488" frameX="-281" frameY="-316" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido up0001" x="462" y="0" width="472" height="467" frameX="-281" frameY="-336" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido up0002" x="0" y="488" width="505" height="370" frameX="-292" frameY="-432" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido up0003" x="1463" y="0" width="509" height="350" frameX="-296" frameY="-452" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido right0000" x="934" y="0" width="529" height="363" frameX="-401" frameY="-439" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido right0001" x="934" y="363" width="523" height="360" frameX="-395" frameY="-442" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido right0002" x="1463" y="700" width="471" height="349" frameX="-385" frameY="-453" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="cicido right0003" x="1463" y="350" width="456" height="350" frameX="-385" frameY="-452" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>
