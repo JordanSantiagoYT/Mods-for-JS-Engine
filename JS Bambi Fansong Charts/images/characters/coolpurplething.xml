@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="coolpurplething.png">
+<SubTexture name="coolpurplething down pose0000" x="2341" y="0" width="423" height="448" frameX="0" frameY="-42" frameWidth="427" frameHeight="490" />
+<SubTexture name="coolpurplething down pose0001" x="2341" y="0" width="423" height="448" frameX="0" frameY="-42" frameWidth="427" frameHeight="490" />
+<SubTexture name="coolpurplething down pose0002" x="1413" y="520" width="418" height="477" frameX="-7" frameY="-6" frameWidth="427" frameHeight="490" />
+<SubTexture name="coolpurplething down pose0003" x="1413" y="520" width="418" height="477" frameX="-7" frameY="-6" frameWidth="427" frameHeight="490" />
+<SubTexture name="coolpurplething down pose0004" x="1864" y="1019" width="419" height="482" frameX="-8" frameY="0" frameWidth="427" frameHeight="490" />
+<SubTexture name="coolpurplething down pose0005" x="1864" y="1019" width="419" height="482" frameX="-8" frameY="0" frameWidth="427" frameHeight="490" />
+<SubTexture name="coolpurplething Idle0000" x="1864" y="0" width="477" height="513" frameX="-28" frameY="-32" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0001" x="1864" y="0" width="477" height="513" frameX="-28" frameY="-32" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0002" x="1467" y="1744" width="514" height="507" frameX="0" frameY="-47" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0003" x="1467" y="1744" width="514" height="507" frameX="0" frameY="-47" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0004" x="1413" y="0" width="451" height="520" frameX="-35" frameY="-10" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0005" x="1413" y="0" width="451" height="520" frameX="-35" frameY="-10" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0006" x="874" y="699" width="442" height="524" frameX="-40" frameY="-4" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0007" x="874" y="699" width="442" height="524" frameX="-40" frameY="-4" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0008" x="436" y="699" width="438" height="526" frameX="-42" frameY="-1" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0009" x="436" y="699" width="438" height="526" frameX="-42" frameY="-1" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0010" x="0" y="699" width="436" height="527" frameX="-43" frameY="0" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0011" x="0" y="699" width="436" height="527" frameX="-43" frameY="0" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0012" x="0" y="699" width="436" height="527" frameX="-43" frameY="0" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0013" x="0" y="699" width="436" height="527" frameX="-43" frameY="0" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Idle0014" x="0" y="699" width="436" height="527" frameX="-43" frameY="0" frameWidth="514" frameHeight="554" />
+<SubTexture name="coolpurplething Left0000" x="1864" y="513" width="472" height="506" frameX="0" frameY="-24" frameWidth="493" frameHeight="530" />
+<SubTexture name="coolpurplething Left0001" x="1864" y="513" width="472" height="506" frameX="0" frameY="-24" frameWidth="493" frameHeight="530" />
+<SubTexture name="coolpurplething Left0002" x="1265" y="1226" width="456" height="517" frameX="-34" frameY="-3" frameWidth="493" frameHeight="530" />
+<SubTexture name="coolpurplething Left0003" x="1265" y="1226" width="456" height="517" frameX="-34" frameY="-3" frameWidth="493" frameHeight="530" />
+<SubTexture name="coolpurplething Left0004" x="0" y="1226" width="453" height="518" frameX="-40" frameY="0" frameWidth="493" frameHeight="530" />
+<SubTexture name="coolpurplething Left0005" x="0" y="1226" width="453" height="518" frameX="-40" frameY="0" frameWidth="493" frameHeight="530" />
+<SubTexture name="coolpurplething right pose0000" x="453" y="1226" width="812" height="518" frameX="0" frameY="0" frameWidth="812" frameHeight="518" />
+<SubTexture name="coolpurplething right pose0001" x="453" y="1226" width="812" height="518" frameX="0" frameY="0" frameWidth="812" frameHeight="518" />
+<SubTexture name="coolpurplething right pose0002" x="0" y="1744" width="739" height="509" frameX="-4" frameY="0" frameWidth="812" frameHeight="518" />
+<SubTexture name="coolpurplething right pose0003" x="0" y="1744" width="739" height="509" frameX="-4" frameY="0" frameWidth="812" frameHeight="518" />
+<SubTexture name="coolpurplething right pose0004" x="739" y="1744" width="728" height="508" frameX="-4" frameY="0" frameWidth="812" frameHeight="518" />
+<SubTexture name="coolpurplething right pose0005" x="739" y="1744" width="728" height="508" frameX="-4" frameY="0" frameWidth="812" frameHeight="518" />
+<SubTexture name="coolpurplething Up pose0000" x="0" y="0" width="468" height="699" frameX="0" frameY="0" frameWidth="473" frameHeight="705" />
+<SubTexture name="coolpurplething Up pose0001" x="0" y="0" width="468" height="699" frameX="0" frameY="0" frameWidth="473" frameHeight="705" />
+<SubTexture name="coolpurplething Up pose0002" x="468" y="0" width="472" height="645" frameX="-1" frameY="-60" frameWidth="473" frameHeight="705" />
+<SubTexture name="coolpurplething Up pose0003" x="468" y="0" width="472" height="645" frameX="-1" frameY="-60" frameWidth="473" frameHeight="705" />
+<SubTexture name="coolpurplething Up pose0004" x="940" y="0" width="473" height="636" frameX="0" frameY="-69" frameWidth="473" frameHeight="705" />
+<SubTexture name="coolpurplething Up pose0005" x="940" y="0" width="473" height="636" frameX="0" frameY="-69" frameWidth="473" frameHeight="705" />
+</TextureAtlas>
