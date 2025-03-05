@@ -1205,6 +1205,24 @@
 				181,
 				0
 			]
+		],
+		[
+			"Disability New",
+			"dave-disability",
+			[
+				0,
+				60,
+				200
+			]
+		],
+		[
+			"BluePen",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

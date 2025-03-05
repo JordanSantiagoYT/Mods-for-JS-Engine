@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "splitathon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "splitathon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "splitathon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "splitathon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "splitathon idl ",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "splitathon idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		}
+	],
+	"losing_colors": [
+		37,
+		191,
+		55
+	],
+	"no_antialiasing": false,
+	"image": "characters/z3mp_splithathon_bambi",
+	"shake_duration": 0,
+	"position": [
+		90,
+		430
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bambi",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		191,
+		55
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		30,
+		50
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		37,
+		191,
+		55
+	],
+	"scale": 1
+}
