@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="microwaveDemon.png">
+<SubTexture name="microwaveDemon altPose0000" x="0" y="0" width="696" height="718" frameX="-21" frameY="-2" frameWidth="720" frameHeight="720" />
+<SubTexture name="microwaveDemon idle0000" x="1440" y="718" width="696" height="671" frameX="-21" frameY="-2" frameWidth="720" frameHeight="720" />
+<SubTexture name="microwaveDemon down0000" x="696" y="0" width="720" height="718" frameX="0" frameY="-2" frameWidth="720" frameHeight="720" />
+<SubTexture name="microwaveDemon left0000" x="1416" y="0" width="720" height="718" frameX="0" frameY="-2" frameWidth="720" frameHeight="720" />
+<SubTexture name="microwaveDemon up0000" x="0" y="718" width="720" height="718" frameX="0" frameY="-2" frameWidth="720" frameHeight="720" />
+<SubTexture name="microwaveDemon right0000" x="720" y="718" width="720" height="718" frameX="0" frameY="-2" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

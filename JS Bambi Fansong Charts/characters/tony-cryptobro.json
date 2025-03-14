@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				-14
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-9,
+				-16
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-9,
+				-16
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-7,
+				-13
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-6,
+				-14
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		10,
+		10,
+		10
+	],
+	"no_antialiasing": true,
+	"image": "characters/tony-cryptobro",
+	"shake_duration": 0,
+	"position": [
+		-270,
+		-10
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "tony",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		151,
+		137,
+		150
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		30,
+		180
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		151,
+		137,
+		150
+	],
+	"scale": 0.799999999999999
+}
