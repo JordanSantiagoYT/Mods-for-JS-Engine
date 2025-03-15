@@ -1,0 +1,5 @@
+Value 1: Set Dad's trail
+Value 2: Set BF's trail
+
+Setting a value to 0 or leaving it blank will disable it.
+Setting a value to 1 will enable it.

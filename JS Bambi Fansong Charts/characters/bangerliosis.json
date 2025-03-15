@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				356,
+				-236
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				425,
+				-248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				267,
+				-226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				339,
+				-229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				351,
+				-179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"no_antialiasing": true,
+	"image": "characters/bangerliosis",
+	"shake_duration": 0.05,
+	"position": [
+		90,
+		-160
+	],
+	"health_drain": true,
+	"shake_intensity": 0.007,
+	"healthicon": "bangerliosis-pixel",
+	"shake_screen": true,
+	"drain_floor": 0.05,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"drain_amount": 0.015,
+	"camera_position": [
+		-320,
+		260
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		0
+	],
+	"scale": 1
+}
