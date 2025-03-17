@@ -1259,6 +1259,15 @@
 				0,
 				0
 			]
+		],
+		[
+			"Antagonism",
+			"truetime",
+			[
+				213,
+				40,
+				40
+			]
 		]
 	],
 	"hideFreeplay": false,

@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfScared"
+					]
+				]
+			],
+			[
+				212800.000000001,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			],
+			[
+				213333.333333334,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
