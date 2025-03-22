@@ -21,7 +21,7 @@ function onUpdate(elapsed)
 	setProperty('hue.x',getProperty('hue.x')+hueAdd)
 	amount = getProperty('hue.x')
 
-	if curStep >= 1024 and curStep <= 1280 or curStep == 2048 and curStep <= 2304 then
+	if curStep >= 1024 and curStep <= 1280 or curStep >= 2048 and curStep <= 2304 then
     		setShaderFloat("adjustColor",'hue', amount)
 	else
 		setShaderFloat("adjustColor",'hue', 0)
