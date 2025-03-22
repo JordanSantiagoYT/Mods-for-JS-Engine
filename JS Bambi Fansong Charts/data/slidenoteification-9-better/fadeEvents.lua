@@ -8,7 +8,7 @@ function onCreatePost()
 	setProperty('flash.alpha', 1)
 	setObjectCamera('flash', 'camOther')
 
-	makeLuaText('Credits', "Slidenoteification 9 (but Better)\n\nSong by Enzo Polis\n\nChart by Jordan Santiago\n\nOpponent Sprites by TheTrueAccount_2\n\nSad Bandu icons by SonicJrthecoolest", 1250, 0, 720)
+	makeLuaText('Credits', "Slidenoteification 9 (but Better)\n\nSong by Enzo Polis\n\nChart by Jordan Santiago\n\nOpponent Sprites by TheTrueAccount_2\n\nSad Bandu icons by SonicJrthecoolest\n\nLua Extra Keys by TheZoroForce240", 1250, 0, 720)
 	setTextAlignment('Credits', 'Center')
 	addLuaText('Credits')
 	setTextSize('Credits', 40)
@@ -22,7 +22,7 @@ function onCreatePost()
 end
 
 function onSongStart()
-	doTweenY('creditTween', 'Credits', 250, 2, 'expoOut')
+	doTweenY('creditTween', 'Credits', 180, 2, 'expoOut')
 	doTweenAlpha('flTw', 'flash', 0, 18, 'linear')
 end
 
