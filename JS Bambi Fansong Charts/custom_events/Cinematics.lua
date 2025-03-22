@@ -18,14 +18,9 @@ function onUpdate()
 	if start == 1 then
 	doTweenY('Cinematics1', 'UpperBar', 0, 0.5, 'Linear')
 	doTweenY('Cinematics2', 'LowerBar', 600, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE1', 0, 120, 0.5, 'Linear')	
-	noteTweenY('NOTEMOVE2', 1, 120, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE3', 2, 120, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE4', 3, 120, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE5', 4, 120, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE6', 5, 120, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE7', 6, 120, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE8', 7, 120, 0.5, 'Linear')
+	for i=0, getProperty('strumLineNotes.length')-1 do
+		noteTweenY('NOTEMOVE'..i, i, 120, 0.5, 'Linear')
+	end	
 	doTweenAlpha('AlphaTween1', 'healthBarBG', 0, 0.25)
 	doTweenAlpha('AlphaTween2', 'healthBar', 0, 0.25)
 	doTweenAlpha('AlphaTween3', 'scoreTxt', 0, 0.25)
@@ -36,7 +31,7 @@ function onUpdate()
 	doTweenAlpha('AlphaTween8', 'timeTxt', 0, 0.25)
 	doTweenAlpha('AlphaTween9', 'healthTxt', 0, 0.25)
 
-		for i = 0, 7 do
+		for i = 0, getProperty('strumLineNotes.length')-1 do
 			noteTweenAlpha('byeNote'..i, i, 0.7, 0.5, 'linear');
 		end
 	end
@@ -44,14 +39,9 @@ function onUpdate()
 	if downscroll and start == 1 then
 	doTweenY('Cinematics1', 'UpperBar', -50, 0.5, 'Linear')
 	doTweenY('Cinematics2', 'LowerBar', 650, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE1', 0, 530, 0.5, 'Linear')	
-	noteTweenY('NOTEMOVE2', 1, 530, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE3', 2, 530, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE4', 3, 530, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE5', 4, 530, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE6', 5, 530, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE7', 6, 530, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE8', 7, 530, 0.5, 'Linear')
+	for i=0, getProperty('strumLineNotes.length')-1 do
+		noteTweenY('NOTEMOVE'..i, i, 120, 0.5, 'Linear')
+	end	
 	doTweenAlpha('AlphaTween1', 'healthBarBG', 0, 0.25)
 	doTweenAlpha('AlphaTween2', 'healthBar', 0, 0.25)
 	doTweenAlpha('AlphaTween3', 'scoreTxt', 0, 0.25)
@@ -66,14 +56,9 @@ function onUpdate()
 	if finish == 2 then
 	doTweenY('Cinematics1', 'UpperBar', -120, 0.5, 'Linear')
 	doTweenY('Cinematics2', 'LowerBar', 720, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE1', 0, 50, 0.5, 'Linear')	
-	noteTweenY('NOTEMOVE2', 1, 50, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE3', 2, 50, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE4', 3, 50, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE5', 4, 50, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE6', 5, 50, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE7', 6, 50, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE8', 7, 50, 0.5, 'Linear')
+	for i=0, getProperty('strumLineNotes.length')-1 do
+		noteTweenY('NOTEMOVE'..i, i, 50, 0.5, 'Linear')
+	end	
 	doTweenAlpha('AlphaTween1', 'healthBarBG', 1, 0.25)
 	doTweenAlpha('AlphaTween2', 'healthBar', 1, 0.25)
 	doTweenAlpha('AlphaTween3', 'scoreTxt', 1, 0.25)
@@ -84,7 +69,7 @@ function onUpdate()
 	doTweenAlpha('AlphaTween8', 'timeTxt', 1, 0.25)
 	doTweenAlpha('AlphaTween9', 'healthTxt', 1, 0.25)
 
-		for i = 0, 7 do
+		for i = 0, getProperty('strumLineNotes.length')-1 do
 			noteTweenAlpha('byeNote'..i, i, 1, 0.5, 'linear');
 		end
 	end
@@ -92,14 +77,9 @@ function onUpdate()
 	if downscroll and finish == 2 then
 	doTweenY('Cinematics1', 'UpperBar', -120, 0.5, 'Linear')
 	doTweenY('Cinematics2', 'LowerBar', 720, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE1', 0, 570, 0.5, 'Linear')	
-	noteTweenY('NOTEMOVE2', 1, 570, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE3', 2, 570, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE4', 3, 570, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE5', 4, 570, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE6', 5, 570, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE7', 6, 570, 0.5, 'Linear')
-	noteTweenY('NOTEMOVE8', 7, 570, 0.5, 'Linear')
+	for i=0, getProperty('strumLineNotes.length')-1 do
+		noteTweenY('NOTEMOVE'..i, i, 570, 0.5, 'Linear')
+	end	
 	doTweenAlpha('AlphaTween1', 'healthBarBG', 1, 0.25)
 	doTweenAlpha('AlphaTween2', 'healthBar', 1, 0.25)
 	doTweenAlpha('AlphaTween3', 'scoreTxt', 1, 0.25)

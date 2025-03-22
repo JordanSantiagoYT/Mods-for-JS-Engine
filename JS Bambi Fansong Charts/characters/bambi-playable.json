@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bambi idle"
+		},
+		{
+			"offsets": [
+				-122,
+				-474
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambi down"
+		},
+		{
+			"offsets": [
+				-131,
+				-408
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bambi up"
+		},
+		{
+			"offsets": [
+				-105,
+				-432
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "browut",
+			"indices": [],
+			"name": "bambi look"
+		},
+		{
+			"offsets": [
+				-37,
+				-358
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "phoneSmash",
+			"indices": [],
+			"name": "bambi phone"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				467,
+				-418
+			],
+			"anim": "phoneThrow",
+			"fps": 24,
+			"name": "bambi throw",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				-434
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bambi right"
+		},
+		{
+			"offsets": [
+				-165,
+				-438
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bambi left"
+		},
+		{
+			"offsets": [
+				-2,
+				-430
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "bambi alt right"
+		},
+		{
+			"offsets": [
+				-120,
+				-436
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "bambi alt left"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		37,
+		191,
+		55
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi",
+	"shake_duration": 0,
+	"position": [
+		-70,
+		-30
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bambi",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		191,
+		55
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-40,
+		460
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		37,
+		191,
+		55
+	],
+	"scale": 1
+}

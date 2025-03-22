@@ -1,0 +1,209 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sad up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				101
+			],
+			"anim": "dropphone",
+			"fps": 24,
+			"name": "phones fall",
+			"indices": []
+		},
+		{
+			"offsets": [
+				63,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sad left"
+		},
+		{
+			"offsets": [
+				73,
+				137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sad right"
+		},
+		{
+			"offsets": [
+				48,
+				102
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				16,
+				17
+			],
+			"name": "phones fall"
+		},
+		{
+			"offsets": [
+				48,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "phones fall"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		24,
+		175,
+		11
+	],
+	"no_antialiasing": true,
+	"image": "characters/bandu-sad",
+	"shake_duration": 0,
+	"position": [
+		-290,
+		-350
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bandu-sad",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		175,
+		11
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		180
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		24,
+		175,
+		11
+	],
+	"scale": 0.8
+}

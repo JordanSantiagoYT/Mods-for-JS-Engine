@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bandu_sad.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phones fall0000" x="0" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0001" x="0" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0002" x="1478" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0003" x="1478" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0004" x="2956" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0005" x="2956" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0006" x="4434" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0007" x="4434" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0008" x="5912" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0009" x="5912" y="0" width="1473" height="1394"/>
+	<SubTexture name="phones fall0010" x="0" y="1399" width="1473" height="1394"/>
+	<SubTexture name="phones fall0011" x="0" y="1399" width="1473" height="1394"/>
+	<SubTexture name="phones fall0012" x="1478" y="1399" width="1473" height="1394"/>
+	<SubTexture name="phones fall0013" x="1478" y="1399" width="1473" height="1394"/>
+	<SubTexture name="phones fall0014" x="1478" y="1399" width="1473" height="1394"/>
+	<SubTexture name="phones fall0015" x="1478" y="1399" width="1473" height="1394"/>
+	<SubTexture name="phones fall0016" x="1478" y="1399" width="1473" height="1394"/>
+	<SubTexture name="phones fall0017" x="1478" y="1399" width="1473" height="1394"/>
+	<SubTexture name="sad down0000" x="2956" y="1399" width="1473" height="1394"/>
+	<SubTexture name="sad down0001" x="2956" y="1399" width="1473" height="1394"/>
+	<SubTexture name="sad down0002" x="4434" y="1399" width="1473" height="1394"/>
+	<SubTexture name="sad down0003" x="4434" y="1399" width="1473" height="1394"/>
+	<SubTexture name="sad down0004" x="5912" y="1399" width="1473" height="1394"/>
+	<SubTexture name="sad down0005" x="5912" y="1399" width="1473" height="1394"/>
+	<SubTexture name="sad down0006" x="0" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad down0007" x="0" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad down0008" x="0" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad down0009" x="0" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0000" x="1478" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0001" x="1478" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0002" x="2956" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0003" x="2956" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0004" x="4434" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0005" x="4434" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0006" x="5912" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0007" x="5912" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0008" x="5912" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad left0009" x="5912" y="2798" width="1473" height="1394"/>
+	<SubTexture name="sad right0000" x="0" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0001" x="0" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0002" x="1478" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0003" x="1478" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0004" x="2956" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0005" x="2956" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0006" x="4434" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0007" x="4434" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0008" x="4434" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad right0009" x="4434" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad up0000" x="5912" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad up0001" x="5912" y="4197" width="1473" height="1394"/>
+	<SubTexture name="sad up0002" x="0" y="5596" width="1473" height="1394"/>
+	<SubTexture name="sad up0003" x="0" y="5596" width="1473" height="1394"/>
+	<SubTexture name="sad up0004" x="1478" y="5596" width="1473" height="1394"/>
+	<SubTexture name="sad up0005" x="1478" y="5596" width="1473" height="1394"/>
+	<SubTexture name="sad up0006" x="2956" y="5596" width="1473" height="1394"/>
+	<SubTexture name="sad up0007" x="2956" y="5596" width="1473" height="1394"/>
+	<SubTexture name="sad up0008" x="2956" y="5596" width="1473" height="1394"/>
+	<SubTexture name="sad up0009" x="2956" y="5596" width="1473" height="1394"/>
+</TextureAtlas>
