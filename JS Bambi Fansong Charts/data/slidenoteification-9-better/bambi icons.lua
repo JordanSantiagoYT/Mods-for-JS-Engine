@@ -19,6 +19,7 @@ function onUpdatePost()
 	setProperty('icon5.scale.y', getProperty('iconP1.scale.y'))
 	setObjectOrder('icon5', getObjectOrder('iconP1') - 1)
 	setProperty('icon5.angle', getProperty('iconP1.angle'))
+	setProperty('icon5.alpha', getProperty('iconP1.alpha'))
 	end
 	if getProperty('healthBar.percent') < 20 then
 		setProperty('icon5.animation.curAnim.curFrame', '1')
