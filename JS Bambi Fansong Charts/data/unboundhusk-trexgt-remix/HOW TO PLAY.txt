@@ -1,0 +1,15 @@
+To play, download it from this link: https://mega.nz/file/XS5jBQ7Y#g2qYXHVYU8SLHw8zWJ80K9_gJiXINxaF6a9F8iSZmlk
+
+Inside it are three jsons, each ending with a different letter:
+"a" is the first chart. It includes sections 0 to 331.
+"b" is the second chart. It includes sections 332 to 345.
+"c" is the last chart. It includes the last part of the chart.
+
+There is also a merged version, which can be downloaded here: https://mega.nz/file/XWIGGJzR#mB3B5OGqhZlFo3SZQbuz2SFvhDlL9zA03lNcQdKNAyU
+
+Inside the ncScripts folder are also 2 lua scripts for difficulties "b" and "C". Use that script depending on what chart you're loading.
+
+To play each chart, remove the ending letter suffix from each json.
+For example, "unboundhusk-trexgt-remix-a" would be "unboundhusk-trexgt-remix".
+
+This will allow the game to read the chart.

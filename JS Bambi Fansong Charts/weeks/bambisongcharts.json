@@ -1286,6 +1286,24 @@
 				100,
 				100
 			]
+		],
+		[
+			"Solar Blast",
+			"microwaveDemon",
+			[
+				10,
+				10,
+				10
+			]
+		],
+		[
+			"Unboundhusk TrexGT Remix",
+			"unboundhusk",
+			[
+				255,
+				0,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,
