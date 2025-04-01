@@ -1,0 +1,6 @@
+Does the shadow thing like in Indie Cross and Mind Games.
+
+Value 1: 'a' to make the BG white and characters black, 'b' to undo.
+Value 2: Silhouette Fade In/Out Time.
+
+Script by Saltyboii#2461
