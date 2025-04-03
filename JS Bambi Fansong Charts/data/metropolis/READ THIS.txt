@@ -1,0 +1,6 @@
+This chart was zipped to reduce filesize. To play it, download from this link: https://drive.google.com/file/d/1Z8g2_63bYY4ZbAsWfE__BPwVUmn44E1J/view?usp=drive_link
+
+Inside the 7z file is a json. Use 7-zip or WinRAR to extract it. This json is the chart.
+
+To play the chart, copy the json folder into the same folder where this txt file is located.
+This will allow the game to read the chart.

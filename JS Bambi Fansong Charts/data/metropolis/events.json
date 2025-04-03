@@ -1,0 +1,541 @@
+{
+	"song": {
+		"events": [
+			[
+				63499.9999999999,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.49"
+					]
+				]
+			],
+			[
+				85333.3333333334,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.49"
+					]
+				]
+			],
+			[
+				170666.666666666,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cpu-fryer-bandu"
+					]
+				]
+			],
+			[
+				255666.666666665,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.33"
+					]
+				]
+			],
+			[
+				282666.666666666,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				294999.999999999,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0.5"
+					]
+				]
+			],
+			[
+				295999.999999999,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				297666.666666666,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0.5"
+					]
+				]
+			],
+			[
+				298333.333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.33"
+					]
+				]
+			],
+			[
+				304000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				316333.333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0.5"
+					]
+				]
+			],
+			[
+				317333.333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				319000,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0.5"
+					]
+				]
+			],
+			[
+				319666.666666667,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.33"
+					]
+				]
+			],
+			[
+				362666.666666668,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.33"
+					]
+				]
+			],
+			[
+				384000.000000002,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ninja"
+					]
+				]
+			],
+			[
+				392666.666666669,
+				[
+					[
+						"lyrics",
+						"LOW",
+						""
+					]
+				]
+			],
+			[
+				393166.666666669,
+				[
+					[
+						"lyrics",
+						"LOW TA",
+						""
+					]
+				]
+			],
+			[
+				393666.666666669,
+				[
+					[
+						"lyrics",
+						"LOW TAPER",
+						""
+					]
+				]
+			],
+			[
+				394166.666666669,
+				[
+					[
+						"lyrics",
+						"LOW TAPER FADE!",
+						""
+					]
+				]
+			],
+			[
+				394625.000000002,
+				[
+					[
+						"lyrics",
+						"You",
+						""
+					]
+				]
+			],
+			[
+				394750.000000002,
+				[
+					[
+						"lyrics",
+						"You know",
+						""
+					]
+				]
+			],
+			[
+				394875.000000002,
+				[
+					[
+						"lyrics",
+						"You know what's",
+						""
+					]
+				]
+			],
+			[
+				395041.666666669,
+				[
+					[
+						"lyrics",
+						"You know what's crazy",
+						""
+					]
+				]
+			],
+			[
+				395416.666666669,
+				[
+					[
+						"lyrics",
+						"You know what's crazy, is",
+						""
+					]
+				]
+			],
+			[
+				395541.666666669,
+				[
+					[
+						"lyrics",
+						"You know what's crazy, is that",
+						""
+					]
+				]
+			],
+			[
+				395750.000000002,
+				[
+					[
+						"lyrics",
+						"You know what's crazy, is that that",
+						""
+					]
+				]
+			],
+			[
+				395958.333333336,
+				[
+					[
+						"lyrics",
+						"Low Taper Fade..",
+						""
+					]
+				]
+			],
+			[
+				396958.333333336,
+				[
+					[
+						"lyrics",
+						"Low Taper Fade.. like..",
+						""
+					]
+				]
+			],
+			[
+				397333.333333336,
+				[
+					[
+						"lyrics",
+						"Low Taper Fade.. like.. meme..",
+						""
+					]
+				]
+			],
+			[
+				397750.000000002,
+				[
+					[
+						"lyrics",
+						"Low Taper Fade.. like.. meme.. is-",
+						""
+					]
+				]
+			],
+			[
+				398083.333333336,
+				[
+					[
+						"lyrics",
+						"Dude",
+						""
+					]
+				]
+			],
+			[
+				398333.333333336,
+				[
+					[
+						"lyrics",
+						"Dude it",
+						""
+					]
+				]
+			],
+			[
+				398416.666666669,
+				[
+					[
+						"lyrics",
+						"Dude it is",
+						""
+					]
+				]
+			],
+			[
+				398666.666666669,
+				[
+					[
+						"lyrics",
+						"Dude it is still..",
+						""
+					]
+				]
+			],
+			[
+				399166.666666669,
+				[
+					[
+						"lyrics",
+						"Dude it is still.. MASSIVE!",
+						""
+					]
+				]
+			],
+			[
+				400000.000000003,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				416000.000000003,
+				[
+					[
+						"Camera Bopping",
+						"3",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"morpheusninja"
+					]
+				]
+			],
+			[
+				431666.66666667,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.33"
+					]
+				]
+			],
+			[
+				432000.000000003,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"ninja"
+					]
+				]
+			],
+			[
+				453333.333333337,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				485333.333333338,
+				[
+					[
+						"Change Character",
+						"dad",
+						"metal-multi"
+					]
+				]
+			],
+			[
+				518333.333333339,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.33"
+					]
+				]
+			],
+			[
+				520000.000000006,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				539666.666666673,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.33"
+					]
+				]
+			],
+			[
+				541333.333333339,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				582333.333333339,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.33"
+					]
+				]
+			],
+			[
+				584000.000000006,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				624000,
+				[
+					[
+						"Change Scroll Speed",
+						"16",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flatfuck"
+					]
+				]
+			],
+			[
+				733333.333333327,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}
