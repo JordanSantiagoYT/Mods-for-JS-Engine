@@ -109,7 +109,8 @@ local PSYCHLEFT = -10;
 local PSYCHDOWN = -11
 local PSYCHUP = -12;
 local PSYCHRIGHT = -13;
-keyCount = 18
+
+keyCount = 18 --Default key count (used if no "Set Key Count" event is found)
 
 
 local arrowDirs = {'LEFT', 'DOWN', 'UP', 'RIGHT', 'SPACE', 'SHARPLEFT', 'SHARPDOWN', 'SHARPUP', 'SHARPRIGHT'}
@@ -322,10 +323,9 @@ function reparseChart()
         var maniaChangesString = "]]..maniaChanges..[[";
         var maniaChanges = maniaChangesString.split(':');
         var maniaChangeMap = [];
-        for (i in 0...maniaChanges.length)
-        {
-            maniaChangeMap.push(maniaChanges[i].split(','));
-        }
+        for (i in maniaChanges) {
+    		maniaChangeMap.push(i.split(','));
+	}
 
         var stepCrochet:Float = 0.0;
 		var currentBPMLol:Float = Conductor.bpm;
@@ -385,9 +385,9 @@ function reparseChart()
 					stepCrochet = 15000 / currentBPMLol;
 		
 					var roundSus:Int = Math.round(swagNote.sustainLength / stepCrochet);
-					if (roundSus > 0) {
-						for (susNote in 0...roundSus + 1) {
-                            //also didnt want to do all of this but hscript doesnt support casting :sob:
+					var susNote = 0;
+					while (susNote <= roundSus) {
+                            //also didnt want to do all of this but hscript doesnt support casting :sob: also had to use a while loop because for loops fucking die here
 							var sustainNote:PreloadedChartNote = {};
                             sustainNote.strumTime = daStrumTime + (stepCrochet * susNote);
                             sustainNote.noteData = daNoteData;
@@ -409,20 +409,16 @@ function reparseChart()
                             sustainNote.noteDensity = currentMultiplier;
                             sustainNote.hitCausesMiss = songNotes[3] == 'Hurt Note';
                             sustainNote.ignoreNote = songNotes[3] == 'Hurt Note' && swagNote.mustPress;
-							game.unspawnNotes.push(sustainNote);
-						}
+					game.unspawnNotes.push(sustainNote);
+					susNote++;
 					}
-                }
+				}
 			}
-			game.notesLoadedRN += section.sectionNotes.length;
-			trace('\r(' + game.notesLoadedRN + ' notes)');
 		}
         game.bfNoteskin = game.boyfriend.noteskin;
 		game.dadNoteskin = game.dad.noteskin;
 
 		game.unspawnNotes.sort(game.sortByTime);
-        trace('\nDone!');
-		game.notesLoadedRN = 0;
     ]])
 end
 
@@ -581,15 +577,16 @@ local keysPressed = {false,false,false,false,false,false,false,false,false,false
 --need to check if holding sustains because psych dumb and still uses shitty controls.hx
 function onUpdatePost(elapsed)
 
-    local noteCount = getProperty('notes.length')
+    local noteCount = getProperty('sustainNotes.length')
+	if noteCount == nil then return end
     for i = 0,noteCount-1 do 
-        local noteData = getPropertyFromGroup('notes', i, 'noteData')
+        local noteData = getPropertyFromGroup('sustainNotes', i, 'noteData')
         local isHolding = keysPressed[noteData+1]
         if isHolding then 
-            if getPropertyFromGroup('notes', i, 'isSustainNote') and getPropertyFromGroup('notes', i, 'canBeHit') and not getPropertyFromGroup('notes', i, 'wasGoodHit')
-            and getPropertyFromGroup('notes', i, 'mustPress') and not getPropertyFromGroup('notes', i, 'tooLate') then 
+            if getPropertyFromGroup('sustainNotes', i, 'isSustainNote') and getPropertyFromGroup('sustainNotes', i, 'canBeHit') and not getPropertyFromGroup('sustainNotes', i, 'wasGoodHit')
+            and getPropertyFromGroup('sustainNotes', i, 'mustPress') and not getPropertyFromGroup('sustainNotes', i, 'tooLate') then 
                 runHaxeCode([[
-                    game.goodNoteHit(game.notes.members[]]..i..[[]);
+                    game.goodNoteHit(game.sustainNotes.members[]]..i..[[]);
                 ]])
             end
         end 
