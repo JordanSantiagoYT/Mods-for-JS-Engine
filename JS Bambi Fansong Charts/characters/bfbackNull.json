@@ -1,169 +1,169 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				7,
 				19
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-15,
 				-19
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-46,
 				27
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-44,
 				22
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-3,
 				5
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				14,
 				18
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-4,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				-16
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				294,
 				267
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-40,
 				-40
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				70,
 				370
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 18,
-			"name": "lacundabflolol idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "lacundabflolol idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				60,
 				371
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 18,
-			"name": "lacundabflolol down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lacundabflolol down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				70,
 				370
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "lacundabflolol up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "lacundabflolol up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				65,
 				368
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 18,
-			"name": "lacundabflolol left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lacundabflolol left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				71,
 				370
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 18,
-			"name": "lacundabflolol right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lacundabflolol right"
 		}
 	],
 	"vocals_file": "",
@@ -193,7 +193,7 @@
 	"drain_amount": 0,
 	"camera_position": [
 		60,
-		-330
+		-220
 	],
 	"sing_duration": 4,
 	"noteskin": null,
