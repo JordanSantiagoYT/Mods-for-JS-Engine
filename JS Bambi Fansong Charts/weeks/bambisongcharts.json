@@ -1331,6 +1331,24 @@
 				120,
 				255
 			]
+		],
+		[
+			"YFM Spamtrack",
+			"face",
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"Dissociation",
+			"Scoliosis",
+			[
+				50,
+				0,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="puff-real.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="655" height="449"/>
+	<SubTexture name="idle0000" x="655" y="0" width="804" height="378"/>
+	<SubTexture name="left0000" x="0" y="449" width="624" height="600"/>
+	<SubTexture name="right0000" x="624" y="449" width="488" height="391"/>
+	<SubTexture name="up0000" x="1112" y="449" width="759" height="516"/>
+</TextureAtlas>
