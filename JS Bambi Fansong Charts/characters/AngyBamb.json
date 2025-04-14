@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"loop_point": 0,
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				49,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop_point": 0,
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				34,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop_point": 0,
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				83,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"loop_point": 0,
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				40,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop_point": 0,
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				129
+			],
+			"loop_point": 0,
+			"anim": "phone",
+			"fps": 24,
+			"name": "BP",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		226,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/Angy",
+	"shake_duration": 0.02,
+	"position": [
+		-40,
+		390
+	],
+	"health_drain": false,
+	"shake_intensity": 0.01,
+	"healthicon": "angrymarelo",
+	"shake_screen": true,
+	"drain_floor": 0.1,
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		0,
+		0
+	],
+	"drain_amount": 0.01,
+	"camera_position": [
+		-110,
+		-60
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		226,
+		0,
+		0
+	],
+	"scale": 1
+}
