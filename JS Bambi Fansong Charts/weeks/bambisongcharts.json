@@ -1394,6 +1394,24 @@
 				181,
 				0
 			]
+		],
+		[
+			"Predestined Remade",
+			"morph-4",
+			[
+				121,
+				0,
+				121
+			]
+		],
+		[
+			"OG",
+			"prealpha",
+			[
+				255,
+				255,
+				255
+			]
 		]
 	],
 	"hideFreeplay": false,
