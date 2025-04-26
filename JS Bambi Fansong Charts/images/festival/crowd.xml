@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowdDance0000" x="0" y="0" width="1970" height="746" frameX="0" frameY="-18" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0001" x="1975" y="0" width="1960" height="758" frameX="-3" frameY="-6" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0002" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0003" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0004" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0005" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0006" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0007" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0008" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0009" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0010" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0011" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0012" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+	<SubTexture name="crowdDance0013" x="0" y="763" width="1948" height="764" frameX="-7" frameY="0" frameWidth="1970" frameHeight="764"/>
+</TextureAtlas>

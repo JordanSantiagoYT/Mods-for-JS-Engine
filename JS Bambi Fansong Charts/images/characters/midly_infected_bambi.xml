@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="midly_infected_bambi.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="MidlyInfectedBambiDown0000" x="0" y="3279" width="822" height="1038" frameX="-224" frameY="-201" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiDown20000" x="1597" y="2152" width="834" height="1037" frameX="-233" frameY="-202" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiDown30000" x="770" y="2152" width="827" height="1048" frameX="-242" frameY="-191" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiIdle0000" x="4459" y="2113" width="765" height="1065" frameX="-338" frameY="-187" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiIdle20000" x="4459" y="3178" width="765" height="1053" frameX="-345" frameY="-199" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiIdle30000" x="4459" y="0" width="815" height="1042" frameX="-310" frameY="-210" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiIdle40000" x="1662" y="1081" width="853" height="1032" frameX="-286" frameY="-220" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiLeft0000" x="4459" y="1042" width="788" height="1071" frameX="-121" frameY="-166" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiLeft20000" x="0" y="1081" width="834" height="1071" frameX="-147" frameY="-166" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiLeft30000" x="834" y="1081" width="828" height="1070" frameX="-201" frameY="-169" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiRight0000" x="0" y="0" width="1051" height="1081" frameX="-389" frameY="-168" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiRight20000" x="1051" y="0" width="982" height="1078" frameX="-412" frameY="-173" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiRight30000" x="2033" y="0" width="914" height="1070" frameX="-438" frameY="-180" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiUp0000" x="2947" y="0" width="754" height="1157" frameX="-364" frameY="-82" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiUp20000" x="3701" y="0" width="758" height="1140" frameX="-367" frameY="-99" frameWidth="1464" frameHeight="1340"/>
+	<SubTexture name="MidlyInfectedBambiUp30000" x="0" y="2152" width="770" height="1127" frameX="-364" frameY="-112" frameWidth="1464" frameHeight="1340"/>
+</TextureAtlas>

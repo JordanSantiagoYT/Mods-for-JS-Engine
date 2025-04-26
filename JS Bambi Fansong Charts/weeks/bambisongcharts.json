@@ -1412,6 +1412,15 @@
 				255,
 				255
 			]
+		],
+		[
+			"Infected",
+			"screwed",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

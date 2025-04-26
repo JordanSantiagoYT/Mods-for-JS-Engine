@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="corn.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="3208" height="628" pivotX="1609.05" pivotY="313.4"/>
+	<SubTexture name="idle0001" x="3208" y="0" width="3208" height="628"/>
+	<SubTexture name="idle0002" x="0" y="628" width="3208" height="628"/>
+</TextureAtlas>

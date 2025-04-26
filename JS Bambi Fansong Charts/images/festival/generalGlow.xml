@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="generalGlow.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="2933" height="657" pivotX="1471.65" pivotY="174.8"/>
+	<SubTexture name="idle0001" x="2933" y="0" width="2933" height="657"/>
+	<SubTexture name="idle0002" x="0" y="657" width="2933" height="657"/>
+</TextureAtlas>
