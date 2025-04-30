@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gando.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down0000" x="0" y="925" width="346" height="378" frameX="-100" frameY="-90" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="down10000" x="910" y="388" width="339" height="397" frameX="-102" frameY="-80" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle0000" x="1623" y="737" width="309" height="357" frameX="-123" frameY="-74" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle10000" x="0" y="0" width="452" height="442" frameX="-26" frameY="-47" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle20000" x="452" y="0" width="458" height="431" frameX="-24" frameY="-57" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle30000" x="1623" y="380" width="309" height="357" frameX="-123" frameY="-74" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle40000" x="0" y="442" width="394" height="483" frameX="-98" frameY="-15" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle50000" x="394" y="442" width="387" height="465" frameX="-100" frameY="-21" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="left0000" x="346" y="925" width="279" height="372" frameX="-123" frameY="-74" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="left10000" x="0" y="1303" width="280" height="379" frameX="-123" frameY="-74" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="right0000" x="1279" y="384" width="342" height="384" frameX="-115" frameY="-47" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="right10000" x="1623" y="0" width="330" height="380" frameX="-125" frameY="-51" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="up0000" x="910" y="0" width="369" height="388" frameX="-35" frameY="-75" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="up10000" x="1279" y="0" width="344" height="384" frameX="-60" frameY="-75" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

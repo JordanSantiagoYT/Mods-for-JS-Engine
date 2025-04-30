@@ -1,0 +1,151 @@
+{
+	"song": {
+		"events": [
+			[
+				19125,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				38325,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				55200,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				57525,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				74325,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.5, expoOut"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95925,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				115125,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
