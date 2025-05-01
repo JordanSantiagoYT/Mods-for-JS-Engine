@@ -113,6 +113,11 @@
 						"Toggle Trail",
 						"1",
 						"1"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"0.5, expoOut"
 					]
 				]
 			],
