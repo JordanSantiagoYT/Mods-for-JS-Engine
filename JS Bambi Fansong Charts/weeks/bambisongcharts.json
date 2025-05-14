@@ -1439,6 +1439,42 @@
 				67,
 				255
 			]
+		],
+		[
+			"Defamation",
+			"screwed",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"No Hen is Dead",
+			"cicidio-new",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Hellfield",
+			"ichor-remake",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Placeholder Invasion",
+			"face",
+			[
+				100,
+				100,
+				100
+			]
 		]
 	],
 	"hideFreeplay": false,

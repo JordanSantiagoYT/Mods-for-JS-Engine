@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		130,
+		0,
+		0
+	],
+	"no_antialiasing": true,
+	"image": "characters/ichor-remake",
+	"shake_duration": 0,
+	"position": [
+		-1100,
+		-1100
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "ichor-remake",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		130,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		50,
+		200
+	],
+	"sing_duration": 8,
+	"noteskin": null,
+	"winning_colors": [
+		130,
+		0,
+		0
+	],
+	"scale": 1
+}
