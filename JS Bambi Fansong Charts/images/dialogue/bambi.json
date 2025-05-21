@@ -1,0 +1,141 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "bambi",
+	"animations": [
+		{
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"loop_offsets": [
+				-170,
+				-110
+			],
+			"anim": "talk",
+			"idle_name": "bambi talk",
+			"loop_name": "bambi talk"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				-110
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"loop_name": "bambi annoyed",
+			"idle_name": "bambi annoyed"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				-110
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"loop_name": "bambi confused",
+			"idle_name": "bambi confused"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				-110
+			],
+			"anim": "upset",
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"loop_name": "bambi upset",
+			"idle_name": "bambi upset"
+		},
+		{
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				-170,
+				-110
+			],
+			"idle_name": "bambi pissed",
+			"loop_name": "bambi pissed"
+		},
+		{
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"anim": "mad",
+			"loop_offsets": [
+				-170,
+				-110
+			],
+			"idle_name": "bambi mad0",
+			"loop_name": "bambi mad0"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				-110
+			],
+			"anim": "mad confused",
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"loop_name": "bambi halfconfused",
+			"idle_name": "bambi halfconfused"
+		},
+		{
+			"loop_name": "bambi shocked",
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"idle_name": "bambi shocked",
+			"anim": "shocked",
+			"loop_offsets": [
+				-170,
+				-110
+			]
+		},
+		{
+			"loop_name": "bambi facepalm",
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"idle_name": "bambi facepalm",
+			"anim": "facepalm",
+			"loop_offsets": [
+				-170,
+				-110
+			]
+		},
+		{
+			"loop_name": "bambi unamused",
+			"idle_offsets": [
+				-170,
+				-110
+			],
+			"idle_name": "bambi unamused",
+			"anim": "unamused",
+			"loop_offsets": [
+				-170,
+				-110
+			]
+		}
+	]
+}

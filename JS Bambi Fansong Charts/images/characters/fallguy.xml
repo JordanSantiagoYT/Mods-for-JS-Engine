@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fallguy.png">
+<SubTexture name="fallguy idle0000" x="0" y="641" width="640" height="639" frameX="-180" frameY="-180" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy idle0001" x="1280" y="0" width="640" height="531" frameX="-180" frameY="-288" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy idle0002" x="0" y="1280" width="640" height="421" frameX="-180" frameY="-398" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy idle0003" x="640" y="1280" width="640" height="311" frameX="-180" frameY="-508" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy idle0004" x="1280" y="531" width="640" height="464" frameX="-180" frameY="-356" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy idle0005" x="640" y="641" width="640" height="573" frameX="-180" frameY="-246" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy idle0006" x="0" y="0" width="640" height="641" frameX="-180" frameY="-178" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy left0000" x="640" y="0" width="640" height="641" frameX="0" frameY="-178" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy left0001" x="0" y="0" width="640" height="641" frameX="-58" frameY="-177" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy left0002" x="0" y="0" width="640" height="641" frameX="-131" frameY="-175" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy left0003" x="0" y="0" width="640" height="641" frameX="-196" frameY="-179" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy down0000" x="0" y="0" width="640" height="641" frameX="-199" frameY="-355" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy down0001" x="0" y="0" width="640" height="641" frameX="-190" frameY="-293" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy down0002" x="0" y="0" width="640" height="641" frameX="-180" frameY="-217" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy down0003" x="0" y="0" width="640" height="641" frameX="-174" frameY="-181" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy up0000" x="0" y="0" width="640" height="641" frameX="-168" frameY="-5" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy up0001" x="0" y="0" width="640" height="641" frameX="-167" frameY="-51" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy up0002" x="0" y="0" width="640" height="641" frameX="-170" frameY="-158" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy up0003" x="0" y="0" width="640" height="641" frameX="-169" frameY="-180" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy right0000" x="0" y="0" width="640" height="641" frameX="-355" frameY="-178" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy right0001" x="0" y="0" width="640" height="641" frameX="-290" frameY="-177" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy right0002" x="0" y="0" width="640" height="641" frameX="-224" frameY="-178" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="fallguy right0003" x="0" y="0" width="640" height="641" frameX="-178" frameY="-172" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

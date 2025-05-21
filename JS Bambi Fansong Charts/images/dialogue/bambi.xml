@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambi.png">
+<SubTexture name="bambi annoyed0000" x="0" y="0" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi talk0000" x="231" y="0" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi shocked0000" x="462" y="0" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi halfconfused0000" x="0" y="264" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi pissed0000" x="231" y="264" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi mad0000" x="462" y="264" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi facepalm0000" x="693" y="0" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi confused0000" x="693" y="264" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi unamused0000" x="0" y="528" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="bambi upset0000" x="231" y="528" width="231" height="264" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+</TextureAtlas>

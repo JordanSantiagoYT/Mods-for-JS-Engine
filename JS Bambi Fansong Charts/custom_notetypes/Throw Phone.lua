@@ -1,31 +1,31 @@
 function opponentNoteHit(id, noteData, noteType, isSustainNote)
     if noteType == 'Throw Phone' then
-	setProperty('dad.holdTimer', 0)
 	characterPlayAnim('dad', 'phoneThrow', true);
+	setProperty('dad.holdTimer', 0)
 	setProperty('dad.specialAnim', true)
     end
 end
 function goodNoteHit(id, noteData, noteType, isSustainNote)
     if noteType == 'Throw Phone' then
-	setProperty('dad.holdTimer', 0)
 	characterPlayAnim('dad', 'phoneThrow', true);
+	setProperty('dad.holdTimer', 0)
 	setProperty('dad.specialAnim', true)
-	setProperty('bf.holdTimer', 0)
 	characterPlayAnim('bf', 'dodge', true);
+	setProperty('bf.holdTimer', 0)
 	setProperty('bf.specialAnim', true)
-	setProperty('gf.holdTimer', 0)
 	characterPlayAnim('gf', 'cheer', true);
+	setProperty('gf.holdTimer', 0)
 	setProperty('gf.specialAnim', true)
     end
 end
 
 function noteMiss(id, noteData, noteType, isSustainNote)
     if noteType == 'Throw Phone' then
-	setProperty('dad.holdTimer', 0)
 	characterPlayAnim('dad', 'phoneThrow', true);
+	setProperty('dad.holdTimer', 0)
 	setProperty('dad.specialAnim', true)
-	setProperty('bf.holdTimer', 0)
 	characterPlayAnim('bf', 'hurt', true);
+	setProperty('bf.holdTimer', 0)
 	setProperty('bf.specialAnim', true)
 	setPropertyFromGroup('strumLineNotes', noteData + 4, 'alpha', 0); --bye strum!
 	noteTweenAlpha('noteBack', noteData + 4, 1, 7, 'expoIn')

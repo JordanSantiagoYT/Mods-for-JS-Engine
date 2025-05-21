@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "bambDialogue",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "annoyed",
+			"text": "WHAT?!"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmfao dude really thought he was the main character"
+		},
+		{
+			"sound": "bambDialogue",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "You stupid little bitch! Im gonna toss you onto the highway!!!"
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.025,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "you really think you're getting something out of this, don't you?"
+		},
+		{
+			"sound": "bambDialogue",
+			"speed": 0.03,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Yes, Yes I do!"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Looks like somebody needs to learn some thinking skills."
+		},
+		{
+			"sound": "bambDialogue",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Okay, I will rap you once again, If you win, I'll... I'll..."
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Let me guess, break your phone? You threatened us with that already."
+		},
+		{
+			"sound": "bambDialogue",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "annoyed",
+			"text": "I dont care! Dave will ground both of you!"
+		},
+		{
+			"sound": "bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep."
+		},
+		{
+			"sound": "gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just get this over with already."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Absolute Cinema!"
+		}
+	]
+}
