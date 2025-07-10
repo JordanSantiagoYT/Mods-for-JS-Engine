@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="f3v3r.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Down0000" x="0" y="335" width="362" height="348" frameX="2" frameY="2" frameWidth="358" frameHeight="344"/>
+	<SubTexture name="Down20000" x="1139" y="254" width="310" height="342" frameX="2" frameY="2" frameWidth="306" frameHeight="338"/>
+	<SubTexture name="Down30000" x="745" y="279" width="339" height="271" frameX="2" frameY="2" frameWidth="335" frameHeight="267"/>
+	<SubTexture name="Idle0000" x="0" y="1090" width="236" height="262" frameX="2" frameY="2" frameWidth="232" frameHeight="258"/>
+	<SubTexture name="Idle20000" x="236" y="1090" width="236" height="260" frameX="2" frameY="2" frameWidth="232" frameHeight="256"/>
+	<SubTexture name="Left0000" x="1139" y="0" width="424" height="254" frameX="2" frameY="2" frameWidth="420" frameHeight="250"/>
+	<SubTexture name="Left20000" x="1139" y="596" width="414" height="253" frameX="2" frameY="2" frameWidth="410" frameHeight="249"/>
+	<SubTexture name="Left30000" x="381" y="339" width="320" height="240" frameX="2" frameY="2" frameWidth="316" frameHeight="236"/>
+	<SubTexture name="Right0000" x="0" y="683" width="509" height="213" frameX="2" frameY="2" frameWidth="505" frameHeight="209"/>
+	<SubTexture name="Right20000" x="509" y="683" width="487" height="204" frameX="2" frameY="2" frameWidth="483" frameHeight="200"/>
+	<SubTexture name="Right30000" x="0" y="896" width="377" height="194" frameX="2" frameY="2" frameWidth="373" frameHeight="190"/>
+	<SubTexture name="Up0000" x="381" y="0" width="364" height="339" frameX="2" frameY="2" frameWidth="360" frameHeight="335"/>
+	<SubTexture name="Up20000" x="0" y="0" width="381" height="335" frameX="2" frameY="2" frameWidth="377" frameHeight="331"/>
+	<SubTexture name="Up30000" x="745" y="0" width="394" height="279" frameX="2" frameY="2" frameWidth="390" frameHeight="275"/>
+</TextureAtlas>

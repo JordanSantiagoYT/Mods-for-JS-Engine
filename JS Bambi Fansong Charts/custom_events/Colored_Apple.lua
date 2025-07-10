@@ -5,7 +5,7 @@ function onCreate()
 
 --On case you wanted personalized for some songs
 
-customforsong = {'YourSong1','YourSong2'}
+customforsong = {'Phonophobia Remake'}
 
 --Change these on case that your characters,stage or both are too far lmfao
 x = -2000
@@ -42,7 +42,7 @@ rgbgf = {0,0,0}
 		y = -600
 		xs = 3
 		ys = 3
-		color = '000000'
+		color = 'FFFFFF'
 		CustomBF = false
 		CustomGF = false
 		CustomDAD = false

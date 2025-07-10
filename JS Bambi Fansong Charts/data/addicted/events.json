@@ -1,0 +1,296 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				15875,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Camera Twist",
+						"3",
+						"3"
+					]
+				]
+			],
+			[
+				23437.5,
+				[
+					[
+						"Camera Twist",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				23875,
+				[
+					[
+						"Camera Twist",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				31375,
+				[
+					[
+						"Camera Twist",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31500,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				31937.5,
+				[
+					[
+						"Camera Twist",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				46875,
+				[
+					[
+						"Camera Twist",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47875,
+				[
+					[
+						"Camera Twist",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				79875,
+				[
+					[
+						"Camera Twist",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Colored_Apple",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.6",
+						"0.5, expoIn"
+					]
+				]
+			],
+			[
+				95875,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Colored_Apple",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				97000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				98000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				99500,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.15",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				111875,
+				[
+					[
+						"Camera Twist",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				143875,
+				[
+					[
+						"Camera Twist",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"2, expoOut"
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"1, expoOut"
+					]
+				]
+			]
+		]
+	}
+}

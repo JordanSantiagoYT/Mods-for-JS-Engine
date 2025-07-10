@@ -1433,7 +1433,7 @@
 		],
 		[
 			"Agronomist",
-			"angryHortas",
+			"hortas",
 			[
 				94,
 				67,
@@ -1518,6 +1518,69 @@
 			[
 				50,
 				0,
+				0
+			]
+		],
+		[
+			"Supertuned Spam Song",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Photosynthesis",
+			"hortas",
+			[
+				94,
+				67,
+				255
+			]
+		],
+		[
+			"Torn",
+			"dave",
+			[
+				12,
+				11,
+				240
+			]
+		],
+		[
+			"7 Seconds of Diddy Blud",
+			"bf",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Phonophobia Remake",
+			"phonophobia-expunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Syndrome",
+			"fever",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Addicted",
+			"bambi",
+			[
+				12,
+				181,
 				0
 			]
 		]

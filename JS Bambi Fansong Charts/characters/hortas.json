@@ -93,7 +93,7 @@
 	],
 	"health_drain": false,
 	"shake_intensity": 0,
-	"healthicon": "angryHortas",
+	"healthicon": "hortas",
 	"shake_screen": false,
 	"drain_floor": 0,
 	"flip_x": false,

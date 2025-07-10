@@ -1,0 +1,341 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Colored_Apple",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				4725,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Colored_Apple",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				38250,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				47925,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				50400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				52650,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				71850,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				77400,
+				[
+					[
+						"Force Camera Target",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Force Camera Target",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				78600,
+				[
+					[
+						"Force Camera Target",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85950,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87000,
+				[
+					[
+						"Force Camera Target",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				87300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Force Camera Target",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				87900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88200,
+				[
+					[
+						"Force Camera Target",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91050,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				110325,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				119850,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				125400,
+				[
+					[
+						"Force Camera Target",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Force Camera Target",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				126600,
+				[
+					[
+						"Force Camera Target",
+						"bf",
+						""
+					]
+				]
+			]
+		]
+	}
+}

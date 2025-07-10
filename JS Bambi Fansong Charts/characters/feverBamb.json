@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				40
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		255,
+		235
+	],
+	"no_antialiasing": false,
+	"image": "characters/f3v3r",
+	"shake_duration": 0,
+	"position": [
+		80,
+		460
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "fever",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		235
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-130,
+		-110
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		235
+	],
+	"scale": 1.3
+}
