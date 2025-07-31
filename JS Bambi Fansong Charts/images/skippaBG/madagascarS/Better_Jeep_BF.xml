@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Better Jeep BF.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Truck Low Quality0000" x="12" y="12" width="1433" height="523"/>
+	<SubTexture name="Truck Low Quality0001" x="12" y="545" width="1433" height="520" frameX="0" frameY="-1" frameWidth="1433" frameHeight="523"/>
+</TextureAtlas>

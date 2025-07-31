@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Road.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Road0000" x="12" y="12" width="4293" height="1705"/>
+	<SubTexture name="Road0001" x="12" y="1727" width="4293" height="783" frameX="0" frameY="0" frameWidth="4293" frameHeight="1705"/>
+	<SubTexture name="Road0002" x="12" y="2520" width="4293" height="783" frameX="0" frameY="0" frameWidth="4293" frameHeight="1705"/>
+	<SubTexture name="Road0003" x="12" y="12" width="4293" height="1705"/>
+	<SubTexture name="Road0004" x="12" y="1727" width="4293" height="783" frameX="0" frameY="0" frameWidth="4293" frameHeight="1705"/>
+	<SubTexture name="Road0005" x="12" y="2520" width="4293" height="783" frameX="0" frameY="0" frameWidth="4293" frameHeight="1705"/>
+	<SubTexture name="Road0006" x="12" y="12" width="4293" height="1705"/>
+	<SubTexture name="Road0007" x="12" y="1727" width="4293" height="783" frameX="0" frameY="0" frameWidth="4293" frameHeight="1705"/>
+	<SubTexture name="Road0008" x="12" y="2520" width="4293" height="783" frameX="0" frameY="0" frameWidth="4293" frameHeight="1705"/>
+	<SubTexture name="Road0009" x="12" y="12" width="4293" height="1705"/>
+</TextureAtlas>

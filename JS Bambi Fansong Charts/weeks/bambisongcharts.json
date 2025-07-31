@@ -1637,6 +1637,15 @@
 				122,
 				122
 			]
+		],
+		[
+			"Anti-Tolerant",
+			"skippa",
+			[
+				255,
+				165,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,
