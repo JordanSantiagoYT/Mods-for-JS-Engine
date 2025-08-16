@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "le idle"
+		},
+		{
+			"offsets": [
+				30,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "le left"
+		},
+		{
+			"offsets": [
+				-18,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "le down"
+		},
+		{
+			"offsets": [
+				49,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "le up"
+		},
+		{
+			"offsets": [
+				-49,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "le right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-54
+			],
+			"anim": "phone",
+			"fps": 33,
+			"name": "le phone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				89
+			],
+			"anim": "throw",
+			"fps": 33,
+			"name": "le throw",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		0,
+		190,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambipissy",
+	"shake_duration": 0,
+	"position": [
+		0,
+		200
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bambipissy",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		190,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		20,
+		110
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		0,
+		190,
+		0
+	],
+	"scale": 0.9
+}

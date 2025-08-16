@@ -1,89 +1,100 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-53,
 				-466
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "a_bambi left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "a_bambi left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-134,
 				-457
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "a_bambi right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "a_bambi right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-488
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "a_bambi down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "a_bambi down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-129,
 				-421
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "a_bambi up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "a_bambi up"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-147,
 				-460
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "a_bambi idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "a_bambi idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-72,
 				-376
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "phoneSmash",
-			"loop": false,
-			"name": "a_bambi phone"
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				9,
 				-441
 			],
-			"indices": [],
-			"fps": 23,
 			"anim": "throw",
+			"fps": 23,
+			"name": "a_bambi throw",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-124,
+				-421
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
 			"loop": false,
-			"name": "a_bambi throw"
+			"name": "a_bambi scream"
 		}
 	],
+	"vocals_file": "",
 	"losing_colors": [
 		0,
 		185,
 		0
 	],
-	"isPlayer": false,
 	"no_antialiasing": false,
 	"image": "characters/Angry_Bambi",
 	"shake_duration": 0,

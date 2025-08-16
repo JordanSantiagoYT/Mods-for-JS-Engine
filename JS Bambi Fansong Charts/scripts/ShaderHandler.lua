@@ -280,6 +280,7 @@ end
 function doTweenShaderValue(tag, shader, name, value, duration, ease)
 	if not initialized then return nil end
 	ease = ease or ""
+	cancelTween(tag)
 	runHaxeCode([[
 		var shader = getVar('modchartShaders').get("]]..shader..[[");
 		if (shader.data.]]..name..[[ == null) return;

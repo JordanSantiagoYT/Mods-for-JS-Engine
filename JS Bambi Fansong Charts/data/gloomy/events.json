@@ -1,0 +1,416 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Follow Pos",
+						"200",
+						"400"
+					]
+				]
+			],
+			[
+				120,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				45960,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				48480,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				49920,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				52320,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				53760,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				56160,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				61440,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				63840,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				65280,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				67680,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				69120,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				71520,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				72960,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				75360,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				76560,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				92040,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				94560,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				99840,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102240,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				103680,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106080,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				107520,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				109920,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				111360,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				113760,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				119040,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				121440,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.49"
+					]
+				]
+			],
+			[
+				122880,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				126240,
+				[
+					[
+						"Change Scroll Speed",
+						"16",
+						"0.47"
+					]
+				]
+			],
+			[
+				126600,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				157200,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				157560,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,228 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				227
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				237
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				257
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				233
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				236
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				268
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				250
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				228
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left beat0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				238
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down beat0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				258
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up beat0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				244
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "right beat0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				192,
+				236
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "left miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				237
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "down miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				274
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				260
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "right miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		49,
+		176,
+		209
+	],
+	"no_antialiasing": false,
+	"image": "characters/fgBackBF",
+	"shake_duration": 0,
+	"position": [
+		100,
+		340
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bf",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		110,
+		-80
+	],
+	"sing_duration": 4.5,
+	"noteskin": null,
+	"winning_colors": [
+		49,
+		176,
+		209
+	],
+	"scale": 0.5
+}

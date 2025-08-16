@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Fuming",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Drip",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "i like my songs drippy bruh",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}
