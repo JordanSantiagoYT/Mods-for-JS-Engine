@@ -1,4 +1,5 @@
 function onEvent(n, value1, value2)
+	luaDebugMode = true
 	if n == 'Force Camera Target' then
 		if value1 == '0' or value1 == 'bf' or value1 == 'boyfriend' or value1 == '' then
 			cameraSetTarget('bf');

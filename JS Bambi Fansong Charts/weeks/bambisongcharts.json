@@ -1745,6 +1745,42 @@
 				20,
 				20
 			]
+		],
+		[
+			"Concatenation",
+			"expungedtrue",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Relinquishing",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Trespass Reimagined",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"SUBJECT ALPHA1",
+			"screwed",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

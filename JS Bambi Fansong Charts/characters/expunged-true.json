@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 12,
 			"anim": "idle",
-			"fps": 15,
-			"name": "Idle",
-			"indices": []
+			"loop": false,
+			"name": "Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 12,
 			"anim": "singRIGHT",
-			"fps": 18,
-			"name": "Right",
-			"indices": []
+			"loop": false,
+			"name": "Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 18,
-			"name": "Left",
-			"indices": []
+			"loop": false,
+			"name": "Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 18,
-			"name": "Down",
-			"indices": []
+			"loop": false,
+			"name": "Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 12,
 			"anim": "singUP",
-			"fps": 18,
-			"name": "Up",
-			"indices": []
+			"loop": false,
+			"name": "Up"
 		}
 	],
 	"vocals_file": "",
@@ -64,15 +64,15 @@
 	],
 	"no_antialiasing": false,
 	"image": "characters/expunged-true",
-	"shake_duration": 0,
+	"shake_duration": 0.01,
 	"position": [
-		-240,
-		-180
+		-220,
+		-70
 	],
 	"health_drain": false,
-	"shake_intensity": 0,
-	"healthicon": "expunged-true",
-	"shake_screen": false,
+	"shake_intensity": 0.01,
+	"healthicon": "expungedtrue",
+	"shake_screen": true,
 	"drain_floor": 0,
 	"flip_x": false,
 	"healthbar_colors": [
@@ -82,8 +82,8 @@
 	],
 	"drain_amount": 0,
 	"camera_position": [
-		-320,
-		-200
+		-230,
+		30
 	],
 	"sing_duration": 6.1,
 	"noteskin": null,
@@ -92,5 +92,5 @@
 		0,
 		0
 	],
-	"scale": 1.5
+	"scale": 1.1
 }

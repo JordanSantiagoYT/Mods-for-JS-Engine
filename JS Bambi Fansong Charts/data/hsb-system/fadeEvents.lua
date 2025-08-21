@@ -84,13 +84,6 @@ function onStepHit()
 end
 
 function onBeatHit()
-	if allowEffects and curBeat % beatBop == 0 then
-		setShaderValue('glow', 'glowIntensity', 0.25)
-           	doTweenShaderValue("glowOut", "glow", "glowIntensity", 0, (60 / curBpm) * beatBop, 'quadOut')
-		setShaderValue('chrom', 'aberration', 0.015)
-           	doTweenShaderValue("chromOut", "chrom", "aberration", 0, (60 / curBpm) * beatBop, 'quadOut')
-
-	end
 	if curBeat > 256 and curBeat < 507 or curBeat > 512 and curBeat < 768 or curBeat > 1024 and curBeat < 2048 then
 		if curBeat < 1536 and curBeat % 8 == 4 or curBeat > 1536 and curBeat % 2 == 0 then
 			setProperty('camTwistIntensity', 4)

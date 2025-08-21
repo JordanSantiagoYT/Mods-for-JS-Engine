@@ -9,4 +9,5 @@ function onUpdate(elapsed)
     songPos = getSongPosition()
     local currentBeat = (songPos/1780)*(bpm/60)
     doTweenY(dadTweenY, 'dad', 101-110*math.sin((currentBeat*0.25)*math.pi),0.001)
+	if not mustHitSection then cameraSetTarget('dad') end
 end
