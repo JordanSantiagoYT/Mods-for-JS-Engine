@@ -1,0 +1,206 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				7941.17647058824,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				8067.2268907563,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oppoUnhinged"
+					]
+				]
+			],
+			[
+				16008.4033613445,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				16102.9411764706,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oppoRabies"
+					]
+				]
+			],
+			[
+				20042.0168067227,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				24075.6302521008,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				24170.1680672269,
+				[
+					[
+						"Change Character",
+						"dad",
+						"OppoEnzo"
+					]
+				]
+			],
+			[
+				28109.243697479,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				28172.268907563,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oppoUnhinged"
+					]
+				]
+			],
+			[
+				32142.8571428572,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				32237.3949579832,
+				[
+					[
+						"Change Character",
+						"dad",
+						"OppoEnzo"
+					]
+				]
+			],
+			[
+				36176.4705882353,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				36239.4957983193,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oppoRabies"
+					]
+				]
+			],
+			[
+				40210.0840336134,
+				[
+					[
+						"Camera Bopping",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				40273.1092436975,
+				[
+					[
+						"Change Character",
+						"dad",
+						"OppoEnzo"
+					]
+				]
+			],
+			[
+				42226.8907563025,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				42289.9159663866,
+				[
+					[
+						"Change Character",
+						"dad",
+						"OppoRabies"
+					]
+				]
+			],
+			[
+				46323.5294117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"OppoEnzo"
+					]
+				]
+			],
+			[
+				46386.5546218487,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

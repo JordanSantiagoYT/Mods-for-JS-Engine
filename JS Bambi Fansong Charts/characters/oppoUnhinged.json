@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [210, -60],
+			"anim": "singLEFT",
+			"fps": 48,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -100],
+			"anim": "singDOWN",
+			"fps": 48,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 70],
+			"anim": "singUP",
+			"fps": 48,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-140, 0],
+			"anim": "singRIGHT",
+			"fps": 48,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/OppoUnhinged",
+	"position": [-850, -300],
+	"healthicon": "ThearExpunged",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-410, -420],
+	"sing_duration": 5.99999999999999,
+	"scale": 1.7,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,52 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		227,
+		161,
+		255
+	],
+	"no_antialiasing": true,
+	"image": "characters/AVENGED",
+	"shake_duration": 0,
+	"position": [
+		-300,
+		-290
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "avenged",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		227,
+		161,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-1620,
+		-1220
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		227,
+		161,
+		255
+	],
+	"scale": 4
+}

@@ -1781,6 +1781,69 @@
 				181,
 				0
 			]
+		],
+		[
+			"Cornfused",
+			"screwed",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Charting Nightmare",
+			"OppoNormal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Cerulean",
+			"dave",
+			[
+				12,
+				11,
+				240
+			]
+		],
+		[
+			"Postposition",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Hjoim",
+			"hjoim",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"INEVITABLE",
+			"avenged",
+			[
+				227,
+				161,
+				255
+			]
+		],
+		[
+			"Blitz",
+			"dave",
+			[
+				12,
+				11,
+				240
+			]
 		]
 	],
 	"hideFreeplay": false,

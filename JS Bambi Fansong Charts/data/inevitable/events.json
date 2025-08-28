@@ -1,0 +1,396 @@
+{
+	"song": {
+		"events": [
+			[
+				47.7707006369427,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"0"
+					],
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.01"
+					]
+				]
+			],
+			[
+				33248.4076433121,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"4"
+					],
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58041.4012738853,
+				[
+					[
+						"Trigger Scared BF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				58089.1719745223,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"2, expoOut"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59426.7515923567,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				60382.1656050955,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.75"
+					]
+				]
+			],
+			[
+				60955.4140127388,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				61098.7261146497,
+				[
+					[
+						"Change Character",
+						"dad",
+						"avenged-idle"
+					]
+				]
+			],
+			[
+				61146.4968152866,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"0.4",
+						"0.9, expoOut"
+					]
+				]
+			],
+			[
+				85580.0159235669,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-sad"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				85605.0955414013,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					],
+					[
+						"Camera Follow Pos",
+						"1000",
+						"0"
+					],
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"1, expoOut"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				112541.715259711,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				123347.986005203,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0.5"
+					]
+				]
+			],
+			[
+				124876.648425585,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				127933.97326635,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.8"
+					]
+				]
+			],
+			[
+				129844.801291827,
+				[
+					[
+						"Change Scroll Speed",
+						"32",
+						"0.6"
+					]
+				]
+			],
+			[
+				130991.298107114,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.6"
+					]
+				]
+			],
+			[
+				132519.960527496,
+				[
+					[
+						"Change Scroll Speed",
+						"16",
+						"0.6"
+					]
+				]
+			],
+			[
+				134048.622947878,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.6"
+					]
+				]
+			],
+			[
+				135577.285368261,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.6"
+					]
+				]
+			],
+			[
+				136723.782183547,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0.29"
+					]
+				]
+			],
+			[
+				137105.947788643,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"2, expoOut"
+					]
+				]
+			],
+			[
+				138394.291346925,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				139866.683984962,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				139958.708524839,
+				[
+					[
+						"Change Scroll Speed",
+						"64",
+						"0.1"
+					]
+				]
+			],
+			[
+				140050.733064716,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.4",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				163516.990733428,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				163609.015273305,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				166093.677849992,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.4",
+						"1.2, expoInOut"
+					]
+				]
+			],
+			[
+				166369.751469624,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"4"
+					],
+					[
+						"Camera Twist",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				187075.272942017,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"0.06, expoOut"
+					]
+				]
+			],
+			[
+				187151.193187416,
+				[
+					[
+						"Change Character",
+						"dad",
+						"avenged"
+					]
+				]
+			],
+			[
+				187167.297481894,
+				[
+					[
+						"Change Scroll Speed",
+						"0.6",
+						"0.2"
+					]
+				]
+			]
+		]
+	}
+}
