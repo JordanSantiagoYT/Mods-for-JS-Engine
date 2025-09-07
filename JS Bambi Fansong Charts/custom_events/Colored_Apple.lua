@@ -179,7 +179,7 @@ function onEvent(n,v1,v2)
 
       elseif n == 'Change Character' then
       		getcolor()
-		if getProperty('ov.alpha') > 0 then
+		if getProperty('ov.alpha') > 0.01 then
         		runHaxeCode([[
     				FlxTween.tween(game.dad.colorTransform, { redOffset: ]]..rgbdad[1]..[[, greenOffset: ]]..rgbdad[2]..[[, blueOffset: ]]..rgbdad[3]..[[, redMultiplier: 0, greenMultiplier: 0, blueMultiplier: 0 }, 0.01);
     			]])

@@ -1,48 +1,15 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				60,
-				-40
-			],
 			"loop": false,
-			"fps": 30,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
-		},
-		{
 			"offsets": [
-				-120,
-				-180
+				0,
+				0
 			],
-			"loop": false,
-			"fps": 30,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
-		},
-		{
-			"offsets": [
-				-40,
-				50
-			],
-			"loop": false,
-			"fps": 30,
-			"anim": "singUP",
-			"indices": [],
-			"name": "up"
-		},
-		{
-			"offsets": [
-				-360,
-				-140
-			],
-			"loop": false,
-			"fps": 30,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"anim": "idle",
+			"fps": 14,
+			"name": "idle",
+			"indices": []
 		},
 		{
 			"loop": false,
@@ -50,47 +17,80 @@
 				0,
 				0
 			],
-			"anim": "idle",
-			"fps": 30,
-			"name": "idle",
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "right",
 			"indices": []
 		}
 	],
+	"vocals_file": "",
 	"losing_colors": [
 		255,
 		255,
 		255
 	],
-	"isPlayer": false,
-	"no_antialiasing": false,
-	"image": "characters/Opposition_Expunged_3.0",
-	"shake_duration": 0.1,
+	"no_antialiasing": true,
+	"image": "characters/Opposition_Expunged",
+	"shake_duration": 0.15,
 	"position": [
-		-850,
+		-840,
 		-300
 	],
 	"health_drain": true,
 	"shake_intensity": 0.005,
 	"healthicon": "OppoNormal",
 	"shake_screen": true,
-	"drain_floor": 0.3,
+	"drain_floor": 0.1,
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
 		255,
 		255
 	],
-	"drain_amount": 0.015,
+	"drain_amount": 0.005,
 	"camera_position": [
-		-410,
-		-420
+		-430,
+		-590
 	],
-	"sing_duration": 5.99999999999999,
-	"noteskin": "",
+	"sing_duration": 18,
+	"noteskin": null,
 	"winning_colors": [
 		255,
 		255,
 		255
 	],
-	"scale": 1.7
+	"scale": 1.6
 }

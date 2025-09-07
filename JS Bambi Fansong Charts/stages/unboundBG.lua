@@ -1,7 +1,7 @@
 function onCreate()
 	initLuaShader("teogBG3")
 
-	makeLuaSprite('bg', 'teogBG/SmallNoise', -1600, -900);
+	makeLuaSprite('bg', 'teogBG/SmallNoise', -1750, -960);
 	setLuaSpriteScrollFactor('bg', 0, 0);
 	scaleObject('bg', 75, 42.3)
 	setProperty('bg.alpha', 1)

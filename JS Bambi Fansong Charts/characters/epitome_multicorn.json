@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "epitome_multicorn idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "epitome_multicorn left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "epitome_multicorn down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				140
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "epitome_multicorn up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "epitome_multicorn right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/epitome_multicorn",
+	"position": [
+		-310,
+		-110
+	],
+	"healthicon": "multicorn guy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		41,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,16 +1,14 @@
-function onCreate()
+
+
+function onCreatePost()
 	-- background shit
-	makeLuaSprite('back', 'oppo/OppositonLol', -1000, -300);
-	setScrollFactor('back', 0.5, 0.5);
-	scaleObject('back', 1.3, 1.3)
+	makeLuaSprite('back', 'oppo/OppositonLol', -900, -600);
+	setScrollFactor('back', 0, 0);
+	scaleObject('back', 2, 2)
+	addLuaSprite('back', false);
 	addGlitchEffect('back', 2,5,0.1)
-	
-	makeLuaSprite('front', 'oppo/ThanosGround', 650, 600);
-	setScrollFactor('front', 0.9, 0.9);
-	scaleObject('front', 0.9, 0.9);
 
-	addLuaSprite('back', false)
-	addLuaSprite('front', false)
-
-	close(true);
+	makeLuaSprite('front','oppo/ThanosGround',550,550)
+	addLuaSprite('front',false)
+	setScrollFactor('front', 1,1)
 end

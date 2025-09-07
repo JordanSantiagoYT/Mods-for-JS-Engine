@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Taimuresu_1.png">
+<SubTexture name="idle0000" x="0" y="0" width="737" height="694" frameX="-456" frameY="-373" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0001" x="737" y="0" width="733" height="683" frameX="-492" frameY="-387" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0002" x="1470" y="0" width="733" height="682" frameX="-492" frameY="-388" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0003" x="2203" y="0" width="742" height="698" frameX="-461" frameY="-366" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0004" x="0" y="698" width="741" height="699" frameX="-452" frameY="-364" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0005" x="741" y="698" width="737" height="699" frameX="-454" frameY="-364" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0006" x="1478" y="698" width="733" height="699" frameX="-456" frameY="-364" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0007" x="1478" y="698" width="733" height="699" frameX="-456" frameY="-364" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="idle0008" x="1478" y="698" width="733" height="699" frameX="-456" frameY="-364" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="left0000" x="2211" y="698" width="760" height="754" frameX="-265" frameY="-370" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="left0001" x="0" y="1452" width="737" height="732" frameX="-289" frameY="-374" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="left0002" x="0" y="1452" width="737" height="732" frameX="-289" frameY="-374" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="left0003" x="737" y="1452" width="738" height="727" frameX="-310" frameY="-373" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="left0004" x="1475" y="1452" width="737" height="703" frameX="-435" frameY="-365" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="down0000" x="2212" y="1452" width="827" height="444" frameX="-595" frameY="-697" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="down0001" x="0" y="2184" width="822" height="398" frameX="-583" frameY="-712" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="down0002" x="0" y="2184" width="822" height="398" frameX="-583" frameY="-712" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="down0003" x="822" y="2184" width="802" height="389" frameX="-567" frameY="-669" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="down0004" x="1624" y="2184" width="790" height="659" frameX="-488" frameY="-409" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="up0000" x="2414" y="2184" width="742" height="813" frameX="-415" frameY="-263" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="up0001" x="0" y="2997" width="748" height="783" frameX="-413" frameY="-284" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="up0002" x="0" y="2997" width="748" height="783" frameX="-413" frameY="-284" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="up0003" x="748" y="2997" width="743" height="771" frameX="-419" frameY="-299" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="up0004" x="1491" y="2997" width="733" height="753" frameX="-428" frameY="-318" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="right0000" x="2224" y="2997" width="943" height="604" frameX="-498" frameY="-454" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="right0001" x="0" y="3780" width="927" height="602" frameX="-505" frameY="-451" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="right0002" x="0" y="3780" width="927" height="602" frameX="-505" frameY="-451" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="right0003" x="927" y="3780" width="899" height="593" frameX="-520" frameY="-463" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="right0004" x="1826" y="3780" width="727" height="671" frameX="-504" frameY="-375" frameWidth="1600" frameHeight="1600" />
+</TextureAtlas>
