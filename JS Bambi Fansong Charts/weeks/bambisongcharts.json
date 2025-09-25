@@ -1925,6 +1925,69 @@
 				194,
 				255
 			]
+		],
+		[
+			"Bonus Song",
+			"dave",
+			[
+				12,
+				11,
+				240
+			]
+		],
+		[
+			"Sillyspasm",
+			"melody",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Badcorn but Good",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Thearchy Overkill",
+			"ThearExpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Shucks",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Blindside",
+			"nothing",
+			[
+				249,
+				71,
+				255
+			]
+		],
+		[
+			"Trojan",
+			"invaliddatanew",
+			[
+				0,
+				0,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

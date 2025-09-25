@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 8,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-30
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				10
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 8,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-2
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 8,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Melody-Sillyspasm",
+	"position": [
+		90,
+		420
+	],
+	"healthicon": "melody",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-250,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

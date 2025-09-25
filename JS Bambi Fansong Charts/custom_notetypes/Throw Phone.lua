@@ -10,9 +10,9 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 	characterPlayAnim('dad', 'phoneThrow', true);
 	setProperty('dad.holdTimer', 0)
 	setProperty('dad.specialAnim', true)
-	characterPlayAnim('bf', 'dodge', true);
-	setProperty('bf.holdTimer', 0)
-	setProperty('bf.specialAnim', true)
+	characterPlayAnim('boyfriend', 'dodge', true);
+	setProperty('boyfriend.holdTimer', 0)
+	setProperty('boyfriend.specialAnim', true)
 	characterPlayAnim('gf', 'cheer', true);
 	setProperty('gf.holdTimer', 0)
 	setProperty('gf.specialAnim', true)
@@ -24,9 +24,9 @@ function noteMiss(id, noteData, noteType, isSustainNote)
 	characterPlayAnim('dad', 'phoneThrow', true);
 	setProperty('dad.holdTimer', 0)
 	setProperty('dad.specialAnim', true)
-	characterPlayAnim('bf', 'hurt', true);
-	setProperty('bf.holdTimer', 0)
-	setProperty('bf.specialAnim', true)
+	characterPlayAnim('boyfriend', 'hurt', true);
+	setProperty('boyfriend.holdTimer', 0)
+	setProperty('boyfriend.specialAnim', true)
 	setPropertyFromGroup('strumLineNotes', noteData + 4, 'alpha', 0); --bye strum!
 	noteTweenAlpha('noteBack', noteData + 4, 1, 7, 'expoIn')
     end

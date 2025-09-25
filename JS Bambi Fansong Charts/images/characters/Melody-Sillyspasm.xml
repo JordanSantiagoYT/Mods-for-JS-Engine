@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Melody-Sillyspasm.png">
+<SubTexture name="idle0000" x="0" y="0" width="160" height="212" frameX="-62" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="idle0001" x="160" y="0" width="162" height="212" frameX="-62" frameY="-29" frameWidth="256" frameHeight="256" />
+<SubTexture name="left0000" x="322" y="0" width="179" height="221" frameX="0" frameY="-9" frameWidth="256" frameHeight="256" />
+<SubTexture name="left0001" x="0" y="221" width="174" height="220" frameX="-30" frameY="-22" frameWidth="256" frameHeight="256" />
+<SubTexture name="down0000" x="174" y="221" width="150" height="201" frameX="-90" frameY="-60" frameWidth="256" frameHeight="256" />
+<SubTexture name="down0001" x="324" y="221" width="155" height="197" frameX="-82" frameY="-59" frameWidth="256" frameHeight="256" />
+<SubTexture name="up0000" x="0" y="441" width="159" height="224" frameX="-23" frameY="-2" frameWidth="256" frameHeight="256" />
+<SubTexture name="up0001" x="159" y="441" width="157" height="222" frameX="-37" frameY="-20" frameWidth="256" frameHeight="256" />
+<SubTexture name="right0000" x="316" y="441" width="176" height="212" frameX="-98" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="right0001" x="0" y="665" width="166" height="212" frameX="-83" frameY="-28" frameWidth="256" frameHeight="256" />
+</TextureAtlas>
