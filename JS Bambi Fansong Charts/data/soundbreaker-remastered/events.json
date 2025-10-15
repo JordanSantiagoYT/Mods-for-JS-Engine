@@ -1,0 +1,1171 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				11411.4114114114,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15255.2552552553,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				34054.0540540541,
+				[
+					[
+						"Change Note Multiplier",
+						"12",
+						"1"
+					]
+				]
+			],
+			[
+				34594.5945945946,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				37897.8978978979,
+				[
+					[
+						"Change Note Multiplier",
+						"12",
+						"2"
+					]
+				]
+			],
+			[
+				38438.4384384385,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				39159.1591591592,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				39399.3993993994,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				39839.8398398399,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				40360.3603603604,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41021.021021021,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				41321.3213213213,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41741.7417417418,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				42282.2822822823,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				43003.003003003,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				43243.2432432433,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				43683.6836836837,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				44204.2042042042,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				44864.8648648649,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				45165.1651651652,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				45585.5855855856,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				46006.006006006,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				46126.1261261261,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				46786.7867867868,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				47087.0870870871,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				47507.5075075075,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				48028.028028028,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				50630.6306306307,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				50930.930930931,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				51351.3513513514,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				51871.8718718719,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				53753.7537537538,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				54774.7747747748,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				55465.4654654655,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				55735.7357357358,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				56426.4264264264,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						"1"
+					]
+				]
+			],
+			[
+				57417.4174174174,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				57657.6576576577,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				58618.6186186186,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				59309.3093093093,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				59579.5795795796,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60270.2702702703,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						"2"
+					]
+				]
+			],
+			[
+				60960.960960961,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.54"
+					]
+				]
+			],
+			[
+				61021.021021021,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				61261.2612612613,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				61501.5015015015,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Change Note Multiplier",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				69169.1691691692,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				69179.1791791792,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				76856.8568568569,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				76866.8668668669,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				84544.5445445446,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				84554.5545545546,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				92132.1321321322,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				92232.2322322323,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				92252.2522522523,
+				[
+					[
+						"Colored_Apple",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.3"
+					]
+				]
+			],
+			[
+				107507.507507508,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Camera Twist",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				107567.567567568,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				107627.627627628,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Colored_Apple",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				108048.048048048,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				108588.588588589,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				109009.009009009,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				109549.54954955,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				110210.21021021,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				110490.490490491,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				111171.171171171,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						"1"
+					]
+				]
+			],
+			[
+				111471.471471472,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				111891.891891892,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						"2"
+					]
+				]
+			],
+			[
+				112432.432432432,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				112852.852852853,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						"2"
+					]
+				]
+			],
+			[
+				113393.393393393,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				114054.054054054,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						"2"
+					]
+				]
+			],
+			[
+				114334.334334334,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115045.045045045,
+				[
+					[
+						"Change Note Multiplier",
+						"24",
+						"2"
+					]
+				]
+			],
+			[
+				115315.315315315,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				116216.216216216,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				117237.237237237,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				118138.138138138,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				119159.159159159,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				120060.06006006,
+				[
+					[
+						"Change Note Multiplier",
+						"16",
+						"2"
+					]
+				]
+			],
+			[
+				121081.081081081,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				121981.981981982,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				123003.003003003,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				123663.663663664,
+				[
+					[
+						"Change Note Multiplier",
+						"48",
+						"1"
+					]
+				]
+			],
+			[
+				123963.963963964,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				124414.414414414,
+				[
+					[
+						"Change Note Multiplier",
+						"64",
+						"1"
+					]
+				]
+			],
+			[
+				124924.924924925,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				126306.306306306,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"1"
+					]
+				]
+			],
+			[
+				126846.846846847,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				127507.507507508,
+				[
+					[
+						"Change Note Multiplier",
+						"48",
+						"2"
+					]
+				]
+			],
+			[
+				127807.807807808,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				128258.258258258,
+				[
+					[
+						"Change Note Multiplier",
+						"64",
+						"2"
+					]
+				]
+			],
+			[
+				128768.768768769,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				130150.15015015,
+				[
+					[
+						"Change Note Multiplier",
+						"32",
+						"2"
+					]
+				]
+			],
+			[
+				130690.690690691,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				131411.411411411,
+				[
+					[
+						"Change Note Multiplier",
+						"96",
+						"1"
+					]
+				]
+			],
+			[
+				131651.651651652,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				132102.102102102,
+				[
+					[
+						"Change Note Multiplier",
+						"128",
+						"1"
+					]
+				]
+			],
+			[
+				132612.612612613,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				133273.273273273,
+				[
+					[
+						"Change Note Multiplier",
+						"72",
+						"1"
+					]
+				]
+			],
+			[
+				133573.573573574,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				133993.993993994,
+				[
+					[
+						"Change Note Multiplier",
+						"64",
+						"1"
+					]
+				]
+			],
+			[
+				134534.534534535,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				135255.255255255,
+				[
+					[
+						"Change Note Multiplier",
+						"96",
+						"2"
+					]
+				]
+			],
+			[
+				135495.495495496,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				135945.945945946,
+				[
+					[
+						"Change Note Multiplier",
+						"128",
+						"2"
+					]
+				]
+			],
+			[
+				136456.456456457,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				137117.117117117,
+				[
+					[
+						"Change Note Multiplier",
+						"72",
+						"2"
+					]
+				]
+			],
+			[
+				137417.417417417,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				137837.837837838,
+				[
+					[
+						"Change Note Multiplier",
+						"64",
+						"2"
+					]
+				]
+			],
+			[
+				138318.318318318,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				138378.378378378,
+				[
+					[
+						"Change Note Multiplier",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				138378.378378378,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

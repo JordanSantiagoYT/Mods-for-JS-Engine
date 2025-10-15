@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-12,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "peakbi down"
+		},
+		{
+			"offsets": [
+				-75,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "peakbi right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "peakbi idle"
+		},
+		{
+			"offsets": [
+				-4,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "peakbi up"
+		},
+		{
+			"offsets": [
+				48,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "peakbi left"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		37,
+		191,
+		55
+	],
+	"no_antialiasing": false,
+	"image": "characters/peakbi",
+	"shake_duration": 0,
+	"position": [
+		-160,
+		300
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "peakbi",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		191,
+		55
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-60,
+		10
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		37,
+		191,
+		55
+	],
+	"scale": 1
+}

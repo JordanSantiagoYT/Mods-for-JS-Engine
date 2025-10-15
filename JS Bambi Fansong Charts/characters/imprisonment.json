@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				800
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "imprisonmentidle"
+		},
+		{
+			"offsets": [
+				202,
+				800
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "imprisonmentleft"
+		},
+		{
+			"offsets": [
+				0,
+				730
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "imprisonmentdown"
+		},
+		{
+			"offsets": [
+				0,
+				945
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "imprisonmentup"
+		},
+		{
+			"offsets": [
+				-191,
+				798
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "imprisonmentright"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/imprisonmentsprites",
+	"position": [
+		-680,
+		0
+	],
+	"healthicon": "imprisonment",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-40,
+		-830
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,246 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"2"
+					]
+				]
+			],
+			[
+				13800,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.24"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18600,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.24"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				46725,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				47325,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				47925,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				67125,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"1.4, expoOut"
+					]
+				]
+			],
+			[
+				68325,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				68400,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"1.4, expoOut"
+					]
+				]
+			],
+			[
+				76725,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.24"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				85800,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0.24"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115125,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				125400,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				125925,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				134325,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

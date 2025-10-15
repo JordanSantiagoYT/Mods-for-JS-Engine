@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Camera Twist",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				30236.2204724409,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dave"
+					],
+					[
+						"Change Character",
+						"gf",
+						"bambi"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				60236.2204724409,
+				[
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				60472.4409448819,
+				[
+					[
+						"Change Character",
+						"dad",
+						"peakve"
+					],
+					[
+						"Change Character",
+						"gf",
+						"peakbi"
+					],
+					[
+						"Change Character",
+						"bf",
+						"peakfriend"
+					]
+				]
+			],
+			[
+				126998.859943582,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peakbi.png">
+<SubTexture name="peakbi idle0000" x="0" y="0" width="346" height="324" frameX="-232" frameY="-116" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi idle0001" x="346" y="0" width="346" height="349" frameX="-232" frameY="-91" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi idle0002" x="692" y="0" width="346" height="369" frameX="-232" frameY="-70" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi idle0003" x="1038" y="0" width="346" height="388" frameX="-232" frameY="-51" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi idle0004" x="0" y="388" width="346" height="403" frameX="-232" frameY="-36" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi idle0005" x="346" y="388" width="346" height="413" frameX="-232" frameY="-26" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi left0000" x="692" y="388" width="350" height="420" frameX="-110" frameY="-20" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi left0001" x="1042" y="388" width="326" height="408" frameX="-146" frameY="-26" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi left0002" x="0" y="808" width="301" height="394" frameX="-182" frameY="-33" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi left0003" x="301" y="808" width="276" height="378" frameX="-218" frameY="-41" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi down0000" x="577" y="808" width="298" height="235" frameX="-256" frameY="-200" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi down0001" x="875" y="808" width="298" height="255" frameX="-256" frameY="-180" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi down0002" x="0" y="1202" width="298" height="276" frameX="-256" frameY="-159" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi down0003" x="298" y="1202" width="298" height="296" frameX="-256" frameY="-139" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi up0000" x="596" y="1202" width="420" height="302" frameX="-195" frameY="-11" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi up0001" x="1016" y="1202" width="420" height="281" frameX="-195" frameY="-33" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi up0002" x="0" y="1504" width="420" height="261" frameX="-195" frameY="-55" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi right0000" x="420" y="1504" width="504" height="344" frameX="-290" frameY="-58" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi right0001" x="924" y="1504" width="496" height="328" frameX="-286" frameY="-66" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi right0002" x="1420" y="1504" width="490" height="313" frameX="-280" frameY="-74" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakbi right0003" x="0" y="1848" width="480" height="298" frameX="-276" frameY="-81" frameWidth="800" frameHeight="450" />
+</TextureAtlas>

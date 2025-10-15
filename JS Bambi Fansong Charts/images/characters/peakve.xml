@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peakve.png">
+<SubTexture name="peakve idle0000" x="0" y="0" width="250" height="307" frameX="-280" frameY="-148" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve idle0001" x="250" y="0" width="250" height="332" frameX="-280" frameY="-122" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve idle0002" x="500" y="0" width="250" height="354" frameX="-280" frameY="-100" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve idle0003" x="750" y="0" width="250" height="372" frameX="-280" frameY="-81" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve idle0004" x="0" y="372" width="250" height="388" frameX="-280" frameY="-65" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve idle0005" x="250" y="372" width="250" height="399" frameX="-280" frameY="-54" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve left0000" x="500" y="372" width="315" height="398" frameX="-174" frameY="-38" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve left0001" x="815" y="372" width="298" height="401" frameX="-195" frameY="-36" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve left0002" x="0" y="773" width="280" height="402" frameX="-218" frameY="-35" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve down0000" x="280" y="773" width="309" height="260" frameX="-251" frameY="-174" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve down0001" x="589" y="773" width="309" height="276" frameX="-251" frameY="-158" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve down0002" x="898" y="773" width="309" height="293" frameX="-251" frameY="-142" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve up0000" x="0" y="1175" width="215" height="329" frameX="-294" frameY="-14" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve up0001" x="215" y="1175" width="214" height="315" frameX="-294" frameY="-29" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve up0002" x="429" y="1175" width="214" height="301" frameX="-294" frameY="-44" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve right0000" x="643" y="1175" width="398" height="396" frameX="-302" frameY="-32" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve right0001" x="0" y="1571" width="382" height="382" frameX="-300" frameY="-39" frameWidth="800" frameHeight="450" />
+<SubTexture name="peakve right0002" x="382" y="1571" width="366" height="364" frameX="-298" frameY="-48" frameWidth="800" frameHeight="450" />
+</TextureAtlas>
