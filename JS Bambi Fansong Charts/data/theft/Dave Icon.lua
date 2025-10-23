@@ -63,6 +63,10 @@ function onUpdatePost()
 	end
 end
 
+function getIconColor(chr)
+	return getColorFromHex(rgbToHex(getProperty(chr .. ".healthColorArray")))
+end
+
 function rgbToHex(array)
 	return string.format('%.2x%.2x%.2x', array[1], array[2], array[3])
 end
