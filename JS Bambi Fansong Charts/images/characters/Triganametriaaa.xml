@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Triganametriaaa.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down10000" x="0" y="1060" width="336" height="270" frameX="-99" frameY="-209" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="down20000" x="668" y="749" width="329" height="290" frameX="-101" frameY="-199" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle10000" x="0" y="382" width="394" height="367" frameX="-37" frameY="-83" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle20000" x="383" y="0" width="386" height="377" frameX="-39" frameY="-75" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="idle30000" x="0" y="0" width="383" height="382" frameX="-40" frameY="-73" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="left10000" x="769" y="0" width="349" height="300" frameX="-147" frameY="-99" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="left20000" x="769" y="300" width="346" height="300" frameX="-137" frameY="-96" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="right10000" x="0" y="749" width="332" height="311" frameX="-30" frameY="-111" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="right20000" x="1118" y="0" width="309" height="321" frameX="-48" frameY="-111" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="up10000" x="394" y="382" width="334" height="336" frameX="-71" frameY="-30" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="up20000" x="332" y="749" width="336" height="305" frameX="-80" frameY="-63" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>
