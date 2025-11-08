@@ -15,9 +15,6 @@ function onCreatePost()
 	setObjectCamera('Credits', 'camOther')
 	setTextBorder('Credits', 3, '000000')
 	setProperty('ytWatermark.alpha', 0)
-	setProperty('p2Bar.visible', false)
-	setProperty('daveIcon.visible', false)
-	setProperty('dave.visible', false)
 end
 
 function onSongStart()
