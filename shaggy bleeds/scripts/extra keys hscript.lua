@@ -110,6 +110,7 @@ local PSYCHDOWN = -11
 local PSYCHUP = -12;
 local PSYCHRIGHT = -13;
 
+keyCount = 18 --Default key count (used if no "Set Key Count" event is found)
 
 
 local arrowDirs = {'LEFT', 'DOWN', 'UP', 'RIGHT', 'SPACE', 'SHARPLEFT', 'SHARPDOWN', 'SHARPUP', 'SHARPRIGHT'}
@@ -140,7 +141,7 @@ local maniaData = {
     {0.3, 39, -100, {1,2,3,4,6,8,9,5,6,7,9,1,2,3,4}, {1,2,3,4,11,13,14,5,15,12,18,7,8,9,10}, {Q,W,E,R,X,C,V,SPACE,B,N,M,U,I,O,P}},--15k
     {0.28, 37, -100, {6,7,8,9,1,2,3,4,1,2,3,4,6,7,8,9}, {11,12,13,14,1,2,3,4,7,8,9,10,15,16,17,18}, {Q,W,E,R,A,S,D,F,H,J,K,L,Y,U,I,O}},--16k
     {0.26, 35, -100, {6,7,8,9,1,2,3,4,5,1,2,3,4,6,7,8,9}, {11,12,13,14,1,2,3,4,5,7,8,9,10,15,16,17,18}, {Q,W,E,R,A,S,D,F,SPACE,H,J,K,L,Y,U,I,O}},--17k
-    {0.24, 33, -100, {6,7,8,9,1,2,3,4,5,5,1,2,3,4,6,7,8,9}, {11,12,13,14,1,2,3,4,5,6,7,8,9,10,15,16,17,18}, {Q,W,E,R,A,S,D,F,V,N,H,J,K,L,Y,U,I,O}} --18k
+    {0.24, 33, -100, {6,7,8,9,1,2,3,4,5,5,1,2,3,4,6,7,8,9}, {11,12,13,14,1,2,3,4,5,6,7,8,9,10,15,16,17,18}, {Q,W,E,R,A,S,D,F,V,N,H,J,K,L,U,I,O,P}} --18k
 }
 
 --for indexing maniaData
@@ -173,16 +174,13 @@ function generateStaticArrows(player)
             var xPos = PlayState.STRUM_X;
             if (ClientPrefs.middleScroll)
                 xPos = PlayState.STRUM_X_MIDDLESCROLL;
-            
 
-			var babyArrow = new StrumNote(xPos, game.strumLine.y, ]]..i..[[, player);
+			var babyArrow = new StrumNote(xPos, (ClientPrefs.downScroll) ? FlxG.height - 150 : 50, ]]..i..[[, player);
 			babyArrow.downScroll = ClientPrefs.downScroll;
 			if (!PlayState.isStoryMode && !game.skipArrowStartTween)
 			{
 				babyArrow.alpha = 0;
 				FlxTween.tween(babyArrow, {alpha: targetAlpha}, 1, {ease: FlxEase.circOut, startDelay: 0.5 + (0.2 * (]]..i..[[/]]..keyCount..[[)*4 )});
-
-                //babyArrow.alpha = targetAlpha;
 			}
 			else
 			{
@@ -230,8 +228,6 @@ function generateStaticArrows(player)
             babyArrow.height = Math.abs(0.7) * babyArrow.frameHeight;
             babyArrow.offset.set(-0.5 * (babyArrow.width - babyArrow.frameWidth), -0.5 * (babyArrow.height - babyArrow.frameHeight));
             babyArrow.centerOrigin();
-
-            
         ]])
     end
 end
@@ -264,10 +260,10 @@ end
 --lua arrays use {}, haxe arrays use [], converts them to be used with hscript
 function turnArrayIntoString(arr)
     local str = '['
-    for i = 0,#arr-1 do 
-        str = str..arr[i+1]
-        if i ~= #arr-1 then 
-            str = str..','
+    for i, v in ipairs(arr) do 
+        str = str.."'" .. v .. "'"  -- Add quotes for strings
+        if i < #arr then
+            str = str .. ", "  -- Add commas between elements
         end
     end
     str = str..']'
@@ -286,12 +282,9 @@ function onCreatePost()
     addHaxeLibrary('StrumNote')
     addHaxeLibrary('Std')
     addHaxeLibrary('FlxMath', 'flixel.math')
-addHaxeLibrary('CallStack', 'haxe')
 
     reparseChart()
     updateNotes()
-
-    
 end
 
 function reparseChart()
@@ -330,19 +323,23 @@ function reparseChart()
         var maniaChangesString = "]]..maniaChanges..[[";
         var maniaChanges = maniaChangesString.split(':');
         var maniaChangeMap = [];
-        for (i in 0...maniaChanges.length)
-        {
-            maniaChangeMap.push(maniaChanges[i].split(','));
-        }
+        for (i in maniaChanges) {
+    		maniaChangeMap.push(i.split(','));
+	}
 
+        var stepCrochet:Float = 0.0;
+		var currentBPMLol:Float = Conductor.bpm;
+		var currentMultiplier:Float = 1;
+		var gottaHitNote:Bool = false;
+		var swagNote:PreloadedChartNote;
 
-        try {
-	for (section in PlayState.SONG.notes) //reload dat shit
+        for (section in PlayState.SONG.notes) //reload dat shit
 		{
+            if (section.changeBPM) currentBPMLol = section.bpm;
 			for (songNotes in section.sectionNotes)
 			{
 				var daStrumTime = songNotes[0];
-                if (daStrumTime >= Conductor.songPosition) 
+                if (daStrumTime >= Conductor.songPosition) //only load notes after current song pos (not needed i just had this set up for something else before, shouldnt break anything)
                 {
                     
                     for (mchange in maniaChangeMap)
@@ -355,158 +352,117 @@ function reparseChart()
                     var actualNoteData = Std.int(songNotes[1] % keyCount);
                     var daNoteData = Std.int(songNotes[1] % startingKeyCount);
 
-                    var gottaHitNote = section.mustHitSection;
+                    gottaHitNote = ((songNotes[1] < keyCount && !game.opponentChart)
+						|| (songNotes[1] > keyCount-1 && game.opponentChart) ? section.mustHitSection : !section.mustHitSection);
     
-                    if (songNotes[1] > keyCount-1)
-                    {
-                        gottaHitNote = !section.mustHitSection;
-                    }
-    
-                    var oldNote = game.unspawnNotes.length > 0 ? game.unspawnNotes[Std.int(game.unspawnNotes.length - 1)] : null; 
-    
-                    var swagNote = new Note(daStrumTime, daNoteData, oldNote);
-                    swagNote.mustPress = gottaHitNote;
-                    swagNote.sustainLength = songNotes[2];
-                    if (section.gfSection && songNotes[1]<keyCount)
-                        swagNote.gfNote = true;
+                    //I didnt want to do all of this but hscript doesnt support casting :sob:
+                    swagNote = {};
+                    swagNote.strumTime = daStrumTime;
+                    swagNote.noteData = daNoteData;
+                    swagNote.mustPress = game.bothSides || gottaHitNote;
+                    swagNote.oppNote = (game.opponentChart ? gottaHitNote : !gottaHitNote);
                     swagNote.noteType = songNotes[3];
+                    swagNote.animSuffix = (songNotes[3] == 'Alt Animation' || section.altAnim ? '-alt' : '');
+                    swagNote.noteskin = (gottaHitNote ? game.bfNoteskin : game.dadNoteskin);
+                    swagNote.gfNote = songNotes[3] == 'GF Sing' || (section.gfSection && songNotes[1] < 4);
+                    swagNote.noAnimation = songNotes[3] == 'No Animation';
+                    swagNote.noMissAnimation = songNotes[3] == 'No Animation';
+                    swagNote.sustainLength = songNotes[2];
+                    swagNote.hitHealth = 0.023;
+                    swagNote.missHealth = songNotes[3] != 'Hurt Note' ? 0.0475 : 0.3;
+                    swagNote.wasHit = false;
+                    swagNote.hitCausesMiss = songNotes[3] == 'Hurt Note';
+                    swagNote.multSpeed = 1;
+                    swagNote.noteDensity = currentMultiplier;
+                    swagNote.ignoreNote = songNotes[3] == 'Hurt Note' && gottaHitNote;
 
-                    swagNote.eventLength = actualNoteData; //stealing these variables lol
-                    swagNote.eventName = ''+keyCount;
-                    swagNote.eventVal1 = ''+daNoteData;
-    
-                    swagNote.scrollFactor.set();
-    
-                    var susLength = swagNote.sustainLength;
-    
-                    susLength = susLength / Conductor.stepCrochet;
+					if (swagNote.noteskin != '' && !Paths.noteSkinFramesMap.exists(swagNote.noteskin)) Paths.initNote(swagNote.noteskin);
+
                     game.unspawnNotes.push(swagNote);
     
-                    var floorSus = Math.floor(susLength);
-                    if(floorSus > 0) {
-                        for (susNote in 0...floorSus+1)
-                        {
-                            oldNote = game.unspawnNotes[Std.int(game.unspawnNotes.length - 1)];
-    
-                            var sustainNote = new Note(daStrumTime + (Conductor.stepCrochet * susNote) + (Conductor.stepCrochet / FlxMath.roundDecimal(game.songSpeed, 2)), daNoteData, oldNote, true);
-                            sustainNote.mustPress = gottaHitNote;
-                            if (section.gfSection && songNotes[1]<keyCount)
-                                sustainNote.gfNote = true;
+                    if (swagNote.sustainLength < 1) continue;
 
-                            sustainNote.noteType = swagNote.noteType;
-                            sustainNote.scrollFactor.set();
-                            sustainNote.eventLength = actualNoteData; //stealing this variables lol
-                            sustainNote.eventName = ''+keyCount;
-                            sustainNote.eventVal1 = ''+daNoteData;
-                            //swagNote.tail.push(sustainNote);
-                            //sustainNote.parent = swagNote;
-                            game.unspawnNotes.push(sustainNote);
-    
-                        }
-                    }
-                }
+					stepCrochet = 15000 / currentBPMLol;
+		
+					var roundSus:Int = Math.round(swagNote.sustainLength / stepCrochet);
+					var susNote = 0;
+					while (susNote <= roundSus) {
+                            //also didnt want to do all of this but hscript doesnt support casting :sob: also had to use a while loop because for loops fucking die here
+							var sustainNote:PreloadedChartNote = {};
+                            sustainNote.strumTime = daStrumTime + (stepCrochet * susNote);
+                            sustainNote.noteData = daNoteData;
+                            sustainNote.mustPress = game.bothSides || gottaHitNote;
+                            sustainNote.oppNote = (game.opponentChart ? gottaHitNote : !gottaHitNote);
+                            sustainNote.noteType = songNotes[3];
+                            sustainNote.animSuffix = (songNotes[3] == 'Alt Animation' || section.altAnim ? '-alt' : '');
+                            sustainNote.noteskin = (gottaHitNote ? game.bfNoteskin : game.dadNoteskin);
+                            sustainNote.gfNote = songNotes[3] == 'GF Sing' || (section.gfSection && songNotes[1] < 4);
+                            sustainNote.noAnimation = songNotes[3] == 'No Animation';
+                            sustainNote.isSustainNote = true;
+                            sustainNote.isSustainEnd = susNote == roundSus;
+                            sustainNote.parentST = swagNote.strumTime;
+                            sustainNote.parentSL = swagNote.sustainLength;
+                            sustainNote.hitHealth = 0.023;
+                            sustainNote.missHealth = songNotes[3] != 'Hurt Note' ? 0.0475 : 0.1;
+                            sustainNote.wasHit = false;
+                            sustainNote.multSpeed = 1;
+                            sustainNote.noteDensity = currentMultiplier;
+                            sustainNote.hitCausesMiss = songNotes[3] == 'Hurt Note';
+                            sustainNote.ignoreNote = songNotes[3] == 'Hurt Note' && swagNote.mustPress;
+					game.unspawnNotes.push(sustainNote);
+					susNote++;
+					}
+				}
 			}
 		}
-} catch (e:Dynamic) {
-    trace("Error in reparseChart: " + e);
-}
+        game.bfNoteskin = game.boyfriend.noteskin;
+		game.dadNoteskin = game.dad.noteskin;
 
-		game.unspawnNotes.sort(game.sortByShit);
+		game.unspawnNotes.sort(game.sortByTime);
     ]])
 end
 
 function updateNotes()
-    --need to change note scales and animations
+    --grab change mania event
     local noteCount = getProperty('unspawnNotes.length')
     local eventsLength = getProperty('eventNotes.length')
-        
-    for i = 0,noteCount-1 do 
-        local noteData = getPropertyFromGroup('unspawnNotes', i, 'eventLength') --stealing this variable for actual note data!!! (for mania changes lol)
-                                                                                --because if notedata is higher than strumgroup length then the game crashes
-        local currentKeyCount = keyCount
-        for j = 0,eventsLength-1 do 
-            if getPropertyFromGroup('eventNotes', j, 'event') == 'Change Mania' then 
-                if getPropertyFromGroup('unspawnNotes', i, 'strumTime') >= getPropertyFromGroup('eventNotes', j, 'strumTime') then 
-                currentKeyCount = tonumber(getPropertyFromGroup('eventNotes', j, 'value1'))
-                end
+    local currentKeyCount = keyCount
+    
+    for j = 0,eventsLength-1 do 
+        if getPropertyFromGroup('eventNotes', j, 'event') == 'Change Mania' then 
+            if getPropertyFromGroup('unspawnNotes', i, 'strumTime') >= getPropertyFromGroup('eventNotes', j, 'strumTime') then 
+            currentKeyCount = tonumber(getPropertyFromGroup('eventNotes', j, 'value1'))
             end
         end
-        local arrowScale = maniaData[currentKeyCount][ARROW_SCALE]
-        runHaxeCode([[
-            var note = game.unspawnNotes[]]..i..[[];
-
-            note.animation.addByPrefix(']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[Scroll', ']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[0');
-
-            note.animation.addByPrefix(']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[hold', ']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[ hold piece0');
-
-            note.animation.addByPrefix(']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[holdend', ']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[ hold end0');
-
-            if (!note.isSustainNote)
-            {
-                note.animation.play(']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[Scroll');
-                note.scale.x = ]]..arrowScale..[[;
-                note.scale.y = ]]..arrowScale..[[;
-
-                
-
-                //fake setgraphicsize so scaling matches for notetypes and stuff
-                //note.width = Math.abs(0.7) * note.frameWidth;
-                //note.height = Math.abs(0.7) * note.frameHeight;
-                //note.offset.set(-0.5 * (note.width - note.frameWidth), -0.5 * (note.height - note.frameHeight));
-                note.centerOrigin();
-                note.centerOffsets();
-                note.width = Math.abs(0.7) * note.frameWidth;
-                note.height = Math.abs(0.7) * note.frameHeight;
-                note.offset.set(-0.5 * (note.width - note.frameWidth), -0.5 * (note.height - note.frameHeight));
-                note.centerOrigin();
-            }
-            else 
-            {
-                //need to recalculate offsetx
-                note.animation.play(']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[Scroll');
-                note.scale.x = ]]..arrowScale..[[;
-                //same stuff as setgraphicsize but without changing the height to not fuck up the scaley and clipping
-                note.width = Math.abs(0.7) * note.frameWidth;
-                //note.height = Math.abs(0.7) * note.frameHeight;
-                note.offset.x = (-0.5 * (note.width - note.frameWidth));
-                //note.centerOrigin();
-                note.centerOrigin();
-                
-
-                
-                //note.updateHitbox();
-
-                //width of regular note
-                note.offsetX = note.width/2;
-                
-                note.animation.play(']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[holdend');
-                note.updateHitbox();
-
-                //width of sustain note
-                note.offsetX -= note.width/2;
-
-                if (note.prevNote.isSustainNote)
-                {
-                    note.prevNote.animation.play(']]..arrowColors[maniaData[currentKeyCount][ARROW_COLOR][noteData+1]]..[[hold');
-                    note.offsetX = note.prevNote.offsetX;
-                }
-                
-
-
-            }
-            
-        ]])
     end
+    colorNotes = maniaData[currentKeyCount][ARROW_COLOR]
+    colArray = {}
+    for i = 0, #colorNotes do
+        table.insert(colArray, arrowColors[colorNotes[i+1]])
+    end
+    colArrStr = turnArrayIntoString(colArray)
+        runHaxeCode([[
+            Note.colArray = ]]..colArrStr..[[;
+		Paths.initNote(PlayState.SONG.arrowSkin);
+        ]])
 end
 
---need to disable default notesplashes
+--need to disable default notesplash and rgb shader settings
 local noteSplashesEnabled = true
+local rgbEnabled = true
 function disableSplashes()
     noteSplashesEnabled = getPropertyFromClass('ClientPrefs', 'noteSplashes')
+    rgbEnabled = getPropertyFromClass('ClientPrefs', 'enableColorShader')
     setPropertyFromClass('ClientPrefs', 'noteSplashes', false)
+    setPropertyFromClass('ClientPrefs', 'enableColorShader', false)
 end
 function onDestroy()
+    runHaxeCode([[
+		Note.colArray = ['purple', 'blue', 'green', 'red'];
+		Paths.initNote();
+	]]);
     setPropertyFromClass('ClientPrefs', 'noteSplashes', noteSplashesEnabled)
+    setPropertyFromClass('ClientPrefs', 'enableColorShader', rgbEnabled)
 end
 
 
@@ -531,9 +487,9 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
                 if(PlayState.SONG.splashSkin != null && PlayState.SONG.splashSkin.length > 0)
                     skin = PlayState.SONG.splashSkin;
 
-                var hue = ClientPrefs.arrowHSV[]]..(noteData%4)..[[][0] / 360;
-                var sat = ClientPrefs.arrowHSV[]]..(noteData%4)..[[][1] / 100;
-                var brt = ClientPrefs.arrowHSV[]]..(noteData%4)..[[][2] / 100;
+                var hue = ClientPrefs.arrowRGB[]]..(noteData%4)..[[][0] / 360;
+                var sat = ClientPrefs.arrowRGB[]]..(noteData%4)..[[][1] / 100;
+                var brt = ClientPrefs.arrowRGB[]]..(noteData%4)..[[][2] / 100;
                 if(note != null) {
                     skin = note.noteSplashTexture;
                     hue = note.noteSplashHue;
@@ -621,19 +577,16 @@ local keysPressed = {false,false,false,false,false,false,false,false,false,false
 --need to check if holding sustains because psych dumb and still uses shitty controls.hx
 function onUpdatePost(elapsed)
 
-        runHaxeCode([[
-		game.spawnTime = game.spawnTime / ARROW_SCALE;
-	]])
-
-    local noteCount = getProperty('notes.length')
+    local noteCount = getProperty('sustainNotes.length')
+	if noteCount == nil then return end
     for i = 0,noteCount-1 do 
-        local noteData = getPropertyFromGroup('notes', i, 'noteData')
+        local noteData = getPropertyFromGroup('sustainNotes', i, 'noteData')
         local isHolding = keysPressed[noteData+1]
         if isHolding then 
-            if getPropertyFromGroup('notes', i, 'isSustainNote') and getPropertyFromGroup('notes', i, 'canBeHit') and not getPropertyFromGroup('notes', i, 'wasGoodHit')
-            and getPropertyFromGroup('notes', i, 'mustPress') and not getPropertyFromGroup('notes', i, 'tooLate') then 
+            if getPropertyFromGroup('sustainNotes', i, 'isSustainNote') and getPropertyFromGroup('sustainNotes', i, 'canBeHit') and not getPropertyFromGroup('sustainNotes', i, 'wasGoodHit')
+            and getPropertyFromGroup('sustainNotes', i, 'mustPress') and not getPropertyFromGroup('sustainNotes', i, 'tooLate') then 
                 runHaxeCode([[
-                    game.goodNoteHit(game.notes.members[]]..i..[[]);
+                    game.goodNoteHit(game.sustainNotes.members[]]..i..[[]);
                 ]])
             end
         end 
@@ -668,6 +621,7 @@ function onCountdownStarted()
             game.setOnLuas('defaultOpponentStrumY' + i, game.opponentStrums.members[i].y);
         }
     ]])
+	debugPrint(getPropertyFromGroup('strumLineNotes', 'length'))
 end
 
 function generateBinds()
@@ -689,20 +643,12 @@ function generateBinds()
             runHaxeCode('game.keysArray.push(ClientPrefs.copyKey(ClientPrefs.keyBinds.get("note_right")));')
         else 
             runHaxeCode([[
-                //game.keysArray.push(FlxKey.]]..maniaData[keyCount][CONTROLS][i+1]..[[);
-                //if (!ClientPrefs.keyBinds.exists('extraKeys]]..keyCount..' '..i..[['))
-                //{
-                    ClientPrefs.keyBinds.set('extraKeys]]..keyCount..' '..i..[[', []]..maniaData[keyCount][CONTROLS][i+1]..[[, 0]);
-                    //ClientPrefs.saveSettings();
-                //}
-                game.keysArray.push(ClientPrefs.copyKey(ClientPrefs.keyBinds.get('extraKeys]]..keyCount..' '..i..[[')));
-                
+                game.keysArray.push(ClientPrefs.copyKey(ClientPrefs.keyBinds.get('extraKeys]]..keyCount..' '..i..[[')));   
             ]])
         end
 
     end
     disableSplashes() --need to run it after this in case it saves
-
 
 
 
