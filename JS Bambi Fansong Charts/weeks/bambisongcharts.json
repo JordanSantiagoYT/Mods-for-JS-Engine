@@ -2231,6 +2231,60 @@
 				181,
 				0
 			]
+		],
+		[
+			"Extremity",
+			"seriously_2212",
+			[
+				229,
+				48,
+				5
+			]
+		],
+		[
+			"Fatigue Wankhas",
+			"fatiguedave",
+			[
+				103,
+				0,
+				0
+			]
+		],
+		[
+			"Immersive",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Administration",
+			"expungedtrue",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Vast",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"I am Afraid",
+			"oppoexpunged",
+			[
+				255,
+				255,
+				255
+			]
 		]
 	],
 	"hideFreeplay": false,

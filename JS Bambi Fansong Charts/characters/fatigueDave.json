@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-350,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				370
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		162,
+		255,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/fatigueDave",
+	"shake_duration": 0,
+	"position": [
+		-1300,
+		-90
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "fatiguedave",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-1190,
+		-910
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		162,
+		255,
+		255
+	],
+	"scale": 2.3
+}

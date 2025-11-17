@@ -80,7 +80,7 @@ function getcolor()
 		rgbdad = {getProperty('dad.healthColorArray[0]'), getProperty('dad.healthColorArray[1]'), getProperty('dad.healthColorArray[2]')}
 	end
 	
-	if not CustomGF then
+	if not CustomGF and not getProperty('stageData.hide_girlfriend') then
 		rgbgf = {getProperty('gf.healthColorArray[0]'),getProperty('gf.healthColorArray[1]'),getProperty('gf.healthColorArray[2]')}
 	end
 
@@ -155,7 +155,7 @@ function onEvent(n,v1,v2)
         				FlxTween.tween(game.boyfriend.colorTransform, { redOffset: ]]..rgbbf[1]..[[, greenOffset: ]]..rgbbf[2]..[[, blueOffset: ]]..rgbbf[3]..[[, redMultiplier: 0, greenMultiplier: 0, blueMultiplier: 0 }, ]]..v1..[[);
     					FlxTween.tween(game.dad.colorTransform, { redOffset: ]]..rgbdad[1]..[[, greenOffset: ]]..rgbdad[2]..[[, blueOffset: ]]..rgbdad[3]..[[, redMultiplier: 0, greenMultiplier: 0, blueMultiplier: 0 }, ]]..v1..[[);
     				]])
-				if getProperty('gf.visible') or getProperty('gf.alpha') > 0 and not getProperty('stageData.hide_girlfriend') then
+				if getProperty('gf') ~= nil and (getProperty('gf.visible') or getProperty('gf.alpha') > 0 and not getProperty('stageData.hide_girlfriend')) then
 					runHaxeCode([[
         			    		FlxTween.tween(game.gf.colorTransform, { redOffset: ]]..rgbgf[1]..[[, greenOffset: ]]..rgbgf[2]..[[, blueOffset: ]]..rgbgf[3]..[[, redMultiplier: 0, greenMultiplier: 0, blueMultiplier: 0 }, ]]..v1..[[);
     					]])

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Seriously_2212.png">
+<SubTexture name="Seriously_2212 idle0000" x="0" y="0" width="298" height="227" frameX="-261" frameY="-163" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 idle0001" x="298" y="0" width="298" height="251" frameX="-261" frameY="-139" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 idle0002" x="596" y="0" width="298" height="268" frameX="-261" frameY="-118" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 idle0003" x="894" y="0" width="298" height="282" frameX="-261" frameY="-105" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 idle0004" x="1192" y="0" width="298" height="290" frameX="-261" frameY="-95" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 idle0005" x="0" y="290" width="298" height="294" frameX="-261" frameY="-90" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 idle0006" x="298" y="290" width="298" height="297" frameX="-261" frameY="-87" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 idle0007" x="596" y="290" width="298" height="297" frameX="-261" frameY="-87" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 left0000" x="894" y="290" width="346" height="346" frameX="-92" frameY="-62" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 left0001" x="1240" y="290" width="336" height="336" frameX="-124" frameY="-67" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 left0002" x="0" y="636" width="330" height="330" frameX="-145" frameY="-70" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 left0003" x="330" y="636" width="325" height="324" frameX="-158" frameY="-73" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 left0004" x="330" y="636" width="325" height="324" frameX="-158" frameY="-73" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 left0005" x="655" y="636" width="323" height="322" frameX="-164" frameY="-74" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 left0006" x="978" y="636" width="321" height="322" frameX="-167" frameY="-74" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 down0000" x="1299" y="636" width="298" height="203" frameX="-261" frameY="-213" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 down0001" x="0" y="966" width="298" height="221" frameX="-261" frameY="-190" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 down0002" x="298" y="966" width="298" height="235" frameX="-261" frameY="-174" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 down0003" x="596" y="966" width="298" height="241" frameX="-261" frameY="-164" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 down0004" x="894" y="966" width="298" height="245" frameX="-261" frameY="-159" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 down0005" x="1192" y="966" width="298" height="247" frameX="-261" frameY="-157" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 up0000" x="0" y="1213" width="298" height="378" frameX="-261" frameY="0" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 up0001" x="298" y="1213" width="298" height="365" frameX="-261" frameY="-15" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 up0002" x="596" y="1213" width="298" height="354" frameX="-261" frameY="-27" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 up0003" x="894" y="1213" width="298" height="346" frameX="-261" frameY="-37" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 up0004" x="1192" y="1213" width="298" height="343" frameX="-261" frameY="-40" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 up0005" x="0" y="1591" width="298" height="340" frameX="-261" frameY="-44" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 up0006" x="298" y="1591" width="298" height="339" frameX="-261" frameY="-45" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 right0000" x="596" y="1591" width="364" height="364" frameX="-370" frameY="-53" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 right0001" x="960" y="1591" width="347" height="346" frameX="-353" frameY="-62" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 right0002" x="1307" y="1591" width="335" height="334" frameX="-342" frameY="-68" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 right0003" x="0" y="1955" width="327" height="326" frameX="-336" frameY="-72" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 right0004" x="327" y="1955" width="322" height="322" frameX="-334" frameY="-74" frameWidth="800" frameHeight="450" />
+<SubTexture name="Seriously_2212 right0005" x="649" y="1955" width="321" height="320" frameX="-332" frameY="-75" frameWidth="800" frameHeight="450" />
+</TextureAtlas>
