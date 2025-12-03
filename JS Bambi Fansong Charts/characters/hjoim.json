@@ -1,72 +1,67 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-12,
 				-2
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 12,
-			"name": "Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				-6
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 12,
-			"name": "Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-34,
 				1
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-1,
-				0
-			],
-			"anim": "idle",
 			"fps": 12,
-			"name": "Idle",
+			"name": "Right",
 			"indices": []
 		},
 		{
 			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
 				6,
 				0
 			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Left",
 			"indices": [
 				1,
 				2,
 				3,
 				4
-			],
-			"fps": 12,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "Left"
+			]
 		}
 	],
 	"vocals_file": "",
-	"losing_colors": [
-		20,
-		20,
-		20
-	],
 	"no_antialiasing": false,
 	"image": "characters/HjoimHalfJoke",
 	"shake_duration": 0,
@@ -87,15 +82,10 @@
 	],
 	"drain_amount": 0,
 	"camera_position": [
-		350,
-		400
+		400,
+		420
 	],
 	"sing_duration": 4,
 	"noteskin": null,
-	"winning_colors": [
-		20,
-		20,
-		20
-	],
-	"scale": 0.5
+	"scale": 0.4
 }

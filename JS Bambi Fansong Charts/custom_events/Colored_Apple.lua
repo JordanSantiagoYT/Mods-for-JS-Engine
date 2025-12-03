@@ -40,8 +40,8 @@ rgbgf = {0,0,0}
 		if songName == s then
 		x = -1000
 		y = -600
-		xs = 3
-		ys = 3
+		xs = 6
+		ys = 6
 		color = 'FFFFFF'
 		CustomBF = false
 		CustomGF = false

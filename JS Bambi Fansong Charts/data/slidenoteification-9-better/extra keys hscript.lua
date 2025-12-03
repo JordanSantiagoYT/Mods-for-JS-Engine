@@ -271,6 +271,7 @@ function turnArrayIntoString(arr)
 end
 
 function onCreatePost()
+	if difficultyName ~= 'Normal' then close() end
     luaDebugMode = true
     --import the shit
     addHaxeLibrary('FlxKey', 'flixel.input.keyboard')
@@ -602,6 +603,7 @@ function onKeyRelease(key)
 end
 
 function onCountdownStarted()
+	if difficultyName ~= 'Normal' then close() end
     runHaxeCode([[
         game.playerStrums.clear();
         game.opponentStrums.clear();

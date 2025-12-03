@@ -28,7 +28,7 @@ end
 
 function onStepHit()
 	if curStep == 240 then
-		doTweenY('creditTween', 'Credits', -420, 1, 'expoIn')
+		doTweenY('creditTween', 'Credits', -620, 1, 'expoIn')
 		doTweenAlpha('ytWatermarkIn', 'ytWatermark', 0.5, 1, 'linear')
 		doTweenY('opponentComes', 'dad', dadPositionY, 1.14, 'expoOut')
 	end

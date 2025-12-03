@@ -62,6 +62,15 @@
 				0,
 				0
 			]
+		],
+		[
+			"Bewilderment",
+			"spaci1",
+			[
+				80,
+				80,
+				80
+			]
 		]
 	],
 	"hideFreeplay": false,

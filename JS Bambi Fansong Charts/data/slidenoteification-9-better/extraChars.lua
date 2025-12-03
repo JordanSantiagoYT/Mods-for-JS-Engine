@@ -1,8 +1,10 @@
 function onCreatePost()
+	luaDebugMode = true
 	cameraForcedPos = false --im not going to be making the isCameraOnForcedPos variable public
 	charFocus = 'bf'
     addHaxeLibrary('Std')
     addHaxeLibrary('Note')
+	addHaxeLibrary('Math')
     addHaxeLibrary('EKData')
     runHaxeCode([[
             bandu = new Character(-100, -250, 'bandu-sad-playable', true);

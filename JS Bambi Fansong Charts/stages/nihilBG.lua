@@ -4,7 +4,7 @@ function onCreate()
 	scaleObject('bg', 4, 4);
 	addLuaSprite('bg', false);
 
-	makeLuaSprite('plat', 'nihility/platform', -200, 650);
+	makeLuaSprite('plat', 'nihility/platform', 200, 650);
 	setScrollFactor('plat', 1, 1);
 	scaleObject('plat', 0.9, 0.9);
 	addLuaSprite('plat', false)
