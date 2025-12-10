@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				114,
+				16
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "idle",
+			"indices": [],
+			"name": "Daniela idle"
+		},
+		{
+			"offsets": [
+				202,
+				30
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Daniela left"
+		},
+		{
+			"offsets": [
+				115,
+				-45
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Daniela down"
+		},
+		{
+			"offsets": [
+				114,
+				106
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Daniela up"
+		},
+		{
+			"offsets": [
+				130,
+				15
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Daniela right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Daniela",
+	"shake_duration": 0,
+	"position": [
+		0,
+		0
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "vsdaa",
+	"shake_screen": false,
+	"drain_floor": 0.1,
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		111,
+		110
+	],
+	"drain_amount": 0.01,
+	"camera_position": [
+		-110,
+		180
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"scale": 0.75
+}

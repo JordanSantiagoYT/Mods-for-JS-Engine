@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-489,
+				-213
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-480,
+				-237
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-433,
+				-193
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-595,
+				-318
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-517,
+				-213
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-470,
+				-247
+			],
+			"anim": "Transformation",
+			"fps": 14,
+			"name": "transformation",
+			"indices": []
+		}
+	],
+	"losing_colors": [
+		204,
+		0,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/redact2",
+	"shake_duration": 0,
+	"position": [
+		-900,
+		-270
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "redact2",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-180,
+		-350
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		204,
+		0,
+		0
+	],
+	"scale": 2.1
+}

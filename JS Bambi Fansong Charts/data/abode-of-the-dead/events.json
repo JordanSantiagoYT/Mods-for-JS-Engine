@@ -1,0 +1,208 @@
+{
+	"song": {
+		"events": [
+			[
+				57029.7029702971,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.9",
+						"2, expoOut"
+					]
+				]
+			],
+			[
+				60356.4356435645,
+				[
+					[
+						"Tween Camera Zoom",
+						"2",
+						"0.5, expoIn"
+					]
+				]
+			],
+			[
+				60475.2475247526,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"0.35"
+					]
+				]
+			],
+			[
+				60831.683168317,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"4, expoOut"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76039.6039603961,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0.35"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				105980.198019802,
+				[
+					[
+						"Tween Camera Zoom",
+						"2",
+						"0.6, expoIn"
+					]
+				]
+			],
+			[
+				106455.445544554,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, expoOut"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106514.851485148,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				109128.712871287,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-dead"
+					],
+					[
+						"Play Animation",
+						"firstDeath",
+						"bf"
+					]
+				],
+				null,
+				""
+			],
+			[
+				111207.920792079,
+				[
+					[
+						"Play Animation",
+						"deathLoop",
+						"bf"
+					]
+				]
+			],
+			[
+				113584.158415841,
+				[
+					[
+						"Play Animation",
+						"deathConfirm",
+						"bf"
+					]
+				]
+			],
+			[
+				113970.297029703,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				121663.366336633,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"15, quadInOut"
+					]
+				]
+			],
+			[
+				136871.287128713,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"15, quadInOut"
+					]
+				]
+			],
+			[
+				152079.207920792,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.8, expoOut"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				182019.801980199,
+				[
+					[
+						"Change Scroll Speed",
+						"32",
+						"0.36"
+					]
+				]
+			],
+			[
+				212910.89108911,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

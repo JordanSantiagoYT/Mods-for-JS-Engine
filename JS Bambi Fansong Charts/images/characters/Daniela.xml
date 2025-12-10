@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Daniela.png">
+<SubTexture name="Daniela idle0000" x="1972" y="804" width="428" height="385" frameX="0" frameY="-151" frameWidth="428" frameHeight="539" />
+<SubTexture name="Daniela idle0001" x="1972" y="0" width="428" height="406" frameX="0" frameY="-133" frameWidth="428" frameHeight="544" />
+<SubTexture name="Daniela idle0002" x="1376" y="1281" width="428" height="432" frameX="0" frameY="-106" frameWidth="428" frameHeight="543" />
+<SubTexture name="Daniela idle0003" x="948" y="1281" width="428" height="460" frameX="0" frameY="-78" frameWidth="428" frameHeight="543" />
+<SubTexture name="Daniela left0000" x="0" y="700" width="562" height="581" frameX="2" frameY="21" frameWidth="743" frameHeight="581" />
+<SubTexture name="Daniela left0001" x="1460" y="0" width="512" height="537" frameX="2" frameY="-32" frameWidth="607" frameHeight="598" />
+<SubTexture name="Daniela left0002" x="486" y="1281" width="462" height="491" frameX="-24" frameY="-79" frameWidth="540" frameHeight="599" />
+<SubTexture name="Daniela left0003" x="948" y="1281" width="428" height="460" frameX="0" frameY="-78" frameWidth="428" frameHeight="543" />
+<SubTexture name="Daniela down0000" x="1972" y="1529" width="428" height="234" frameX="0" frameY="-302" frameWidth="428" frameHeight="541" />
+<SubTexture name="Daniela down0001" x="1972" y="1189" width="428" height="340" frameX="0" frameY="-196" frameWidth="428" frameHeight="541" />
+<SubTexture name="Daniela down0002" x="1972" y="406" width="428" height="398" frameX="0" frameY="-138" frameWidth="428" frameHeight="541" />
+<SubTexture name="Daniela down0003" x="948" y="1281" width="428" height="460" frameX="0" frameY="-78" frameWidth="428" frameHeight="543" />
+<SubTexture name="Daniela up0000" x="0" y="0" width="428" height="700" frameX="0" frameY="0" frameWidth="428" frameHeight="867" />
+<SubTexture name="Daniela up0001" x="428" y="0" width="428" height="600" frameX="0" frameY="0" frameWidth="428" frameHeight="666" />
+<SubTexture name="Daniela up0002" x="1460" y="537" width="428" height="528" frameX="0" frameY="-13" frameWidth="428" frameHeight="549" />
+<SubTexture name="Daniela up0003" x="948" y="1281" width="428" height="460" frameX="0" frameY="-78" frameWidth="428" frameHeight="543" />
+<SubTexture name="Daniela right0000" x="856" y="0" width="604" height="597" frameX="-226" frameY="-35" frameWidth="830" frameHeight="710" />
+<SubTexture name="Daniela right0001" x="562" y="700" width="554" height="572" frameX="-192" frameY="-80" frameWidth="773" frameHeight="747" />
+<SubTexture name="Daniela right0002" x="0" y="1281" width="486" height="510" frameX="-98" frameY="-42" frameWidth="607" frameHeight="559" />
+<SubTexture name="Daniela right0003" x="948" y="1281" width="428" height="460" frameX="-20" frameY="-78" frameWidth="454" frameHeight="543" />
+</TextureAtlas>

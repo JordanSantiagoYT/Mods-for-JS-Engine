@@ -2348,6 +2348,33 @@
 				122,
 				122
 			]
+		],
+		[
+			"Enslaved Coin",
+			"nothing",
+			[
+				122,
+				122,
+				122
+			]
+		],
+		[
+			"Abode of the Dead",
+			"redact2",
+			[
+				166,
+				0,
+				0
+			]
+		],
+		[
+			"The Goddess of Cringe",
+			"vsdaa",
+			[
+				120,
+				120,
+				120
+			]
 		]
 	],
 	"hideFreeplay": false,
