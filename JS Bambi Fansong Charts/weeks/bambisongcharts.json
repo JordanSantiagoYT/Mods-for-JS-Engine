@@ -2375,6 +2375,69 @@
 				120,
 				120
 			]
+		],
+		[
+			"Awesome",
+			"bandu",
+			[
+				106,
+				13,
+				255
+			]
+		],
+		[
+			"Garden",
+			"rolny",
+			[
+				166,
+				0,
+				0
+			]
+		],
+		[
+			"Thalora",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Technicular Condition",
+			"nothing",
+			[
+				3,
+				82,
+				252
+			]
+		],
+		[
+			"Cryophobia Remake",
+			"hellDave",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Venustraphobia Remake",
+			"hellDave",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Sonorous 3",
+			"screwed",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

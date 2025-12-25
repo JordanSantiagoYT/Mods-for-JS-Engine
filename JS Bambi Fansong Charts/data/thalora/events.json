@@ -1,0 +1,416 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				13500,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				40071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				40392.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				40714.2857142857,
+				[
+					[
+						"Tween Camera Zoom",
+						"2",
+						"0.37, expoIn"
+					]
+				]
+			],
+			[
+				41035.7142857143,
+				[
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				56571.4285714285,
+				[
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					],
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.15",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				57428.5714285714,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.3",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				57857.1428571428,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.45",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				58285.7142857143,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.4, expoOut"
+					],
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				68464.2857142857,
+				[
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				68571.4285714285,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82178.5714285713,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				82499.9999999999,
+				[
+					[
+						"lyrics",
+						"It's unbelievable how they randomly pop out",
+						""
+					]
+				]
+			],
+			[
+				83785.7142857142,
+				[
+					[
+						"lyrics",
+						"It's right on my face, what do you want me to do now?",
+						""
+					]
+				]
+			],
+			[
+				85607.1428571428,
+				[
+					[
+						"lyrics",
+						"Am I supposed to do something? Do you want me to SHOWDOWN?",
+						""
+					]
+				]
+			],
+			[
+				87321.4285714285,
+				[
+					[
+						"lyrics",
+						"These mother[CENSOR] don't pay me enough I think I'm boutta drop out",
+						""
+					]
+				]
+			],
+			[
+				88821.4285714285,
+				[
+					[
+						"lyrics",
+						"Not even heels will make you get closer to my size",
+						""
+					]
+				]
+			],
+			[
+				90535.7142857142,
+				[
+					[
+						"lyrics",
+						"Not cuz I'm famous, I just look better and I didn't have to smoke a pipe",
+						""
+					]
+				]
+			],
+			[
+				92249.9999999999,
+				[
+					[
+						"lyrics",
+						"When they notice that I am the best they tell me to get a life",
+						""
+					]
+				]
+			],
+			[
+				94071.4285714285,
+				[
+					[
+						"lyrics",
+						"Jokes on you, even my dead body still spit better lines",
+						""
+					]
+				]
+			],
+			[
+				95571.4285714285,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95785.7142857142,
+				[
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				109607.142857143,
+				[
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				123321.428571428,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Set Cam Zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				136928.571428571,
+				[
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				137142.857142857,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.4",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				137571.428571428,
+				[
+					[
+						"Tween Camera Zoom",
+						"3",
+						"0.42, expoIn"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.85",
+						"0.42, expoOut"
+					],
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				150642.857142857,
+				[
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				164464.285714286,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}
