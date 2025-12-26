@@ -24,9 +24,9 @@ To download the charts, you have to download all of them at once because of how 
 
 3. Unzip the files
 
-4. Inside the folder you extracted, there will be a few folders. Drag and drop them into your JS Engine's mods folder and you should be good to go!
+4. Inside the folder you extracted, there will be a few folders. <img width="664" height="309" alt="image" src="https://github.com/user-attachments/assets/a091b43f-276b-46f4-a49e-fb03d03ec2c9" />
 
-![image](https://github.com/user-attachments/assets/18833e7e-910a-499f-bfd4-d1b9a637df9c)
+ Just Drag and drop them into your JS Engine's mods folder and you should be good to go!
 
 If you want to use any of these charts, you have permission to HOWEVER you MUST give me credit.
 
