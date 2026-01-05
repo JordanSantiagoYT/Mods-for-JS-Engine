@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tenstrobi.png">
+<SubTexture name="tenstrobi idle0000" x="0" y="1886" width="949" height="870" frameX="-258" frameY="-350" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi idle0001" x="1930" y="1003" width="949" height="871" frameX="-245" frameY="-348" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi idle0002" x="949" y="1886" width="949" height="869" frameX="-239" frameY="-349" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi idle0003" x="0" y="1003" width="981" height="883" frameX="-189" frameY="-333" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi idle0004" x="981" y="1003" width="949" height="877" frameX="-229" frameY="-341" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi down0000" x="2945" y="861" width="981" height="853" frameX="-193" frameY="-556" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi down0001" x="2945" y="0" width="981" height="861" frameX="-193" frameY="-542" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi down0002" x="1898" y="1886" width="981" height="868" frameX="-191" frameY="-507" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi left0000" x="1033" y="2756" width="1018" height="849" frameX="-6" frameY="-311" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi left0001" x="0" y="2756" width="1033" height="851" frameX="-24" frameY="-315" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi left0002" x="2051" y="2756" width="1041" height="843" frameX="-54" frameY="-317" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi right0000" x="3926" y="1652" width="1014" height="814" frameX="-385" frameY="-301" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi right0001" x="3926" y="0" width="1022" height="828" frameX="-341" frameY="-310" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi right0002" x="3926" y="828" width="1002" height="824" frameX="-314" frameY="-319" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi up0000" x="1964" y="0" width="981" height="983" frameX="-206" frameY="-44" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi up0001" x="982" y="0" width="982" height="1000" frameX="-205" frameY="-58" frameWidth="1416" frameHeight="1416" />
+<SubTexture name="tenstrobi up0002" x="0" y="0" width="982" height="1003" frameX="-205" frameY="-78" frameWidth="1416" frameHeight="1416" />
+</TextureAtlas>

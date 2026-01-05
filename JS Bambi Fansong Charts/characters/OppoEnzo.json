@@ -1,59 +1,102 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
 			"anim": "idle",
-			"fps": 14,
+			"fps": 12,
 			"name": "idle",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 14,
 			"anim": "singLEFT",
-			"fps": 15,
-			"name": "left",
-			"indices": []
+			"loop": false,
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 14,
 			"anim": "singDOWN",
-			"fps": 15,
-			"name": "down",
-			"indices": []
+			"loop": false,
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
+				1,
 				0
 			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 14,
 			"anim": "singUP",
-			"fps": 15,
-			"name": "up",
-			"indices": []
+			"loop": false,
+			"name": "up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 14,
 			"anim": "singRIGHT",
-			"fps": 15,
-			"name": "right",
-			"indices": []
+			"loop": false,
+			"name": "right"
 		}
 	],
 	"vocals_file": "",
@@ -63,34 +106,34 @@
 		255
 	],
 	"no_antialiasing": true,
-	"image": "characters/Opposition_Expunged",
-	"shake_duration": 0.15,
+	"image": "characters/OppositionExpunged",
+	"shake_duration": 0.1,
 	"position": [
-		-840,
+		-450,
 		-300
 	],
 	"health_drain": true,
-	"shake_intensity": 0.005,
+	"shake_intensity": 0.002,
 	"healthicon": "OppoNormal",
 	"shake_screen": true,
-	"drain_floor": 0.1,
+	"drain_floor": 0.25,
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
 		255,
 		255
 	],
-	"drain_amount": 0.005,
+	"drain_amount": 0.01,
 	"camera_position": [
-		-430,
-		-590
+		-540,
+		-310
 	],
-	"sing_duration": 18,
+	"sing_duration": 9,
 	"noteskin": null,
 	"winning_colors": [
 		255,
 		255,
 		255
 	],
-	"scale": 1.6
+	"scale": 1.7
 }

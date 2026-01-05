@@ -2438,6 +2438,42 @@
 				181,
 				0
 			]
+		],
+		[
+			"Tanjobi",
+			"oppoexpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Misguided",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Attaquant",
+			"OppoNormal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Tenebrous",
+			"tenstro",
+			[
+				209,
+				115,
+				42
+			]
 		]
 	],
 	"hideFreeplay": false,
