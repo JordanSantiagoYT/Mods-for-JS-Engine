@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="theoremake.png">
+<SubTexture name="le idle0000" x="1137" y="0" width="515" height="914" frameX="-242" frameY="-158" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0001" x="1137" y="0" width="515" height="914" frameX="-242" frameY="-158" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0002" x="0" y="0" width="521" height="917" frameX="-238" frameY="-157" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0003" x="0" y="0" width="521" height="917" frameX="-238" frameY="-157" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0004" x="2264" y="0" width="437" height="901" frameX="-288" frameY="-165" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0005" x="2264" y="0" width="437" height="901" frameX="-288" frameY="-165" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0006" x="667" y="917" width="352" height="909" frameX="-321" frameY="-155" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0007" x="667" y="917" width="352" height="909" frameX="-321" frameY="-155" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0008" x="1019" y="917" width="343" height="909" frameX="-324" frameY="-153" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le idle0009" x="1019" y="917" width="343" height="909" frameX="-324" frameY="-153" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le left0000" x="0" y="917" width="667" height="910" frameX="-193" frameY="-159" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le left0001" x="0" y="917" width="667" height="910" frameX="-193" frameY="-159" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le left0002" x="521" y="0" width="616" height="915" frameX="-262" frameY="-159" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le left0003" x="521" y="0" width="616" height="915" frameX="-262" frameY="-159" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le left0004" x="1652" y="0" width="612" height="914" frameX="-267" frameY="-159" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le left0005" x="1652" y="0" width="612" height="914" frameX="-267" frameY="-159" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le down0000" x="1346" y="1827" width="652" height="762" frameX="-219" frameY="-344" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le down0001" x="1346" y="1827" width="652" height="762" frameX="-219" frameY="-344" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le down0002" x="2701" y="901" width="594" height="792" frameX="-256" frameY="-314" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le down0003" x="2701" y="901" width="594" height="792" frameX="-256" frameY="-314" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le down0004" x="764" y="1827" width="582" height="792" frameX="-263" frameY="-314" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le down0005" x="764" y="1827" width="582" height="792" frameX="-263" frameY="-314" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le up0000" x="0" y="1827" width="764" height="891" frameX="-140" frameY="-114" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le up0001" x="0" y="1827" width="764" height="891" frameX="-140" frameY="-114" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le up0002" x="1362" y="917" width="728" height="903" frameX="-178" frameY="-134" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le up0003" x="1362" y="917" width="728" height="903" frameX="-178" frameY="-134" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le up0004" x="2701" y="0" width="707" height="901" frameX="-191" frameY="-138" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le up0005" x="2701" y="0" width="707" height="901" frameX="-191" frameY="-138" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le right0000" x="3408" y="0" width="653" height="738" frameX="-244" frameY="-242" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le right0001" x="3408" y="0" width="653" height="738" frameX="-244" frameY="-242" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le right0002" x="2651" y="1827" width="650" height="750" frameX="-210" frameY="-237" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le right0003" x="2651" y="1827" width="650" height="750" frameX="-210" frameY="-237" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le right0004" x="1998" y="1827" width="653" height="752" frameX="-201" frameY="-236" frameWidth="999" frameHeight="1206" />
+<SubTexture name="le right0005" x="1998" y="1827" width="653" height="752" frameX="-201" frameY="-236" frameWidth="999" frameHeight="1206" />
+</TextureAtlas>

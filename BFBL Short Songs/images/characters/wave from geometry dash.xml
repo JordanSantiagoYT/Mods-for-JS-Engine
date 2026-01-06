@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="wave from geometry dash.png">
-<SubTexture name="wave from geometry dash idle0000" x="0" y="0" width="521" height="458" frameX="0" frameY="0" frameWidth="521" frameHeight="458" />
-</TextureAtlas>

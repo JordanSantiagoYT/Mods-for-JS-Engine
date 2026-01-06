@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="rocco.png">
-<SubTexture name="idle0000" x="0" y="0" width="581" height="580" frameX="-40" frameY="-26" frameWidth="708" frameHeight="644" />
-</TextureAtlas>
