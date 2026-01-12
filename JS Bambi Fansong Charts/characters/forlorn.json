@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "risi idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				-39
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "risi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "risi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				60
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "risi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-221,
+				-45
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "risi right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/forlorn",
+	"shake_duration": 0.12,
+	"position": [
+		-150,
+		60
+	],
+	"health_drain": false,
+	"shake_intensity": 0.0035,
+	"healthicon": "forlorn",
+	"shake_screen": false,
+	"drain_floor": 0.2,
+	"flip_x": false,
+	"healthbar_colors": [
+		13,
+		191,
+		55
+	],
+	"drain_amount": 0.005,
+	"camera_position": [
+		-90,
+		10
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"scale": 1.1
+}

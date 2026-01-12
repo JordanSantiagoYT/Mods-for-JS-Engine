@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="risi.png">
+<SubTexture name="risi idle0000" x="0" y="0" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+<SubTexture name="risi left0000" x="740" y="0" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+<SubTexture name="risi left0001" x="1480" y="0" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+<SubTexture name="risi down0000" x="0" y="679" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+<SubTexture name="risi down0001" x="740" y="679" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+<SubTexture name="risi up0000" x="1480" y="679" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+<SubTexture name="risi up0001" x="0" y="1358" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+<SubTexture name="risi right0000" x="740" y="1358" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+<SubTexture name="risi right0001" x="1480" y="1358" width="740" height="679" frameX="0" frameY="0" frameWidth="740" frameHeight="679" />
+</TextureAtlas>

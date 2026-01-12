@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-524,
+				759
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-224,
+				687
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-371,
+				724
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-233,
+				636
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-300,
+				741
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Thearchy_expungedNoBlood",
+	"shake_duration": 0,
+	"position": [
+		-800,
+		-80
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "ThearExpunged",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-1380,
+		-1950
+	],
+	"sing_duration": 3.8,
+	"noteskin": null,
+	"scale": 3
+}

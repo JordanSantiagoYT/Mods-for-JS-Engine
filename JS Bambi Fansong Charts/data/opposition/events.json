@@ -2,12 +2,32 @@
 	"song": {
 		"events": [
 			[
+				47750,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
 				48000,
 				[
 					[
 						"Rainbow Eyesore",
 						"640",
 						"1.4"
+					]
+				]
+			],
+			[
+				79750,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
 					]
 				]
 			]

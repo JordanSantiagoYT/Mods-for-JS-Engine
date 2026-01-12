@@ -1,0 +1,276 @@
+{
+	"song": {
+		"events": [
+			[
+				38318.3183183183,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				61381.3813813814,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				64384.3843843844,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				69189.1891891892,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72072.0720720721,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				76876.8768768769,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				79759.7597597598,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				84564.5645645646,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				87447.4474474475,
+				[
+					[
+						"Change Scroll Speed",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				92132.1321321322,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				92252.2522522523,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122882.882882883,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				153633.633633633,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				161441.441441441,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"oppositionexpungedalt"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				169009.009009009,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				174894.894894894,
+				[
+					[
+						"Change Scroll Speed",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				207447.447447446,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				238318.318318317,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				253693.693693693,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"thearchy_expunged"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				415135.135135135,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"thearchy_expunged_blood"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				422702.702702699,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				430390.390390386,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				461141.141141136,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				491891.891891887,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}

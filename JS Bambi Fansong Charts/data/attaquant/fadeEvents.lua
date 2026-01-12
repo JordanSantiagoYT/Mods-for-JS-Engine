@@ -52,7 +52,7 @@ function onStepHit()
 	if curStep == 1808 then
    	     	cameraFlash('camOther', 'ffffff', 0.7)
 		setProperty('flash.alpha', 0)
-    		setTextString('otherCreds', "Phonophobia Expunged Sprites by TheTrueAccount_2")
+    		setTextString('otherCreds', "Phonophobia Expunged Sprites by Enzo Polis")
 		screenCenter('otherCreds', 'X')
 	end
 	if curStep == 2320 then

@@ -1,96 +1,141 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 8,
 			"anim": "idle",
-			"fps": 10,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
-			"offsets": [
-				130,
-				0
-			],
-			"anim": "singLEFT",
-			"fps": 10,
-			"name": "left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				70,
-				-70
-			],
-			"anim": "singDOWN",
-			"fps": 10,
-			"name": "down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				70,
-				0
-			],
-			"anim": "singUP",
-			"fps": 10,
-			"name": "up",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				0,
-				-70
+				0
 			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
 			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
 			"fps": 10,
-			"name": "right",
-			"indices": []
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "loop-left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singDOWN-down",
+			"indices": [],
+			"name": "loop-down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "loop-up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "loop-right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "loop-idle"
 		}
 	],
 	"vocals_file": "",
-	"losing_colors": [
-		255,
-		255,
-		255
-	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/phonophobia-expunged",
-	"shake_duration": 0.02,
+	"shake_duration": 0,
 	"position": [
-		-400,
-		-450
+		-840,
+		-350
 	],
-	"health_drain": true,
-	"shake_intensity": 0.0035,
+	"health_drain": false,
+	"shake_intensity": 0,
 	"healthicon": "phonophobia-expunged",
 	"shake_screen": false,
-	"drain_floor": 0.05,
+	"drain_floor": 0,
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		220,
+		220,
+		235
 	],
-	"drain_amount": 0.025,
+	"drain_amount": 0,
 	"camera_position": [
-		-250,
-		-250
+		-170,
+		-220
 	],
-	"sing_duration": 10,
+	"sing_duration": 20,
 	"noteskin": null,
-	"winning_colors": [
-		255,
-		255,
-		255
-	],
-	"scale": 1.7
+	"scale": 1.3
 }

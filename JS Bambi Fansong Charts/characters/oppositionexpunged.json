@@ -1,78 +1,141 @@
 {
 	"animations": [
 		{
-			"loop": true,
-			"offsets": [
-				40,
-				140
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "OppoExpungedIdle",
-			"indices": []
-		},
-		{
 			"loop": false,
 			"offsets": [
-				-291,
-				75
+				1271,
+				243
 			],
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "OppoExpungedLeft",
+			"fps": 10,
+			"name": "left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-183,
-				-135
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "OppoExpungedRight",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-300,
-				-198
+				1337,
+				287
 			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "OppoExpungedDown",
+			"fps": 10,
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-259,
-				-105
+				1343,
+				200
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1337,
+				182
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1489,
+				33
+			],
+			"anim": "singLEFT-alt",
+			"fps": 10,
+			"name": "ALTleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1351,
+				121
 			],
 			"anim": "singUP",
-			"fps": 24,
-			"name": "OppoExpungedUp",
+			"fps": 10,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1344,
+				-1
+			],
+			"anim": "singDOWN-alt",
+			"fps": 10,
+			"name": "ALTdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1082,
+				37
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 10,
+			"name": "ALTright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1391,
+				240
+			],
+			"anim": "singUP-alt",
+			"fps": 10,
+			"name": "ALTup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1357,
+				34
+			],
+			"anim": "idle-alt",
+			"fps": 10,
+			"name": "ALTidle",
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/OppositonExpunged",
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/opposition_expunged",
+	"shake_duration": 0,
 	"position": [
-		-260,
-		80
+		1140,
+		-300
 	],
+	"health_drain": false,
+	"shake_intensity": 0,
 	"healthicon": "OppoExpunged",
+	"shake_screen": false,
+	"drain_floor": 0,
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
 		255,
 		255
 	],
+	"drain_amount": 0,
 	"camera_position": [
-		-110,
-		0
+		-2380,
+		-1140
 	],
 	"sing_duration": 4,
-	"scale": 1.8
+	"noteskin": null,
+	"scale": 2.75
 }

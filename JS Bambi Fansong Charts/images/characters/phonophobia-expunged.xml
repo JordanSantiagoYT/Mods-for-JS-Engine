@@ -1,19 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="phonophobia-expunged.png">
-<SubTexture name="idle0000" x="0" y="0" width="773" height="862" frameX="-44" frameY="-139" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="idle0001" x="773" y="0" width="736" height="830" frameX="-62" frameY="-164" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="idle0002" x="597" y="2257" width="597" height="607" frameX="-212" frameY="-325" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="idle0003" x="1194" y="2257" width="596" height="589" frameX="-232" frameY="-333" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="left0000" x="0" y="1626" width="792" height="631" frameX="-12" frameY="-290" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="left0001" x="792" y="1626" width="767" height="631" frameX="-27" frameY="-290" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="left0002" x="1559" y="1626" width="600" height="629" frameX="-130" frameY="-293" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="down0000" x="2689" y="1205" width="594" height="579" frameX="-315" frameY="-406" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="down0001" x="2689" y="621" width="594" height="584" frameX="-316" frameY="-393" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="down0002" x="2689" y="0" width="595" height="621" frameX="-325" frameY="-301" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="up0000" x="1509" y="0" width="590" height="779" frameX="-300" frameY="-104" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="up0001" x="0" y="862" width="590" height="764" frameX="-300" frameY="-125" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="up0002" x="2099" y="0" width="590" height="650" frameX="-298" frameY="-272" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="right0000" x="590" y="862" width="667" height="666" frameX="-425" frameY="-289" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="right0001" x="1257" y="862" width="653" height="662" frameX="-422" frameY="-290" frameWidth="1080" frameHeight="1080" />
-<SubTexture name="right0002" x="0" y="2257" width="597" height="613" frameX="-358" frameY="-297" frameWidth="1080" frameHeight="1080" />
+<TextureAtlas imagePath="Phonophobia-Expunged.png">
+<SubTexture name="idle0000" x="0" y="0" width="703" height="723" frameX="-441" frameY="-381" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0001" x="703" y="0" width="703" height="723" frameX="-441" frameY="-381" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0002" x="1406" y="0" width="703" height="722" frameX="-445" frameY="-383" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0003" x="2109" y="0" width="704" height="722" frameX="-444" frameY="-383" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0004" x="2813" y="0" width="704" height="722" frameX="-442" frameY="-382" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0005" x="0" y="723" width="703" height="723" frameX="-441" frameY="-381" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-idle0000" x="703" y="723" width="703" height="723" frameX="-441" frameY="-381" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-idle0001" x="1406" y="723" width="703" height="723" frameX="-441" frameY="-381" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0000" x="2109" y="723" width="729" height="882" frameX="-386" frameY="-214" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0001" x="2838" y="723" width="752" height="823" frameX="-397" frameY="-274" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0002" x="0" y="1605" width="748" height="830" frameX="-393" frameY="-267" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0003" x="748" y="1605" width="750" height="830" frameX="-392" frameY="-267" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-up0000" x="1498" y="1605" width="748" height="830" frameX="-393" frameY="-267" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-up0001" x="2246" y="1605" width="750" height="830" frameX="-392" frameY="-267" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0000" x="2996" y="1605" width="885" height="826" frameX="-58" frameY="-292" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0001" x="0" y="2435" width="810" height="754" frameX="-125" frameY="-359" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0002" x="810" y="2435" width="818" height="764" frameX="-119" frameY="-350" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0003" x="1628" y="2435" width="823" height="760" frameX="-115" frameY="-355" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-left0000" x="2451" y="2435" width="818" height="764" frameX="-119" frameY="-350" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-left0001" x="3269" y="2435" width="823" height="760" frameX="-115" frameY="-355" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0000" x="0" y="3199" width="762" height="532" frameX="-616" frameY="-679" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0001" x="762" y="3199" width="695" height="657" frameX="-602" frameY="-521" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0002" x="1457" y="3199" width="692" height="647" frameX="-611" frameY="-534" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0003" x="2149" y="3199" width="694" height="647" frameX="-610" frameY="-534" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-down0000" x="2843" y="3199" width="692" height="647" frameX="-611" frameY="-534" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-down0001" x="0" y="3856" width="694" height="647" frameX="-610" frameY="-534" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0000" x="694" y="3856" width="823" height="669" frameX="-682" frameY="-445" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0001" x="1517" y="3856" width="647" height="727" frameX="-675" frameY="-382" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0002" x="2164" y="3856" width="655" height="720" frameX="-683" frameY="-390" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0003" x="2819" y="3856" width="654" height="720" frameX="-684" frameY="-390" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-right0000" x="0" y="4583" width="655" height="720" frameX="-683" frameY="-390" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="loop-right0001" x="655" y="4583" width="654" height="720" frameX="-684" frameY="-390" frameWidth="1500" frameHeight="1500" />
 </TextureAtlas>
