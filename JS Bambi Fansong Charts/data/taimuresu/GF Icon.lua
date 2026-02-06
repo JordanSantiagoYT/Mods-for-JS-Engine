@@ -8,7 +8,11 @@ iconUse = (isBF and 'iconP1' or 'iconP2')
 offsets = {30, -20} --Offset from icon. (Put negative numbers for the X if it goes on the opponent's side)
 mIcOffsets = {30, -20} --Offset for main icon.
 
+ogIconBop = ''
 function onCreatePost()
+	ogIconBop = getPropertyFromClass('ClientPrefs', 'iconBounceType')
+	setPropertyFromClass('ClientPrefs', 'iconBounceType', 'Dave and Bambi')
+
 	if not hideHud then
 		makeAnimatedLuaSprite(tagName, nil, getProperty(iconUse..'.x'), getProperty(iconUse..'.y'))
 		loadGraphic(tagName, 'icons/icon-'..iconName, iconWidth)
@@ -44,4 +48,8 @@ function onUpdatePost()
 	else
 		setProperty(tagName..'.animation.curAnim.curFrame', (isBF and '0' or '1'))
 	end
+end
+
+function onDestroy()
+	setPropertyFromClass('ClientPrefs', 'iconBounceType', ogIconBop)
 end

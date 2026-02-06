@@ -14,88 +14,51 @@ function onCreate()
 	setObjectCamera('LowerBar', 'hud')
 	addLuaSprite('LowerBar', false)
 end
-function onUpdate()
-	if start == 1 then
-	doTweenY('Cinematics1', 'UpperBar', 0, 0.5, 'Linear')
-	doTweenY('Cinematics2', 'LowerBar', 600, 0.5, 'Linear')
-	for i=0, getProperty('strumLineNotes.length')-1 do
-		noteTweenY('NOTEMOVE'..i, i, 120, 0.5, 'Linear')
-	end	
-	doTweenAlpha('AlphaTween1', 'healthBarBG', 0, 0.25)
-	doTweenAlpha('AlphaTween2', 'healthBar', 0, 0.25)
-	doTweenAlpha('AlphaTween3', 'scoreTxt', 0, 0.25)
-	doTweenAlpha('AlphaTween4', 'iconP1', 0, 0.25)
-	doTweenAlpha('AlphaTween5', 'iconP2', 0, 0.25)
-	doTweenAlpha('AlphaTween6', 'timeBar', 0, 0.25)
-	doTweenAlpha('AlphaTween7', 'timeBarBG', 0, 0.25)
-	doTweenAlpha('AlphaTween8', 'timeTxt', 0, 0.25)
-	doTweenAlpha('AlphaTween9', 'healthTxt', 0, 0.25)
-
-		for i = 0, getProperty('strumLineNotes.length')-1 do
-			noteTweenAlpha('byeNote'..i, i, 0.7, 0.5, 'linear');
-		end
-	end
-
-	if downscroll and start == 1 then
-	doTweenY('Cinematics1', 'UpperBar', -50, 0.5, 'Linear')
-	doTweenY('Cinematics2', 'LowerBar', 650, 0.5, 'Linear')
-	for i=0, getProperty('strumLineNotes.length')-1 do
-		noteTweenY('NOTEMOVE'..i, i, 120, 0.5, 'Linear')
-	end	
-	doTweenAlpha('AlphaTween1', 'healthBarBG', 0, 0.25)
-	doTweenAlpha('AlphaTween2', 'healthBar', 0, 0.25)
-	doTweenAlpha('AlphaTween3', 'scoreTxt', 0, 0.25)
-	doTweenAlpha('AlphaTween4', 'iconP1', 0, 0.25)
-	doTweenAlpha('AlphaTween5', 'iconP2', 0, 0.25)
-	doTweenAlpha('AlphaTween6', 'timeBar', 0, 0.25)
-	doTweenAlpha('AlphaTween7', 'timeBarBG', 0, 0.25)
-	doTweenAlpha('AlphaTween8', 'timeTxt', 0, 0.25)
-	doTweenAlpha('AlphaTween9', 'healthTxt', 0, 0.25)
-	end
-
-	if finish == 2 then
-	doTweenY('Cinematics1', 'UpperBar', -120, 0.5, 'Linear')
-	doTweenY('Cinematics2', 'LowerBar', 720, 0.5, 'Linear')
-	for i=0, getProperty('strumLineNotes.length')-1 do
-		noteTweenY('NOTEMOVE'..i, i, 50, 0.5, 'Linear')
-	end	
-	doTweenAlpha('AlphaTween1', 'healthBarBG', 1, 0.25)
-	doTweenAlpha('AlphaTween2', 'healthBar', 1, 0.25)
-	doTweenAlpha('AlphaTween3', 'scoreTxt', 1, 0.25)
-	doTweenAlpha('AlphaTween4', 'iconP1', 1, 0.25)
-	doTweenAlpha('AlphaTween5', 'iconP2', 1, 0.25)
-	doTweenAlpha('AlphaTween6', 'timeBar', 1, 0.25)
-	doTweenAlpha('AlphaTween7', 'timeBarBG', 1, 0.25)
-	doTweenAlpha('AlphaTween8', 'timeTxt', 1, 0.25)
-	doTweenAlpha('AlphaTween9', 'healthTxt', 1, 0.25)
-
-		for i = 0, getProperty('strumLineNotes.length')-1 do
-			noteTweenAlpha('byeNote'..i, i, 1, 0.5, 'linear');
-		end
-	end
-
-	if downscroll and finish == 2 then
-	doTweenY('Cinematics1', 'UpperBar', -120, 0.5, 'Linear')
-	doTweenY('Cinematics2', 'LowerBar', 720, 0.5, 'Linear')
-	for i=0, getProperty('strumLineNotes.length')-1 do
-		noteTweenY('NOTEMOVE'..i, i, 570, 0.5, 'Linear')
-	end	
-	doTweenAlpha('AlphaTween1', 'healthBarBG', 1, 0.25)
-	doTweenAlpha('AlphaTween2', 'healthBar', 1, 0.25)
-	doTweenAlpha('AlphaTween3', 'scoreTxt', 1, 0.25)
-	doTweenAlpha('AlphaTween4', 'iconP1', 1, 0.25)
-	doTweenAlpha('AlphaTween5', 'iconP2', 1, 0.25)
-	doTweenAlpha('AlphaTween6', 'timeBar', 1, 0.25)
-	doTweenAlpha('AlphaTween7', 'timeBarBG', 1, 0.25)
-	doTweenAlpha('AlphaTween8', 'timeTxt', 1, 0.25)
-	doTweenAlpha('AlphaTween9', 'healthTxt', 1, 0.25)
-	end
-end
 
 function onEvent(name,value1,value2)
 	if name == 'Cinematics' then
 		start = tonumber(value1)
 		finish = tonumber(value2)
+		if start == 1 then
+			doTweenY('Cinematics1', 'UpperBar', (downscroll and -50 or 0), 3, 'expoOut')
+			doTweenY('Cinematics2', 'LowerBar', (downscroll and 650 or 600), 3, 'expoOut')
+			for i=0, getProperty('strumLineNotes.length')-1 do
+				noteTweenY('NOTEMOVE'..i, i, (downscroll and 520 or 120), 3, 'expoOut')
+			end	
+			doTweenAlpha('AlphaTween1', 'healthBarBG', 0, 1)
+			doTweenAlpha('AlphaTween2', 'healthBar', 0, 1)
+			doTweenAlpha('AlphaTween3', 'scoreTxt', 0, 1)
+			doTweenAlpha('AlphaTween4', 'iconP1', 0, 1)
+			doTweenAlpha('AlphaTween5', 'iconP2', 0, 1)
+			doTweenAlpha('AlphaTween6', 'timeBar', 0, 0.25)
+			doTweenAlpha('AlphaTween7', 'timeBarBG', 0, 0.25)
+			doTweenAlpha('AlphaTween8', 'timeTxt', 0, 0.25)
+			doTweenAlpha('AlphaTween9', 'healthTxt', 0, 0.25)
+
+			for i = 0, getProperty('strumLineNotes.length')-1 do
+				noteTweenAlpha('byeNote'..i, i, 0.7, 3, 'expoOut');
+			end
+		end
+		if finish == 2 then
+			doTweenY('Cinematics1', 'UpperBar', -120, 3, 'expoOut')
+			doTweenY('Cinematics2', 'LowerBar', 720, 3, 'expoOut')
+			for i=0, getProperty('strumLineNotes.length')-1 do
+				noteTweenY('NOTEMOVE'..i, i, (downscroll and 570 or 50), 3, 'expoOut')
+			end	
+			doTweenAlpha('AlphaTween1', 'healthBarBG', 1, 1)
+			doTweenAlpha('AlphaTween2', 'healthBar', 1, 1)
+			doTweenAlpha('AlphaTween3', 'scoreTxt', 1, 1)
+			doTweenAlpha('AlphaTween4', 'iconP1', 1, 1)
+			doTweenAlpha('AlphaTween5', 'iconP2', 1, 1)
+			doTweenAlpha('AlphaTween6', 'timeBar', 1, 0.25)
+			doTweenAlpha('AlphaTween7', 'timeBarBG', 1, 0.25)
+			doTweenAlpha('AlphaTween8', 'timeTxt', 1, 0.25)
+			doTweenAlpha('AlphaTween9', 'healthTxt', 1, 0.25)
+
+			for i = 0, getProperty('strumLineNotes.length')-1 do
+				noteTweenAlpha('backNote'..i, i, 1, 3, 'expoOut');
+			end
+		end
 	end
 end
 

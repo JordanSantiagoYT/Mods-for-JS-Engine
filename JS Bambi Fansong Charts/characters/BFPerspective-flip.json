@@ -57,11 +57,6 @@
 		}
 	],
 	"vocals_file": "",
-	"losing_colors": [
-		0,
-		182,
-		255
-	],
 	"no_antialiasing": false,
 	"image": "characters/BFPerspective",
 	"shake_duration": 0,
@@ -74,23 +69,18 @@
 	"healthicon": "bf",
 	"shake_screen": false,
 	"drain_floor": 0,
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
-		0,
-		182,
-		255
+		49,
+		176,
+		209
 	],
 	"drain_amount": 0,
 	"camera_position": [
-		200,
-		-150
+		-240,
+		-110
 	],
 	"sing_duration": 4,
 	"noteskin": null,
-	"winning_colors": [
-		0,
-		182,
-		255
-	],
 	"scale": 1
 }

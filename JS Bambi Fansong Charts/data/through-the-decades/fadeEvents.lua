@@ -8,7 +8,7 @@ function onCreatePost()
 	setProperty('flash.alpha', 1)
 	setObjectCamera('flash', 'camOther')
 
-	makeLuaText('Credits', "Through the Decades\n\nSong by 18hera\n\nChart by Jordan Santiago", 1250, 0, 720)
+	makeLuaText('Credits', "Through the Decades (1.5)\n\nSong by 18hera\n\nChart by Jordan Santiago", 1250, 0, 720)
 	setTextAlignment('Credits', 'Center')
 	addLuaText('Credits')
 	setTextSize('Credits', 40)
@@ -25,7 +25,7 @@ function onSongStart()
 end
 function onStepHit()
 	if curStep == 256 then
-		doTweenY('creditTween', 'Credits', 250, 2, 'expoOut')
+		doTweenY('creditTween', 'Credits', 250, (240/curBpm), 'expoOut')
 	end
 	if curStep == 288 then
 		doTweenY('creditTween', 'Credits', -420, (240/curBpm), 'expoIn')
@@ -35,7 +35,7 @@ function onStepHit()
 		setObjectCamera('flash', 'camGame')
 		doTweenAlpha('flashIn', 'flash', 1, (60/curBpm))
 	end
-	if curStep == 1808 then
+	if curStep == 1808 or curStep == 2320 then
 		cameraFlash('camOther', 'ffffff', 0.7)
 		setProperty('flash.alpha', 0)
 		setObjectCamera('flash', 'camOther')

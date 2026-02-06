@@ -2296,15 +2296,6 @@
 			]
 		],
 		[
-			"Through the Decades",
-			"bambi",
-			[
-				12,
-				181,
-				0
-			]
-		],
-		[
 			"Vulgate Seriously Remix",
 			"jerphase2",
 			[
@@ -2491,6 +2482,114 @@
 				255,
 				255,
 				255
+			]
+		],
+		[
+			"Bixbite",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Golden Remix",
+			"benson",
+			[
+				252,
+				247,
+				52
+			]
+		],
+		[
+			"Through the Decades",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"What is Circus of Digital Remake",
+			"pomni",
+			[
+				226,
+				49,
+				72
+			]
+		],
+		[
+			"Rambunctious",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Wheelchair Mania Remake",
+			"hellDave",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Broken Tool",
+			"netherite-pickaxe",
+			[
+				49,
+				41,
+				42
+			]
+		],
+		[
+			"Iniquitous",
+			"jeremyphase1",
+			[
+				0,
+				42,
+				0
+			]
+		],
+		[
+			"Heavenly",
+			"holy",
+			[
+				255,
+				255,
+				51
+			]
+		],
+		[
+			"Resplendent",
+			"res",
+			[
+				253,
+				169,
+				130
+			]
+		],
+		[
+			"Ephemeral",
+			"nothing",
+			[
+				9,
+				9,
+				9
+			]
+		],
+		[
+			"Adminarchy",
+			"admin",
+			[
+				222,
+				0,
+				0
 			]
 		]
 	],

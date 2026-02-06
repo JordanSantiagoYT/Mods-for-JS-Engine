@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="benson.png">
+<SubTexture name="benson danceLeft0000" x="834" y="710" width="416" height="646" frameX="-246" frameY="-171" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson danceLeft0001" x="416" y="710" width="418" height="650" frameX="-263" frameY="-165" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson danceLeft0002" x="1625" y="0" width="418" height="643" frameX="-296" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson danceLeft0003" x="2043" y="0" width="416" height="638" frameX="-301" frameY="-171" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson danceRight0000" x="0" y="1368" width="429" height="642" frameX="-371" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson danceRight0001" x="429" y="1368" width="424" height="642" frameX="-367" frameY="-183" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson danceRight0002" x="853" y="1368" width="410" height="639" frameX="-318" frameY="-173" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson danceRight0003" x="2043" y="0" width="416" height="638" frameX="-301" frameY="-171" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Up0000" x="0" y="0" width="413" height="710" frameX="-272" frameY="-101" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Up0001" x="413" y="0" width="411" height="689" frameX="-276" frameY="-120" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Up0002" x="0" y="710" width="416" height="658" frameX="-296" frameY="-146" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Right0000" x="1705" y="2643" width="508" height="564" frameX="-377" frameY="-244" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Right0001" x="1217" y="2643" width="488" height="575" frameX="-381" frameY="-233" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Right0002" x="408" y="2643" width="413" height="605" frameX="-399" frameY="-200" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Down0000" x="0" y="3250" width="546" height="379" frameX="-228" frameY="-511" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Down0001" x="546" y="3250" width="535" height="377" frameX="-234" frameY="-504" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Down0002" x="3252" y="0" width="454" height="386" frameX="-286" frameY="-439" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Left0000" x="2046" y="2010" width="444" height="615" frameX="-143" frameY="-198" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Left0001" x="815" y="2010" width="419" height="620" frameX="-160" frameY="-191" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Left0002" x="2043" y="638" width="398" height="638" frameX="-236" frameY="-171" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Idle-alt0000" x="821" y="2643" width="396" height="604" frameX="-327" frameY="-225" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Idle-alt0001" x="2864" y="0" width="388" height="607" frameX="-332" frameY="-220" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Idle-alt0002" x="2459" y="634" width="403" height="628" frameX="-295" frameY="-191" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Idle-alt0003" x="2043" y="1276" width="404" height="635" frameX="-289" frameY="-183" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Idle-alt0004" x="2043" y="1276" width="404" height="635" frameX="-289" frameY="-183" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Idle-alt0005" x="412" y="2010" width="403" height="625" frameX="-293" frameY="-194" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Left-alt0000" x="0" y="2010" width="412" height="633" frameX="-203" frameY="-203" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Left-alt0001" x="2459" y="1262" width="405" height="628" frameX="-214" frameY="-202" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Left-alt0002" x="1263" y="1368" width="406" height="639" frameX="-281" frameY="-189" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Right-alt0000" x="1632" y="2010" width="414" height="617" frameX="-382" frameY="-204" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Right-alt0001" x="1234" y="2010" width="398" height="618" frameX="-382" frameY="-202" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Right-alt0002" x="1625" y="643" width="417" height="643" frameX="-287" frameY="-181" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Up-alt0000" x="824" y="0" width="403" height="687" frameX="-299" frameY="-134" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Up-alt0001" x="1227" y="0" width="398" height="668" frameX="-296" frameY="-146" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Up-alt0002" x="2459" y="0" width="405" height="634" frameX="-292" frameY="-178" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Down-Alt0000" x="2613" y="2643" width="396" height="538" frameX="-311" frameY="-293" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Down-Alt0001" x="2213" y="2643" width="400" height="555" frameX="-304" frameY="-277" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="benson Down-Alt0002" x="0" y="2643" width="408" height="607" frameX="-293" frameY="-216" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

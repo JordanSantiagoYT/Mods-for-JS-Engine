@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HolyExpunged.png">
+<SubTexture name="Right0000" x="1014" y="1020" width="489" height="424" frameX="-48" frameY="-82" frameWidth="537" frameHeight="510" />
+<SubTexture name="Right0001" x="1192" y="0" width="383" height="469" frameX="-48" frameY="-36" frameWidth="537" frameHeight="510" />
+<SubTexture name="Right0002" x="790" y="513" width="356" height="491" frameX="-39" frameY="-15" frameWidth="537" frameHeight="510" />
+<SubTexture name="Up0000" x="380" y="513" width="410" height="495" frameX="-92" frameY="-109" frameWidth="531" frameHeight="630" />
+<SubTexture name="Up0001" x="0" y="0" width="342" height="513" frameX="-161" frameY="-77" frameWidth="531" frameHeight="630" />
+<SubTexture name="Up0002" x="342" y="0" width="376" height="512" frameX="-154" frameY="-77" frameWidth="531" frameHeight="630" />
+<SubTexture name="Down0000" x="433" y="1481" width="387" height="399" frameX="-113" frameY="-48" frameWidth="551" frameHeight="475" />
+<SubTexture name="Down0001" x="0" y="1481" width="433" height="400" frameX="-80" frameY="-25" frameWidth="551" frameHeight="475" />
+<SubTexture name="Down0002" x="516" y="1020" width="498" height="430" frameX="-25" frameY="-1" frameWidth="551" frameHeight="475" />
+<SubTexture name="Left0000" x="0" y="1020" width="516" height="461" frameX="-55" frameY="-58" frameWidth="595" frameHeight="519" />
+<SubTexture name="Left0001" x="718" y="0" width="474" height="508" frameX="-115" frameY="-11" frameWidth="595" frameHeight="519" />
+<SubTexture name="Left0002" x="0" y="513" width="380" height="507" frameX="-170" frameY="-12" frameWidth="595" frameHeight="519" />
+<SubTexture name="Idle0000" x="1192" y="469" width="294" height="456" frameX="-8" frameY="0" frameWidth="430" frameHeight="472" />
+<SubTexture name="Idle0001" x="1575" y="0" width="366" height="406" frameX="-7" frameY="-51" frameWidth="430" frameHeight="472" />
+<SubTexture name="Idle0002" x="820" y="1481" width="407" height="308" frameX="-22" frameY="-162" frameWidth="430" frameHeight="472" />
+<SubTexture name="tbh0000" x="1575" y="406" width="280" height="319" frameX="-6" frameY="-6" frameWidth="287" frameHeight="332" />
+</TextureAtlas>

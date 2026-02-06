@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				1,
+				0
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				743,
+				170
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				381,
+				-211
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				601,
+				371
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-133,
+				131
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-100,
+				-340
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "tbh",
+			"indices": [],
+			"name": "tbh"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/HolyExpunged",
+	"position": [
+		190,
+		30
+	],
+	"healthicon": "holy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		51
+	],
+	"camera_position": [
+		-998,
+		-609
+	],
+	"sing_duration": 4,
+	"scale": 2.8
+}

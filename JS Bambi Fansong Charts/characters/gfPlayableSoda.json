@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 4, 4],
+			"name": "gfPlayable danceLeft"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 4, 4],
+			"name": "gfPlayable danceRight"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2],
+			"name": "gfPlayable left"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2],
+			"name": "gfPlayable right"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2],
+			"name": "gfPlayable down"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2],
+			"name": "gfPlayable up"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [0, 0, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+			"name": "gfPlayable dodge"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [0, 0, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+			"name": "gfPlayable hit"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "block",
+			"indices": [0, 1, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6],
+			"name": "gfPlayable block"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1],
+			"name": "gfPlayable hey"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "transform",
+			"fps": 24,
+			"name": "gfPlayable transform",
+			"indices": [0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "transformBack",
+			"fps": 24,
+			"name": "gfPlayable transform",
+			"indices": [10, 10, 10, 10, 10, 10, 10, 10, 10, 9, 9, 8, 8, 7, 7, 6, 6, 6, 6, 5, 5, 4, 4, 3, 3, 2, 2, 1, 1]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gfPlayable",
+	"position": [-160, -30],
+	"healthicon": "gfsoda",
+	"flip_x": true,
+	"healthbar_colors": [165, 0, 77],
+	"camera_position": [-50, 220],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": true
+}

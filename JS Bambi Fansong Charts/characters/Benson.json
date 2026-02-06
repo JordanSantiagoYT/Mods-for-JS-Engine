@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 8,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "benson danceLeft"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 8,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "benson danceRight"
+		},
+		{
+			"offsets": [-31, -29],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "benson Down0"
+		},
+		{
+			"offsets": [1, 4],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "benson Left0"
+		},
+		{
+			"offsets": [8, 33],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "benson Up0"
+		},
+		{
+			"offsets": [6, -10],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "benson Down-Alt"
+		},
+		{
+			"offsets": [16, 11],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "benson Left-alt"
+		},
+		{
+			"offsets": [0, 4],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "benson Right-alt"
+		},
+		{
+			"offsets": [6, 5],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "benson Idle-alt"
+		},
+		{
+			"offsets": [-30, 19],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "benson Right0"
+		},
+		{
+			"offsets": [4, 12],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "benson Up-alt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Benson",
+	"position": [-250, -150],
+	"healthicon": "benson",
+	"flip_x": false,
+	"healthbar_colors": [252, 247, 52],
+	"camera_position": [-160, -45],
+	"sing_duration": 3.3,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}
