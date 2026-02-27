@@ -1,0 +1,2066 @@
+{
+	"song": {
+		"events": [
+			[
+				19.1570881226054,
+				[
+					[
+						"Hud Fade",
+						"0.01",
+						"0"
+					]
+				]
+			],
+			[
+				114.942528735632,
+				[
+					[
+						"Set RTX Data",
+						"0,0,0,0,0.58914618280372,0,0,0.13529027360113,0.56532720841417,0,0,0.56547210351146,313.57049177803,21.914960754166",
+						""
+					]
+				]
+			],
+			[
+				229.885057471264,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				14712.6436781609,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15057.4712643678,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15402.2988505747,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15632.183908046,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15747.1264367816,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15862.0689655172,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16091.9540229885,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16321.8390804598,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16551.724137931,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16896.5517241379,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17241.3793103448,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17471.2643678161,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17586.2068965517,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17701.1494252874,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17931.0344827586,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18160.9195402299,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18390.8045977011,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18735.632183908,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19080.4597701149,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19310.3448275862,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19425.2873563218,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19540.2298850575,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19770.1149425287,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20229.8850574713,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20574.7126436782,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20919.540229885,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21149.4252873563,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21264.3678160919,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21379.3103448276,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21609.1954022988,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21839.0804597701,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21954.0229885057,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"2"
+					]
+				]
+			],
+			[
+				22068.9655172414,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				22413.7931034483,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22758.6206896552,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"I said",
+						"8c0000"
+					]
+				]
+			],
+			[
+				22988.5057471264,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23103.4482758621,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23218.3908045977,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23333.3333333333,
+				[
+					[
+						"lyrics",
+						"I said STOP.. (unintelligible)",
+						"8c0000"
+					]
+				]
+			],
+			[
+				23448.275862069,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23678.1609195402,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23908.0459770115,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				24252.8735632184,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24597.7011494253,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24827.5862068965,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24942.5287356322,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"I'm watching you, Allison.",
+						"8c0000"
+					]
+				]
+			],
+			[
+				25057.4712643678,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25287.3563218391,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25517.2413793103,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25747.1264367816,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				26091.9540229885,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"(i cant tell what he's saying here Sorry guys)",
+						"8c0000"
+					]
+				]
+			],
+			[
+				26436.7816091954,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26781.6091954023,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26896.5517241379,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27011.4942528735,
+				[
+					[
+						"lyrics",
+						"You've been calling me!",
+						"8c0000"
+					]
+				]
+			],
+			[
+				27126.4367816092,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27356.3218390804,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27586.2068965517,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				27931.0344827586,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28045.9770114942,
+				[
+					[
+						"lyrics",
+						"Allison..",
+						"8c0000"
+					]
+				]
+			],
+			[
+				28275.8620689655,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28505.7471264368,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"STOP!",
+						"8c0000"
+					]
+				]
+			],
+			[
+				28620.6896551724,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28735.632183908,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28965.5172413793,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29195.4022988506,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29310.3448275862,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"2"
+					]
+				]
+			],
+			[
+				29425.2873563218,
+				[
+					[
+						"Hud Fade",
+						"0.01",
+						"1"
+					],
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57816.091954023,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				57931.0344827587,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				58735.6321839081,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				58850.5747126437,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				59770.1149425288,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				60229.8850574713,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				60689.6551724139,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				61609.1954022989,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				62068.9655172414,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				62528.735632184,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				63448.275862069,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				63908.0459770115,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				64367.8160919541,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				65287.3563218392,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				65747.1264367816,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				66206.8965517242,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				67126.4367816092,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				67586.2068965517,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				68045.9770114943,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				68965.5172413794,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				69425.2873563219,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				69885.0574712645,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				70804.5977011495,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				71264.367816092,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				71724.1379310346,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				72643.6781609196,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				73103.4482758621,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				73563.2183908047,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				74482.7586206897,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				74942.5287356322,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				75402.2988505748,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				76321.8390804598,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				76781.6091954023,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				77241.3793103449,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				78160.91954023,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				78620.6896551724,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				79080.459770115,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				80000.0000000001,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				80459.7701149426,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				80919.5402298851,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				81839.0804597702,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				82298.8505747127,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				82758.6206896553,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				83678.1609195403,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				84137.9310344828,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				84597.7011494254,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				85517.2413793104,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				85977.0114942529,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				86436.7816091954,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				87356.3218390806,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				87816.0919540231,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				88045.9770114942,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				88275.8620689655,
+				[
+					[
+						"ChaSrlTyp~ Strum Swap",
+						"swap, swap",
+						"opponent"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				95632.1839080459,
+				[
+					[
+						"ChaSrlTyp~ Strum Swap",
+						"swap, swap",
+						"player"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					]
+				]
+			],
+			[
+				102988.505747126,
+				[
+					[
+						"ChaSrlTyp~ Strum Swap",
+						"swap, swap",
+						"opponent"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					],
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"12.87, quadInOut"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"ChaSrlTyp~ Strum Swap",
+						"swap, swap",
+						"player"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					]
+				]
+			],
+			[
+				114022.988505747,
+				[
+					[
+						"ChaSrlTyp~ Strum Swap",
+						"swap, swap",
+						"opponent"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					]
+				]
+			],
+			[
+				116781.609195402,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, expoOut"
+					]
+				]
+			],
+			[
+				117586.206896552,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Camera Twist",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				117701.149425287,
+				[
+					[
+						"ChaSrlTyp~ Strum Swap",
+						"swap, swap",
+						"player"
+					],
+					[
+						"Change Scrolltype",
+						"",
+						"swap"
+					],
+					[
+						"Cinematics",
+						"",
+						"2, 0.3"
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					],
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				118620.689655172,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				119080.459770115,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				119540.229885058,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				120459.770114943,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				120919.540229885,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				121379.310344828,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				122298.850574713,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				123218.390804598,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				124137.931034483,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				124597.701149425,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				125057.471264368,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				125977.011494253,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				126436.781609195,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				126896.551724138,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				127816.091954023,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				128275.862068966,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				128735.632183908,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				129655.172413793,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				130574.712643678,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				131494.252873563,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				131954.022988506,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				132413.793103448,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				133333.333333333,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				134252.873563218,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				135172.413793104,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				135632.183908046,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				136091.954022989,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				137011.494252874,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				137931.034482759,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				138850.574712644,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				139310.344827586,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				139770.114942529,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				140689.655172414,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				141609.195402299,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				142528.735632184,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				142988.505747126,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				143448.275862069,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				144367.816091954,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				145287.356321839,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.7, expoOut"
+					]
+				]
+			],
+			[
+				146206.896551724,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.4, expoOut"
+					],
+					[
+						"Change Scrolltype",
+						"swap",
+						""
+					]
+				]
+			],
+			[
+				146666.666666667,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.4, expoOut"
+					]
+				]
+			],
+			[
+				147011.494252873,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Camera Twist",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				147126.436781609,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					],
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				161839.08045977,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.12"
+					]
+				]
+			]
+		]
+	}
+}

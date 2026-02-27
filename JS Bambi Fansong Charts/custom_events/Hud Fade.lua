@@ -7,6 +7,7 @@ local tweenedHud = {
     'iconP2',
     'timeTxt',
     'scoreTxt',
+    'botplayTxt',
 }
 
 function onEvent(name, value1, value2)

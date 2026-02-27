@@ -1,0 +1,9 @@
+Swaps the Strums -
+ Value 1:
+   'off' for default
+   'on' to Swap the Strums
+   'swap' to Swap- ...swap them
+ Value 2:                  (changes only when used)
+   'full' for both strums to have fully opaque
+   'opponent' or 'player' to have it be not transparent
+Quick Note: Swaps once the base event is used!

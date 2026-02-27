@@ -110,7 +110,7 @@ local PSYCHDOWN = -11
 local PSYCHUP = -12;
 local PSYCHRIGHT = -13;
 
-keyCount = 18 --Default key count (used if no "Set Key Count" event is found)
+local keyCount = 18; --Default key count (used if no "Set Key Count" event is found)
 
 
 local arrowDirs = {'LEFT', 'DOWN', 'UP', 'RIGHT', 'SPACE', 'SHARPLEFT', 'SHARPDOWN', 'SHARPUP', 'SHARPRIGHT'}
@@ -334,6 +334,9 @@ function reparseChart()
 		var gottaHitNote:Bool = false;
 		var swagNote:PreloadedChartNote;
 
+	trace('Loading Part 2: Electric Boogaloo');
+	var notesLoaded:Int = 0;
+
         for (section in PlayState.SONG.notes) //reload dat shit
 		{
             if (section.changeBPM) currentBPMLol = section.bpm;
@@ -380,6 +383,7 @@ function reparseChart()
 					if (swagNote.noteskin != '' && !Paths.noteSkinFramesMap.exists(swagNote.noteskin)) Paths.initNote(swagNote.noteskin);
 
                     game.unspawnNotes.push(swagNote);
+			notesLoaded += 1;
     
                     if (swagNote.sustainLength < 1) continue;
 
@@ -415,6 +419,7 @@ function reparseChart()
 					}
 				}
 			}
+			trace('Notes Loaded: ' + notesLoaded);
 		}
         game.bfNoteskin = game.boyfriend.noteskin;
 		game.dadNoteskin = game.dad.noteskin;
@@ -652,10 +657,8 @@ function generateBinds()
     end
     disableSplashes() --need to run it after this in case it saves
 
-
-
     local controlArray = getProperty('keysArray')
-    --debugPrint(controlArray)
+	if #controlArray < 1 then return end
     for i = 0,keyCount-1 do 
         local control = getControlFromInt(controlArray[i+1][1])
         --debugPrint(control)

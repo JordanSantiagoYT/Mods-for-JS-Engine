@@ -1,0 +1,9 @@
+Changes the Tweens -
+ Value 1:
+   Set 'ease' type OR Set 'ease, duration' type
+ Value 2:
+   Set 'duration' type OR Set 'Vert' or 'Hori' for direction and 'Both' works too
+
+  Default's are 'quadOut' and '0.5'
+
+Quick Note: Will revert after the Base Event is used!

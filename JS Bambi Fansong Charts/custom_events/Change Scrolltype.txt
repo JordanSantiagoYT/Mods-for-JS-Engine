@@ -1,0 +1,9 @@
+Changes the Scrolltype -
+ Value 1 or 2:
+   'off' is to switch to Upscroll(v1) or Sidescroll(v2)
+   'on' is to switch to Downscroll(v1) or Middlescroll(v2)
+   'swap' is to switch between Scrolltypes
+   'default' is to switch to the Default Scrolltype
+   'anti' is to switch to Opposite of the Default Scrolltype
+
+Use "ChaSrlTyp~ Tween Typing" to do 'insta' instead!

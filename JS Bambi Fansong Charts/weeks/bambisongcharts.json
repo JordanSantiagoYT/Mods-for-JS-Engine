@@ -2591,6 +2591,87 @@
 				0,
 				0
 			]
+		],
+		[
+			"Intermediate",
+			"bf-angry",
+			[
+				49,
+				176,
+				209
+			]
+		],
+		[
+			"Stepless",
+			"kalmpokebam",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Temptation",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Heartsore Existence",
+			"preheartsore",
+			[
+				222,
+				0,
+				0
+			]
+		],
+		[
+			"Goodbye",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"The Final Riff",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Hellbreaker Remake",
+			"hellbreaker-cool",
+			[
+				119,
+				0,
+				0
+			]
+		],
+		[
+			"Thingamabobophobia",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"CKR Null",
+			"p19",
+			[
+				255,
+				255,
+				255
+			]
 		]
 	],
 	"hideFreeplay": false,

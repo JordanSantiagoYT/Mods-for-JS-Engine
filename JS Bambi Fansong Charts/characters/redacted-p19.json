@@ -1,0 +1,27 @@
+{"animations": [
+{"anim": "idle","name": "idle","loop": false,"fps": 10,"offsets": [0,0]},
+{"anim": "singLEFT","name": "left","loop": false,"fps": 10,"offsets": [0,0]},
+{"anim": "singDOWN","name": "down","loop": false,"fps": 10,"offsets": [0,0]},
+{"anim": "singUP","name": "up","loop": false,"fps": 10,"offsets": [0,0]},
+{"anim": "singRIGHT","name": "right","loop": false,"fps": 10,"offsets": [0,0]}],
+
+"image": "characters/redacted-p19",
+"healthicon": "p19",
+"isPlayer": false,
+"flip_x": false,
+"no_antialiasing": true,
+
+"scale": 1.2,
+"sing_duration": 8,
+
+"position": [-400,-400],
+"camera_position": [-100,-50],
+"healthbar_colors": [255,230,255],
+
+"shake_screen": true,
+"shake_duration": 0.01,
+"shake_intensity": 0.005,
+
+"health_drain": false,
+"drain_amount": 0.01,
+"drain_floor": 0.1}
