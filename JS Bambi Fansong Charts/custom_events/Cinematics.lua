@@ -43,7 +43,9 @@ function onEvent(name,value1,value2)
 			doTweenY('Cinematics1', 'UpperBar', (ds and -50 or 0), duration, 'expoOut')
 			doTweenY('Cinematics2', 'LowerBar', (ds and 650 or 600), duration, 'expoOut')
 			for i=0, getProperty('strumLineNotes.length')-1 do
-				noteTweenY('NOTEMOVE'..i, i, (ds and 520 or 120), duration, 'expoOut')
+				if getPropertyFromGroup('strumLineNotes', i, 'alpha') > 0 and getPropertyFromGroup('strumLineNotes', i, 'visible') then
+					noteTweenY('NOTEMOVE'..i, i, (ds and 520 or 120), duration, 'expoOut')
+				end
 			end	
 			doTweenAlpha('AlphaTween1', 'healthBarBG', 0, 1)
 			doTweenAlpha('AlphaTween2', 'healthBar', 0, 1)
@@ -56,14 +58,18 @@ function onEvent(name,value1,value2)
 			doTweenAlpha('AlphaTween9', 'healthTxt', 0, 0.25)
 
 			for i = 0, getProperty('strumLineNotes.length')-1 do
-				noteTweenAlpha('byeNote'..i, i, 0.7, duration, 'expoOut');
+				if getPropertyFromGroup('strumLineNotes', i, 'alpha') > 0 and getPropertyFromGroup('strumLineNotes', i, 'visible') then
+					noteTweenAlpha('byeNote'..i, i, 0.7, duration, 'expoOut');
+				end
 			end
 		end
 		if finish == 2 then
 			doTweenY('Cinematics1', 'UpperBar', -120, duration, 'expoOut')
 			doTweenY('Cinematics2', 'LowerBar', 720, duration, 'expoOut')
 			for i=0, getProperty('strumLineNotes.length')-1 do
-				noteTweenY('NOTEMOVE'..i, i, (ds and 570 or 50), duration, 'expoOut')
+				if getPropertyFromGroup('strumLineNotes', i, 'alpha') > 0 and getPropertyFromGroup('strumLineNotes', i, 'visible') then
+					noteTweenY('NOTEMOVE'..i, i, (ds and 570 or 50), duration, 'expoOut')
+				end
 			end	
 			doTweenAlpha('AlphaTween1', 'healthBarBG', 1, 1)
 			doTweenAlpha('AlphaTween2', 'healthBar', 1, 1)
@@ -76,7 +82,9 @@ function onEvent(name,value1,value2)
 			doTweenAlpha('AlphaTween9', 'healthTxt', 1, 0.25)
 
 			for i = 0, getProperty('strumLineNotes.length')-1 do
-				noteTweenAlpha('backNote'..i, i, 1, duration, 'expoOut');
+				if getPropertyFromGroup('strumLineNotes', i, 'alpha') > 0 and getPropertyFromGroup('strumLineNotes', i, 'visible') then
+					noteTweenAlpha('backNote'..i, i, 1, duration, 'expoOut');
+				end
 			end
 		end
 	end

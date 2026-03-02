@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="the-last-ember.png">
+<SubTexture name="idle0000" x="0" y="0" width="425" height="539" frameX="-436" frameY="-784" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="idle0001" x="425" y="0" width="426" height="540" frameX="-432" frameY="-785" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="idle0002" x="851" y="0" width="428" height="540" frameX="-430" frameY="-784" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="idle0003" x="0" y="540" width="426" height="541" frameX="-434" frameY="-785" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="right0000" x="426" y="540" width="555" height="534" frameX="-431" frameY="-787" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="right0001" x="981" y="540" width="543" height="531" frameX="-430" frameY="-790" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="down0000" x="0" y="1081" width="435" height="580" frameX="-432" frameY="-788" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="down0001" x="435" y="1081" width="438" height="566" frameX="-432" frameY="-786" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="up0000" x="873" y="1081" width="437" height="572" frameX="-431" frameY="-740" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="up0001" x="0" y="1661" width="432" height="558" frameX="-433" frameY="-759" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="left0000" x="432" y="1661" width="404" height="538" frameX="-434" frameY="-784" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="left0001" x="836" y="1661" width="409" height="547" frameX="-435" frameY="-788" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

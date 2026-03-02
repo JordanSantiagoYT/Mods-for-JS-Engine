@@ -1,0 +1,5 @@
+Similar to JSE's built in 'Camera Twist' event, but more customizable.
+
+Value 1: Speed (increments of 0.25 supported!)
+Value 2: Intensity
+Value 3 (split val2 with a ","): Ease
