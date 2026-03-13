@@ -8,7 +8,7 @@ function onCreatePost()
 	setProperty('flash.alpha', 1)
 	setObjectCamera('flash', 'camOther')
 
-	makeLuaText('Credits', "Hellbreaker (Akira's Remake)\n\nSong by Akira\n\nChart by Jordan Santiago\n\nOpponent Sprites by Enzo Polis", 1250, 0, 720)
+	makeLuaText('Credits', "Quixotic\n\nSong by Sam the Stickman\n\nChart by Jordan Santiago", 1250, 0, 720)
 	setTextAlignment('Credits', 'Center')
 	addLuaText('Credits')
 	setTextSize('Credits', 40)
@@ -18,19 +18,17 @@ function onCreatePost()
 end
 
 function onSongStart()
-	doTweenAlpha('fadeIntro', 'flash', 0, (240/curBpm) * 16, 'linear')
+	doTweenAlpha('fadeIntro', 'flash', 0, (240/curBpm) * 32, 'linear')
 end
 function onStepHit()
 	if curStep == 512 then
-		cameraFlash('camOther', 'ffffff', 0.7)
-		doTweenY('creditTween', 'Credits', 250, (240/curBpm), 'expoOut')
+		doTweenY('creditTween', 'Credits', 250, (480/curBpm), 'expoOut')
 	end
 	if curStep == 576 then
-		doTweenY('creditTween', 'Credits', -420, (240/curBpm), 'expoIn')
-		doTweenAlpha('ytWatermarkIn', 'ytWatermark', 0.5, (240/curBpm), 'linear')
+		doTweenY('creditTween', 'Credits', -420, (480/curBpm), 'expoIn')
+		doTweenAlpha('ytWatermarkIn', 'ytWatermark', 0.5, (480/curBpm), 'linear')
 	end
-	if curStep == 2824 then
-		cameraFlash('camOther', 'ffffff', 0.7)
-		setProperty('flash.alpha', 1)
+	if curStep == 3456 then
+		doTweenAlpha('fadeOut', 'flash', 1, (240/curBpm) * 8, 'linear')
 	end
 end

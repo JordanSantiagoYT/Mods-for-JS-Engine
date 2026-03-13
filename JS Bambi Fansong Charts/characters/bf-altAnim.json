@@ -3,12 +3,12 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-13,
+				-16
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle0",
+			"name": "BF ALT idle",
 			"indices": []
 		},
 		{
