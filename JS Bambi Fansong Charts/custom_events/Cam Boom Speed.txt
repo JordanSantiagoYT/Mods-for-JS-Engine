@@ -1,2 +1,3 @@
 Value 1: Speed
 Value 2: Intensity
+Val 3 (split v2 with a ','): Offset

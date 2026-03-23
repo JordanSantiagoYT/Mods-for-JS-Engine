@@ -1,0 +1,221 @@
+{
+	"song": {
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					],
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24285.7142857143,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				48000.0000000001,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				48666.6666666667,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"2.5"
+					]
+				]
+			],
+			[
+				48761.9047619048,
+				[
+					[
+						"Set Cam Zoom",
+						"default",
+						""
+					]
+				]
+			],
+			[
+				50285.7142857143,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-altAnim"
+					]
+				]
+			],
+			[
+				73047.6190476191,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"1"
+					]
+				]
+			],
+			[
+				74666.6666666668,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				76190.4761904763,
+				[
+					[
+						"Cinematics",
+						"1, 0.01",
+						""
+					]
+				]
+			],
+			[
+				100476.190476191,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"2.5"
+					]
+				]
+			],
+			[
+				100571.428571429,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				124857.142857143,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"1"
+					]
+				]
+			],
+			[
+				135619.047619048,
+				[
+					[
+						"Cinematics",
+						"1, 0.02",
+						""
+					]
+				]
+			],
+			[
+				149238.095238095,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"2.5"
+					]
+				]
+			],
+			[
+				149333.333333334,
+				[
+					[
+						"Cinematics",
+						"",
+						"2, 1"
+					]
+				]
+			],
+			[
+				150666.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-altAnim"
+					]
+				]
+			],
+			[
+				173619.047619047,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"1"
+					]
+				]
+			],
+			[
+				175238.095238095,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

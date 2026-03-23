@@ -16,27 +16,35 @@ function onCreate()
 end
 
 local ds = false
+local durationFound = false --having this variable is very Stupid. but it stops everything from breaking
 local duration = 3
 function onEvent(name,value1,value2)
 	if name == 'Cinematics' then
+		durationFound = false
  		ds = downscroll or Vertscroll and true or false
 		if string.find(value1, ',') then
 			val1Split = stringSplit(value1, ',');
 			start = tonumber(val1Split[1]);
-			duration = val1Split[2];
+			duration = tonumber(val1Split[2]);
 			if duration == nil then
 				duration = 3;
 			end
-		else start = tonumber(value1);
+			durationFound = true
+		else
+			start = tonumber(value1);
+			if not durationFound then duration = 3 end
 		end
 		if string.find(value2, ',') then
 			val2Split = stringSplit(value2, ',');
 			finish = tonumber(val2Split[1]);
-			duration = val2Split[2];
+			duration = tonumber(val2Split[2]);
 			if duration == nil then
 				duration = 3;
 			end
-		else finish = tonumber(value2);
+			durationFound = true
+		else
+			finish = tonumber(value2);
+			if not durationFound then duration = 3 end
 		end
 
 		if start == 1 then

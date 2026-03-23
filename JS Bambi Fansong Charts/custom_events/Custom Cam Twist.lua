@@ -3,7 +3,6 @@ twistIntensity = 0
 twisted = false
 ease = 'circOut'
 function onEvent(n,v1,v2)
-	luaDebugMode = true
 	if n == "Custom Cam Twist" then
 		twistSpeed = math.floor((tonumber(v1) or 0) * 4)
 		if string.find(v2, ',') then
