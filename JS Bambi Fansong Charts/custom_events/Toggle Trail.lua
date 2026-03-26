@@ -62,7 +62,7 @@ function createTrailFrame(tag)
 		num = curTrailBF;
 		curTrailBF = curTrailBF + 1;
 		if trailEnabledBF then
-			color = getColorFromHex('00F7FF');
+			color = getIconColor('boyfriend')
 			image = getProperty('boyfriend.imageFile')
 			frame = getProperty('boyfriend.animation.frameName');
 			x = getProperty('boyfriend.x');
@@ -77,7 +77,7 @@ function createTrailFrame(tag)
 		num = curTrailDad;
 		curTrailDad = curTrailDad + 1;
 		if trailEnabledDad then
-			color = getColorFromHex('FF0800');
+			color = getIconColor('dad')
 			image = getProperty('dad.imageFile')
 			frame = getProperty('dad.animation.frameName');
 			x = getProperty('dad.x');
@@ -111,4 +111,12 @@ function createTrailFrame(tag)
 		addAnimationByPrefix(trailTag, 'stuff', frame, 0, false);
 		addLuaSprite(trailTag, false);
 	end
+end
+
+function rgbToHex(array)
+	return string.format('%.2x%.2x%.2x', array[1], array[2], array[3])
+end
+
+function getIconColor(chr)
+	return getColorFromHex(rgbToHex(getProperty(chr .. ".healthColorArray")))
 end

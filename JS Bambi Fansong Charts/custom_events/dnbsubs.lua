@@ -27,7 +27,7 @@ function onEvent(n, sub, v2)
         end
         runHaxeCode([[
             var sub = new FlxTypeText(0, 0, FlxG.width, sub, 36);
-            sub.y = (FlxG.height / 2) - 200 * (ClientPrefs.showcaseMode ? 0.7 : 1);
+            sub.y = (FlxG.height / 2) - 200 * (ClientPrefs.showcaseMode && ClientPrefs.showcaseST == 'JS' ? 0.5 : 1);
             sub.setFormat(Paths.font("comic.ttf"), size, 0xFFFFFF, 'center', Type.resolveEnum('flixel.text.FlxTextBorderStyle').OUTLINE, 0xFF000000);
             sub.antialiasing = ClientPrefs.globalAntialiasing;
             sub.borderSize = 2;
