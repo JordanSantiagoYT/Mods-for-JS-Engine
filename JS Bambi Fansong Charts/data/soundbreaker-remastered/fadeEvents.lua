@@ -8,7 +8,7 @@ function onCreatePost()
 	setProperty('flash.alpha', 1)
 	setObjectCamera('flash', 'camOther')
 
-	makeLuaText('Credits', "Soundbreaker (Remastered)\n\nSong by NextGen\n\nChart by Jordan Santiago", 1250, 0, 720)
+	makeLuaText('Credits', "Soundbreaker (Remastered)\n\nSong by Akira\n\nChart by Jordan Santiago", 1250, 0, 720)
 	setTextAlignment('Credits', 'Center')
 	addLuaText('Credits')
 	setTextSize('Credits', 40)
