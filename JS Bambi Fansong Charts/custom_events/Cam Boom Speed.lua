@@ -11,8 +11,9 @@ if n == "Cam Boom Speed" then
 end
 
 end
+
 function onStepHit()
-	if boomSpeed > 0 and (curStep - (offset*4)) % boomSpeed == 0 then
+	if boomSpeed > 0 and intensity > 0 and (curStep - (offset*4)) % boomSpeed == 0 then
 		triggerEvent("Add Camera Zoom",0.015*intensity,0.03*intensity)
 	end
 end

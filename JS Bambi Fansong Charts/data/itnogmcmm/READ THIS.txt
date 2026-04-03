@@ -1,0 +1,6 @@
+This chart was zipped to reduce filesize, and because GitHub does not let you normally upload files of 100MB or bigger. To play it, download from this link: https://mega.nz/file/zaA2SC6K#0SK4iaR2gYbqxXEoC4J11em8hwN0qgvoEtoMZTJo0Gw
+
+Inside the 7z file is a json. Use 7-zip or WinRAR to extract it. This json is the chart.
+
+To play the chart, copy the json folder into the same folder where this txt file is located.
+This will allow the game to read the chart.
