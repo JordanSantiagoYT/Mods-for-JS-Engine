@@ -10,5 +10,13 @@ function onEvent(name,value1,value2)
 
 	doTweenZoom("camGameZoom", "camGame", val1, val2, ease)
 	setProperty('defaultCamZoom', val1)
+	runHaxeCode('setVar("zoomTweening", true);')
+	runTimer('enableZoomSet', val2)
     end
+end
+
+function onTimerCompleted(tag)
+	if tag == 'enableZoomSet' then
+		runHaxeCode('setVar("zoomTweening", false);')
+	end
 end

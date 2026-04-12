@@ -141,7 +141,7 @@ function onEvent(n,v1,v2)
 					doTweenZoom('zoomingyey','camGame',v2,v1,'sineInOut')
 				end
 
-				if v2 == '' and getProperty('defaultCamZoom') ~= ogZoom then
+				if v2 == '' and getProperty('defaultCamZoom') ~= ogZoom and not runHaxeCode('getVar("zoomTweening");') then
 					setProperty('defaultCamZoom', ogZoom)
 					doTweenZoom('zoomingyey','camGame',ogZoom,v1,'sineInOut')
 				end

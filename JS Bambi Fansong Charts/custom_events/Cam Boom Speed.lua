@@ -4,7 +4,6 @@ offset = 0
 function onEvent(n,v1,v2)
 if n == "Cam Boom Speed" then
 	boomSpeed = math.floor((tonumber(v1) or 0) * 4)
-
 	val2Split = stringSplit(v2, ',');
 	intensity = tonumber(val2Split[1]) or 0
 	offset = stringTrim(val2Split[2]) or 0

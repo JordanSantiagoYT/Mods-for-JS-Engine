@@ -1,96 +1,55 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				0
-			],
+			"offsets": [175, 160],
 			"loop": false,
-			"fps": 10,
+			"fps": 24,
 			"anim": "idle",
 			"indices": [],
 			"name": "Ceruv idle"
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
+			"offsets": [165, 164],
 			"loop": false,
-			"fps": 14,
+			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Ceruv singLEFT"
+			"name": "Ceruv left"
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
+			"offsets": [192, 161],
 			"loop": false,
-			"fps": 14,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Ceruv singDOWN"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 14,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Ceruv singUP"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 14,
+			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Ceruv singRIGHT"
+			"name": "Ceruv right"
+		},
+		{
+			"offsets": [184, 156],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ceruv up"
+		},
+		{
+			"offsets": [180, 159],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ceruv down"
 		}
 	],
 	"vocals_file": "",
-	"losing_colors": [
-		255,
-		255,
-		255
-	],
 	"no_antialiasing": false,
 	"image": "characters/Ceruv",
-	"shake_duration": 0,
-	"position": [
-		-620,
-		30
-	],
-	"health_drain": false,
-	"shake_intensity": 0,
+	"position": [0, 350],
 	"healthicon": "ceruv",
-	"shake_screen": false,
-	"drain_floor": 0,
 	"flip_x": false,
-	"healthbar_colors": [
-		255,
-		255,
-		255
-	],
-	"drain_amount": 0,
-	"camera_position": [
-		0,
-		80
-	],
-	"sing_duration": 8,
-	"noteskin": null,
-	"winning_colors": [
-		255,
-		255,
-		255
-	],
-	"scale": 1
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-410, -180],
+	"sing_duration": 4,
+	"scale": 1.3,
+	"_editor_isPlayer": false
 }

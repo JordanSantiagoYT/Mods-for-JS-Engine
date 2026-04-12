@@ -2789,6 +2789,42 @@
 				255,
 				255
 			]
+		],
+		[
+			"Kyanos",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Ceruv Gohm V2",
+			"ceruv",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Atelophobia",
+			"nothing",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Circlize Ultimium",
+			"screwed",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,
