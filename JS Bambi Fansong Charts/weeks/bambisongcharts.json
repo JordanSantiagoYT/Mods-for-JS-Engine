@@ -2825,6 +2825,51 @@
 				181,
 				0
 			]
+		],
+		[
+			"Xenthaphyll Granular Experiment",
+			"nothing",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Certain Pattern",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"The Voice Underneath Your Skin",
+			"phonophobia-expunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Tuned Spam",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Tsukareta B-Remix",
+			"tsuka",
+			[
+				89,
+				91,
+				103
+			]
 		]
 	],
 	"hideFreeplay": false,
