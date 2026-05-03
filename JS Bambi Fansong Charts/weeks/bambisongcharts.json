@@ -2827,7 +2827,7 @@
 			]
 		],
 		[
-			"Xenthaphyll Granular Experiment",
+			"Cyklus Granular Experiment",
 			"nothing",
 			[
 				255,
@@ -2887,6 +2887,51 @@
 				12,
 				181,
 				0
+			]
+		],
+		[
+			"Spatial",
+			"nothing",
+			[
+				84,
+				4,
+				133
+			]
+		],
+		[
+			"Paladophobia",
+			"peladophobia",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Central",
+			"bambi-enraged",
+			[
+				167,
+				0,
+				0
+			]
+		],
+		[
+			"Capunct",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"The Goddess of Cringe Remix",
+			"vsdaa",
+			[
+				120,
+				120,
+				120
 			]
 		]
 	],

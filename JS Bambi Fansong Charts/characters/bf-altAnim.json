@@ -127,10 +127,10 @@
 				-7,
 				0
 			],
-			"anim": "transition",
+			"anim": "transitionReverse",
 			"fps": 24,
 			"name": "BF ALT transition",
-			"indices": []
+			"indices": [10,9,8,7,6,5,4,3,2,1,0]
 		},
 		{
 			"loop": false,
