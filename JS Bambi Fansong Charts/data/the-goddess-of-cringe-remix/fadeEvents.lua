@@ -8,7 +8,7 @@ function onCreatePost()
 	setProperty('flash.alpha', 1)
 	setObjectCamera('flash', 'camOther')
 
-	makeLuaText('Credits', "The Goddess of Cringe (serialkidd Retake)\n\nSong by Cyklus (ft. serialkidd)\n\nChart by Jordan Santiago\n\nOpponent Sprites & BG by Nael2xd", 1250, 0, 720)
+	makeLuaText('Credits', "The Goddess of Cringe (serialkidd Retake)\n\nSong by serialkidd (ft. Cyklus)\n\nChart by Jordan Santiago\n\nOpponent Sprites & BG by Nael2xd", 1250, 0, 720)
 	setTextAlignment('Credits', 'Center')
 	addLuaText('Credits')
 	setTextSize('Credits', 40)
