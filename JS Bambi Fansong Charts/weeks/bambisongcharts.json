@@ -2924,6 +2924,33 @@
 				120,
 				120
 			]
+		],
+		[
+			"Bruit",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"TestSongBamb",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Verbrennung",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
 		]
 	],
 	"hideFreeplay": false,

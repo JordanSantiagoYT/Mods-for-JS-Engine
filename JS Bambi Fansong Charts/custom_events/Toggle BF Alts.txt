@@ -1,0 +1,4 @@
+Toggles BF's alt animations.
+
+Put something in value 1 to enable it.
+Put something in value 2 to disable it.
