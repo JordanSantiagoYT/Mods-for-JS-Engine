@@ -7,6 +7,9 @@ function onEvent(name,value1,value2)
 		doAltBF(false)
 	end
     end
+    if name == "Change Character" then
+	bfAlting = (boyfriendName == 'bf-altAnim')
+    end
 end
 
 function doAltBF(enabled)
