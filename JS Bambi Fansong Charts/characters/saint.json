@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "danceLeft",
+			"indices": [0,1,2,3],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "danceRight",
+			"indices": [4,5,6,7],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				100,
+				-10
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				100,
+				30
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-50,
+				20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		211,
+		0,
+		190
+	],
+	"no_antialiasing": false,
+	"image": "characters/saint",
+	"shake_duration": 0,
+	"position": [
+		-250,
+		-200
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "saint",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		0,
+		190
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-100,
+		50
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		211,
+		0,
+		190
+	],
+	"scale": 1
+}
