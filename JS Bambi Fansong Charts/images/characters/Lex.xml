@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Lex.png" width="4096" height="2048">
+	<SubTexture name="d" x="2427" y="771" width="501" height="742" frameX="-226" frameY="-250" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="d2" x="2283" y="1" width="483" height="767" frameX="-237" frameY="-214" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="i" x="1" y="1" width="932" height="841" frameX="-18" frameY="-133" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="i2" x="1" y="845" width="669" height="831" frameX="-174" frameY="-154" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="i3" x="936" y="1" width="417" height="815" frameX="-292" frameY="-172" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="i4" x="673" y="845" width="419" height="815" frameX="-299" frameY="-172" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="l" x="1847" y="1" width="433" height="802" frameX="-198" frameY="-185" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="l2" x="1540" y="812" width="440" height="803" frameX="-226" frameY="-184" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="r" x="2769" y="1" width="510" height="698" frameX="-377" frameY="-291" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="r2" x="1356" y="1" width="488" height="808" frameX="-352" frameY="-165" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="u" x="1983" y="806" width="441" height="782" frameX="-299" frameY="-145" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="u2" x="1095" y="819" width="442" height="814" frameX="-288" frameY="-126" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>
