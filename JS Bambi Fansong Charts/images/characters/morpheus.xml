@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="morpheus.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="1219" width="1213" height="1227" frameX="-376" frameY="-406" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="idle0001" x="2497" y="0" width="1198" height="1239" frameX="-388" frameY="-396" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="idle0002" x="3695" y="0" width="1153" height="1257" frameX="-410" frameY="-383" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="idle0003" x="4848" y="0" width="1137" height="1261" frameX="-418" frameY="-380" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="idle0004" x="0" y="2446" width="1147" height="1258" frameX="-414" frameY="-384" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="right0000" x="1254" y="0" width="1243" height="1212" frameX="-538" frameY="-454" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="right0001" x="1147" y="2446" width="1171" height="1220" frameX="-578" frameY="-454" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="up0000" x="4848" y="1261" width="1022" height="1322" frameX="-513" frameY="-348" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="up0001" x="0" y="3704" width="996" height="1270" frameX="-523" frameY="-390" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="down0000" x="3695" y="1257" width="977" height="1138" frameX="-525" frameY="-534" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="down0001" x="2497" y="1239" width="970" height="1144" frameX="-537" frameY="-521" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="left0000" x="0" y="0" width="1254" height="1219" frameX="-161" frameY="-465" frameWidth="2000" frameHeight="2000"/>
+	<SubTexture name="left0001" x="1213" y="1219" width="1194" height="1225" frameX="-257" frameY="-443" frameWidth="2000" frameHeight="2000"/>
+</TextureAtlas>

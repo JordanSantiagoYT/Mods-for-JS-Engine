@@ -1,0 +1,296 @@
+{
+	"song": {
+		"events": [
+			[
+				12800,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				13600,
+				[
+					[
+						"Set Cam Zoom",
+						"default",
+						""
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"2.5"
+					]
+				]
+			],
+			[
+				36600,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				36800,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				37600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				38300,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Set Cam Zoom",
+						"default",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-altAnim"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singUP-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				63800,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				63900,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Colored_Apple",
+						"0.02",
+						"1"
+					]
+				]
+			],
+			[
+				76600,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				83000,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				86350,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2,0.5"
+					]
+				]
+			],
+			[
+				89550,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Colored_Apple",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-altAnim"
+					],
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					],
+					[
+						"Cinematics",
+						"",
+						"2,0.01"
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				91400,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				91600,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				91800,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				92000,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				92200,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				113500,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				115100,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

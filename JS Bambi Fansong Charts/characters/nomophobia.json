@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [28, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bambi idle"
+		},
+		{
+			"offsets": [92, 3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bambi left"
+		},
+		{
+			"offsets": [-30, -70],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bambi down"
+		},
+		{
+			"offsets": [-3, 5],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bambi right"
+		},
+		{
+			"offsets": [-9, 30],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bambi up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Nomophobia",
+	"position": [30, 350],
+	"healthicon": "whity",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-20, 110],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

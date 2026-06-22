@@ -1,0 +1,241 @@
+{
+	"song": {
+		"events": [
+			[
+				17297.2972972973,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"2.5"
+					]
+				]
+			],
+			[
+				49459.4594594595,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				51621.6216216216,
+				[
+					[
+						"Cam Bop Pattern",
+						"step,16,2",
+						"3,6,12"
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				51891.8918918919,
+				[
+					[
+						"Toggle BF Alts",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				69189.1891891892,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"600"
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				84054.054054054,
+				[
+					[
+						"Cam Bop Pattern",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				84324.3243243243,
+				[
+					[
+						"Set Cam Zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				86216.2162162162,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				86486.4864864864,
+				[
+					[
+						"Set Cam Zoom",
+						"default",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Toggle BF Alts",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				120810.810810811,
+				[
+					[
+						"Cam Bop Pattern",
+						"step,16,2",
+						"3,6,12"
+					],
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				121081.081081081,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-altAnim"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				121351.351351351,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				121621.621621622,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				121891.891891892,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				138378.378378378,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"600"
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				155405.405405405,
+				[
+					[
+						"Cam Bop Pattern",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				155675.675675676,
+				[
+					[
+						"Set Cam Zoom",
+						"default",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				157837.837837838,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
