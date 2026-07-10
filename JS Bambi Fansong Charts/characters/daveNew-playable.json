@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				10,
 				-164
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				19,
+				7,
 				-160
 			],
-			"anim": "hey",
+			"loop": false,
 			"fps": 24,
-			"name": "hey0",
-			"indices": []
+			"anim": "hey",
+			"indices": [],
+			"name": "hey0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-9,
+				20,
 				-170
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right0",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				26,
+				77,
 				-150
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "up0",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				9,
+				101,
 				-170
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down0",
-			"indices": []
+			"indices": [],
+			"name": "down0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				52,
+				49,
 				-166
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left0",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-7,
+				33,
 				-166
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "rightmiss",
-			"indices": []
+			"indices": [],
+			"name": "rightmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				52,
+				49,
 				-161
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "leftmiss",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "leftmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				26,
+				76,
 				-150
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "upmiss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				13,
+				101,
 				-165
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "downmiss",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "downmiss"
 		}
 	],
 	"vocals_file": "",
@@ -116,7 +116,7 @@
 	"image": "characters/dave_sheet",
 	"shake_duration": 0,
 	"position": [
-		0,
+		50,
 		0
 	],
 	"health_drain": false,
@@ -132,8 +132,8 @@
 	],
 	"drain_amount": 0,
 	"camera_position": [
-		-70,
-		190
+		0,
+		170
 	],
 	"sing_duration": 6.1,
 	"noteskin": null,

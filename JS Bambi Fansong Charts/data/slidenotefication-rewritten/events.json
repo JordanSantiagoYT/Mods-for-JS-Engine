@@ -1,0 +1,296 @@
+{
+	"song": {
+		"events": [
+			[
+				19050,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.1",
+						"1.5, expoOut"
+					]
+				]
+			],
+			[
+				36150,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				37650,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"1.2, expoInOut"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Cinematics",
+						"1, 0.6",
+						""
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.7",
+						"1.2, expoInOut"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.0",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"1.2, expoInOut"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Cinematics",
+						"",
+						"2,0.6"
+					]
+				]
+			],
+			[
+				80250,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.6, quartOut"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, quartIn"
+					]
+				]
+			],
+			[
+				81450,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				85050,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.6, quartOut"
+					]
+				]
+			],
+			[
+				85800,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.6, quartIn"
+					]
+				]
+			],
+			[
+				86250,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, quartIn"
+					]
+				]
+			],
+			[
+				89400,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.6, quartOut"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"1.2, quartIn"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.8, expoOut"
+					]
+				]
+			],
+			[
+				93450,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.6, quartIn"
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.6, quartOut"
+					]
+				]
+			],
+			[
+				94800,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"1.2, quartIn"
+					]
+				]
+			],
+			[
+				95850,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"1.2, expoOut"
+					]
+				]
+			]
+		]
+	}
+}

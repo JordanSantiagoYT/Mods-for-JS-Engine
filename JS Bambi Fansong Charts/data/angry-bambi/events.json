@@ -1,0 +1,251 @@
+{
+	"song": {
+		"events": [
+			[
+				19050,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				39450,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				40650,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				41850,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				43050,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				44250,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				45450,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				46650,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				67050,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115050,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-altAnim"
+					],
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				153601.171875,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-altAnim"
+					]
+				]
+			],
+			[
+				163201.171875,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				172801.171875,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-altAnim"
+					]
+				]
+			],
+			[
+				182401.171875,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				191850,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Toggle BF Alts",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				268650,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}

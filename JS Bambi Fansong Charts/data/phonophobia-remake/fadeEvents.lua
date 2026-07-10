@@ -8,7 +8,7 @@ function onCreatePost()
 	setProperty('flash.alpha', 1)
 	setObjectCamera('flash', 'camOther')
 
-	makeLuaText('Credits', "Phonophobia (Remake)\n\nSong by ThatPizzaTowerFan\n\nChart by Jordan Santiago\n\nOpponent Sprites by TheTrueAccount_2", 1250, 0, 720)
+	makeLuaText('Credits', "Phonophobia (Remake)\n\nSong by ThatPizzaTowerFan\n\nChart by Jordan Santiago\n\nOpponent Sprites by Enzo Polis", 1250, 0, 720)
 	setTextAlignment('Credits', 'Center')
 	addLuaText('Credits')
 	setTextSize('Credits', 40)
