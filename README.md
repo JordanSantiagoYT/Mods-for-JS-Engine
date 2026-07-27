@@ -14,7 +14,7 @@ This page is for mods i've created that are for JS Engine but can also work with
 
 To download the charts, you have to download all of them at once because of how frequently* updated they are!
 
--# NOTE: The folder is not updated every time I make a new video. I update it every time I feel like updating it.
+*They are not updated every time I make a new video. I update it every time I feel like updating it.
 
 1. Press the green button labeled "Code"
 
