@@ -1,2 +1,5 @@
 Value 1 Seconds
 Value 2 Optional Zoom
+
+To end the event, place a second event.
+The values can be different from the first event's.

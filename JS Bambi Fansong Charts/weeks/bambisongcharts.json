@@ -3149,6 +3149,42 @@
 				255,
 				255
 			]
+		],
+		[
+			"The Goddess of Larp",
+			"daalarp",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Extrance",
+			"expungedtrue",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"NEFARIOUSLY EVIL Manbi Song",
+			"nothing",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Whiteout",
+			"nothing",
+			[
+				255,
+				255,
+				255
+			]
 		]
 	],
 	"hideFreeplay": false,
