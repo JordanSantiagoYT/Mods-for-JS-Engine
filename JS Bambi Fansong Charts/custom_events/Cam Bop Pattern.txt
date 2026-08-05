@@ -1,5 +1,5 @@
 Advanced camera bopping method.
-Value 1: Beat Type (step, beat, measure), Length of that type for the pattern, Intensity
+Value 1: Type (step, beat, measure), Length of that type, Intensity, Offset
 Value 2: Values to trigger the Bop on.
 For Value 1, split each value with a comma.
 For Value 2, use a comma-separated list.

@@ -3179,11 +3179,47 @@
 		],
 		[
 			"Whiteout",
-			"nothing",
+			"invaliddside",
 			[
 				255,
 				255,
 				255
+			]
+		],
+		[
+			"Central Remixed",
+			"z",
+			[
+				120,
+				34,
+				34
+			]
+		],
+		[
+			"Deranged Stupendy Remix",
+			"inmbis",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Trigger Digger Skibidi Gummy Bear",
+			"gummibar",
+			[
+				93,
+				234,
+				96
+			]
+		],
+		[
+			"Fraudulent",
+			"expungedtrue",
+			[
+				255,
+				0,
+				0
 			]
 		]
 	],

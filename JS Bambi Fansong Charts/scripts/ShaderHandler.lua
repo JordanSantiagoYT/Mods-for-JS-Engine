@@ -97,6 +97,56 @@ end
 ]]------------------------------------------------- documentation ended --------------------------------------------------
 -------------------------------- dont change anything below if you dont know what u doing --------------------------------
 
+local easeString = {
+    backin = "backIn",
+    backinout = "backInOut",
+    backout = "backOut",
+
+    bouncein = "bounceIn",
+    bounceinout = "bounceInOut",
+    bounceout = "bounceOut",
+
+    circin = "circIn",
+    circinout = "circInOut",
+    circout = "circOut",
+
+    cubein = "cubeIn",
+    cubeinout = "cubeInOut",
+    cubeout = "cubeOut",
+
+    elasticin = "elasticIn",
+    elasticinout = "elasticInOut",
+    elasticout = "elasticOut",
+
+    expoin = "expoIn",
+    expoinout = "expoInOut",
+    expoout = "expoOut",
+
+    quadin = "quadIn",
+    quadinout = "quadInOut",
+    quadout = "quadOut",
+
+    quartin = "quartIn",
+    quartinout = "quartInOut",
+    quartout = "quartOut",
+
+    quintin = "quintIn",
+    quintinout = "quintInOut",
+    quintout = "quintOut",
+
+    sinein = "sineIn",
+    sineinout = "sineInOut",
+    sineout = "sineOut",
+
+    smoothstepin = "smoothStepIn",
+    smoothstepinout = "smoothStepInOut",
+    smoothstepout = "smoothStepInOut",
+
+    smootherstepin = "smootherStepIn",
+    smootherstepinout = "smootherStepInOut",
+    smootherstepout = "smootherStepOut",
+}
+
 local cameraShaders = {}
 local time = 0
 local initialized = false
@@ -111,9 +161,16 @@ function initShaderHandler()
 	initMap('modchartShaders')
 	addHaxeLibrary("Reflect")
 	addHaxeLibrary("Type")
+	addHaxeLibrary("FlxEase", "flixel.tweens")
 	addCoolUtil()
 	if stringStartsWith(version, "0.7") then
 		addHaxeLibrary("LuaUtils", "psychlua")
+	end
+
+	local easeCases = {}
+	for k, v in pairs(easeString) do
+		easeCases[#easeCases + 1] =
+			('case "%s": return FlxEase.%s;'):format(k, v)
 	end
 
 	runHaxeCode([[
@@ -167,11 +224,12 @@ function initShaderHandler()
 				return Reflect.getProperty(game, 'runtimeShaders');
 		}
 
-		function getEase(ease) {
-			if (]]..tostring(stringStartsWith(version, "0.7"))..[[)
-				return LuaUtils.getTweenEaseByString(ease);
-			else
-				return game.luaArray[0].getFlxEaseByString(ease);
+		function getEase(ease:String) {
+			switch (ease.toLowerCase()) {
+				]] .. table.concat(easeCases, "\n        ") .. [[
+				default:
+					return FlxEase.linear;
+			}
 		}
 	]])
 

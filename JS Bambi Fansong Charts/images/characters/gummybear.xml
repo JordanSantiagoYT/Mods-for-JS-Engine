@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gummybear.png">
+<SubTexture name="gummy idle0000" x="0" y="0" width="378" height="514" frameX="-456" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy idle0001" x="378" y="0" width="378" height="557" frameX="-456" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy idle0002" x="756" y="0" width="378" height="589" frameX="-456" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy idle0003" x="1134" y="0" width="378" height="606" frameX="-456" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy idle0004" x="0" y="606" width="378" height="616" frameX="-456" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy idle0005" x="378" y="606" width="378" height="619" frameX="-456" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy left0000" x="756" y="606" width="589" height="648" frameX="-207" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy left0001" x="1345" y="606" width="545" height="651" frameX="-278" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy left0002" x="0" y="1257" width="524" height="646" frameX="-307" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy left0003" x="524" y="1257" width="521" height="645" frameX="-311" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy down0000" x="1045" y="1257" width="621" height="405" frameX="-334" frameY="-304" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy down0001" x="1666" y="1257" width="621" height="516" frameX="-334" frameY="-197" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy down0002" x="0" y="1903" width="621" height="557" frameX="-334" frameY="-158" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy down0003" x="621" y="1903" width="621" height="563" frameX="-334" frameY="-152" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy up0000" x="1242" y="1903" width="522" height="617" frameX="-384" frameY="-6" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy up0001" x="1764" y="1903" width="522" height="605" frameX="-384" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy up0002" x="0" y="2520" width="522" height="589" frameX="-384" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy up0003" x="522" y="2520" width="522" height="582" frameX="-384" frameY="-74" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy right0000" x="1044" y="2520" width="623" height="575" frameX="-492" frameY="-74" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy right0001" x="1667" y="2520" width="584" height="589" frameX="-470" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy right0002" x="0" y="3109" width="568" height="591" frameX="-463" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gummy right0003" x="568" y="3109" width="565" height="591" frameX="-462" frameY="-68" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -2,6 +2,7 @@ local bopType = 'none'
 local bopPattern = {}
 local bopLength = 0
 local intensity = 1
+local offset = 0
 
 function onEvent(n,v1,v2)
 	if n == "Cam Bop Pattern" then
@@ -9,6 +10,7 @@ function onEvent(n,v1,v2)
 		bopType = val1[1] or 'none';
 		bopLength = tonumber(val1[2]) or 0;
 		intensity = 0.015 * (tonumber(val1[3]) or 0);
+		offset = (tonumber(val1[4]) or 0);
 		bopPattern = {}
 		rawPattern = stringSplit(v2, ',');
 		for i=1, #rawPattern do
@@ -30,7 +32,7 @@ end
 function bopCheck(current)
 	if bopLength <= 0 or #bopPattern <= 0 then return end
 	for i=1, #bopPattern do
-		if current % bopLength == bopPattern[i] then
+		if (current - offset) % bopLength == bopPattern[i] then
 			triggerEvent("Add Camera Zoom",intensity, intensity * 2);
 			break;
 		end

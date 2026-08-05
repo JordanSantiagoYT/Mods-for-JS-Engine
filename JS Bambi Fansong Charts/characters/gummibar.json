@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gummy up"
+		},
+		{
+			"offsets": [
+				30,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gummy down"
+		},
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gummy left"
+		},
+		{
+			"offsets": [
+				-30,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gummy right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gummy idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gummybear",
+	"shake_duration": 0,
+	"position": [
+		-360,
+		80
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "gummibar",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		234,
+		96
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-40,
+		0
+	],
+	"sing_duration": 6.1,
+	"noteskin": "",
+	"scale": 0.999999999999999
+}
