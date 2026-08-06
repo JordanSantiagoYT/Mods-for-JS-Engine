@@ -936997,7 +936997,7 @@
 		"player3": "gf",
 		"mania": 17,
 		"song": "Bleeding",
-		"arrowSkin": "",
+		"arrowSkin": "EKNOTE_assets",
 		"validScore": true,
 		"speed": 5.20000000000002,
 		"events": [
