@@ -153,6 +153,8 @@ local ARROW_COLOR = 5
 local CONTROLS = 6
 
 function generateStaticArrows(player)
+    addHaxeLibrary('Note')
+    addHaxeLibrary('StrumNote')
     runHaxeCode('Note.swagWidth = '..(maniaData[keyCount][ARROW_WIDTH])..';')
     
     for i = 0,keyCount-1 do 
@@ -175,7 +177,7 @@ function generateStaticArrows(player)
             if (ClientPrefs.middleScroll)
                 xPos = PlayState.STRUM_X_MIDDLESCROLL;
 
-			var babyArrow = new StrumNote(xPos, (ClientPrefs.downScroll) ? FlxG.height - 150 : 50, ]]..i..[[, player);
+			var babyArrow:StrumNote = new StrumNote(xPos, (ClientPrefs.downScroll) ? FlxG.height - 150 : 50, ]]..i..[[, player);
 			babyArrow.downScroll = ClientPrefs.downScroll;
 			if (!PlayState.isStoryMode && !game.skipArrowStartTween)
 			{
@@ -269,20 +271,18 @@ function turnArrayIntoString(arr)
     str = str..']'
     return str
 end
-
 function onCreatePost()
 	if difficultyName ~= 'Normal' then close() end
     luaDebugMode = true
-    --import the shit
+
     addHaxeLibrary('FlxKey', 'flixel.input.keyboard')
-    addHaxeLibrary('Note')
     addHaxeLibrary('SwagSong', 'Song')
     addHaxeLibrary('SwagSection', 'Section')
     addHaxeLibrary('Math')
     addHaxeLibrary('NoteSplash')
-    addHaxeLibrary('StrumNote')
     addHaxeLibrary('Std')
     addHaxeLibrary('FlxMath', 'flixel.math')
+    addHaxeLibrary('PreloadedChartNote', 'Note')
 
     reparseChart()
     updateNotes()
@@ -640,7 +640,7 @@ function onCountdownStarted()
             game.setOnLuas('defaultOpponentStrumY' + i, game.opponentStrums.members[i].y);
         }
     ]])
-	debugPrint(getPropertyFromGroup('strumLineNotes', 'length'))
+	--debugPrint(runHaxeCode('return game.strumLineNotes.length;'))
 end
 
 function generateBinds()
