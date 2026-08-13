@@ -1,0 +1,5 @@
+Sets the camera zoom whenever the camera faces the dad/bf.
+
+Value 1: BF zoom
+Value 2: Dad zoom
+Value 3: GF zoom (split value 2 with a ',')

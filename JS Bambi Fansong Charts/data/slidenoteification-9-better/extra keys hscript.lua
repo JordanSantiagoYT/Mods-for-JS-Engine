@@ -324,18 +324,25 @@ function reparseChart()
         var maniaChangesString = "]]..maniaChanges..[[";
         var maniaChanges = maniaChangesString.split(':');
         var maniaChangeMap = [];
-        for (i in maniaChanges) {
-    		maniaChangeMap.push(i.split(','));
+	for (i in maniaChanges)
+	{
+    		var split = i.split(',');
+    		maniaChangeMap.push({
+        		time: Std.parseFloat(split[0]),
+        		keys: Std.parseInt(split[1])
+    		});
 	}
 
         var stepCrochet:Float = 0.0;
 		var currentBPMLol:Float = Conductor.bpm;
 		var currentMultiplier:Float = 1;
 		var gottaHitNote:Bool = false;
-		var swagNote:PreloadedChartNote;
 
 	trace('Loading Part 2: Electric Boogaloo');
 	var notesLoaded:Int = 0;
+	var maniaIndex = 0;
+	var nextChange = 0;
+    var loadedSkins = [];
 
         for (section in PlayState.SONG.notes) //reload dat shit
 		{
@@ -346,21 +353,20 @@ function reparseChart()
                 if (daStrumTime >= Conductor.songPosition) //only load notes after current song pos (not needed i just had this set up for something else before, shouldnt break anything)
                 {
                     
-                    for (mchange in maniaChangeMap)
-                    {
-                        if (daStrumTime >= Std.parseFloat(mchange[0]))
-                        {
-                            keyCount = Std.parseInt(mchange[1]);
-                        }
-                    }
-                    var actualNoteData = Std.int(songNotes[1] % keyCount);
+                while (nextChange < maniaChangeMap.length && daStrumTime >= maniaChangeMap[nextChange].time)
+                {
+                    keyCount = maniaChangeMap[nextChange].keys;
+                    maniaIndex = nextChange;
+                    nextChange++;
+                }
                     var daNoteData = Std.int(songNotes[1] % startingKeyCount);
 
                     gottaHitNote = ((songNotes[1] < keyCount && !game.opponentChart)
 						|| (songNotes[1] > keyCount-1 && game.opponentChart) ? section.mustHitSection : !section.mustHitSection);
     
-                    //I didnt want to do all of this but hscript doesnt support casting :sob:
-                    swagNote = {};
+                    //I didnt want to do all of this but hscript doesnt support casting. also not making it local was a crash factor
+                    var swagNote = new PreloadedChartNote();
+
                     swagNote.strumTime = daStrumTime;
                     swagNote.noteData = daNoteData;
                     swagNote.mustPress = game.bothSides || gottaHitNote;
@@ -380,10 +386,16 @@ function reparseChart()
                     swagNote.noteDensity = currentMultiplier;
                     swagNote.ignoreNote = songNotes[3] == 'Hurt Note' && gottaHitNote;
 
-					if (swagNote.noteskin != '' && !Paths.noteSkinFramesMap.exists(swagNote.noteskin)) Paths.initNote(swagNote.noteskin);
+					if (swagNote.noteskin != '' && loadedSkins.indexOf(swagNote.noteskin) == -1)
+                    {
+                        if (!Paths.noteSkinFramesMap.exists(swagNote.noteskin))
+                            Paths.initNote(swagNote.noteskin);
+
+                        loadedSkins.push(swagNote.noteskin);
+                    }
 
                     game.unspawnNotes.push(swagNote);
-			notesLoaded += 1;
+			        notesLoaded += 1;
     
                     if (swagNote.sustainLength < 1) continue;
 
@@ -393,7 +405,7 @@ function reparseChart()
 					var susNote = 0;
 					while (susNote <= roundSus) {
                             //also didnt want to do all of this but hscript doesnt support casting :sob: also had to use a while loop because for loops fucking die here
-							var sustainNote:PreloadedChartNote = {};
+							var sustainNote:PreloadedChartNote = new PreloadedChartNote();
                             sustainNote.strumTime = daStrumTime + (stepCrochet * susNote);
                             sustainNote.noteData = daNoteData;
                             sustainNote.mustPress = game.bothSides || gottaHitNote;

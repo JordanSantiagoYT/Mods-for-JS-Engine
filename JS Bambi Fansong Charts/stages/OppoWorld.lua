@@ -1,5 +1,3 @@
-
-
 function onCreatePost()
 	-- background shit
 	makeLuaSprite('back', 'oppo/OppositonLol', -900, -600);
