@@ -365,7 +365,7 @@ function reparseChart()
 						|| (songNotes[1] > keyCount-1 && game.opponentChart) ? section.mustHitSection : !section.mustHitSection);
     
                     //I didnt want to do all of this but hscript doesnt support casting. also not making it local was a crash factor
-                    var swagNote = new PreloadedChartNote();
+                    var swagNote:PreloadedChartNote = new PreloadedChartNote();
 
                     swagNote.strumTime = daStrumTime;
                     swagNote.noteData = daNoteData;

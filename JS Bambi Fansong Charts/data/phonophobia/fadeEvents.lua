@@ -14,23 +14,42 @@ function onCreatePost()
 	setTextSize('Credits', 40)
 	setObjectCamera('Credits', 'camOther')
 	setTextBorder('Credits', 3, '000000')
-	setProperty('ytWatermark.alpha', 0)
+
+	if difficultyName ~= 'Spammier' then
+		setTextString('Credits', 'Phonophobia\n\nSong by ThatPizzaTowerFan\n\nChart by Jordan Santiago\n\nOpponent Sprites by Enzo Polis')
+	end
 
 	addChromaticAbberationEffect('camHUD', 0.002)
 	addChromaticAbberationEffect('camGame', 0.002)
+	setProperty('ytWatermark.alpha', 0)
 end
 
 function onSongStart()
-	doTweenY('creditTween', 'Credits', 270, 2, 'expoOut')
 	doTweenAlpha('flTw', 'flash', 0, 29, 'linear')
+	if difficulty == 'Spammier' then
+		doTweenY('creditTween', 'Credits', 270, 2, 'expoOut')
+	end
 end
 
 function onStepHit()
-	if curStep == 3840 then
-		doTweenY('creditTween', 'Credits', -420, 1.4, 'expoIn')
-		doTweenAlpha('ytWatermarkIn', 'ytWatermark', 0.5, 1.4, 'linear')
-	end
-	if curStep == 32768 then
-		doTweenAlpha('okBye', 'flash', 1, 22, 'linear')
+	if difficulty == 'Spammier' then
+		if curStep == 3840 then
+			doTweenY('creditTween', 'Credits', -420, 1.4, 'expoIn')
+			doTweenAlpha('ytWatermarkIn', 'ytWatermark', 0.5, 1.4, 'linear')
+		end
+		if curStep == 32768 then
+			doTweenAlpha('okBye', 'flash', 1, 22, 'linear')
+		end
+	else
+		if curStep == 1024 then
+			doTweenY('creditTween', 'Credits', 270, (960/curBpm), 'expoOut')
+		end
+		if curStep == 1216 then
+			doTweenY('creditTween', 'Credits', -420, (960/curBpm), 'expoIn')
+			doTweenAlpha('ytWatermarkIn', 'ytWatermark', 0.5, (960/curBpm), 'linear')
+		end
+		if curStep == 7168 then
+			doTweenAlpha('okBye', 'flash', 1, (480/curBpm), 'linear')
+		end
 	end
 end

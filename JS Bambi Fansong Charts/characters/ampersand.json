@@ -6,10 +6,21 @@
 				0,
 				0
 			],
-			"anim": "idle",
+			"anim": "danceLeft",
 			"fps": 10,
 			"name": "idle",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 10,
+			"name": "idle",
+			"indices": [5,4,3,2,1]
 		},
 		{
 			"loop": false,

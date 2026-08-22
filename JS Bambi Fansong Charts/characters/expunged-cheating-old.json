@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				52,
+				305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				323,
+				265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-84,
+				284
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				50,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				71,
+				300
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Cheating",
+	"shake_duration": 0,
+	"position": [
+		-200,
+		290
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "cheating",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		170,
+		40
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-250,
+		-500
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"scale": 1.7
+}

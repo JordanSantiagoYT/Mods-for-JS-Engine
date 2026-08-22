@@ -17,9 +17,9 @@ function onEvent(name,value1,value2)
 		else zoomToDo = tonumber(value1)
 		end
 
-		setProperty("defaultCamZoom", zoomToDo)
-		if not value2 == '' then
-			setProperty("camGame.zoom", zoomToDo) 
-		end
+	setProperty("defaultCamZoom", zoomToDo)
+	if not value2 == '' then
+		setProperty("camGame.zoom", zoomToDo) 
+	end
     end
 end
