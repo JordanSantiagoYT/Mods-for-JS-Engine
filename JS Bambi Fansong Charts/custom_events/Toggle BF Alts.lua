@@ -14,12 +14,16 @@ end
 
 function doAltBF(enabled)
 	if enabled then
+		if boyfriendName == 'bf-altAnim' then return end
+
 		if not boyfriendName == 'bf' then
 			changeBF(false)
 		end
 		triggerEvent('Play Animation', 'transition', 'bf')
 		runTimer('bfTransition', 0.25)
 	else
+		if boyfriendName == 'bf' then return end
+
 		if not boyfriendName == 'bf-altAnim' then
 			changeBF(true)
 		end

@@ -1,0 +1,506 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"2"
+					],
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					],
+					[
+						"Cam Bop Pattern",
+						"beat,8,2",
+						"3,6"
+					]
+				]
+			],
+			[
+				4363.63636363636,
+				[
+					[
+						"Cam Bop Pattern",
+						"step,16,2",
+						"6,12,14"
+					]
+				]
+			],
+			[
+				21136.3636363636,
+				[
+					[
+						"Cam Bop Pattern",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				21409.0909090909,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				21681.8181818182,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				21750,
+				[
+					[
+						"Camera Bopping",
+						"2",
+						"1"
+					],
+					[
+						"Cam Boom Speed",
+						"4",
+						"1,2"
+					]
+				]
+			],
+			[
+				39136.3636363636,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					],
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				39818.1818181818,
+				[
+					[
+						"Toggle BF Alts",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				40227.2727272727,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				40363.6363636364,
+				[
+					[
+						"Set Cam Zoom",
+						"default",
+						""
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				75272.7272727273,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"2"
+					],
+					[
+						"Cam Bop Pattern",
+						"beat,8,2,276",
+						"3,6"
+					],
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				80181.8181818181,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.54, quadIn"
+					]
+				]
+			],
+			[
+				80727.2727272726,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				81272.7272727272,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.54, quadIn"
+					]
+				]
+			],
+			[
+				81818.1818181817,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				82090.909090909,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.27, quadIn"
+					]
+				]
+			],
+			[
+				82363.6363636363,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				82636.3636363635,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.27, quadIn"
+					]
+				]
+			],
+			[
+				82909.0909090908,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				83181.8181818181,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				83454.5454545454,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.57, quadIn"
+					]
+				]
+			],
+			[
+				83999.9999999999,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				84545.4545454545,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.54, quadIn"
+					]
+				]
+			],
+			[
+				85090.909090909,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.57, quadOut"
+					]
+				]
+			],
+			[
+				96409.0909090908,
+				[
+					[
+						"Cam Bop Pattern",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96545.4545454545,
+				[
+					[
+						"Toggle BF Alts",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				96954.5454545455,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				97090.9090909091,
+				[
+					[
+						"Set Cam Zoom",
+						"default",
+						""
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				97636.3636363635,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.54, quadIn"
+					]
+				]
+			],
+			[
+				98181.8181818181,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				98727.2727272726,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.54, quadIn"
+					]
+				]
+			],
+			[
+				99272.7272727272,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				99545.4545454545,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.27, quadIn"
+					]
+				]
+			],
+			[
+				99818.1818181817,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				100090.909090909,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.27, quadIn"
+					]
+				]
+			],
+			[
+				100363.636363636,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				100636.363636364,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.8",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				100909.090909091,
+				[
+					[
+						"Tween Camera Zoom",
+						"1.2",
+						"0.57, quadIn"
+					]
+				]
+			],
+			[
+				101454.545454545,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.3, expoOut"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Tween Camera Zoom",
+						"1",
+						"0.54, quadIn"
+					]
+				]
+			],
+			[
+				102545.454545454,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"0.57, quadOut"
+					]
+				]
+			],
+			[
+				131863.636363636,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				132545.454545454,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					],
+					[
+						"Toggle BF Alts",
+						"",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}
