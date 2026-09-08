@@ -340,19 +340,21 @@ function doTweenShaderValue(tag, shader, name, value, duration, ease)
 	ease = ease or ""
 	cancelTween(tag)
 	runHaxeCode([[
-		var shader = getVar('modchartShaders').get("]]..shader..[[");
-		if (shader.data.]]..name..[[ == null) return;
-		if (shader.data.]]..name..[[.value == null) shader.data.]]..name..[[.value = [0];
-		game.modchartTweens.set("]]..tag..[[", FlxTween.num(shader.data.]]..name..[[.value[0], ]]..value..[[, ]]..duration..[[ / game.playbackRate, {
-			ease: getEase("]]..ease..[["),
-			onComplete: twn -> {
-				game.modchartTweens.remove("]]..tag..[[");
-				game.callOnLuas("onTweenCompleted", ["]]..tag..[[", "]]..name..[["]);
-			}
-		},
-		num -> {
-			shader.data.]]..name..[[.value = [num];
-		}));
+		function() {
+			var shader = getVar('modchartShaders').get("]]..shader..[[");
+			if (shader.data.]]..name..[[ == null) return;
+			if (shader.data.]]..name..[[.value == null) shader.data.]]..name..[[.value = [0];
+			game.modchartTweens.set("]]..tag..[[", FlxTween.num(shader.data.]]..name..[[.value[0], ]]..value..[[, ]]..duration..[[ / game.playbackRate, {
+				ease: getEase("]]..ease..[["),
+				onComplete: twn -> {
+					game.modchartTweens.remove("]]..tag..[[");
+					game.callOnLuas("onTweenCompleted", ["]]..tag..[[", "]]..name..[["]);
+				}
+			},
+			num -> {
+				shader.data.]]..name..[[.value = [num];
+			}));
+		}();
 	]])
 end
 
