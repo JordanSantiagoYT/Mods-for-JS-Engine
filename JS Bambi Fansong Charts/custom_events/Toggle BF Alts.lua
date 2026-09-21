@@ -1,3 +1,7 @@
+function onCreatePost()
+    addCharacterToList('bf-altAnim', 'boyfriend')
+end
+
 bfAlting = false
 function onEvent(name,value1,value2)
     if name == "Toggle BF Alts" then

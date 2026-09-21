@@ -1,0 +1,641 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Hud Fade",
+						"0.01",
+						"0.001"
+					]
+				]
+			],
+			[
+				96.1538461538462,
+				[
+					[
+						"Enable Camera Bop",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				11538.4615384615,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.55",
+						"2, expoInOut"
+					],
+					[
+						"Hud Fade",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				29807.6923076923,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.61",
+						"0.96, expoIn"
+					],
+					[
+						"HUD Zoom Tween",
+						"0.03",
+						"0.96, expoIn"
+					]
+				]
+			],
+			[
+				30769.2307692308,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					],
+					[
+						"Set Cam Zoom",
+						"default",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"-0.015",
+						"-0.03"
+					]
+				]
+			],
+			[
+				33750,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					],
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"2"
+					]
+				]
+			],
+			[
+				35288.4615384615,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				35384.6153846154,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.65",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				36153.8461538462,
+				[
+					[
+						"Tween Camera Zoom",
+						"4",
+						"0.78, expoIn"
+					]
+				]
+			],
+			[
+				36826.9230769231,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				36923.0769230769,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"2, expoOut"
+					],
+					[
+						"Set Player Zoom",
+						"0.8",
+						"0.65"
+					],
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				47692.3076923077,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				47980.7692307692,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				48269.2307692308,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				48653.8461538462,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				48942.3076923077,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				49230.7692307692,
+				[
+					[
+						"Flash Camera",
+						"0.6",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				60384.6153846154,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				60769.2307692308,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				61057.6923076923,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				61346.1538461539,
+				[
+					[
+						"Flash Camera",
+						"0.15",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				61442.3076923077,
+				[
+					[
+						"Camera Bopping",
+						"8",
+						"2"
+					],
+					[
+						"Cam Bop Pattern",
+						"step,64,2",
+						"6,12,14,22,28,38,44,46,52,62"
+					],
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61538.4615384616,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						"FFFFFF, camGame"
+					],
+					[
+						"Toggle Trail",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				74423.0769230769,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.5",
+						"0.09, quadOut"
+					]
+				]
+			],
+			[
+				74519.2307692308,
+				[
+					[
+						"Tween Camera Zoom",
+						"2",
+						"0.09, expoIn"
+					]
+				]
+			],
+			[
+				74615.3846153846,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.65",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				85384.6153846154,
+				[
+					[
+						"Tween Camera Zoom",
+						"4",
+						"0.78, expoIn"
+					]
+				]
+			],
+			[
+				86057.6923076923,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Cam Bop Pattern",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86153.8461538461,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"2, expoOut"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				98461.5384615383,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				104615.384615385,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				107596.153846154,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					],
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"2"
+					]
+				]
+			],
+			[
+				109134.615384615,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				109230.769230769,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.65",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"Tween Camera Zoom",
+						"4",
+						"0.78, expoIn"
+					]
+				]
+			],
+			[
+				110673.076923077,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				110769.230769231,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"2, expoOut"
+					],
+					[
+						"Toggle Trail",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2,0.01"
+					]
+				]
+			],
+			[
+				121538.461538462,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				121826.923076923,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				122115.384615385,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				122500,
+				[
+					[
+						"Flash Camera",
+						"0.25",
+						"FFFFFF, camGame"
+					]
+				]
+			],
+			[
+				123076.923076923,
+				[
+					[
+						"Flash Camera",
+						"0.6",
+						"FFFFFF, camGame"
+					],
+					[
+						"Custom Cam Twist",
+						"1",
+						"8, quartOut"
+					]
+				]
+			],
+			[
+				134615.384615385,
+				[
+					[
+						"Tween Camera Zoom",
+						"4",
+						"0.78, expoIn"
+					]
+				]
+			],
+			[
+				135288.461538461,
+				[
+					[
+						"Custom Cam Twist",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135384.615384615,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"1"
+					],
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					],
+					[
+						"Set Player Zoom",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				137692.307692308,
+				[
+					[
+						"Tween Camera Zoom",
+						"4",
+						"0.78, expoIn"
+					]
+				]
+			],
+			[
+				138269.23076923,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"999"
+					]
+				]
+			],
+			[
+				138365.384615385,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				138461.538461538,
+				[
+					[
+						"Tween Camera Zoom",
+						"0.6",
+						"2, expoOut"
+					],
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138557.692307692,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"1"
+					]
+				]
+			],
+			[
+				150769.23076923,
+				[
+					[
+						"Hud Fade",
+						"1.52",
+						"0.001"
+					],
+					[
+						"Tween Camera Zoom",
+						"6",
+						"14, expoIn"
+					],
+					[
+						"Disable Camera Bop",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

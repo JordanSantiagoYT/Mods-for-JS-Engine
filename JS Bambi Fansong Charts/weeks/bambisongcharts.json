@@ -2008,7 +2008,7 @@
 			]
 		],
 		[
-			"Peakve and Peakbi 3",
+			"Peakve and Peakbi III",
 			"peakve-and-peakbi",
 			[
 				12,
@@ -2746,7 +2746,7 @@
 			]
 		],
 		[
-			"Screwed Akira",
+			"Screwed Flareix",
 			"screwed",
 			[
 				12,
@@ -3346,6 +3346,78 @@
 				200,
 				200,
 				200
+			]
+		],
+		[
+			"Cyan 2",
+			"nothing",
+			[
+				0,
+				215,
+				255
+			]
+		],
+		[
+			"Decidit",
+			"rodrigo-pixel",
+			[
+				150,
+				0,
+				0
+			]
+		],
+		[
+			"Rewind Dave",
+			"dave",
+			[
+				12,
+				11,
+				240
+			]
+		],
+		[
+			"Peakve and Peakbi IV",
+			"peakve-and-peakbi",
+			[
+				12,
+				11,
+				240
+			]
+		],
+		[
+			"Jitterbug",
+			"nothing",
+			[
+				186,
+				125,
+				130
+			]
+		],
+		[
+			"Heavenland Remake",
+			"nothing",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Compunction",
+			"bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"Barning",
+			"bambi",
+			[
+				12,
+				181,
+				0
 			]
 		]
 	],

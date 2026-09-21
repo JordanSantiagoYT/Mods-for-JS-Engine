@@ -1,7 +1,15 @@
-twistSpeed = 0 --Amount of steps to wait before doing a twist.
+-- The amount of time it takes in steps for 1 twist to complete.
+twistSpeed = 0
+
+-- The strength of the twists.
 twistIntensity = 0
+
+-- Whether or not a twist has happened.
 twisted = false
+
+-- The easing function used for the twist.
 ease = 'circOut'
+
 function onEvent(n,v1,v2)
 	if n == "Custom Cam Twist" then
 		twistSpeed = math.floor((tonumber(v1) or 0) * 4)

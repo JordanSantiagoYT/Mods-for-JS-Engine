@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Bopping",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi"
+					],
+					[
+						"Change Character",
+						"gf",
+						"daveNew-stage"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"peakbi"
+					],
+					[
+						"Change Character",
+						"gf",
+						"peakve"
+					],
+					[
+						"Change Character",
+						"bf",
+						"peakfriend"
+					]
+				]
+			],
+			[
+				114693.73676692,
+				[
+					[
+						"Camera Bopping",
+						"4",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

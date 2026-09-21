@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Mambo.png" width="3637" height="1305">
+  <SubTexture name="down1" x="0" y="0"  width="392" height="628" frameX="-122" frameY="-52" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="down2" x="392" y="0"  width="390" height="628" frameX="-124" frameY="-52" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="down3" x="782" y="0"  width="387" height="628" frameX="-127" frameY="-52" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="idle2" x="1169" y="0"  width="332" height="639" frameX="-141" frameY="-41" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="idle1" x="1501" y="0"  width="338" height="641" frameX="-140" frameY="-39" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="idle3" x="1839" y="0"  width="334" height="641" frameX="-141" frameY="-39" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="idle4" x="2173" y="0"  width="336" height="641" frameX="-141" frameY="-39" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="idle5" x="2509" y="0"  width="338" height="641" frameX="-140" frameY="-39" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="right1" x="2847" y="0"  width="394" height="650" frameX="-160" frameY="-40" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="right2" x="3241" y="0"  width="396" height="651" frameX="-158" frameY="-39" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="right3" x="0" y="628"  width="400" height="651" frameX="-155" frameY="-39" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="left1" x="400" y="628"  width="448" height="652" frameX="-96" frameY="-32" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="left2" x="848" y="639"  width="445" height="652" frameX="-97" frameY="-32" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="left3" x="1293" y="641"  width="440" height="652" frameX="-100" frameY="-32" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="up1" x="1733" y="641"  width="425" height="652" frameX="-151" frameY="-25" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="up2" x="2158" y="641"  width="426" height="653" frameX="-148" frameY="-24" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="up3" x="2584" y="650"  width="426" height="655" frameX="-145" frameY="-22" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>

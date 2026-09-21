@@ -1,0 +1,32 @@
+{"animations": [
+{"anim": "idle","name": "idle","loop": false,"fps": 10,"offsets": [0,0]},
+{"anim": "idle-loop","name": "loop-idle","loop": true,"fps": 8,"offsets": [0,0]},
+{"anim": "singLEFT","name": "left","loop": false,"fps": 16,"offsets": [0,0]},
+{"anim": "singDOWN","name": "down","loop": false,"fps": 16,"offsets": [0,0]},
+{"anim": "singUP","name": "up","loop": false,"fps": 16,"offsets": [0,0]},
+{"anim": "singRIGHT","name": "right","loop": false,"fps": 16,"offsets": [0,0]},
+{"anim": "singLEFT-alt","name": "alt-left","loop": false,"fps": 16,"offsets": [0,0]},
+{"anim": "singDOWN-alt","name": "alt-down","loop": false,"fps": 16,"offsets": [0,0]},
+{"anim": "singUP-alt","name": "alt-up","loop": false,"fps": 16,"offsets": [0,0]},
+{"anim": "singRIGHT-alt","name": "alt-right","loop": false,"fps": 16,"offsets": [0,0]}],
+
+"image": "characters/rodrigo",
+"healthicon": "rodrigo-pixel",
+"isPlayer": false,
+"flip_x": false,
+"no_antialiasing": true,
+
+"scale": 1.4,
+"sing_duration": 8,
+
+"position": [-400,-300],
+"camera_position": [-250,-100],
+"healthbar_colors": [150,0,0],
+
+"shake_screen": false,
+"shake_duration": 0.05,
+"shake_intensity": 0.01,
+
+"health_drain": false,
+"drain_amount": 0.01,
+"drain_floor": 0.1}
