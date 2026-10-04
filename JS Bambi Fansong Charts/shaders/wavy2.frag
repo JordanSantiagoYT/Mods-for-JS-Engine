@@ -15,7 +15,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
     float x = fragCoord.x, y = fragCoord.y;
     uv.y += sin(t * 2.0 + x / 100.0) * 0.02;
     vec4 p = texture(iChannel0, uv);
-    fragColor = p;
+    fragColor = vec4(p.rgb, 1.0);
 }
 
 void main() {

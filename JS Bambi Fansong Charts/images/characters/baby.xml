@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baby.png">
+<SubTexture name="baby idle0000" x="0" y="1270" width="341" height="348" frameX="-146" frameY="-292" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby idle0001" x="0" y="1270" width="341" height="348" frameX="-146" frameY="-292" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby idle0002" x="1392" y="0" width="340" height="355" frameX="-149" frameY="-285" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby idle0003" x="1392" y="0" width="340" height="355" frameX="-149" frameY="-285" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby idle0004" x="0" y="892" width="326" height="378" frameX="-153" frameY="-262" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby idle0005" x="0" y="892" width="326" height="378" frameX="-153" frameY="-262" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby idle0006" x="983" y="384" width="327" height="381" frameX="-154" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby idle0007" x="983" y="384" width="327" height="381" frameX="-154" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby right0000" x="309" y="471" width="416" height="387" frameX="-183" frameY="-253" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby right0001" x="309" y="471" width="416" height="387" frameX="-183" frameY="-253" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby right0002" x="983" y="0" width="409" height="384" frameX="-183" frameY="-256" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby right0003" x="983" y="0" width="409" height="384" frameX="-183" frameY="-256" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby up0000" x="0" y="0" width="335" height="471" frameX="-186" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby up0001" x="0" y="0" width="335" height="471" frameX="-186" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby up0002" x="335" y="0" width="338" height="465" frameX="-183" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby up0003" x="335" y="0" width="338" height="465" frameX="-183" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby left0000" x="673" y="0" width="310" height="421" frameX="-80" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby left0001" x="673" y="0" width="310" height="421" frameX="-80" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby left0002" x="0" y="471" width="309" height="421" frameX="-90" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby left0003" x="0" y="471" width="309" height="421" frameX="-90" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby down0000" x="326" y="892" width="388" height="364" frameX="-138" frameY="-292" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby down0001" x="326" y="892" width="388" height="364" frameX="-138" frameY="-292" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby down0002" x="714" y="892" width="375" height="358" frameX="-144" frameY="-282" frameWidth="1280" frameHeight="720" />
+<SubTexture name="baby down0003" x="714" y="892" width="375" height="358" frameX="-144" frameY="-282" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

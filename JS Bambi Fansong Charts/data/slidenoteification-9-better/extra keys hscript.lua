@@ -153,6 +153,8 @@ local ARROW_COLOR = 5
 local CONTROLS = 6
 
 function generateStaticArrows(player)
+    addHaxeLibrary('Note')
+    addHaxeLibrary('StrumNote')
     runHaxeCode('Note.swagWidth = '..(maniaData[keyCount][ARROW_WIDTH])..';')
     
     for i = 0,keyCount-1 do 
@@ -175,7 +177,7 @@ function generateStaticArrows(player)
             if (ClientPrefs.middleScroll)
                 xPos = PlayState.STRUM_X_MIDDLESCROLL;
 
-			var babyArrow = new StrumNote(xPos, (ClientPrefs.downScroll) ? FlxG.height - 150 : 50, ]]..i..[[, player);
+			var babyArrow:StrumNote = new StrumNote(xPos, (ClientPrefs.downScroll) ? FlxG.height - 150 : 50, ]]..i..[[, player);
 			babyArrow.downScroll = ClientPrefs.downScroll;
 			if (!PlayState.isStoryMode && !game.skipArrowStartTween)
 			{
@@ -269,20 +271,18 @@ function turnArrayIntoString(arr)
     str = str..']'
     return str
 end
-
 function onCreatePost()
 	if difficultyName ~= 'Normal' then close() end
     luaDebugMode = true
-    --import the shit
+
     addHaxeLibrary('FlxKey', 'flixel.input.keyboard')
-    addHaxeLibrary('Note')
     addHaxeLibrary('SwagSong', 'Song')
     addHaxeLibrary('SwagSection', 'Section')
     addHaxeLibrary('Math')
     addHaxeLibrary('NoteSplash')
-    addHaxeLibrary('StrumNote')
     addHaxeLibrary('Std')
     addHaxeLibrary('FlxMath', 'flixel.math')
+    addHaxeLibrary('PreloadedChartNote', 'Note')
 
     reparseChart()
     updateNotes()
@@ -371,7 +371,7 @@ function reparseChart()
                     swagNote.noteData = daNoteData;
                     swagNote.mustPress = game.bothSides || gottaHitNote;
                     swagNote.oppNote = (game.opponentChart ? gottaHitNote : !gottaHitNote);
-                    swagNote.noteType = songNotes[3];
+                    swagNote.noteType = songNotes.length > 3 ? songNotes[3] : "";
                     swagNote.animSuffix = (songNotes[3] == 'Alt Animation' || section.altAnim ? '-alt' : '');
                     swagNote.noteskin = (gottaHitNote ? game.bfNoteskin : game.dadNoteskin);
                     swagNote.gfNote = songNotes[3] == 'GF Sing' || (section.gfSection && songNotes[1] < 4);
@@ -402,8 +402,8 @@ function reparseChart()
 					stepCrochet = 15000 / currentBPMLol;
 		
 					var roundSus:Int = Math.round(swagNote.sustainLength / stepCrochet);
-					var susNote = 0;
-					while (susNote <= roundSus) {
+					if (roundSus > 0) {
+						for (susNote in 0...roundSus + 1) {
                             //also didnt want to do all of this but hscript doesnt support casting :sob: also had to use a while loop because for loops fucking die here
 							var sustainNote:PreloadedChartNote = new PreloadedChartNote();
                             sustainNote.strumTime = daStrumTime + (stepCrochet * susNote);
@@ -426,8 +426,8 @@ function reparseChart()
                             sustainNote.noteDensity = currentMultiplier;
                             sustainNote.hitCausesMiss = songNotes[3] == 'Hurt Note';
                             sustainNote.ignoreNote = songNotes[3] == 'Hurt Note' && swagNote.mustPress;
-					game.unspawnNotes.push(sustainNote);
-					susNote++;
+                            game.unspawnNotes.push(sustainNote);
+                        }
 					}
 				}
 			}
@@ -640,7 +640,7 @@ function onCountdownStarted()
             game.setOnLuas('defaultOpponentStrumY' + i, game.opponentStrums.members[i].y);
         }
     ]])
-	debugPrint(getPropertyFromGroup('strumLineNotes', 'length'))
+	--debugPrint(runHaxeCode('return game.strumLineNotes.length;'))
 end
 
 function generateBinds()
