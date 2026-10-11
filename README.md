@@ -1,7 +1,7 @@
 # Mods-for-JS-Engine
 
 <p align="center">
-  <a href="https://github.com/JordanSantiagoYT/FNF-JS-Engine"><img src="/include/iconOG.png" alt="JSengine" width="150"></a>
+  <a href="https://github.com/JordanSantiagoYT/FNF-JS-Engine"><img src="https://raw.githubusercontent.com/JordanSantiagoYT/FNF-JS-Engine/refs/heads/main/include/iconOG.png" alt="JSengine" width="150"></a>
 </p>
 
 <p align="center">
