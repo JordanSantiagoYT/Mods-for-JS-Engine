@@ -32,6 +32,8 @@ Just Drag and drop them into your JS Engine's mods folder and you should be good
 
 WARNING: Because some songs have massive chart files, they are not included in the GitHub download by default. To get them working, you have to download them from the link I put in the `data` folder for each song's README, extract the zip file you download, and then put the JSON back into the chart's folder.
 
+Additionally, funnysongs and JS Bambi Fansong Charts are quite large (5GB and 4GB each, not including the large chart files). While I plan on putting each mod in its own branch soon, a temporary way you can get around having to download the entire directory every time it updates is by using either [this website.](https://download-directory.github.io/) or [this extension.](https://gitzip.org/)
+
 If you want to use any of these charts, you have permission to HOWEVER you MUST give me credit.
 
 **If you have an issue with JS Engine, please report it at [the JS Engine issue page](https://github.com/JordanSantiagoYT/FNF-JS-Engine/issues) and not here!!**
